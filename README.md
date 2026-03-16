@@ -2,7 +2,7 @@
 
 Open-source index of **14,660+ verified GIS endpoints** for US property parcel data, plus tools to pull, normalize, and use the data.
 
-Covers all 50 states — property lines, owner names, acreage, zoning, land use, assessed values, and more. All from public county/state/federal sources.
+**500,116 parcel features** pulled from **5,936 sources** across all 50 states + DC. Property lines, owner names, acreage, zoning, land use, assessed values, and more. All from public county/state/federal sources.
 
 ## What's in this repo
 
@@ -10,11 +10,15 @@ Covers all 50 states — property lines, owner names, acreage, zoning, land use,
 ├── README.md                          # This file
 ├── SCHEMA.md                          # Normalized data schema
 ├── parcel_sources.json                # Master index (14,660 GIS endpoints)
+├── full_pull_report.json              # Pull stats (per-state breakdown)
 ├── datasets/                          # Per-state compressed parcel data
-│   ├── alabama_parcels.tar.gz
+│   ├── alabama_parcels.part_aa/ab/ac  # Split files (reassemble, see below)
 │   ├── alaska_parcels.tar.gz
 │   ├── ...
 │   └── wyoming_parcels.tar.gz
+├── manifests/                         # Per-state metadata
+│   ├── Alabama_manifest.json          # Lists all sources, fields, quality
+│   └── ...
 ├── discover_county_gis.py             # Discovery script (finds new GIS endpoints)
 ├── scrape_gis_portals.py              # Deep scraper (Scrapling + ArcGIS search)
 └── pull_all_states.py                 # Data puller (queries all endpoints)
@@ -56,6 +60,15 @@ for k, v in sources.items():
 ### 2. Use the datasets
 
 Each state archive contains GeoJSON files — one per data source (typically one per county or city).
+
+**Some large states are split into parts** (GitHub 100MB limit). Reassemble first:
+```bash
+# Reassemble split archives (Alabama, Colorado, Indiana, Unknown)
+cat datasets/alabama_parcels.part_* > alabama_parcels.tar.gz
+cat datasets/colorado_parcels.part_* > colorado_parcels.tar.gz
+cat datasets/indiana_parcels.part_* > indiana_parcels.tar.gz
+cat datasets/unknown_parcels.part_* > unknown_parcels.tar.gz
+```
 
 ```bash
 # Extract a state
