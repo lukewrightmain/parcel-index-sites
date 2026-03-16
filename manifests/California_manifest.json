@@ -1,0 +1,1377 @@
+{
+  "state": "California",
+  "sources_attempted": 167,
+  "sources_successful": 152,
+  "total_features": 12875,
+  "pulled_at": "2026-03-16T01:17:58.227599",
+  "datasets": [
+    {
+      "title": "CA Statewide Parcels Public",
+      "url": "https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/CA_Statewide_Parcels_Public_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ca_statewide_parcels_public.geojson"
+    },
+    {
+      "title": "Public Land Survey System, California (All Areas Filled, Includes Protracted Data) (100K Source)",
+      "url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/pls_full_poly_wm/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_land_survey_system__california__all_areas_filled__inc.geojson"
+    },
+    {
+      "title": "CA State Parcels",
+      "url": "https://services2.arcgis.com/zr3KAIbsRSUyARHG/arcgis/rest/services/CA_State_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ca_state_parcels.geojson"
+    },
+    {
+      "title": "SEKI_ParkAtlas4_4_NaturalResources_MASTER",
+      "url": "https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/SEKI_ParkAtlas4_4_NaturalResources_MASTER/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "seki_parkatlas4_4_naturalresources_master.geojson"
+    },
+    {
+      "title": "WFIGS - Wildland Fire Locations 2023",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/ArcGIS/rest/services/WFIGS_Incident_Locations/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wfigs_-_wildland_fire_locations_2023.geojson"
+    },
+    {
+      "title": "CDFW Owned and Operated Lands and Conservation Easements [ds3092]",
+      "url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/biosds3092_fpu/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cdfw_owned_and_operated_lands_and_conservation_easements__ds.geojson"
+    },
+    {
+      "title": "Parcels_CarrollCounty",
+      "url": "https://services.arcgis.com/Uf0DiYpD9NOFO5YH/arcgis/rest/services/Parcels_CarrollCounty/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_carrollcounty.geojson"
+    },
+    {
+      "title": "California Protected Areas Database (CPAD) Holdings",
+      "url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/CPAD_Holdings_wm/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "california_protected_areas_database__cpad__holdings.geojson"
+    },
+    {
+      "title": "berncoparcels_forIDO",
+      "url": "https://services.arcgis.com/CWv1abTnC3urn4bV/arcgis/rest/services/berncoparcels_forIDO/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "berncoparcels_forido.geojson"
+    },
+    {
+      "title": "California Conservation Easement Database (CCED)",
+      "url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/CCED_wm/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "california_conservation_easement_database__cced_.geojson"
+    },
+    {
+      "title": "California Land Ownership",
+      "url": "https://egis.fire.ca.gov/arcgis/rest/services/FRAP/ownership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_land_ownership.geojson"
+    },
+    {
+      "title": "CDFW Public Access Lands [ds3077]",
+      "url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/biosds3077_fpu/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cdfw_public_access_lands__ds3077_.geojson"
+    },
+    {
+      "title": "County_Cadastral_Data",
+      "url": "https://services3.arcgis.com/07uNquE7aw4u0I7Q/arcgis/rest/services/Cadastral_Data/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_cadastral_data.geojson"
+    },
+    {
+      "title": "CGS Landslide Zones",
+      "url": "https://services2.arcgis.com/zr3KAIbsRSUyARHG/arcgis/rest/services/CGS_Landslide_Zones/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cgs_landslide_zones.geojson"
+    },
+    {
+      "title": "NeighAssocCommunityResources",
+      "url": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/NeighAssocCommunityResources/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "neighassoccommunityresources.geojson"
+    },
+    {
+      "title": "IDO_Development_Standards_Sensitive_Lands_revised_post_adoption",
+      "url": "https://services.arcgis.com/CWv1abTnC3urn4bV/arcgis/rest/services/IDO_Development_Standards_Sensitive_Lands_revised_post_adoption/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ido_development_standards_sensitive_lands_revised_post_adopt.geojson"
+    },
+    {
+      "title": "CAFRA and Coastal Centers of New Jersey",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/CAFRA_and_Coastal_Centers_2023_of_New_Jersey/FeatureServer",
+      "features": 90,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cafra_and_coastal_centers_of_new_jersey.geojson"
+    },
+    {
+      "title": "Park Pass Park Entry Points",
+      "url": "https://services2.arcgis.com/AhxrK3F6WM8ECvDi/arcgis/rest/services/Park_Pass_Park_Entry_Points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "park_pass_park_entry_points.geojson"
+    },
+    {
+      "title": "Zone Map Index Layers",
+      "url": "https://services3.arcgis.com/AbUjpCl3KckkXVBh/arcgis/rest/services/Zone_Map_Index_Layers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_map_index_layers.geojson"
+    },
+    {
+      "title": "Special Interest",
+      "url": "https://services.arcgis.com/36I6IHIdr660pAyH/arcgis/rest/services/Special_Interest/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "special_interest.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services2.arcgis.com/zNjnZafDYCAJAbN0/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "Sussex County Zoning",
+      "url": "https://services.arcgis.com/opPd2BqYeMe7vELn/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sussex_county_zoning.geojson"
+    },
+    {
+      "title": "PLANNINGCADASTRE_subdivision_case",
+      "url": "https://services.arcgis.com/0L95CJ0VTaxqcmED/arcgis/rest/services/PLANNINGCADASTRE_subdivision_case/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "planningcadastre_subdivision_case.geojson"
+    },
+    {
+      "title": "Assessor Parcels",
+      "url": "https://services8.arcgis.com/OPmRdssd8jj0bT5H/arcgis/rest/services/Assessor Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "assessor_parcels.geojson"
+    },
+    {
+      "title": "Caldwell_CAD_Parcel_Map_Public",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/4911dd4ad22e4aae98ed02dab1c9e987/rest/services/Caldwell_CAD_Parcel_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "caldwell_cad_parcel_map_public.geojson"
+    },
+    {
+      "title": "i15_crop_mapping_2020_featurelayer",
+      "url": "https://services2.arcgis.com/iq8zYa0SRsvIFFKz/arcgis/rest/services/i15_crop_mapping_2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "i15_crop_mapping_2020_featurelayer.geojson"
+    },
+    {
+      "title": "DevelopmentsInProcess_CarrollCounty",
+      "url": "https://services.arcgis.com/Uf0DiYpD9NOFO5YH/arcgis/rest/services/DevelopmentsInProcess_CarrollCounty/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "developmentsinprocess_carrollcounty.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES SAN BERNARDINO COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_SAN_BERNARDINO_COUNTY_CA/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bam_properties_san_bernardino_county.geojson"
+    },
+    {
+      "title": "Parcel Service",
+      "url": "https://services2.arcgis.com/32siQkg0O6da8zFF/arcgis/rest/services/Parcel_Service/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_service.geojson"
+    },
+    {
+      "title": "WFIGS - Wildland Fire Perimeters 2023",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/ArcGIS/rest/services/WFIGS_Interagency_Perimeters/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wfigs_-_wildland_fire_perimeters_2023.geojson"
+    },
+    {
+      "title": "ReCode Portland Zoning Map Update_WFL1",
+      "url": "https://services.arcgis.com/AfWE2HItKofI2Rok/arcgis/rest/services/ReCode_Portland_Zoning_Map_Update_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "recode_portland_zoning_map_update_wfl1.geojson"
+    },
+    {
+      "title": "The California Protected Areas Database (\u201cCPAD\u201d)",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/CPAD/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "the_california_protected_areas_database___cpad__.geojson"
+    },
+    {
+      "title": "Ontario Lot Concession Parcels",
+      "url": "https://services7.arcgis.com/hFo7GO2CrHDM1QVm/arcgis/rest/services/Ontario_Update/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ontario_lot_concession_parcels.geojson"
+    },
+    {
+      "title": "Canada Lands Supplementary Parcel Mapping Data",
+      "url": "https://services7.arcgis.com/hFo7GO2CrHDM1QVm/arcgis/rest/services/Canada_Lands_Supplementary/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "canada_lands_supplementary_parcel_mapping_data.geojson"
+    },
+    {
+      "title": "Zoning By Parcel",
+      "url": "https://services8.arcgis.com/OPmRdssd8jj0bT5H/arcgis/rest/services/Zoning By Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_by_parcel.geojson"
+    },
+    {
+      "title": "Address Label",
+      "url": "https://services8.arcgis.com/OPmRdssd8jj0bT5H/arcgis/rest/services/Address Label/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "address_label.geojson"
+    },
+    {
+      "title": "SBCO County Boundary wOcean wIslands",
+      "url": "https://services.arcgis.com/KkJhFbLnXVqahKz2/arcgis/rest/services/SBCO_County_Boundary_wOcean_wIslands/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sbco_county_boundary_wocean_wislands.geojson"
+    },
+    {
+      "title": "LagunaCoast_Wilderness_Park",
+      "url": "https://services9.arcgis.com/DPQ7yLDIWIyMUXzD/arcgis/rest/services/LagunaCoast_Wilderness_Park/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lagunacoast_wilderness_park.geojson"
+    },
+    {
+      "title": "CrystalCove_StatePark_CPAD",
+      "url": "https://services9.arcgis.com/DPQ7yLDIWIyMUXzD/arcgis/rest/services/CrystalCove_StatePark_CPAD/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "crystalcove_statepark_cpad.geojson"
+    },
+    {
+      "title": "California Record of Survey",
+      "url": "https://services.arcgis.com/EeYBJFxLdUojipYa/arcgis/rest/services/Record_of_Survey_AGOL/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_record_of_survey.geojson"
+    },
+    {
+      "title": "California School Campus Database 2021",
+      "url": "https://services1.arcgis.com/4ZKi1B1zTblbwgWB/arcgis/rest/services/California_School_Campus_Database_2021/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_school_campus_database_2021.geojson"
+    },
+    {
+      "title": "Tax_Parcel_CAMA_Joined_View",
+      "url": "https://services3.arcgis.com/cWVjJ3EL88oVeYPk/arcgis/rest/services/Tax_Parcel_CAMA_Joined_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tax_parcel_cama_joined_view.geojson"
+    },
+    {
+      "title": "Zoning Overlay Exception",
+      "url": "https://services8.arcgis.com/OPmRdssd8jj0bT5H/arcgis/rest/services/Zoning Overlay Exception/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_overlay_exception.geojson"
+    },
+    {
+      "title": "PLSS_Cadastral_Reference_Data_STATEWIDE",
+      "url": "https://services.arcgis.com/jWPBXspaQsJStWX8/arcgis/rest/services/PLSS_Cadastral_Reference_Data_STATEWIDE/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_cadastral_reference_data_statewide.geojson"
+    },
+    {
+      "title": "Tribal_Lands",
+      "url": "https://services1.arcgis.com/8CpMUd3fdw6aXef7/arcgis/rest/services/Tribal_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tribal_lands.geojson"
+    },
+    {
+      "title": "Gloucester County Parcels",
+      "url": "https://services5.arcgis.com/ALQeR5k3182nooX1/arcgis/rest/services/Gloucester_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gloucester_county_parcels.geojson"
+    },
+    {
+      "title": "School_Property_Inventory_Layers",
+      "url": "https://services2.arcgis.com/iq8zYa0SRsvIFFKz/arcgis/rest/services/School_Property_Inventory_Layers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "school_property_inventory_layers.geojson"
+    },
+    {
+      "title": "Parcels of Trinity County ",
+      "url": "https://services2.arcgis.com/32siQkg0O6da8zFF/arcgis/rest/services/Parcel_Service_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_of_trinity_county_.geojson"
+    },
+    {
+      "title": "Supplemental Use Districts (SUD)",
+      "url": "https://services5.arcgis.com/7nsPwEMP38bSkCjy/arcgis/rest/services/Zoning_Supplemental_Use_Districts/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "supplemental_use_districts__sud_.geojson"
+    },
+    {
+      "title": "Offshore Oil Leases",
+      "url": "https://services3.arcgis.com/5aaQCuq3e4GRvkFG/arcgis/rest/services/Offshore_Lease_Polygons/FeatureServer",
+      "features": 34,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "offshore_oil_leases.geojson"
+    },
+    {
+      "title": "Phase_I_Parcels",
+      "url": "https://services1.arcgis.com/jJfZghspGKh8J9Jm/arcgis/rest/services/Phase_I_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "phase_i_parcels.geojson"
+    },
+    {
+      "title": "CA Farmland Mapping and Monitoring Program",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/CAFarmlandMappingandMonitoringProgram/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ca_farmland_mapping_and_monitoring_program.geojson"
+    },
+    {
+      "title": "Resilient_City_Fire_Recovery_Progress__Summary_Residential_Progress_by_Parcel",
+      "url": "https://services2.arcgis.com/BhTdzxiJkq4oXsPh/arcgis/rest/services/Resilient_City_Fire_Recovery_Progress__Summary_Residential_Progress_by_Parcel/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "resilient_city_fire_recovery_progress__summary_residential_p.geojson"
+    },
+    {
+      "title": "Assessor Parcels Land 2025",
+      "url": "https://services5.arcgis.com/Y8jwjGUWbRjuqpG5/arcgis/rest/services/Assessor_Parcels_Land_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "assessor_parcels_land_2025.geojson"
+    },
+    {
+      "title": "CA BOEM Leased Parcels",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/BOEM_Leases_10_8_13/FeatureServer",
+      "features": 49,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ca_boem_leased_parcels.geojson"
+    },
+    {
+      "title": "Mendocino County Parcels",
+      "url": "https://services2.arcgis.com/iq8zYa0SRsvIFFKz/arcgis/rest/services/Mendocino_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "mendocino_county_parcels.geojson"
+    },
+    {
+      "title": "California School Campus Database (CSCD)",
+      "url": "https://services1.arcgis.com/4ZKi1B1zTblbwgWB/arcgis/rest/services/California_School_Campus_Database_(CSCD)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_school_campus_database__cscd_.geojson"
+    },
+    {
+      "title": "Granted Lands",
+      "url": "https://services3.arcgis.com/5aaQCuq3e4GRvkFG/arcgis/rest/services/Granted_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "granted_lands.geojson"
+    },
+    {
+      "title": "California Statewide Zoning South",
+      "url": "https://services8.arcgis.com/Xr1lDrwMv89PhjD9/arcgis/rest/services/California_Statewide_Zoning_South/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_statewide_zoning_south.geojson"
+    },
+    {
+      "title": "Parcel_CAMA2022",
+      "url": "https://services2.arcgis.com/zPFLSOZ5HzUzzTQb/arcgis/rest/services/Parcel_CAMA2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_cama2022.geojson"
+    },
+    {
+      "title": "San Benito County General Plan Zones",
+      "url": "https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/County_of_San_Benito_General_Plan_2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "san_benito_county_general_plan_zones.geojson"
+    },
+    {
+      "title": "Resilient_City_Fire_Recovery_Progress__Summary_Residential_Progress_by_Parcels_Simple",
+      "url": "https://services2.arcgis.com/BhTdzxiJkq4oXsPh/arcgis/rest/services/Resilient_City_Fire_Recovery_Progress__Summary_Residential_Progress_by_Parcels_Simple/FeatureServer",
+      "features": 9,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "resilient_city_fire_recovery_progress__summary_residential_p.geojson"
+    },
+    {
+      "title": "Redwood_Parks_2025",
+      "url": "https://services8.arcgis.com/obiqaQIsH4osKNEL/arcgis/rest/services/Redwood_Parks_2025/FeatureServer",
+      "features": 58,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "redwood_parks_2025.geojson"
+    },
+    {
+      "title": "Wildland-Urban Interface Fire Threat",
+      "url": "https://services3.arcgis.com/i2dkYWmb4wHvYPda/arcgis/rest/services/cdf_wildland_urban_interface/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wildland-urban_interface_fire_threat.geojson"
+    },
+    {
+      "title": "California General Plan Land Use",
+      "url": "https://services8.arcgis.com/Xr1lDrwMv89PhjD9/arcgis/rest/services/California_General_Plan_Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_general_plan_land_use.geojson"
+    },
+    {
+      "title": "Oakland Buildings",
+      "url": "https://services5.arcgis.com/S8KZ4xiwVgqpYP63/arcgis/rest/services/Oakland_Buildings/FeatureServer",
+      "features": 83,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "oakland_buildings.geojson"
+    },
+    {
+      "title": "parcels_cama",
+      "url": "https://services6.arcgis.com/JuJ3otBHQoYlrmJI/arcgis/rest/services/parcels_cama/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_cama.geojson"
+    },
+    {
+      "title": "RC Parcels Sold_Shared",
+      "url": "https://services2.arcgis.com/BhTdzxiJkq4oXsPh/arcgis/rest/services/RC_Parcels_Sold_Shared/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "rc_parcels_sold_shared.geojson"
+    },
+    {
+      "title": "California Statewide Zoning North",
+      "url": "https://services8.arcgis.com/Xr1lDrwMv89PhjD9/arcgis/rest/services/California_Statewide_Zoning_North/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_statewide_zoning_north.geojson"
+    },
+    {
+      "title": "Kern County, CA Williamson Act Eligible Agricultural Preserve",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/KernCountyCAWilliamsonActEligibleAgriculturalPreserve/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "kern_county__ca_williamson_act_eligible_agricultural_preserv.geojson"
+    },
+    {
+      "title": "Santa Monica parcels",
+      "url": "https://services3.arcgis.com/GVgbJbqm8hXASVYi/arcgis/rest/services/Santa_Monica_public_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "santa_monica_parcels.geojson"
+    },
+    {
+      "title": "30x30 Conserved Areas, Terrestrial (2025)",
+      "url": "https://services8.arcgis.com/JFYbogndXme7ddg8/arcgis/rest/services/Conserved_Areas_Units_marC_elim_ACEC_region_ecoreg_cnty_Elim_MINfieldswebmerc/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "30x30_conserved_areas__terrestrial__2025_.geojson"
+    },
+    {
+      "title": "Public Land Survey System - Township",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/PLSS_Township/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_land_survey_system_-_township.geojson"
+    },
+    {
+      "title": "Intersect_of_U5976_StudyArea_and_North_Carolina_Parcels_(Polygons)___Parcels",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/Intersect_of_U5976_StudyArea_and_North_Carolina_Parcels_(Polygons)___Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "intersect_of_u5976_studyarea_and_north_carolina_parcels__pol.geojson"
+    },
+    {
+      "title": "CFD Parcels",
+      "url": "https://services8.arcgis.com/OPmRdssd8jj0bT5H/arcgis/rest/services/CFD Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cfd_parcels.geojson"
+    },
+    {
+      "title": "Parks and Open Space",
+      "url": "https://services1.arcgis.com/jJfZghspGKh8J9Jm/arcgis/rest/services/Parks_and_Open_Space/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parks_and_open_space.geojson"
+    },
+    {
+      "title": "SB 9 Parcel Within 2010 Census Urban Area January 2022",
+      "url": "https://services1.arcgis.com/P5Mv5GY5S66M8Z1Q/arcgis/rest/services/SB9_Parcel_Within_2010Census_UrbanArea_2022Jan/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sb_9_parcel_within_2010_census_urban_area_january_2022.geojson"
+    },
+    {
+      "title": "SB6_AB1255_California_Fire_Hazard_Severity_Zones_(FHSZ)",
+      "url": "https://services8.arcgis.com/a4GMqC2tQHvYiVtK/arcgis/rest/services/California_Fire_Hazard_Severity_Zones_(FHSZ)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sb6_ab1255_california_fire_hazard_severity_zones__fhsz_.geojson"
+    },
+    {
+      "title": "Significant Lands - School Lands",
+      "url": "https://services3.arcgis.com/5aaQCuq3e4GRvkFG/arcgis/rest/services/Significant_Lands_School_Land/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "significant_lands_-_school_lands.geojson"
+    },
+    {
+      "title": "California Protected Areas Database 2024a - Units",
+      "url": "https://services1.arcgis.com/4ZKi1B1zTblbwgWB/arcgis/rest/services/cpad_2024a_unitsgdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "california_protected_areas_database_2024a_-_units.geojson"
+    },
+    {
+      "title": "ParcelsPublic",
+      "url": "https://services3.arcgis.com/pGLuwDBPURVLgIKO/arcgis/rest/services/ParcelsPublic/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelspublic.geojson"
+    },
+    {
+      "title": "specific_plans",
+      "url": "https://services5.arcgis.com/3PoWYg8BG9g9WsOS/arcgis/rest/services/specific_plans/FeatureServer",
+      "features": 15,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "specific_plans.geojson"
+    },
+    {
+      "title": "SCAG Zone and San Diego Master Parcel Map_WFL1",
+      "url": "https://services.arcgis.com/hVnyNvwbpFFPDV5j/arcgis/rest/services/SCAG_Zone_and_San_Diego_Master_Parcel_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "scag_zone_and_san_diego_master_parcel_map_wfl1.geojson"
+    },
+    {
+      "title": "Parcels APN view",
+      "url": "https://services5.arcgis.com/8y4r60VTvWj2wnDH/arcgis/rest/services/Parcels_APN_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_apn_view.geojson"
+    },
+    {
+      "title": "CALands: California Protected Parks and Open Spaces",
+      "url": "https://services5.arcgis.com/wXYNaciObHUosEnt/arcgis/rest/services/California_Protected_Parks_and_Open_Spaces_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "calands__california_protected_parks_and_open_spaces.geojson"
+    },
+    {
+      "title": "Land Use Parcels 2025",
+      "url": "https://services9.arcgis.com/Z65sx307Hunxj6eq/arcgis/rest/services/Land_Use_Parcels_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "land_use_parcels_2025.geojson"
+    },
+    {
+      "title": "Significant Lands - Water Lines",
+      "url": "https://services3.arcgis.com/5aaQCuq3e4GRvkFG/arcgis/rest/services/Significant_Lands_Water_Line/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "significant_lands_-_water_lines.geojson"
+    },
+    {
+      "title": "CA Protected Areas Database",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/CAProtectedAreasDatabase/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ca_protected_areas_database.geojson"
+    },
+    {
+      "title": "BLM OR CSNM Land Tenure Zone Alternatives",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/CSNM_Land_Tenure_Zone_Alternatives/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_or_csnm_land_tenure_zone_alternatives.geojson"
+    },
+    {
+      "title": "CPAD_2022_Units Southern California Clip",
+      "url": "https://services.arcgis.com/hVnyNvwbpFFPDV5j/arcgis/rest/services/CPAD_2022_Units/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cpad_2022_units_southern_california_clip.geojson"
+    },
+    {
+      "title": "California School Campus Database 2018 (CSCD)",
+      "url": "https://services1.arcgis.com/4ZKi1B1zTblbwgWB/arcgis/rest/services/California_School_Campus_Database_2018_(CSCD)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "california_school_campus_database_2018__cscd_.geojson"
+    },
+    {
+      "title": "Parks and Open Space",
+      "url": "https://services7.arcgis.com/BJisQXdgVScP0JMy/arcgis/rest/services/Parks_and_Open_Space/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parks_and_open_space.geojson"
+    },
+    {
+      "title": "City of Carnation Parcels WGS1984 11042024",
+      "url": "https://services8.arcgis.com/QixWlEhszrgSp6j2/arcgis/rest/services/City_of_Carnation_Parcels_WGS1984/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_carnation_parcels_wgs1984_11042024.geojson"
+    },
+    {
+      "title": "Significant Lands - Waterbodies",
+      "url": "https://services3.arcgis.com/5aaQCuq3e4GRvkFG/arcgis/rest/services/Significant_Lands_Waterbodies/FeatureServer",
+      "features": 42,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "significant_lands_-_waterbodies.geojson"
+    },
+    {
+      "title": "Jerusalem Road Overlay Area",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/Jerusalem_Road_Overlay_Area/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jerusalem_road_overlay_area.geojson"
+    },
+    {
+      "title": "SB9 Parcel Within 2020 Census Urban Area April 2025",
+      "url": "https://services1.arcgis.com/P5Mv5GY5S66M8Z1Q/arcgis/rest/services/SB9_Parcel_Within_2020_Census_Urban_Area_April_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sb9_parcel_within_2020_census_urban_area_april_2025.geojson"
+    },
+    {
+      "title": "ZonesTableEdited",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/ZonesTableEdited/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zonestableedited.geojson"
+    },
+    {
+      "title": "plss_section",
+      "url": "https://services7.arcgis.com/y6YW10u0XkJDr4YY/arcgis/rest/services/plss_section/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_section.geojson"
+    },
+    {
+      "title": "MTP_2055_Analysis_Output_OppPlaces_Only_Parcels_DP2",
+      "url": "https://services7.arcgis.com/IJkew2K5L57QJsdx/arcgis/rest/services/MTP_2055_Analysis_Output_OppPlaces_Only_Parcels_DP2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mtp_2055_analysis_output_oppplaces_only_parcels_dp2.geojson"
+    },
+    {
+      "title": "Waldheim_Beryllium_Road_Overlay",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/Waldheim_Beryllium_Road_Overlay/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "waldheim_beryllium_road_overlay.geojson"
+    },
+    {
+      "title": "NSNF-Landscape Blocks - CDFW [ds1004]",
+      "url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/biosds1004_fpu/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nsnf-landscape_blocks_-_cdfw__ds1004_.geojson"
+    },
+    {
+      "title": "Fishers_Canyon",
+      "url": "https://services1.arcgis.com/V0JDguEsaeBdf94U/arcgis/rest/services/Fishers_Canyon/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fishers_canyon.geojson"
+    },
+    {
+      "title": "SB9 Parcel Within 2020 Census Urban Area October 2024",
+      "url": "https://services1.arcgis.com/P5Mv5GY5S66M8Z1Q/arcgis/rest/services/SB9_Parcel_Within_2020_Census_Urban_Area_Oct_2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sb9_parcel_within_2020_census_urban_area_october_2024.geojson"
+    },
+    {
+      "title": "Springfield Parcels",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/Springfield_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "springfield_parcels.geojson"
+    },
+    {
+      "title": "TaxParcels_CAMA",
+      "url": "https://services.arcgis.com/ue9rwulIoeLEI9bj/arcgis/rest/services/TaxParcels_CAMA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxparcels_cama.geojson"
+    },
+    {
+      "title": "R1A_VH Parcels_ Conforming and Nonconforming_ V2_WFL1",
+      "url": "https://services1.arcgis.com/HmwnYiJTBZ4UkySc/arcgis/rest/services/R1A_VH_Parcels__Conforming_and_Nonconforming__V2_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r1a_vh_parcels__conforming_and_nonconforming__v2_wfl1.geojson"
+    },
+    {
+      "title": "Parcels_Carbon_LIR",
+      "url": "https://services5.arcgis.com/NhRCDiozXxukD769/arcgis/rest/services/Parcels_Carbon_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_carbon_lir.geojson"
+    },
+    {
+      "title": "SRA_DPA_LandOwnership",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/SRA_DPA_LandOwnership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sra_dpa_landownership.geojson"
+    },
+    {
+      "title": "Parcels_CAMA_A",
+      "url": "https://services9.arcgis.com/ce7KWJtkyRqyMe6X/arcgis/rest/services/Parcels_CAMA_A/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_cama_a.geojson"
+    },
+    {
+      "title": "Parks_IRA_Clip",
+      "url": "https://services2.arcgis.com/j23KFYd23hRWewtZ/arcgis/rest/services/Parks_IRA_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parks_ira_clip.geojson"
+    },
+    {
+      "title": "Dunkirk_Woodland",
+      "url": "https://services1.arcgis.com/4NZ4Ghri2AQmNOuO/arcgis/rest/services/Dunkirk_Woodland/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dunkirk_woodland.geojson"
+    },
+    {
+      "title": "Intersect_of_EB_5822_MA_2024_MD_(Areas)_and_North_Carolina_Parcels_(Polygons)___Parcels",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/Intersect_of_EB_5822_MA_2024_MD_(Areas)_and_North_Carolina_Parcels_(Polygons)___Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "intersect_of_eb_5822_ma_2024_md__areas__and_north_carolina_p.geojson"
+    },
+    {
+      "title": "CA Assessed _GATEWAY_WFL1",
+      "url": "https://services8.arcgis.com/Qah4YRlnA96tI4X9/arcgis/rest/services/CA_Assessed__GATEWAY_WFL1/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ca_assessed__gateway_wfl1.geojson"
+    },
+    {
+      "title": "Public Land Management in the Tahoe Central Sierra Initiative (CPAD 2017a)",
+      "url": "https://services1.arcgis.com/sTaVXkn06Nqew9yU/arcgis/rest/services/CPAD_TCSI_2017a_SuperHoldings/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "public_land_management_in_the_tahoe_central_sierra_initiativ.geojson"
+    },
+    {
+      "title": "ParcelsMODIV_BayHeadBoro",
+      "url": "https://services7.arcgis.com/4xHlAF85LdkWPmw2/arcgis/rest/services/ParcelsMODIV_BayHeadBoro/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelsmodiv_bayheadboro.geojson"
+    },
+    {
+      "title": "NEW_HAVEN_PARC_join",
+      "url": "https://services.arcgis.com/QZ6o4sSNpTNe28FU/arcgis/rest/services/NEW_HAVEN_PARC_join/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "new_haven_parc_join.geojson"
+    },
+    {
+      "title": "VNY_CA_Parcels_2025_RDA_Permit_COdate_Historical",
+      "url": "https://services.arcgis.com/QdlehUncXjEmQYtI/arcgis/rest/services/VNY_CA_Parcels_2025_RDA_Permit_COdate_Historical/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "vny_ca_parcels_2025_rda_permit_codate_historical.geojson"
+    },
+    {
+      "title": "High Density Development Opportunity Parcels",
+      "url": "https://services1.arcgis.com/UvqJJ6GFv4u5BZQj/arcgis/rest/services/High_Density_Development_Opportunity_Parcels/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "high_density_development_opportunity_parcels.geojson"
+    },
+    {
+      "title": "Williamson Act Parcels",
+      "url": "https://maps.nevadacountyca.gov/arcgis/rest/services/web_public/Williamson_Act_Parcels/FeatureServer",
+      "features": 91,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "williamson_act_parcels.geojson"
+    },
+    {
+      "title": "ParcelPoly_View",
+      "url": "https://services2.arcgis.com/ZViGD3ozRXWS3ZYX/arcgis/rest/services/ParcelPoly_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelpoly_view.geojson"
+    },
+    {
+      "title": "PG County Zip Codes",
+      "url": "https://services2.arcgis.com/j23KFYd23hRWewtZ/arcgis/rest/services/PG_County_Zip_Codes/FeatureServer",
+      "features": 75,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pg_county_zip_codes.geojson"
+    },
+    {
+      "title": "R1A_VH Parcels_ Conforming and Nonconforming_WFL1",
+      "url": "https://services1.arcgis.com/HmwnYiJTBZ4UkySc/arcgis/rest/services/R1A_VH_Parcels__Conforming_and_Nonconforming_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r1a_vh_parcels__conforming_and_nonconforming_wfl1.geojson"
+    },
+    {
+      "title": "Refined_Candidates",
+      "url": "https://services.arcgis.com/PwY9ZuZRDiI5nXUB/arcgis/rest/services/Refined_Candidates/FeatureServer",
+      "features": 9,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "refined_candidates.geojson"
+    },
+    {
+      "title": "landtrust_parcels",
+      "url": "https://services2.arcgis.com/ZViGD3ozRXWS3ZYX/arcgis/rest/services/landtrust_parcels/FeatureServer",
+      "features": 7,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landtrust_parcels.geojson"
+    },
+    {
+      "title": "MILFORD_PARCEL_Public_Owner",
+      "url": "https://services.arcgis.com/QZ6o4sSNpTNe28FU/arcgis/rest/services/MILFORD_PARCEL_Public_Owner/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "milford_parcel_public_owner.geojson"
+    },
+    {
+      "title": "Trenton Proposed Zoning",
+      "url": "https://services3.arcgis.com/mx9aZ2XW5KF811jv/arcgis/rest/services/Trenton_Proposed_Zoning/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "trenton_proposed_zoning.geojson"
+    },
+    {
+      "title": "SalesTax_CaponBridge_WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_CaponBridge_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_caponbridge_webmap_wfl1.geojson"
+    },
+    {
+      "title": "parcelScores",
+      "url": "https://services.arcgis.com/ULBqC49IEeIR01GF/arcgis/rest/services/parcelScores/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelscores.geojson"
+    },
+    {
+      "title": "Groton_Stonington_Parcels_CAMA",
+      "url": "https://services1.arcgis.com/6ItOFXGFmdtfeOZb/arcgis/rest/services/Groton_Stonington_Parcels_CAMA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "groton_stonington_parcels_cama.geojson"
+    },
+    {
+      "title": "R1AVH Conforming and Nonconforming Parcels",
+      "url": "https://services1.arcgis.com/HmwnYiJTBZ4UkySc/arcgis/rest/services/R1AVH_Conforming_and_Nonconforming_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r1avh_conforming_and_nonconforming_parcels.geojson"
+    },
+    {
+      "title": "Development Opportunity Parcel Points",
+      "url": "https://services1.arcgis.com/UvqJJ6GFv4u5BZQj/arcgis/rest/services/Development_Opportunity_Parcel_Points/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "development_opportunity_parcel_points.geojson"
+    },
+    {
+      "title": "Lab3_CarbonSequestration_WebMap2",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Lab3_CarbonSequestration_WebMap2/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lab3_carbonsequestration_webmap2.geojson"
+    },
+    {
+      "title": "2025_Connecticut_Parcel_and_CAMA_Data_20260216",
+      "url": "https://services2.arcgis.com/s4BHXC1DIySGIjoG/arcgis/rest/services/2025_Connecticut_Parcel_and_CAMA_Data_20260216/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "2025_connecticut_parcel_and_cama_data_20260216.geojson"
+    },
+    {
+      "title": "Current_And_Future_Forest_Fuels_Treatments_2022",
+      "url": "https://services6.arcgis.com/1KtlSd2mklZMBKaz/arcgis/rest/services/Current_And_Future_Forest_Fuels_Treatments_2022/FeatureServer",
+      "features": 86,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "current_and_future_forest_fuels_treatments_2022.geojson"
+    },
+    {
+      "title": "Connecticut_CAMA_and_Parcel_Layer_mapping",
+      "url": "https://services1.arcgis.com/6ItOFXGFmdtfeOZb/arcgis/rest/services/Connecticut_CAMA_and_Parcel_Layer_mapping/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "connecticut_cama_and_parcel_layer_mapping.geojson"
+    },
+    {
+      "title": "PZ_CannabisEstablishment500ftBufferAreas",
+      "url": "https://services7.arcgis.com/5UWZI2tAQt1CsRiC/arcgis/rest/services/PZ_CannabisEstablishment500ftBufferAreas/FeatureServer",
+      "features": 75,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pz_cannabisestablishment500ftbufferareas.geojson"
+    },
+    {
+      "title": "Hixson (1930) parcel data",
+      "url": "https://services7.arcgis.com/iEMmryaM5E3wkdnU/arcgis/rest/services/Hixson_1930_parcel_data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hixson__1930__parcel_data.geojson"
+    },
+    {
+      "title": "VTPARCELS_Montpelier_10_2024_CAI",
+      "url": "https://services6.arcgis.com/ALaxfASMULIJ1PP6/arcgis/rest/services/VTPARCELS_Montpelier_10_2024_CAI/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vtparcels_montpelier_10_2024_cai.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services7.arcgis.com/9454s35QZSaEH2wa/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Nevada Parcel Hazard",
+      "url": "https://services1.arcgis.com/0j6vZbECadDEXdAS/arcgis/rest/services/Nevada_Parcel_Hazard/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nevada_parcel_hazard.geojson"
+    },
+    {
+      "title": "CommercialTimberOwners",
+      "url": "https://services1.arcgis.com/0j6vZbECadDEXdAS/arcgis/rest/services/CommercialTimberOwners/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "commercialtimberowners.geojson"
+    },
+    {
+      "title": "1000_Parcels",
+      "url": "https://services1.arcgis.com/WVxacHXQbRfyT85f/arcgis/rest/services/1000_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "1000_parcels.geojson"
+    },
+    {
+      "title": "Connecticut_CAMA_and_Parcel_Layer",
+      "url": "https://services.arcgis.com/5HKsn9O0J14q7coj/arcgis/rest/services/Connecticut_CAMA_and_Parcel_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "connecticut_cama_and_parcel_layer.geojson"
+    },
+    {
+      "title": "Connecticut_CAMA_and_Parcel_Layer",
+      "url": "https://services1.arcgis.com/6ItOFXGFmdtfeOZb/arcgis/rest/services/Connecticut_CAMA_and_Parcel_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "connecticut_cama_and_parcel_layer.geojson"
+    },
+    {
+      "title": "Current_And_Future_Forest_Fuels_Treatments_2022_Dotted",
+      "url": "https://services6.arcgis.com/1KtlSd2mklZMBKaz/arcgis/rest/services/Current_And_Future_Forest_Fuels_Treatments_2022_Dotted/FeatureServer",
+      "features": 86,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "current_and_future_forest_fuels_treatments_2022_dotted.geojson"
+    },
+    {
+      "title": "NVcoParcelsAlongTPT",
+      "url": "https://services5.arcgis.com/FKw1RksliRNAy7LJ/arcgis/rest/services/NVcoParcelsAlongTPT/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nvcoparcelsalongtpt.geojson"
+    },
+    {
+      "title": "Connecticut_CAMA_and_Parcel_Layer_POI",
+      "url": "https://services.arcgis.com/5HKsn9O0J14q7coj/arcgis/rest/services/Connecticut_CAMA_and_Parcel_Layer_POI/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "connecticut_cama_and_parcel_layer_poi.geojson"
+    },
+    {
+      "title": "500_Parcels",
+      "url": "https://services1.arcgis.com/WVxacHXQbRfyT85f/arcgis/rest/services/500_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "500_parcels.geojson"
+    },
+    {
+      "title": "Conservancy Ownership Portal",
+      "url": "https://tahoegis.org/server/rest/services/Land_Use/Conservancy_Ownership_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "conservancy_ownership_portal.geojson"
+    },
+    {
+      "title": "Current_And_Future_Forest_Fuels_Treatments_2023_Public_View",
+      "url": "https://services6.arcgis.com/1KtlSd2mklZMBKaz/arcgis/rest/services/Current_And_Future_Forest_Fuels_Treatments_2023_Public_View/FeatureServer",
+      "features": 74,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "current_and_future_forest_fuels_treatments_2023_public_view.geojson"
+    },
+    {
+      "title": "Federal Ownership in the Great Basin",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Federal_Ownership_in_the_Great_Basin/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "federal_ownership_in_the_great_basin.geojson"
+    },
+    {
+      "title": "USGS Watershed Boundary Dataset (WBD) HUC8, California Vicinity",
+      "url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/WBD_HU8_wm/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usgs_watershed_boundary_dataset__wbd__huc8__california_vicin.geojson"
+    }
+  ]
+}

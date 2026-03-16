@@ -1,0 +1,774 @@
+{
+  "state": "Georgia",
+  "sources_attempted": 98,
+  "sources_successful": 85,
+  "total_features": 7430,
+  "pulled_at": "2026-03-16T01:22:19.386394",
+  "datasets": [
+    {
+      "title": "Atlanta Transit Frequency by Parcel",
+      "url": "https://services1.arcgis.com/4yjifSiIG17X0gW4/arcgis/rest/services/TransitFrequencyATLParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "atlanta_transit_frequency_by_parcel.geojson"
+    },
+    {
+      "title": "Tax Parcel",
+      "url": "https://geo.forsythco.com/gis/rest/services/Public/Tax_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "tax_parcel.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/bqfNVPUK3HOnCFmA/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Georgia Landlots and Militia Districts",
+      "url": "https://services7.arcgis.com/Za9Nk6CPIPbvR1t7/arcgis/rest/services/Georgia_Landlots_and_Militia_Districts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "georgia_landlots_and_militia_districts.geojson"
+    },
+    {
+      "title": "Peactree Corners Parcels 2026",
+      "url": "https://services3.arcgis.com/jEYjQXUX2JTVoctH/arcgis/rest/services/PTC_Parcels_2022/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "peactree_corners_parcels_2026.geojson"
+    },
+    {
+      "title": "Smyrna Land Lots",
+      "url": "https://services2.arcgis.com/hE9igMm8RoNeQRbh/arcgis/rest/services/Land_Lots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "smyrna_land_lots.geojson"
+    },
+    {
+      "title": "Landlots",
+      "url": "https://services2.arcgis.com/StQaZGYzUARPnrpL/arcgis/rest/services/Landlots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landlots.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/IxVN2oUE9EYLSnPE/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Dawsonville City Parcels",
+      "url": "https://services7.arcgis.com/Ptz860OPLeIY55cX/arcgis/rest/services/DawsonvilleCityParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dawsonville_city_parcels.geojson"
+    },
+    {
+      "title": "Georgia Sentinel Landscape_WFL1",
+      "url": "https://services7.arcgis.com/Za9Nk6CPIPbvR1t7/arcgis/rest/services/Georgia_Sentinel_Landscape_WFL1/FeatureServer",
+      "features": 4,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "georgia_sentinel_landscape_wfl1.geojson"
+    },
+    {
+      "title": "UGA Property",
+      "url": "https://services2.arcgis.com/PYn6bWCjT6bhw1z3/arcgis/rest/services/UGA_Property/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uga_property.geojson"
+    },
+    {
+      "title": "Overlay_Zoning_view",
+      "url": "https://services8.arcgis.com/2Oj4p0oK7rnTYNHA/arcgis/rest/services/Overlay_Zoning_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "overlay_zoning_view.geojson"
+    },
+    {
+      "title": "Future Land Use",
+      "url": "https://services3.arcgis.com/MvLJ3KHgohvvDRhi/arcgis/rest/services/Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "future_land_use.geojson"
+    },
+    {
+      "title": "Zoning by Parcel",
+      "url": "https://services2.arcgis.com/XwGh5SYpBlXQGJEB/arcgis/rest/services/Zoning_by_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_by_parcel.geojson"
+    },
+    {
+      "title": "Georgia Military Bases",
+      "url": "https://services.arcgis.com/xOi1kZaI0eWDREZv/arcgis/rest/services/NTAD_Military_Bases/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "georgia_military_bases.geojson"
+    },
+    {
+      "title": "Tax_Parcels",
+      "url": "https://services8.arcgis.com/bcbi4lYRFOsss0F5/arcgis/rest/services/Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tax_parcels.geojson"
+    },
+    {
+      "title": "Zoning_GM_WFL1",
+      "url": "https://services.arcgis.com/Tbke9ca9DhtF4VIx/arcgis/rest/services/Zoning_GM_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "zoning_gm_wfl1.geojson"
+    },
+    {
+      "title": "Zoning Polygons",
+      "url": "https://services2.arcgis.com/XwGh5SYpBlXQGJEB/arcgis/rest/services/Zoning_Polygons/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_polygons.geojson"
+    },
+    {
+      "title": "Lots and Units",
+      "url": "https://geo.forsythco.com/gis3/rest/services/Public/Conveyance_Division/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lots_and_units.geojson"
+    },
+    {
+      "title": "SC_GaffneyCity_01",
+      "url": "https://services3.arcgis.com/5WiV1cFjOcoTFxQs/arcgis/rest/services/SC_GaffneyCity_01/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sc_gaffneycity_01.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/NbEF7l0gBsrypoec/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Future Land Use Current",
+      "url": "https://services3.arcgis.com/feUM6sTOP0Mfde8s/arcgis/rest/services/Future_Lane_Use_Current/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "future_land_use_current.geojson"
+    },
+    {
+      "title": "Parcels_view",
+      "url": "https://services1.arcgis.com/NbEF7l0gBsrypoec/arcgis/rest/services/Parcels_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "Hawaii Selected Parcels",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/Hawaii_Selected_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hawaii_selected_parcels.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services9.arcgis.com/mr2xH531NAL4tt7e/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "Parcels Columbia County GA",
+      "url": "https://services3.arcgis.com/XqCfDEcWKHtcTHsa/arcgis/rest/services/Parcels_Columbia_County_GA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_columbia_county_ga.geojson"
+    },
+    {
+      "title": "TaxParcels",
+      "url": "https://services2.arcgis.com/zPFLSOZ5HzUzzTQb/arcgis/rest/services/TaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxparcels.geojson"
+    },
+    {
+      "title": "Tyrone Online Zoning Map_WFL1",
+      "url": "https://services8.arcgis.com/CAwtAHohiClrjBri/arcgis/rest/services/Tyrone_Online_Zoning_Map_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tyrone_online_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "City Owned Properties",
+      "url": "https://services7.arcgis.com/Wa5u3F8BOztWahRv/arcgis/rest/services/CityOwnedProperties/FeatureServer",
+      "features": 83,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "city_owned_properties.geojson"
+    },
+    {
+      "title": "Peachtree Corners Parcels",
+      "url": "https://services3.arcgis.com/jEYjQXUX2JTVoctH/arcgis/rest/services/PTC_Parcels_2020/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "peachtree_corners_parcels.geojson"
+    },
+    {
+      "title": "Kennesaw Parcels",
+      "url": "https://services2.arcgis.com/XwGh5SYpBlXQGJEB/arcgis/rest/services/Kennesaw_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "kennesaw_parcels.geojson"
+    },
+    {
+      "title": "LandUse_SF",
+      "url": "https://services2.arcgis.com/cclAu9OKhOfjeUdr/arcgis/rest/services/LandUse_SF/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "landuse_sf.geojson"
+    },
+    {
+      "title": "Monroe Zoning _ Character Districts Map_WFL1",
+      "url": "https://services9.arcgis.com/tX7O9qMhrJRPSGto/arcgis/rest/services/Monroe_Zoning___Character_Districts_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "monroe_zoning___character_districts_map_wfl1.geojson"
+    },
+    {
+      "title": "Zoning - Stonecrest, Georgia",
+      "url": "https://services8.arcgis.com/2Oj4p0oK7rnTYNHA/arcgis/rest/services/Zoning_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_-_stonecrest__georgia.geojson"
+    },
+    {
+      "title": "Apex_GA_Parcels",
+      "url": "https://services6.arcgis.com/6hR3ncgZytDB2gKA/arcgis/rest/services/Apex_GA_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "apex_ga_parcels.geojson"
+    },
+    {
+      "title": "Fulton County Tax Parcels 2018",
+      "url": "https://services1.arcgis.com/AQDHTHDrZzfsFsB5/arcgis/rest/services/Tax_Parcels2018/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "fulton_county_tax_parcels_2018.geojson"
+    },
+    {
+      "title": "Charlton GA Parcel",
+      "url": "https://services2.arcgis.com/PYn6bWCjT6bhw1z3/arcgis/rest/services/Charlton_GA_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "charlton_ga_parcel.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services3.arcgis.com/jEYjQXUX2JTVoctH/arcgis/rest/services/Parcels2021/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Tax Parcels Zone 1",
+      "url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/Tax_Parcels_Zone_1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels_zone_1.geojson"
+    },
+    {
+      "title": "Tax Parcels Zone 2",
+      "url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/Tax_Parcels_Zone_2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels_zone_2.geojson"
+    },
+    {
+      "title": "State Parks - Points",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/StateParks_Points/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_parks_-_points.geojson"
+    },
+    {
+      "title": "UGA Parcels",
+      "url": "https://services2.arcgis.com/PYn6bWCjT6bhw1z3/arcgis/rest/services/UGA_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uga_parcels.geojson"
+    },
+    {
+      "title": "Tax Parcels Zone 4",
+      "url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/Tax_Parcels_Zone_4/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels_zone_4.geojson"
+    },
+    {
+      "title": "Tax Parcels Zone 3",
+      "url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/Tax_Parcels_Zone_3/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels_zone_3.geojson"
+    },
+    {
+      "title": "Parcels_merge_OcmulgeeCounties_over20acres",
+      "url": "https://services5.arcgis.com/Qgy791PwCQvVznG0/arcgis/rest/services/Parcels_merge_OcmulgeeCounties_over20acres/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_merge_ocmulgeecounties_over20acres.geojson"
+    },
+    {
+      "title": "AC_Parcels_WFL",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/AC_Parcels_WFL/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ac_parcels_wfl.geojson"
+    },
+    {
+      "title": "City of Cochran Georgia Web Map Services",
+      "url": "https://services5.arcgis.com/HHvUPZ2XuLOAJxjR/arcgis/rest/services/City_of_Cochran_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_cochran_georgia_web_map_services.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services3.arcgis.com/2apYAev6EzpKDen5/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 40,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "ParcelEDistricts",
+      "url": "https://services3.arcgis.com/jEYjQXUX2JTVoctH/arcgis/rest/services/ParcelEDistricts/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parceledistricts.geojson"
+    },
+    {
+      "title": "Parcel_Impervious",
+      "url": "https://services.arcgis.com/36QtML6Mf01B1N0W/arcgis/rest/services/Parcel_Impervious/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_impervious.geojson"
+    },
+    {
+      "title": "MeriwetherParcels",
+      "url": "https://services9.arcgis.com/Xv8vRekQ4FVHSSIe/arcgis/rest/services/MeriwetherParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "meriwetherparcels.geojson"
+    },
+    {
+      "title": "UGA Owned Properties",
+      "url": "https://services2.arcgis.com/PYn6bWCjT6bhw1z3/arcgis/rest/services/UGA_Owned_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uga_owned_properties.geojson"
+    },
+    {
+      "title": "Admission Fee",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/StateParksAdmissionFee/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "admission_fee.geojson"
+    },
+    {
+      "title": "CensusSurveyParcels2",
+      "url": "https://services3.arcgis.com/jEYjQXUX2JTVoctH/arcgis/rest/services/CensusSurveyParcels2/FeatureServer",
+      "features": 43,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "censussurveyparcels2.geojson"
+    },
+    {
+      "title": "City of Doraville Zoning Layer (2022)",
+      "url": "https://services5.arcgis.com/HPK9d3vzjakSFUjJ/arcgis/rest/services/City_of_Doraville_Zoning_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "city_of_doraville_zoning_layer__2022_.geojson"
+    },
+    {
+      "title": "DNR Conservation Lands",
+      "url": "https://services3.arcgis.com/2apYAev6EzpKDen5/arcgis/rest/services/DNR_Conservation_Lands/FeatureServer",
+      "features": 15,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnr_conservation_lands.geojson"
+    },
+    {
+      "title": "Property Scores and Sales of Parcels Locally and Non_Locally Owned_WFL1",
+      "url": "https://services3.arcgis.com/2apYAev6EzpKDen5/arcgis/rest/services/Property_Scores_and_Sales_of_Parcels_Locally_and_Non_Locally_Owned_WFL1/FeatureServer",
+      "features": 36,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "property_scores_and_sales_of_parcels_locally_and_non_locally.geojson"
+    },
+    {
+      "title": "DNRManagedLands_GA",
+      "url": "https://services2.arcgis.com/PYn6bWCjT6bhw1z3/arcgis/rest/services/DNRManagedLands_GA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnrmanagedlands_ga.geojson"
+    },
+    {
+      "title": "CensusSurveyBldgs2b",
+      "url": "https://services3.arcgis.com/jEYjQXUX2JTVoctH/arcgis/rest/services/CensusSurveyBldgs2b/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "censussurveybldgs2b.geojson"
+    },
+    {
+      "title": "Oglethorpe_Parcels view",
+      "url": "https://services1.arcgis.com/IX9GvidKl201KteW/arcgis/rest/services/Oglethorpe_Parcels_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oglethorpe_parcels_view.geojson"
+    },
+    {
+      "title": "Georgia Power Lease Lots",
+      "url": "https://services7.arcgis.com/Da8HZMsU25Hzzob3/arcgis/rest/services/Georgia_Power_Lease_Lots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "georgia_power_lease_lots.geojson"
+    },
+    {
+      "title": "Parcels_at_risk_jts5",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/Parcels_at_risk_jts5/FeatureServer",
+      "features": 66,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_at_risk_jts5.geojson"
+    },
+    {
+      "title": "Longbranch_Parcel",
+      "url": "https://services2.arcgis.com/YqPSsZvq2dd1wPP5/arcgis/rest/services/Longbranch_Parcel/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "longbranch_parcel.geojson"
+    },
+    {
+      "title": "Comanche_Parcels",
+      "url": "https://services6.arcgis.com/eNPJk90aMrXNOKF8/arcgis/rest/services/Comanche_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "comanche_parcels.geojson"
+    },
+    {
+      "title": "Hawaii Parcels At Risk JTS",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/Parcels_at_risk_jts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hawaii_parcels_at_risk_jts.geojson"
+    },
+    {
+      "title": "parcels_at_risk_jts8",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/parcels_at_risk_jts8/FeatureServer",
+      "features": 66,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_at_risk_jts8.geojson"
+    },
+    {
+      "title": "Georgian Acres Parcels",
+      "url": "https://services1.arcgis.com/7DRakJXKPEhwv0fM/arcgis/rest/services/Georgian_Acres_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "georgian_acres_parcels.geojson"
+    },
+    {
+      "title": "parcels_at_risk_jts2",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/parcels_at_risk_jts2/FeatureServer",
+      "features": 66,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_at_risk_jts2.geojson"
+    },
+    {
+      "title": "Find_Locations_in_Hawaii_Selected_Parcels_jts_tutorial",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/Find_Locations_in_Hawaii_Selected_Parcels_jts_tutorial/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "find_locations_in_hawaii_selected_parcels_jts_tutorial.geojson"
+    },
+    {
+      "title": "Effingham County Parcels",
+      "url": "https://services8.arcgis.com/lItCB25iXp0EIvHG/arcgis/rest/services/Effingham_County_Parcels/FeatureServer",
+      "features": 41,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "effingham_county_parcels.geojson"
+    },
+    {
+      "title": "State Parks",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/StateParks/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_parks.geojson"
+    },
+    {
+      "title": "FallLineRDA_IndPark",
+      "url": "https://services1.arcgis.com/Ug5xGQbHsD8zuZzM/arcgis/rest/services/FallLineRDA_IndPark/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "falllinerda_indpark.geojson"
+    },
+    {
+      "title": "parcels_at_risk_jts6",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/parcels_at_risk_jts6/FeatureServer",
+      "features": 66,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_at_risk_jts6.geojson"
+    },
+    {
+      "title": "Lowest Cost for Lodging",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/Lowest_Cost_for_Group_Lodging/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lowest_cost_for_lodging.geojson"
+    },
+    {
+      "title": "DNR Conservation Lands 2019",
+      "url": "https://services3.arcgis.com/2apYAev6EzpKDen5/arcgis/rest/services/DNR_Conservation_Lands_2019/FeatureServer",
+      "features": 15,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnr_conservation_lands_2019.geojson"
+    },
+    {
+      "title": "Georgia Power Properties",
+      "url": "https://services3.arcgis.com/feUM6sTOP0Mfde8s/arcgis/rest/services/Georgia_Power_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "georgia_power_properties.geojson"
+    },
+    {
+      "title": "All Parcels",
+      "url": "https://services2.arcgis.com/OKqf9cl3ItPM5Rid/arcgis/rest/services/All_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "all_parcels.geojson"
+    },
+    {
+      "title": "AY2020_changes",
+      "url": "https://services7.arcgis.com/Da8HZMsU25Hzzob3/arcgis/rest/services/AY2020_changes/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ay2020_changes.geojson"
+    },
+    {
+      "title": "Jackson County City Owned Parcels",
+      "url": "https://services7.arcgis.com/JnaiTp8d3rhKkJ9G/arcgis/rest/services/Jackson_County_City_Owned_Parcels/FeatureServer",
+      "features": 59,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "jackson_county_city_owned_parcels.geojson"
+    },
+    {
+      "title": "GeorgianaParcelsofInterest",
+      "url": "https://services2.arcgis.com/8uN5i97bMkq2Mzrt/arcgis/rest/services/GeorgianaParcelsofInterest/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "georgianaparcelsofinterest.geojson"
+    },
+    {
+      "title": "Parcel_Regions_w_WinGAP_CivicPlus view",
+      "url": "https://services6.arcgis.com/nmiAsMcP1CEqOOth/arcgis/rest/services/Parcel_Regions_w_WinGAP_CivicPlus_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_regions_w_wingap_civicplus_view.geojson"
+    },
+    {
+      "title": "Parcel_Regions_w_WinGAP view",
+      "url": "https://services7.arcgis.com/QbbsWI5nIfBp4cMB/arcgis/rest/services/Parcel_Regions_w_WinGAP_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_regions_w_wingap_view.geojson"
+    },
+    {
+      "title": "Brantley_Parcels view",
+      "url": "https://services3.arcgis.com/86pyA5PND5NdokIc/arcgis/rest/services/Brantley_Parcels_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "brantley_parcels_view.geojson"
+    },
+    {
+      "title": "Georgiana_Parcels_of_InterestB",
+      "url": "https://services2.arcgis.com/8uN5i97bMkq2Mzrt/arcgis/rest/services/Georgiana_Parcels_of_InterestB/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "georgiana_parcels_of_interestb.geojson"
+    },
+    {
+      "title": "The Official Zoning Map of Oglethorpe County_ Georgia_WFL1",
+      "url": "https://services1.arcgis.com/IX9GvidKl201KteW/arcgis/rest/services/The_Official_Zoning_Map_of_Oglethorpe_County__Georgia_WFL1/FeatureServer",
+      "features": 27,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "the_official_zoning_map_of_oglethorpe_county__georgia_wfl1.geojson"
+    }
+  ]
+}

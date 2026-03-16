@@ -1,0 +1,450 @@
+{
+  "state": "Wisconsin",
+  "sources_attempted": 64,
+  "sources_successful": 49,
+  "total_features": 4401,
+  "pulled_at": "2026-03-16T01:45:09.643714",
+  "datasets": [
+    {
+      "title": "PLSS Sections",
+      "url": "https://services5.arcgis.com/Ul9AyFFeFTjf08DW/arcgis/rest/services/PLSS_Sections/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_sections.geojson"
+    },
+    {
+      "title": "Tax Parcels View",
+      "url": "https://services5.arcgis.com/pkUtXVHrGelPAY8k/arcgis/rest/services/Tax_Parcels_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tax_parcels_view.geojson"
+    },
+    {
+      "title": "PLSS Townships",
+      "url": "https://services5.arcgis.com/Ul9AyFFeFTjf08DW/arcgis/rest/services/PLSS_Townships/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_townships.geojson"
+    },
+    {
+      "title": "Properties_with_Tax_Certificates",
+      "url": "https://services1.arcgis.com/YZc1OyqL6jbIOeOv/arcgis/rest/services/Properties_with_Tax_Certificates/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "properties_with_tax_certificates.geojson"
+    },
+    {
+      "title": "Wildfire History by Age",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/InterAgencyFirePerimeterHistory_All_Years_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wildfire_history_by_age.geojson"
+    },
+    {
+      "title": "CountyParcelBase",
+      "url": "https://services7.arcgis.com/ob3iBq0CA0JS6eE3/arcgis/rest/services/CountyParcelBase/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "countyparcelbase.geojson"
+    },
+    {
+      "title": "Subdivisions",
+      "url": "https://maps.vilascountywi.gov/vilasgis/rest/services/V4/Subdivisions/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivisions.geojson"
+    },
+    {
+      "title": "Zoning Land Use (View)",
+      "url": "https://services6.arcgis.com/WCuPctHy89ccTjFo/arcgis/rest/services/Zoning_Landuse_Edit/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_land_use__view_.geojson"
+    },
+    {
+      "title": "Milwaukee County Cadastral Dataset",
+      "url": "https://services2.arcgis.com/s1wgJQKbKJihhhaT/arcgis/rest/services/Cadastral/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "milwaukee_county_cadastral_dataset.geojson"
+    },
+    {
+      "title": "EagleWaste_RouteSchedule2016",
+      "url": "https://services1.arcgis.com/oUtk5OTcoTEIN17d/arcgis/rest/services/EagleWaste_RouteSchedule2016/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "eaglewaste_routeschedule2016.geojson"
+    },
+    {
+      "title": "County Map Layers",
+      "url": "https://services9.arcgis.com/Kh5Nzy1stCQ88Ask/arcgis/rest/services/County_Map_Layers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_map_layers.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/4fskj6X2QqYEBVyr/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "TaxParcels",
+      "url": "https://services1.arcgis.com/96Dq0JXOtjNW10pz/arcgis/rest/services/TaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "taxparcels.geojson"
+    },
+    {
+      "title": "Tax Parcel",
+      "url": "https://gis.co.eau-claire.wi.us/agsserver/rest/services/BaseLayers/Tax_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_parcel.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services9.arcgis.com/EbNKPwya4kmeiOw9/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Parcels_WithSiteAddress_View",
+      "url": "https://services3.arcgis.com/afQpMaliVrwHS7Ud/arcgis/rest/services/Parcels_WithSiteAddress_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_withsiteaddress_view.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/kTzzDJBaecBOZCjk/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Williamsburg Property Information Publish Service_WFL1",
+      "url": "https://services1.arcgis.com/96Dq0JXOtjNW10pz/arcgis/rest/services/Williamsburg_Property_Information_Publish_Service_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "williamsburg_property_information_publish_service_wfl1.geojson"
+    },
+    {
+      "title": "Parcels_WithSiteAddress",
+      "url": "https://services3.arcgis.com/afQpMaliVrwHS7Ud/arcgis/rest/services/Parcels_WithSiteAddress/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_withsiteaddress.geojson"
+    },
+    {
+      "title": "Base Data View",
+      "url": "https://services3.arcgis.com/2uYtTu0NfV9zjs2i/arcgis/rest/services/Base_Data_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "base_data_view.geojson"
+    },
+    {
+      "title": "Door County Parks Map",
+      "url": "https://services2.arcgis.com/njkzXmyapxfqgV2j/arcgis/rest/services/Door_County_Parks_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "door_county_parks_map.geojson"
+    },
+    {
+      "title": "UW System Parcels",
+      "url": "https://services9.arcgis.com/zy75WKYyFjTBFkeQ/arcgis/rest/services/UW_System_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "uw_system_parcels.geojson"
+    },
+    {
+      "title": "ISM Potential Coastal Engineering Structure Parcels Pursuant to the Wetlands Protection Act (view)",
+      "url": "https://services3.arcgis.com/6HCuqpvj6oy5dIJW/arcgis/rest/services/ISM_Potential_Coastal_Engineering_Structure_Parcels_Pursuant_to_the_Wetlands_Protection_Act_view/FeatureServer",
+      "features": 47,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ism_potential_coastal_engineering_structure_parcels_pursuant.geojson"
+    },
+    {
+      "title": "Addresses",
+      "url": "https://services7.arcgis.com/ZNYU9ysVgADcg8Pt/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "addresses.geojson"
+    },
+    {
+      "title": "Douglas County Wisconsin Parcels",
+      "url": "https://services2.arcgis.com/M6mTSTOW6MNBXtBj/arcgis/rest/services/Douglas_County_Wisconsin_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "douglas_county_wisconsin_parcels.geojson"
+    },
+    {
+      "title": "Wisconsin CAFO FIelds Boundaries (May 2024) ",
+      "url": "https://services3.arcgis.com/C5aIa0c3gUMji8fg/arcgis/rest/services/Wisconsin_CAFO_FIelds_Boundaries_(May_2024)_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wisconsin_cafo_fields_boundaries__may_2024__.geojson"
+    },
+    {
+      "title": "Zoning Fountain City",
+      "url": "https://services2.arcgis.com/4fskj6X2QqYEBVyr/arcgis/rest/services/Zoning_Fountain_City/FeatureServer",
+      "features": 92,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_fountain_city.geojson"
+    },
+    {
+      "title": "Base_Data_2_view",
+      "url": "https://services3.arcgis.com/2uYtTu0NfV9zjs2i/arcgis/rest/services/Base_Data_2_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "base_data_2_view.geojson"
+    },
+    {
+      "title": "Base Farm Tracts",
+      "url": "https://services2.arcgis.com/4fskj6X2QqYEBVyr/arcgis/rest/services/Base_Farm_Tracts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "base_farm_tracts.geojson"
+    },
+    {
+      "title": "Zoning View Layer 2019",
+      "url": "https://services7.arcgis.com/ob3iBq0CA0JS6eE3/arcgis/rest/services/Zoning_View_Layer_2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_view_layer_2019.geojson"
+    },
+    {
+      "title": "Simultaneous Convayance",
+      "url": "https://services2.arcgis.com/kTzzDJBaecBOZCjk/arcgis/rest/services/SimultaneousConvayance/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "simultaneous_convayance.geojson"
+    },
+    {
+      "title": "Municipal Boundary",
+      "url": "https://services2.arcgis.com/kTzzDJBaecBOZCjk/arcgis/rest/services/Municipal_Boundary/FeatureServer",
+      "features": 34,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "municipal_boundary.geojson"
+    },
+    {
+      "title": "Boscobel_Zoning",
+      "url": "https://services3.arcgis.com/OwVO8oKCUjTngz5f/arcgis/rest/services/Boscobel_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "boscobel_zoning.geojson"
+    },
+    {
+      "title": "North Property Tax Parcel",
+      "url": "https://services8.arcgis.com/HJod3DCkTmiFD7vs/arcgis/rest/services/North_Property_Tax_Parcel/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "north_property_tax_parcel.geojson"
+    },
+    {
+      "title": "Zoning Viewing Layer",
+      "url": "https://services3.arcgis.com/3Kf2DMwaWP7HTsew/arcgis/rest/services/Zoning_Viewing_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_viewing_layer.geojson"
+    },
+    {
+      "title": "ClarkCoParcels",
+      "url": "https://services5.arcgis.com/N6XQ8qY4vomGrduj/arcgis/rest/services/ClarkCoParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "clarkcoparcels.geojson"
+    },
+    {
+      "title": "Benton_Zoning",
+      "url": "https://services3.arcgis.com/OwVO8oKCUjTngz5f/arcgis/rest/services/Benton_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "benton_zoning.geojson"
+    },
+    {
+      "title": "Ashland County Parcel Population Estimates_WFL1",
+      "url": "https://services.arcgis.com/HRPe58bUyBqyyiCt/arcgis/rest/services/Ashland_County_Parcel_Population_Estimates_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ashland_county_parcel_population_estimates_wfl1.geojson"
+    },
+    {
+      "title": "City of Beloit Future Land Use Map_WFL1",
+      "url": "https://services6.arcgis.com/pXl5pTRkEtG8CM2r/arcgis/rest/services/City_of_Beloit_Future_Land_Use_Map_WFL1/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "city_of_beloit_future_land_use_map_wfl1.geojson"
+    },
+    {
+      "title": "2024 Town Plan_Amendments",
+      "url": "https://services6.arcgis.com/Tu5JcmtrRRLVaRlf/arcgis/rest/services/2024_Town_Plan_Amendments/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "2024_town_plan_amendments.geojson"
+    },
+    {
+      "title": "Wisconsin CAFO Field Boundaries (WI-DNR, Dec 2024)",
+      "url": "https://services3.arcgis.com/C5aIa0c3gUMji8fg/arcgis/rest/services/WI_CAFO_Field_Boundaries_12_6_24/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wisconsin_cafo_field_boundaries__wi-dnr__dec_2024_.geojson"
+    },
+    {
+      "title": "Parcels (2024)",
+      "url": "https://services6.arcgis.com/OVykjebCTL9ZTdn8/arcgis/rest/services/2024_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels__2024_.geojson"
+    },
+    {
+      "title": "CountyParcelBase_ViewLayer",
+      "url": "https://services7.arcgis.com/ob3iBq0CA0JS6eE3/arcgis/rest/services/CountyParcelBase_ViewLayer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "countyparcelbase_viewlayer.geojson"
+    },
+    {
+      "title": "RockSpringsParcels",
+      "url": "https://services2.arcgis.com/m4ifbfJVkN6lFRO3/arcgis/rest/services/RockSpringsParcels/FeatureServer",
+      "features": 20,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "rockspringsparcels.geojson"
+    },
+    {
+      "title": "Right of Way",
+      "url": "https://services2.arcgis.com/kTzzDJBaecBOZCjk/arcgis/rest/services/Right_of_Way/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "right_of_way.geojson"
+    },
+    {
+      "title": "Mineral Point Addresses",
+      "url": "https://services8.arcgis.com/H7t3NN1b8XE156Ts/arcgis/rest/services/Mineral_Point_Addresses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "mineral_point_addresses.geojson"
+    },
+    {
+      "title": "Wisconsin Land grab_WFL1",
+      "url": "https://services1.arcgis.com/0Lw2m57KEotYYFaA/arcgis/rest/services/Wisconsin_Land_grab_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wisconsin_land_grab_wfl1.geojson"
+    },
+    {
+      "title": "ParcelsEcho",
+      "url": "https://services7.arcgis.com/wDLeIqfs18hKdUWd/arcgis/rest/services/ParcelsEcho/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcelsecho.geojson"
+    },
+    {
+      "title": "Subdivision Blocks",
+      "url": "https://maps.vilascountywi.gov/vilasgis/rest/services/V4/Block/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivision_blocks.geojson"
+    }
+  ]
+}

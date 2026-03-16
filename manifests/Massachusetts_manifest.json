@@ -1,0 +1,1170 @@
+{
+  "state": "Massachusetts",
+  "sources_attempted": 138,
+  "sources_successful": 129,
+  "total_features": 11544,
+  "pulled_at": "2026-03-16T01:30:05.420306",
+  "datasets": [
+    {
+      "title": "ENERGOV_PRODUCTION_FEATURE_MAP",
+      "url": "https://services7.arcgis.com/z3I4HxFCWafiHSiG/arcgis/rest/services/ENERGOV_PRODUCTION_FEATURE_MAP/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "energov_production_feature_map.geojson"
+    },
+    {
+      "title": "EnerGov_Map_WFL1",
+      "url": "https://services3.arcgis.com/PbnvqazCuoNZ4rzO/arcgis/rest/services/EnerGov_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "energov_map_wfl1.geojson"
+    },
+    {
+      "title": "FSO Parcels",
+      "url": "https://services7.arcgis.com/uFAr0LUPy14bDaLg/arcgis/rest/services/FSO_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fso_parcels.geojson"
+    },
+    {
+      "title": "LAYER for MassGIS Property Tax Parcels (from ArcGIS Server)",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/L3Parcels_feature_service/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "layer_for_massgis_property_tax_parcels__from_arcgis_server_.geojson"
+    },
+    {
+      "title": "Marine Habitat (Landscape Project v3.4)",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Landscape_Project_Species_Based_Habitat_Marine/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "marine_habitat__landscape_project_v3_4_.geojson"
+    },
+    {
+      "title": "Energov_Production_Map_WFL1",
+      "url": "https://services5.arcgis.com/hbtBppF7t3PpouVf/arcgis/rest/services/Energov_Production_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "energov_production_map_wfl1.geojson"
+    },
+    {
+      "title": "Graham County Parcels New",
+      "url": "https://services.arcgis.com/rr5PkYU3R3HXxyDH/arcgis/rest/services/Graham_County_Parcels_New/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "graham_county_parcels_new.geojson"
+    },
+    {
+      "title": "Zoning_Maps_for_Web_AGOL_Test3",
+      "url": "https://services.arcgis.com/q3mIlR87lZlZsds3/arcgis/rest/services/Zoning_Maps_for_Web_AGOL_Test3/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_maps_for_web_agol_test3.geojson"
+    },
+    {
+      "title": "2019 Tax Parcels",
+      "url": "https://services3.arcgis.com/NwIC4HArqo0JlKGT/arcgis/rest/services/MadisonCounty2019Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "2019_tax_parcels.geojson"
+    },
+    {
+      "title": "Tax_Parcels",
+      "url": "https://services2.arcgis.com/G6TP4SnXQoFs2r0T/arcgis/rest/services/Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "tax_parcels.geojson"
+    },
+    {
+      "title": "2021 Madison County Tax Parcels",
+      "url": "https://services3.arcgis.com/NwIC4HArqo0JlKGT/arcgis/rest/services/2021_Madison_County_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "2021_madison_county_tax_parcels.geojson"
+    },
+    {
+      "title": "Zoning_MapService",
+      "url": "https://services2.arcgis.com/baoUryRiOxhCY0yb/arcgis/rest/services/Zoning_MapService/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_mapservice.geojson"
+    },
+    {
+      "title": "COT_Mapservices",
+      "url": "https://services1.arcgis.com/38fAqAZVRCrVtPUU/arcgis/rest/services/COT_Mapservices/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cot_mapservices.geojson"
+    },
+    {
+      "title": "CCAD Parcel Feature Set",
+      "url": "https://services2.arcgis.com/uXyoacYrZTPTKD3R/arcgis/rest/services/CCAD_Parcel_Feature_Set/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ccad_parcel_feature_set.geojson"
+    },
+    {
+      "title": "PUBLIC_BASIC_MASTER",
+      "url": "https://maps.ocgov.net/arcgis/rest/services/Public/PUBLIC_BASIC_MASTER/FeatureServer",
+      "features": 56,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_basic_master.geojson"
+    },
+    {
+      "title": "Parcel1_WhiteIL",
+      "url": "https://services.arcgis.com/4YineAQdtmx0tv46/arcgis/rest/services/Parcel1_WhiteIL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcel1_whiteil.geojson"
+    },
+    {
+      "title": "Zoning - City of Marysville, Ohio",
+      "url": "https://services3.arcgis.com/ccRMrVzOSHBUG6X2/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_-_city_of_marysville__ohio.geojson"
+    },
+    {
+      "title": "Zhills_EnGov_Map",
+      "url": "https://services6.arcgis.com/Q4fB6OTUhdN4M9BR/arcgis/rest/services/Zhills_EnGov_Map/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "zhills_engov_map.geojson"
+    },
+    {
+      "title": "Calais_Base_Map",
+      "url": "https://services2.arcgis.com/934qKLCgD0ZN6Uo0/arcgis/rest/services/Calais_Base_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "calais_base_map.geojson"
+    },
+    {
+      "title": "Online_Tax_Map",
+      "url": "https://services5.arcgis.com/QWn8PC1cSwbsBBh6/arcgis/rest/services/Online_Tax_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "online_tax_map.geojson"
+    },
+    {
+      "title": "FS_VCGI_Parcel_Program_Town_Mapping_Status_PRD_FME_v2",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/FS_VCGI_Parcel_Program_Town_Mapping_Status_FME_PRD_v2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fs_vcgi_parcel_program_town_mapping_status_prd_fme_v2.geojson"
+    },
+    {
+      "title": "Official_Map_for_Website_5_25_17",
+      "url": "https://services3.arcgis.com/B9RpfHT8Gso9BEJP/arcgis/rest/services/Official_Map_for_Website_5_25_17/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "official_map_for_website_5_25_17.geojson"
+    },
+    {
+      "title": "USA_Soils_Map_Units",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/3a1a3af0ed4f466f9b84aa3b3cd3a397/rest/services/USA_Soils_Map_Units/featureserver",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usa_soils_map_units.geojson"
+    },
+    {
+      "title": "Property Layers Update",
+      "url": "https://services1.arcgis.com/j8dqo2DJE7mVUBU1/arcgis/rest/services/Property_Layers_Update/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_layers_update.geojson"
+    },
+    {
+      "title": "Madison County 2023 Tax Parcels",
+      "url": "https://services3.arcgis.com/NwIC4HArqo0JlKGT/arcgis/rest/services/2023_Madison_County_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "madison_county_2023_tax_parcels.geojson"
+    },
+    {
+      "title": "Adjoining_Town_Tax_Maps",
+      "url": "https://services2.arcgis.com/IxPw3aIgkKzsK9Lc/arcgis/rest/services/Adjoining_Town_Tax_Maps/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "adjoining_town_tax_maps.geojson"
+    },
+    {
+      "title": "HID_MAIN_MAP",
+      "url": "https://services.arcgis.com/hEiUKo6mOMGUl4Fd/arcgis/rest/services/HID_MAIN_MAP/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hid_main_map.geojson"
+    },
+    {
+      "title": "CDD_Map",
+      "url": "https://services2.arcgis.com/RSm8IFpeYSInb9rO/arcgis/rest/services/CDD_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cdd_map.geojson"
+    },
+    {
+      "title": "Parcels Public View",
+      "url": "https://services2.arcgis.com/wEula7SYiezXcdRv/arcgis/rest/services/Parcels_Public_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_public_view.geojson"
+    },
+    {
+      "title": "CadastralLine_Bureau",
+      "url": "https://services.arcgis.com/4YineAQdtmx0tv46/arcgis/rest/services/CadastralLine_Bureau/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cadastralline_bureau.geojson"
+    },
+    {
+      "title": "Property Layers",
+      "url": "https://services1.arcgis.com/j8dqo2DJE7mVUBU1/arcgis/rest/services/Property_Layers/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_layers.geojson"
+    },
+    {
+      "title": "Sunnyvale_Base_Map",
+      "url": "https://services5.arcgis.com/ecWT8iam2AWjfm3E/arcgis/rest/services/Sunnyvale_Base_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "sunnyvale_base_map.geojson"
+    },
+    {
+      "title": "Zoning_Official",
+      "url": "https://services8.arcgis.com/IeXFMFwivjBzu9iB/arcgis/rest/services/Zoning_Official/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_official.geojson"
+    },
+    {
+      "title": "Property",
+      "url": "https://services1.arcgis.com/j8dqo2DJE7mVUBU1/arcgis/rest/services/Property/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property.geojson"
+    },
+    {
+      "title": "WB_Zoning",
+      "url": "https://services8.arcgis.com/aFGYimPIwM7Z4nt2/arcgis/rest/services/WB_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wb_zoning.geojson"
+    },
+    {
+      "title": "Plat_Maps_2021",
+      "url": "https://services5.arcgis.com/ImL8oyfZuCxsvjaT/arcgis/rest/services/Plat_Maps_2021/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plat_maps_2021.geojson"
+    },
+    {
+      "title": "AssessorTaxMap",
+      "url": "https://services6.arcgis.com/KGSRC6TkZVp4aCuQ/arcgis/rest/services/AssessorTaxMap/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "assessortaxmap.geojson"
+    },
+    {
+      "title": "MassGIS Master Address Points (Feature Service)",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MassGIS_Master_Address_Points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "massgis_master_address_points__feature_service_.geojson"
+    },
+    {
+      "title": "Public_Map_Viewer",
+      "url": "https://services2.arcgis.com/jJDDJN0XbP5tQU8H/arcgis/rest/services/Public_Map_Viewer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "public_map_viewer.geojson"
+    },
+    {
+      "title": "SSMMA Tax Assessor Parcels (2017)",
+      "url": "https://services1.arcgis.com/kZsOWCED80XbRyJ0/arcgis/rest/services/SSMMA_Tax_Assessor_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ssmma_tax_assessor_parcels__2017_.geojson"
+    },
+    {
+      "title": "Statewide City Boundaries",
+      "url": "https://services2.arcgis.com/EiGeaCDLpVDPqdJ5/arcgis/rest/services/MAG_Area_City_Boundaries/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "statewide_city_boundaries.geojson"
+    },
+    {
+      "title": "Parcels_ThayerNE",
+      "url": "https://services.arcgis.com/4YineAQdtmx0tv46/arcgis/rest/services/Parcels_ThayerNE/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_thayerne.geojson"
+    },
+    {
+      "title": "Biddeford _Online_Tax_Map _Parcels_and_Buildings_Related_Tables",
+      "url": "https://services5.arcgis.com/QWn8PC1cSwbsBBh6/arcgis/rest/services/Biddeford__Online_Tax_Map__Parcels_and_Buildings_Related_Tables/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "biddeford__online_tax_map__parcels_and_buildings_related_tab.geojson"
+    },
+    {
+      "title": "JOIN_I81_Parcels_Main",
+      "url": "https://services6.arcgis.com/g0aLRCsb9E6XXVpC/arcgis/rest/services/Join_Features_to_MAP_Parcels_Syracuse/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "join_i81_parcels_main.geojson"
+    },
+    {
+      "title": "ParcelsFY25Common",
+      "url": "https://services3.arcgis.com/i6sQi3PaY7S1nPsB/arcgis/rest/services/ParcelsFY25Common/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcelsfy25common.geojson"
+    },
+    {
+      "title": "EnerGov_Map_New",
+      "url": "https://services7.arcgis.com/OEAudTqrQDUlLjwX/arcgis/rest/services/EnerGov_Map_New/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "energov_map_new.geojson"
+    },
+    {
+      "title": "Parcels View",
+      "url": "https://services9.arcgis.com/wMoJraMZWuVPEmGK/arcgis/rest/services/Parcels_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "Massachusetts Parcel Density",
+      "url": "https://services3.arcgis.com/CvAJ8CJN8sle4rXF/arcgis/rest/services/Massachusetts_Parcel_Density/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "massachusetts_parcel_density.geojson"
+    },
+    {
+      "title": "Planning and Zoning Areas",
+      "url": "https://services1.arcgis.com/j8dqo2DJE7mVUBU1/arcgis/rest/services/Planning_and_Zoning_Areas/FeatureServer",
+      "features": 28,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "planning_and_zoning_areas.geojson"
+    },
+    {
+      "title": "Land_Management_map",
+      "url": "https://services1.arcgis.com/AZDJPberyQGWzLFN/arcgis/rest/services/Land_Management_map/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_management_map.geojson"
+    },
+    {
+      "title": "Zoning_Map_Online",
+      "url": "https://services5.arcgis.com/4CllgMSJJaeToEFP/arcgis/rest/services/Zoning_Map_Online/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_map_online.geojson"
+    },
+    {
+      "title": "Tax_Maps_WFL1",
+      "url": "https://services.arcgis.com/Tbke9ca9DhtF4VIx/arcgis/rest/services/Tax_Maps_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_maps_wfl1.geojson"
+    },
+    {
+      "title": "trenton_master180212",
+      "url": "https://services.arcgis.com/u1t4JVylqipRUzJs/arcgis/rest/services/trenton_master180212/FeatureServer",
+      "features": 18,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "trenton_master180212.geojson"
+    },
+    {
+      "title": "Orange_Base_Map_2019",
+      "url": "https://services2.arcgis.com/934qKLCgD0ZN6Uo0/arcgis/rest/services/Orange_Base_Map_2019/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "orange_base_map_2019.geojson"
+    },
+    {
+      "title": "Parcel_Map_Online",
+      "url": "https://services5.arcgis.com/4CllgMSJJaeToEFP/arcgis/rest/services/Parcel_Map_Online/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_map_online.geojson"
+    },
+    {
+      "title": "Berlin_Base_Map",
+      "url": "https://services2.arcgis.com/934qKLCgD0ZN6Uo0/arcgis/rest/services/Berlin_Base_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "berlin_base_map.geojson"
+    },
+    {
+      "title": "Abutters_FY25_UC",
+      "url": "https://services3.arcgis.com/9eghs4bJoZAGYedu/arcgis/rest/services/Abutters_FY25_UC/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "abutters_fy25_uc.geojson"
+    },
+    {
+      "title": "Official_Zoning_Map",
+      "url": "https://services3.arcgis.com/B9RpfHT8Gso9BEJP/arcgis/rest/services/Official_Zoning_Map/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "official_zoning_map.geojson"
+    },
+    {
+      "title": "Quabbin Reservation Acquisition Parcels (Public View)",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/Quabbin_Reservation_Acquisition_Parcels_(Public_View)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "quabbin_reservation_acquisition_parcels__public_view_.geojson"
+    },
+    {
+      "title": "Parcel_Map_for_Online",
+      "url": "https://services7.arcgis.com/gGn2SSF9F5roaYd2/arcgis/rest/services/Parcel_Map_for_Online/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_map_for_online.geojson"
+    },
+    {
+      "title": "Brownfields",
+      "url": "https://services2.arcgis.com/HsXtOCMp1Nis1Ogr/arcgis/rest/services/Brownfields/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "brownfields.geojson"
+    },
+    {
+      "title": "SDF_Parcel_Map_WFL1",
+      "url": "https://services2.arcgis.com/9Dr0YQ6qqPzosKvr/arcgis/rest/services/SDF_Parcel_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "sdf_parcel_map_wfl1.geojson"
+    },
+    {
+      "title": "Quabbin Parcel Acquisitions with Photo Links",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/Quabbin_Parcel_Acquisitions_with_Photo_Links/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "quabbin_parcel_acquisitions_with_photo_links.geojson"
+    },
+    {
+      "title": "Burlington Zoning Map_WFL1",
+      "url": "https://services5.arcgis.com/BGG0OHtiXRaYFSqx/arcgis/rest/services/Burlington_Zoning_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "burlington_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "Billboard Overlay District",
+      "url": "https://services9.arcgis.com/wMoJraMZWuVPEmGK/arcgis/rest/services/Billboard_Overlay_District/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "billboard_overlay_district.geojson"
+    },
+    {
+      "title": "Parcel Outside GSA 2022",
+      "url": "https://services1.arcgis.com/P5Mv5GY5S66M8Z1Q/arcgis/rest/services/Countywide_Parcel_Base_Outside_GSA_August_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_outside_gsa_2022.geojson"
+    },
+    {
+      "title": "Mendon MA Property Tax Parcels VIEW",
+      "url": "https://services3.arcgis.com/wid5AQd6BHjWWq1h/arcgis/rest/services/Mendon_MA_Property_Tax_Parcels_VIEW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mendon_ma_property_tax_parcels_view.geojson"
+    },
+    {
+      "title": "PortArthurParcels_May2023",
+      "url": "https://services1.arcgis.com/kFBW8xGuknyS8WK0/arcgis/rest/services/PortArthurParcels_May2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "portarthurparcels_may2023.geojson"
+    },
+    {
+      "title": "Ware River Reservation Acquisition Parcels",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/Ware_River_Reservation_Acquisition_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ware_river_reservation_acquisition_parcels.geojson"
+    },
+    {
+      "title": "Watershed Protection Act (WsPA) Affected Parcels (2023)",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/QWW_WsPA_Affected_Parcels_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "watershed_protection_act__wspa__affected_parcels__2023_.geojson"
+    },
+    {
+      "title": "base_points",
+      "url": "https://services.arcgis.com/c5WwApDsDjRhIVkH/arcgis/rest/services/base_points/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "base_points.geojson"
+    },
+    {
+      "title": "Current Arlington Addresses",
+      "url": "https://services2.arcgis.com/s1Sh73K7qtP9JdrG/arcgis/rest/services/Current_Arlington_Addresses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "current_arlington_addresses.geojson"
+    },
+    {
+      "title": "Protected and Recreational OpenSpace Boundaries (arcs)",
+      "url": "https://gis.eea.mass.gov/server/rest/services/Protected_and_Recreational_OpenSpace_Boundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "protected_and_recreational_openspace_boundaries__arcs_.geojson"
+    },
+    {
+      "title": "Parcels_Managed_ReadOnlyView",
+      "url": "https://services3.arcgis.com/f2jEcnX0lCSqvw2G/arcgis/rest/services/Parcels_Managed_ReadOnlyView/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_managed_readonlyview.geojson"
+    },
+    {
+      "title": "Parcels_FY23",
+      "url": "https://services5.arcgis.com/HrhX0iZc4Ri8HVtK/arcgis/rest/services/Parcels_FY23/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_fy23.geojson"
+    },
+    {
+      "title": "Lake_City_Zoning_Map_8262020",
+      "url": "https://services1.arcgis.com/otEVSGO5ESloTE5q/arcgis/rest/services/Lake_City_Zoning_Map_8262020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lake_city_zoning_map_8262020.geojson"
+    },
+    {
+      "title": "Madison Parcels FTP",
+      "url": "https://services7.arcgis.com/xh3dsZbIkSAmWWRV/arcgis/rest/services/Madison_Parcels_FTP/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "madison_parcels_ftp.geojson"
+    },
+    {
+      "title": "Zoning of Unincorporated Marin County",
+      "url": "https://services6.arcgis.com/T8eS7sop5hLmgRRH/arcgis/rest/services/Zoning_of_Unincorporated_Marin_County/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_of_unincorporated_marin_county.geojson"
+    },
+    {
+      "title": "Hardin_Parcels_Mar_2020_Online",
+      "url": "https://services8.arcgis.com/QuuhNNKD3xQ6RqEv/arcgis/rest/services/Hardin_Parcels_Mar_2020_Online/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "hardin_parcels_mar_2020_online.geojson"
+    },
+    {
+      "title": "Quabbin Park Cemetery Tour Grave Lots",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/QPC_Tour_Layers/FeatureServer",
+      "features": 20,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "quabbin_park_cemetery_tour_grave_lots.geojson"
+    },
+    {
+      "title": "Exemptions",
+      "url": "https://services7.arcgis.com/xh3dsZbIkSAmWWRV/arcgis/rest/services/Exemptions/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "exemptions.geojson"
+    },
+    {
+      "title": "Assessor_Map",
+      "url": "https://gis01.city.sanjacintoca.gov/server/rest/services/Assessor_Map/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "assessor_map.geojson"
+    },
+    {
+      "title": "Map of Ashland_ MA_WFL1",
+      "url": "https://services2.arcgis.com/LNyGjxxQBXWW0vo0/arcgis/rest/services/Map_of_Ashland__MA_WFL1/FeatureServer",
+      "features": 8,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "map_of_ashland__ma_wfl1.geojson"
+    },
+    {
+      "title": "Land Use (2005) (Feature Service)",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/LandUse_2005/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_use__2005___feature_service_.geojson"
+    },
+    {
+      "title": "Licensed_Marijuana_Radius",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Licensed_Marijuana_Radius/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "licensed_marijuana_radius.geojson"
+    },
+    {
+      "title": "Land_Preservation_Priority_Map",
+      "url": "https://services.arcgis.com/jmvyvCWpk66LKsrH/arcgis/rest/services/Land_Preservation_Priority_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_preservation_priority_map.geojson"
+    },
+    {
+      "title": "Western Massachusetts Parcel Explorer",
+      "url": "https://services3.arcgis.com/CvAJ8CJN8sle4rXF/arcgis/rest/services/WMPEpublic_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "western_massachusetts_parcel_explorer.geojson"
+    },
+    {
+      "title": "Tax parcels Axtell WBD",
+      "url": "https://services3.arcgis.com/iuNbZYJOrAYBrPyC/arcgis/rest/services/Tax_parcels_Axtell_WBD/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels_axtell_wbd.geojson"
+    },
+    {
+      "title": "East Greenbush Tax Parcels",
+      "url": "https://services6.arcgis.com/ot4PmFN3nu1t9cOF/arcgis/rest/services/East_Greenbush_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "east_greenbush_tax_parcels.geojson"
+    },
+    {
+      "title": "parcels_grafton",
+      "url": "https://services3.arcgis.com/iuNbZYJOrAYBrPyC/arcgis/rest/services/parcels_grafton/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_grafton.geojson"
+    },
+    {
+      "title": "Chapte 61 Parcels",
+      "url": "https://services.arcgis.com/ak79o5kZ71mxOX3m/arcgis/rest/services/Chapter_61_7_22/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "chapte_61_parcels.geojson"
+    },
+    {
+      "title": "zoning",
+      "url": "https://services2.arcgis.com/MtnqIKHuMcAgIo2K/arcgis/rest/services/zoning/FeatureServer",
+      "features": 69,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "Parcels with Current and Pending Addresses",
+      "url": "https://services2.arcgis.com/s1Sh73K7qtP9JdrG/arcgis/rest/services/Parcels_with_Current_and_Pending_Addresses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_with_current_and_pending_addresses.geojson"
+    },
+    {
+      "title": "M045TaxPar_View",
+      "url": "https://services3.arcgis.com/wid5AQd6BHjWWq1h/arcgis/rest/services/M045TaxPar_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "m045taxpar_view.geojson"
+    },
+    {
+      "title": "FitchburgMA_Parcels_2015",
+      "url": "https://services7.arcgis.com/tx9Uvjgzus1Kx8xQ/arcgis/rest/services/FitchburgMA_Parcels_2015/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fitchburgma_parcels_2015.geojson"
+    },
+    {
+      "title": "Winthrop Parcels",
+      "url": "https://services.arcgis.com/c5WwApDsDjRhIVkH/arcgis/rest/services/Winthrop_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "winthrop_parcels.geojson"
+    },
+    {
+      "title": "Berkley Parcels",
+      "url": "https://services6.arcgis.com/euKKjtGUuDiy24vy/arcgis/rest/services/Berkley_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "berkley_parcels.geojson"
+    },
+    {
+      "title": "Land Use 2016 BRAT",
+      "url": "https://services3.arcgis.com/iuNbZYJOrAYBrPyC/arcgis/rest/services/Land_Use_2016_BRAT/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_use_2016_brat.geojson"
+    },
+    {
+      "title": "MassGIS FY2024 Parcel with LaserFiche EntryID",
+      "url": "https://services2.arcgis.com/rZXKAhEda5THzR83/arcgis/rest/services/MassGIS_FY2024_Parcel_with_LaserFiche_EntryID/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "massgis_fy2024_parcel_with_laserfiche_entryid.geojson"
+    },
+    {
+      "title": "Parcels FY2025",
+      "url": "https://services8.arcgis.com/GjUxfmthUNq7qjt9/arcgis/rest/services/Parcels_FY2025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_fy2025.geojson"
+    },
+    {
+      "title": "Marijuana Premises Parcels",
+      "url": "https://services7.arcgis.com/xh3dsZbIkSAmWWRV/arcgis/rest/services/Marijuana_Premises_Parcels/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "marijuana_premises_parcels.geojson"
+    },
+    {
+      "title": "Gloucester_Parcels",
+      "url": "https://services6.arcgis.com/TwiuYpLG79zl29kH/arcgis/rest/services/Gloucester_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "gloucester_parcels.geojson"
+    },
+    {
+      "title": "Arlington Parcels with Current Site Address (view)",
+      "url": "https://services2.arcgis.com/s1Sh73K7qtP9JdrG/arcgis/rest/services/Arlington_Parcels_with_Current_Site_Address_(view)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "arlington_parcels_with_current_site_address__view_.geojson"
+    },
+    {
+      "title": "WALCO_Parcels_Master_ReadOnly",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/WALCO_Parcels_Master_V2_ReadOnly/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "walco_parcels_master_readonly.geojson"
+    },
+    {
+      "title": "School Districts",
+      "url": "https://services5.arcgis.com/ceC3pbsIeU7iCdFg/arcgis/rest/services/School_Districts/FeatureServer",
+      "features": 18,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "school_districts.geojson"
+    },
+    {
+      "title": "Parcels_080524",
+      "url": "https://services8.arcgis.com/6wX7jDKCT8cRPUHm/arcgis/rest/services/Parcels_080524/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_080524.geojson"
+    },
+    {
+      "title": "Special Districts",
+      "url": "https://services5.arcgis.com/ceC3pbsIeU7iCdFg/arcgis/rest/services/Special_Districts/FeatureServer",
+      "features": 11,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "special_districts.geojson"
+    },
+    {
+      "title": "WVU_Master_Parcel_Union_Named",
+      "url": "https://services9.arcgis.com/oBiZycLxRnTJhJER/arcgis/rest/services/WVU_Master_Parcel_Union_Named/FeatureServer",
+      "features": 64,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wvu_master_parcel_union_named.geojson"
+    },
+    {
+      "title": "JEFCO_Parcels_Master_ReadOnly",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/JEFCO_Parcels_Master_V2_ReadOnly/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "jefco_parcels_master_readonly.geojson"
+    },
+    {
+      "title": "Terrestrial Catalyst Fund Parcels (Source Layer)",
+      "url": "https://services.arcgis.com/ak79o5kZ71mxOX3m/arcgis/rest/services/CFC_Parcels_Analysis/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "terrestrial_catalyst_fund_parcels__source_layer_.geojson"
+    },
+    {
+      "title": "EYDO_OG_March2021",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/EYDO_OG_March2021/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "eydo_og_march2021.geojson"
+    },
+    {
+      "title": "WALCO_Parcels_Master_V2_ErrorParcels_View",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/WALCO_Parcels_Master_V2_ErrorParcels_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "walco_parcels_master_v2_errorparcels_view.geojson"
+    },
+    {
+      "title": "Coquille_Upload_March2024",
+      "url": "https://services8.arcgis.com/Mg5lKoVeyQMwwiX3/arcgis/rest/services/Coquille_Upload_March24/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "coquille_upload_march2024.geojson"
+    },
+    {
+      "title": "trenton_master180212_VIEW",
+      "url": "https://services.arcgis.com/u1t4JVylqipRUzJs/arcgis/rest/services/trenton_master180212_VIEW/FeatureServer",
+      "features": 18,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "trenton_master180212_view.geojson"
+    },
+    {
+      "title": "Parcel_BensonND",
+      "url": "https://services.arcgis.com/4YineAQdtmx0tv46/arcgis/rest/services/Parcel_BensonND/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcel_bensonnd.geojson"
+    },
+    {
+      "title": "SouthEndStoryMap_ManufacturingParcels_VacantParcels",
+      "url": "https://services.arcgis.com/pwNwIGBE7M7VOXjQ/arcgis/rest/services/SouthEndStoryMap_ManufacturingParcels_VacantParcels/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "southendstorymap_manufacturingparcels_vacantparcels.geojson"
+    },
+    {
+      "title": "Median Parcel Wetness_WFL1",
+      "url": "https://services.arcgis.com/HRPe58bUyBqyyiCt/arcgis/rest/services/Median_Parcel_Wetness_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "median_parcel_wetness_wfl1.geojson"
+    },
+    {
+      "title": "WALCO_Parcels_Master_V2_R2A_View",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/WALCO_Parcels_Master_V2_R2A_View/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "walco_parcels_master_v2_r2a_view.geojson"
+    },
+    {
+      "title": "Mid Champlain RCP_WFL1",
+      "url": "https://services.arcgis.com/ak79o5kZ71mxOX3m/arcgis/rest/services/Mid_Champlain_RCP_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mid_champlain_rcp_wfl1.geojson"
+    },
+    {
+      "title": "UGA_Parcels_20200617",
+      "url": "https://services.arcgis.com/tsh3MgS57Cs86wmq/arcgis/rest/services/UGA_Parcels_20200617/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "uga_parcels_20200617.geojson"
+    },
+    {
+      "title": "Wyoming_Parcels_simplified",
+      "url": "https://services.arcgis.com/HRPe58bUyBqyyiCt/arcgis/rest/services/Wyoming_Parcels_simplified/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wyoming_parcels_simplified.geojson"
+    },
+    {
+      "title": "Parcel Viewer_WFL1",
+      "url": "https://services.arcgis.com/HRPe58bUyBqyyiCt/arcgis/rest/services/Parcel_Viewer_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_viewer_wfl1.geojson"
+    },
+    {
+      "title": "TEMP_ECR_MAP Existing Generalized Land Use_WFL1",
+      "url": "https://services2.arcgis.com/w657bnjzrjguNyOy/arcgis/rest/services/TEMP_ECR_MAP_Existing_Generalized_Land_Use_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "temp_ecr_map_existing_generalized_land_use_wfl1.geojson"
+    },
+    {
+      "title": "Lake_City_Zoning_Map",
+      "url": "https://services1.arcgis.com/otEVSGO5ESloTE5q/arcgis/rest/services/Lake_City_Zoning_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lake_city_zoning_map.geojson"
+    },
+    {
+      "title": "Parcels_YavapaiCounty_2025",
+      "url": "https://services.arcgis.com/0oJ4dmPrVzF2g9ay/arcgis/rest/services/Parcels_YavapaiCounty_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_yavapaicounty_2025.geojson"
+    },
+    {
+      "title": "Zoning_Map_2018",
+      "url": "https://services.arcgis.com/EFxunwq1ilSJYCXa/arcgis/rest/services/Zoning_Map_2018/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_map_2018.geojson"
+    },
+    {
+      "title": "Parcels_assessing_May2025",
+      "url": "https://services1.arcgis.com/TBWWZRJoZeMDaqgb/arcgis/rest/services/Parcels_assessing_May2025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_assessing_may2025.geojson"
+    },
+    {
+      "title": "Massachusetts Property Tax Parcels (4 Layers) (Feature Service)",
+      "url": "https://arcgisserver.digital.mass.gov/arcgisserver/rest/services/AGOL/MassachusettsPropertyTaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "massachusetts_property_tax_parcels__4_layers___feature_servi.geojson"
+    },
+    {
+      "title": "Southeast New England Program (SNEP) Hydrologic Response Unit (HRU) Map",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/SNEP_HRU_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "southeast_new_england_program__snep__hydrologic_response_uni.geojson"
+    }
+  ]
+}

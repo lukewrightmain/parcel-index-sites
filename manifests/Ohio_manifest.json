@@ -1,0 +1,630 @@
+{
+  "state": "Ohio",
+  "sources_attempted": 87,
+  "sources_successful": 69,
+  "total_features": 6483,
+  "pulled_at": "2026-03-16T01:35:28.949334",
+  "datasets": [
+    {
+      "title": "Logan County Parcels",
+      "url": "https://services9.arcgis.com/mFxO7gBbusFBQ5o9/arcgis/rest/services/Logan_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "logan_county_parcels.geojson"
+    },
+    {
+      "title": "HistoricParcelLines",
+      "url": "https://services.arcgis.com/osmyvTbXDC07yFxn/arcgis/rest/services/HistoricParcelLines/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "historicparcellines.geojson"
+    },
+    {
+      "title": "Parcel",
+      "url": "https://services5.arcgis.com/N1ybEAKiuuUIL8Mz/arcgis/rest/services/Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel.geojson"
+    },
+    {
+      "title": "Parcel Lines",
+      "url": "https://services5.arcgis.com/Hym5ktUHlHiJ3AfR/arcgis/rest/services/Parcel_Lines/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_lines.geojson"
+    },
+    {
+      "title": "Ohio Statewide Parcels Public View",
+      "url": "https://services2.arcgis.com/MlJ0G8iWUyC7jAmu/arcgis/rest/services/OhioStatewidePacels_full_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ohio_statewide_parcels_public_view.geojson"
+    },
+    {
+      "title": "TaxParcels public",
+      "url": "https://services3.arcgis.com/3Ukh5HzAdI6WZ3KP/arcgis/rest/services/TaxParcels_public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxparcels_public.geojson"
+    },
+    {
+      "title": "Lot Lines",
+      "url": "https://services5.arcgis.com/Hym5ktUHlHiJ3AfR/arcgis/rest/services/Lot_Lines/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lot_lines.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/L7YSCDUQyC7Biss6/ArcGIS/rest/services/ParcelBoundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Concord Twp Zoning_V",
+      "url": "https://services.arcgis.com/3TIUdMHOqnLBrZEH/arcgis/rest/services/Concord_Twp_Zoning_V/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "concord_twp_zoning_v.geojson"
+    },
+    {
+      "title": "UA Parcel Layer",
+      "url": "https://services5.arcgis.com/ImL8oyfZuCxsvjaT/arcgis/rest/services/UA_Parcel_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ua_parcel_layer.geojson"
+    },
+    {
+      "title": "BZAP",
+      "url": "https://services5.arcgis.com/ImL8oyfZuCxsvjaT/arcgis/rest/services/BZAP/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "bzap.geojson"
+    },
+    {
+      "title": "Update_Parcels_Sales2018_2022_Final_WFL1",
+      "url": "https://services6.arcgis.com/B46Y85jouykB6S9l/arcgis/rest/services/Update_Parcels_Sales2018_2022_Final_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "update_parcels_sales2018_2022_final_wfl1.geojson"
+    },
+    {
+      "title": "City of Stow Ohio Zoning Districts",
+      "url": "https://services8.arcgis.com/p00UmCdDVF6x4zOV/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_stow_ohio_zoning_districts.geojson"
+    },
+    {
+      "title": "Proposed Global Chemical Ethane Cracker Parcels Belmont County Ohio",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Proposed_Global_Chemical_Ethane_Cracker_Parcels_Belmont_County_Ohio/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "proposed_global_chemical_ethane_cracker_parcels_belmont_coun.geojson"
+    },
+    {
+      "title": "Newton Twp Zoning_V",
+      "url": "https://services.arcgis.com/3TIUdMHOqnLBrZEH/arcgis/rest/services/Newton_Twp_Zoning_V/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "newton_twp_zoning_v.geojson"
+    },
+    {
+      "title": "HenryParcels",
+      "url": "https://services.arcgis.com/osmyvTbXDC07yFxn/arcgis/rest/services/HenryParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "henryparcels.geojson"
+    },
+    {
+      "title": "CommunityOverview_StowPlanning_2025_WFL1",
+      "url": "https://services8.arcgis.com/p00UmCdDVF6x4zOV/arcgis/rest/services/CommunityOverview_StowPlanning_2025_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "communityoverview_stowplanning_2025_wfl1.geojson"
+    },
+    {
+      "title": "Commercial and Industrial Tax Increment Funding Districts TIF",
+      "url": "https://services5.arcgis.com/ZpzXpUOckwsAhLFh/arcgis/rest/services/Commercial_and_Industrial_Tax_Increment_Funding_Districts_TIF/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "commercial_and_industrial_tax_increment_funding_districts_ti.geojson"
+    },
+    {
+      "title": "WayneCo Parcels",
+      "url": "https://services6.arcgis.com/WiOy9S7NUTWyXUe4/arcgis/rest/services/WayneCo_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wayneco_parcels.geojson"
+    },
+    {
+      "title": "State Owned Real Property (SORP) for the State of Ohio",
+      "url": "https://services2.arcgis.com/MlJ0G8iWUyC7jAmu/arcgis/rest/services/SORP25_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_owned_real_property__sorp__for_the_state_of_ohio.geojson"
+    },
+    {
+      "title": "ParcelDrafter",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/fb26ec28784240b39f89c37a25fbbebe/rest/services/Auditor/ParcelDrafter/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parceldrafter.geojson"
+    },
+    {
+      "title": "Address Quadrant",
+      "url": "https://services2.arcgis.com/L7YSCDUQyC7Biss6/arcgis/rest/services/address_quadrant/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "address_quadrant.geojson"
+    },
+    {
+      "title": "Noble Muskingum Guernsey and Belmont Coal Parcels",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Noble_Muskingum_Guernsey_and_Belmont_Coal_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "noble_muskingum_guernsey_and_belmont_coal_parcels.geojson"
+    },
+    {
+      "title": "Barberton_General_Data",
+      "url": "https://services3.arcgis.com/3Ukh5HzAdI6WZ3KP/arcgis/rest/services/Barberton_General_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "barberton_general_data.geojson"
+    },
+    {
+      "title": "E_Palestine_Parcels",
+      "url": "https://services5.arcgis.com/knbwfadp0l3CWWXX/arcgis/rest/services/E_Palestine_Parcels/FeatureServer",
+      "features": 11,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "e_palestine_parcels.geojson"
+    },
+    {
+      "title": "2022 Tax Districts and Rates",
+      "url": "https://services1.arcgis.com/7r2Wl09a1Apy459r/arcgis/rest/services/2022_Tax_Districts_and_Rates/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2022_tax_districts_and_rates.geojson"
+    },
+    {
+      "title": "TaxParcels_dashboard",
+      "url": "https://services3.arcgis.com/3Ukh5HzAdI6WZ3KP/arcgis/rest/services/TaxParcels_dashboard/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxparcels_dashboard.geojson"
+    },
+    {
+      "title": "FindlayFinalParcelAcqs",
+      "url": "https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/FindlayFinalParcelAcqs/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "findlayfinalparcelacqs.geojson"
+    },
+    {
+      "title": "Tax Parcels",
+      "url": "https://services5.arcgis.com/HBIN2hfRscrws7eM/arcgis/rest/services/TaxParcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels.geojson"
+    },
+    {
+      "title": "Parcels_2025_06",
+      "url": "https://services3.arcgis.com/y4utLgB1hH3ocvdq/arcgis/rest/services/Parcels_2022_01/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_2025_06.geojson"
+    },
+    {
+      "title": "Wayne National Forest Oil and Gas Expression Of Interest Parcels as of April 2017",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Wayne_National_Forest_Oil_and_Gas_Expression_Of_Interest_Parcels_as_of_April_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wayne_national_forest_oil_and_gas_expression_of_interest_par.geojson"
+    },
+    {
+      "title": "City of Harrison, Ohio Zoning",
+      "url": "https://services6.arcgis.com/rNwqJl5Q0eeBvp4u/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_harrison__ohio_zoning.geojson"
+    },
+    {
+      "title": "WC_Zoning_2025",
+      "url": "https://services.arcgis.com/vUI8vIh3RxudIQFC/arcgis/rest/services/WC_Zoning_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wc_zoning_2025.geojson"
+    },
+    {
+      "title": "Monroe County Parcels_Wayne",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Monroe_County_Parcels_Wayne/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "monroe_county_parcels_wayne.geojson"
+    },
+    {
+      "title": "Public Map",
+      "url": "https://services8.arcgis.com/5NCvmz1mrqKufinC/arcgis/rest/services/Public_Map/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_map.geojson"
+    },
+    {
+      "title": "Washington_Parcels_Wayne",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Washington_Parcels_Wayne/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "washington_parcels_wayne.geojson"
+    },
+    {
+      "title": "CondoUnitStack_LGIM_2010_2022",
+      "url": "https://services1.arcgis.com/7r2Wl09a1Apy459r/arcgis/rest/services/TaxParcel_CondoUnitStack_LGIM_2010_2022/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "condounitstack_lgim_2010_2022.geojson"
+    },
+    {
+      "title": "Industrial Zoning",
+      "url": "https://services1.arcgis.com/7r2Wl09a1Apy459r/arcgis/rest/services/Industrial_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "industrial_zoning.geojson"
+    },
+    {
+      "title": "CentervilleParcels_2282025",
+      "url": "https://services.arcgis.com/M5UrDFRz2ZRTplQC/arcgis/rest/services/CentervilleParcels_2282025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "centervilleparcels_2282025.geojson"
+    },
+    {
+      "title": "FindlayAcquiredParcelsCityParcels",
+      "url": "https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/FindlayAcquiredParcelsCityParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "findlayacquiredparcelscityparcels.geojson"
+    },
+    {
+      "title": "Job Hub Parcels",
+      "url": "https://services3.arcgis.com/3Ukh5HzAdI6WZ3KP/arcgis/rest/services/Job_Hub_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "job_hub_parcels.geojson"
+    },
+    {
+      "title": "TaxParcels",
+      "url": "https://services3.arcgis.com/3Ukh5HzAdI6WZ3KP/arcgis/rest/services/TaxParcels_dff6b1bf19da44aead2d6f54c8e6bc32/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxparcels.geojson"
+    },
+    {
+      "title": "CURRENT Colerain Township Zoning Map_WFL1",
+      "url": "https://services.arcgis.com/JyZag7oO4NteHGiq/arcgis/rest/services/CURRENT_Colerain_Township_Zoning_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "current_colerain_township_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "Summit County Tax Parcels",
+      "url": "https://services1.arcgis.com/8roChjXOF0iBhNoB/arcgis/rest/services/Summit_County_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "summit_county_tax_parcels.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services5.arcgis.com/Hym5ktUHlHiJ3AfR/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Jurisdictions",
+      "url": "https://services1.arcgis.com/JVJnGNgPBDy0lB85/arcgis/rest/services/Jurisdictions/FeatureServer",
+      "features": 51,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jurisdictions.geojson"
+    },
+    {
+      "title": "Downtown SID Parcels (view)",
+      "url": "https://services1.arcgis.com/CRjnKyCe3OfYTMC3/arcgis/rest/services/Downtown_SID_Parcels_(view)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "downtown_sid_parcels__view_.geojson"
+    },
+    {
+      "title": "OwnershipParcels 2025 Public View",
+      "url": "https://services1.arcgis.com/vGBb7WYV10mOJRNM/arcgis/rest/services/OwnershipParcels_2025_Public_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ownershipparcels_2025_public_view.geojson"
+    },
+    {
+      "title": "East Fork Buck Creek Watershed Parcels_WFL1",
+      "url": "https://services5.arcgis.com/HBIN2hfRscrws7eM/arcgis/rest/services/East_Fork_Buck_Creek_Watershed_Parcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "east_fork_buck_creek_watershed_parcels_wfl1.geojson"
+    },
+    {
+      "title": "Linden_Parcel_Data",
+      "url": "https://services6.arcgis.com/tuxY7TQIaDhLWARO/arcgis/rest/services/Linden_Parcel_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "linden_parcel_data.geojson"
+    },
+    {
+      "title": "TaxParcels_Viewer",
+      "url": "https://services3.arcgis.com/3Ukh5HzAdI6WZ3KP/arcgis/rest/services/TaxParcels_Viewer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxparcels_viewer.geojson"
+    },
+    {
+      "title": "Joined_Parcels-ReadOnly",
+      "url": "https://services3.arcgis.com/KkgpUIloCxkczPwY/arcgis/rest/services/Joined_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "joined_parcels-readonly.geojson"
+    },
+    {
+      "title": "RevalParcels2024",
+      "url": "https://services.arcgis.com/iCMKQVi7HDC0cTKv/arcgis/rest/services/RevalParcels2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "revalparcels2024.geojson"
+    },
+    {
+      "title": "LandUse_SF40kS_ExportFeature",
+      "url": "https://services3.arcgis.com/ratx1xWpTPZDmMzX/arcgis/rest/services/LandUse_SF40kS_ExportFeature/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landuse_sf40ks_exportfeature.geojson"
+    },
+    {
+      "title": "Northeast Ohio Parcels with Conservation Metrics",
+      "url": "https://services5.arcgis.com/x1jg9QWjgt5vXEop/arcgis/rest/services/Northeast_Ohio_Parcels_with_Conservation_Metrics/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "northeast_ohio_parcels_with_conservation_metrics.geojson"
+    },
+    {
+      "title": "Belmont County Ohio Parcels 02 14 2017",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Belmont_County_Ohio_Parcels_02_14_2017/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "belmont_county_ohio_parcels_02_14_2017.geojson"
+    },
+    {
+      "title": "City of Ashland Parcels",
+      "url": "https://services8.arcgis.com/5NCvmz1mrqKufinC/arcgis/rest/services/City_of_Ashland_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_ashland_parcels.geojson"
+    },
+    {
+      "title": "State Owned Real Property (SORP) for the State of Ohio view",
+      "url": "https://services2.arcgis.com/MlJ0G8iWUyC7jAmu/arcgis/rest/services/State_Owned_Real_Property_(SORP)_for_the_State_of_Ohio_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_owned_real_property__sorp__for_the_state_of_ohio_view.geojson"
+    },
+    {
+      "title": "Hamilton Township Zoning Parcels view",
+      "url": "https://services1.arcgis.com/vV4gRvVCTYLVB8jU/arcgis/rest/services/Hamilton_Township_Zoning_Parcels_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hamilton_township_zoning_parcels_view.geojson"
+    },
+    {
+      "title": "CAUV_Parcels_2024Reval",
+      "url": "https://services.arcgis.com/iCMKQVi7HDC0cTKv/arcgis/rest/services/CAUV_Parcels_2024Reval/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cauv_parcels_2024reval.geojson"
+    },
+    {
+      "title": "City of Findlay Zoning",
+      "url": "https://services6.arcgis.com/XMr9uonP553LyU3o/arcgis/rest/services/FindlayZoning/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_findlay_zoning.geojson"
+    },
+    {
+      "title": "Parcel Data",
+      "url": "https://services6.arcgis.com/WiOy9S7NUTWyXUe4/arcgis/rest/services/Parcel_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_data.geojson"
+    },
+    {
+      "title": "Zoning20241023",
+      "url": "https://services.arcgis.com/IjP9BJi77tsOI6vD/arcgis/rest/services/Zoning20241023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning20241023.geojson"
+    },
+    {
+      "title": "Fayette County Ohio GIS Tax Parcels",
+      "url": "https://services8.arcgis.com/CJpiu5T88EYxY793/arcgis/rest/services/Fayette_County_Ohio_GIS_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fayette_county_ohio_gis_tax_parcels.geojson"
+    },
+    {
+      "title": "2024 Reval Tax Parcels",
+      "url": "https://services1.arcgis.com/vGBb7WYV10mOJRNM/arcgis/rest/services/2024_Reval_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2024_reval_tax_parcels.geojson"
+    },
+    {
+      "title": "Central Ohio Parcels",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Central_Ohio_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "central_ohio_parcels.geojson"
+    },
+    {
+      "title": "Stark County Parcels (Secure)",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/067a37ee416e4d11bc23dd1446ad30ba/rest/services/Auditor/StarkCountyParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "stark_county_parcels__secure_.geojson"
+    },
+    {
+      "title": "Central Ohio Watersheds Protected Land",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Central_Ohio_Watersheds_Protected_Land/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "central_ohio_watersheds_protected_land.geojson"
+    },
+    {
+      "title": "Central Ohio Watersheds Protected Land within 1000 foot stream buffer",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Central_Ohio_Watersheds_Protected_Land_within_1000_foot_stream_buffer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "central_ohio_watersheds_protected_land_within_1000_foot_stre.geojson"
+    }
+  ]
+}

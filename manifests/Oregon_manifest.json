@@ -1,0 +1,1638 @@
+{
+  "state": "Oregon",
+  "sources_attempted": 192,
+  "sources_successful": 181,
+  "total_features": 16023,
+  "pulled_at": "2026-03-16T01:36:58.820715",
+  "datasets": [
+    {
+      "title": "Utah PLSS Sections GCDB",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/PLSSSections_GCDB/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_plss_sections_gcdb.geojson"
+    },
+    {
+      "title": "Utah PLSS Townships GCDB",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/PLSSTownships_GCDB/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_plss_townships_gcdb.geojson"
+    },
+    {
+      "title": "Utah PLSS Quarter Sections GCDB",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/UtahPLSSQuarterSections_GCDB/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_plss_quarter_sections_gcdb.geojson"
+    },
+    {
+      "title": "ParcelProperty_PaHost_4",
+      "url": "https://services3.arcgis.com/icrWMv7eBkctFu1f/arcgis/rest/services/ParcelProperty_PaHost_4/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelproperty_pahost_4.geojson"
+    },
+    {
+      "title": "Land_Hooks",
+      "url": "https://services3.arcgis.com/XEKxIX32keB27PXV/arcgis/rest/services/Land_Hooks/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_hooks.geojson"
+    },
+    {
+      "title": "CaveFireVARs_Parcels",
+      "url": "https://services9.arcgis.com/ztLwtMXzJMy86yJE/arcgis/rest/services/CaveFireVARs_Parcels/FeatureServer",
+      "features": 30,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cavefirevars_parcels.geojson"
+    },
+    {
+      "title": "Tyler EPL",
+      "url": "https://services3.arcgis.com/JIovTcv1KPd5wmrk/arcgis/rest/services/Tyler_EPL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tyler_epl.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/oJbAAWNInLrxvF0A/arcgis/rest/services/Parcels_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "MTA_ORE_Properties_-_External_Use",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MTA_ORE_Properties_-_External_Use/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "mta_ore_properties_-_external_use.geojson"
+    },
+    {
+      "title": "Ordinances_Orders",
+      "url": "https://services1.arcgis.com/Ur3TPhgM56qvxaar/arcgis/rest/services/Ordinances_Orders/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ordinances_orders.geojson"
+    },
+    {
+      "title": "Taxlot Additional Records (Public)",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Taxlot_additional_records_public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxlot_additional_records__public_.geojson"
+    },
+    {
+      "title": "23STM1_StormImpactProperties",
+      "url": "https://services9.arcgis.com/ztLwtMXzJMy86yJE/arcgis/rest/services/23STM1_StormImpactProperties/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "23stm1_stormimpactproperties.geojson"
+    },
+    {
+      "title": "Parcels hosted on AGOL",
+      "url": "https://services.arcgis.com/AWzSDaKZ41uuVges/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_hosted_on_agol.geojson"
+    },
+    {
+      "title": "Tax_Lots",
+      "url": "https://services3.arcgis.com/tNPgIZWOB0Efvm0g/arcgis/rest/services/Tax_Lots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_lots.geojson"
+    },
+    {
+      "title": "Utah PLSS Quarter Quarter Sections GCDB",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/UtahPLSSQuarterQuarterSections_GCDB/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "utah_plss_quarter_quarter_sections_gcdb.geojson"
+    },
+    {
+      "title": "ORCA Sites",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/ORCA_Sites/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "orca_sites.geojson"
+    },
+    {
+      "title": "Taxlots with Right of Way (Public)",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Taxlots_with_Right_of_Way_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "taxlots_with_right_of_way__public_.geojson"
+    },
+    {
+      "title": "Precinct4MUDLIDPIDmap_WFL1",
+      "url": "https://services.arcgis.com/HfQs2ClqmipKpmFK/arcgis/rest/services/Precinct4MUDLIDPIDmap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "precinct4mudlidpidmap_wfl1.geojson"
+    },
+    {
+      "title": "Taxlots (Public)",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Taxlots_(Public)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "taxlots__public_.geojson"
+    },
+    {
+      "title": "Subdivisions",
+      "url": "https://services8.arcgis.com/eORKbx5CWReJmkoa/arcgis/rest/services/Subdivisions/FeatureServer",
+      "features": 69,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivisions.geojson"
+    },
+    {
+      "title": "OL Block Numbers",
+      "url": "https://services3.arcgis.com/h9QEFLHkUI1SIRs7/arcgis/rest/services/OL_Block_Numbers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ol_block_numbers.geojson"
+    },
+    {
+      "title": "Wildfire Crisis Strategy (WCS) National Priority Landscapes HUC12 (6th Level) Watershed Risk Summaries",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WCS_HUC_Risk_Summaries_PublicView/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wildfire_crisis_strategy__wcs__national_priority_landscapes_.geojson"
+    },
+    {
+      "title": "PLSS_Section",
+      "url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/PLSS_Section/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_section.geojson"
+    },
+    {
+      "title": "City of Tillamook Zoning Map_WFL",
+      "url": "https://services3.arcgis.com/QPZ5EXku3zqXWyqS/arcgis/rest/services/City_of_Tillamook_Zoning_Map_WFL/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_tillamook_zoning_map_wfl.geojson"
+    },
+    {
+      "title": "BLM OR Land Ownership Dissolved",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/BLM_OR_Land_Ownership_Dissolved/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_land_ownership_dissolved.geojson"
+    },
+    {
+      "title": "Master Address File (MAF)",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Master_Address_File_MAF/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "master_address_file__maf_.geojson"
+    },
+    {
+      "title": "Oregon Public Land Survey",
+      "url": "https://services8.arcgis.com/8PAo5HGmvRMlF2eU/arcgis/rest/services/Oregon_Public_Land_Survey/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oregon_public_land_survey.geojson"
+    },
+    {
+      "title": "Land Reductions",
+      "url": "https://services5.arcgis.com/4LKAHwqnBooVDUlX/arcgis/rest/services/Land_Reductions/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "land_reductions.geojson"
+    },
+    {
+      "title": "Parcels2020",
+      "url": "https://services5.arcgis.com/gWy3ppy8CxiDTKPQ/arcgis/rest/services/Parcels2020/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels2020.geojson"
+    },
+    {
+      "title": "PLSS_TownshipRange",
+      "url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/PLSS_TownshipRange/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_townshiprange.geojson"
+    },
+    {
+      "title": "Statewide Exploring Densities MF Housing Sites - 2022",
+      "url": "https://services6.arcgis.com/euKKjtGUuDiy24vy/arcgis/rest/services/Exploring_Densities_MF_Housing_Sites/FeatureServer",
+      "features": 17,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "statewide_exploring_densities_mf_housing_sites_-_2022.geojson"
+    },
+    {
+      "title": "Threats View",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/Threats_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "threats_view.geojson"
+    },
+    {
+      "title": "Zoning Search Zones CCSD SY25-26",
+      "url": "https://services7.arcgis.com/L9YKUNJNbUSr033r/arcgis/rest/services/ZS_Map_V2_WFL2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_search_zones_ccsd_sy25-26.geojson"
+    },
+    {
+      "title": "Oregon Public Lands",
+      "url": "https://services8.arcgis.com/tblHe99qQFMcNzpC/arcgis/rest/services/Oregon_Public_Lands/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oregon_public_lands.geojson"
+    },
+    {
+      "title": "Public Map Layers",
+      "url": "https://services.arcgis.com/quVN97tn06YNGj9s/arcgis/rest/services/Public_Map_Layers/FeatureServer",
+      "features": 14,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_map_layers.geojson"
+    },
+    {
+      "title": "Delinquent Real Estate Taxes",
+      "url": "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/arcgis/rest/services/Delinquent_Real_Estate_Taxes_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "delinquent_real_estate_taxes.geojson"
+    },
+    {
+      "title": "WCTCOG 9-1-1 Address Data Management",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/b9f611a1d0b549ee8c39af872987020b/rest/services/Address_Data_Management_Publishing/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "wctcog_9-1-1_address_data_management.geojson"
+    },
+    {
+      "title": "USACE Lands for Permitting",
+      "url": "https://services3.arcgis.com/OYP7N6mAJJCyH6hd/arcgis/rest/services/USACE_Land_Permitting_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "usace_lands_for_permitting.geojson"
+    },
+    {
+      "title": "Property boundaries (Islands Trust)",
+      "url": "https://services9.arcgis.com/rLkpFp1GxgPDr9HL/arcgis/rest/services/Property_boundaries_IslandsTrust/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "property_boundaries__islands_trust_.geojson"
+    },
+    {
+      "title": "Encumbrances_Easements_polygons",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Encumbrances_Easements_polygons/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "encumbrances_easements_polygons.geojson"
+    },
+    {
+      "title": "Land_Use",
+      "url": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_use.geojson"
+    },
+    {
+      "title": "Tucson Water Obligated Service Area",
+      "url": "https://services3.arcgis.com/9coHY2fvuFjG9HQX/arcgis/rest/services/TW_OBLIGATEDSERVICEAREA/FeatureServer",
+      "features": 13,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tucson_water_obligated_service_area.geojson"
+    },
+    {
+      "title": "HRA Owned Sites for Redevelopment",
+      "url": "https://services1.arcgis.com/9meaaHE3uiba0zr8/arcgis/rest/services/HRAOwnedSites_ForRedevelopment/FeatureServer",
+      "features": 30,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "hra_owned_sites_for_redevelopment.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services5.arcgis.com/KgTmADyzXWOLUPKd/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "PNW Integrated eNVC Percentile and Risk Assessment Summaries by HUC12 Watershed (QWRA v2)",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/PNW_Integrated_eNVC_Percentile_and_Risk_Assessment_Summaries_by_HUC12_Watershed__PNW_QWRA_v2_/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pnw_integrated_envc_percentile_and_risk_assessment_summaries.geojson"
+    },
+    {
+      "title": "Utah PLSS Point GCDB",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/UtahPLSSGCDBPoints/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_plss_point_gcdb.geojson"
+    },
+    {
+      "title": "Planning",
+      "url": "https://services1.arcgis.com/K1vRaK7vKFsLv6fj/arcgis/rest/services/Planning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "planning.geojson"
+    },
+    {
+      "title": "Sevier County Sections",
+      "url": "https://services6.arcgis.com/yVGfJlcJzFU5V5RT/arcgis/rest/services/Sevier_County_Sections/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sevier_county_sections.geojson"
+    },
+    {
+      "title": "texas_final_region_parcels",
+      "url": "https://services8.arcgis.com/kePfB0a6AiElbP14/arcgis/rest/services/texas_final_region_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "texas_final_region_parcels.geojson"
+    },
+    {
+      "title": "Resilience View",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/Resilience_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "resilience_view.geojson"
+    },
+    {
+      "title": "ParcelLookup",
+      "url": "https://services8.arcgis.com/omhBSxytABi3T0US/arcgis/rest/services/ParcelLookup/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcellookup.geojson"
+    },
+    {
+      "title": "Zoning Cases Post 2000",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/Zoning_Cases_Post_2000/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_cases_post_2000.geojson"
+    },
+    {
+      "title": "Parcel Lots for Great Streets",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Parcel_Lots_for_Great_Streets/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_lots_for_great_streets.geojson"
+    },
+    {
+      "title": "Outdoor Recreation and Conservation Areas (ORCA)",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Outdoor_Recreation_and_Conservation_Areas_ORCA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "outdoor_recreation_and_conservation_areas__orca_.geojson"
+    },
+    {
+      "title": "SRFR Contracted Parcels",
+      "url": "https://services7.arcgis.com/JL4XvjbjMVWH4R8h/arcgis/rest/services/Contracted_Parcels/FeatureServer",
+      "features": 18,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "srfr_contracted_parcels.geojson"
+    },
+    {
+      "title": "Philadelphia Land Use",
+      "url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/PhillyPlanning_Land_Use_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "philadelphia_land_use.geojson"
+    },
+    {
+      "title": "KC_ParcelSales",
+      "url": "https://services.arcgis.com/H6Mh1bySxR4oHx6x/arcgis/rest/services/KC_ParcelSales/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "kc_parcelsales.geojson"
+    },
+    {
+      "title": "Wyoming State Lands",
+      "url": "https://services3.arcgis.com/OYP7N6mAJJCyH6hd/arcgis/rest/services/Wyoming_State_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wyoming_state_lands.geojson"
+    },
+    {
+      "title": "SectionLabels",
+      "url": "https://services1.arcgis.com/DwYBkWQPdaJNWrPG/arcgis/rest/services/SectionLabels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sectionlabels.geojson"
+    },
+    {
+      "title": "PNW Integrated cNVC Percentile and Risk Assessment Summaries by HUC12 Watershed (QWRA v2)",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/PNW_Integrated_cNVC_Percentile_and_Risk_Assessment_Summaries_by_HUC12_Watershed__PNW_QWRA_v2_/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pnw_integrated_cnvc_percentile_and_risk_assessment_summaries.geojson"
+    },
+    {
+      "title": "USBR Lands for Permitting",
+      "url": "https://services3.arcgis.com/OYP7N6mAJJCyH6hd/arcgis/rest/services/USBR_Land_for_Permitting/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "usbr_lands_for_permitting.geojson"
+    },
+    {
+      "title": "PPACG Parcel Place Types",
+      "url": "https://services1.arcgis.com/0plDVQODvYjBRQXP/arcgis/rest/services/PPACG_2025_Parcel_Place_Types/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ppacg_parcel_place_types.geojson"
+    },
+    {
+      "title": "Millcreek Wildland Urban Interface 2025",
+      "url": "https://services9.arcgis.com/XRrSFvEwSsReIxuA/arcgis/rest/services/Millcreek_Wildland_Urban_Interface_2025/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "millcreek_wildland_urban_interface_2025.geojson"
+    },
+    {
+      "title": "Taxlots_20240211",
+      "url": "https://services5.arcgis.com/3DoY8p7EnUTzaIE7/arcgis/rest/services/Taxlots_20240211/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "taxlots_20240211.geojson"
+    },
+    {
+      "title": "Padre Island National Seashore 2-mile Buffer (PADUS)",
+      "url": "https://services1.arcgis.com/YWG34dhJxrbxQWdF/arcgis/rest/services/Padre_Island_Shore_2_mile_Buffer/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "padre_island_national_seashore_2-mile_buffer__padus_.geojson"
+    },
+    {
+      "title": "Linn Parcels",
+      "url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/Linn_Parcels/FeatureServer",
+      "features": 36,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "linn_parcels.geojson"
+    },
+    {
+      "title": "property",
+      "url": "https://services2.arcgis.com/pc4beVTMEhYHqerq/arcgis/rest/services/property/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "property.geojson"
+    },
+    {
+      "title": "Taxlots Change - Geometry",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Taxlots_Change_Geometry/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxlots_change_-_geometry.geojson"
+    },
+    {
+      "title": "Developed Land",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Developed_Land/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "developed_land.geojson"
+    },
+    {
+      "title": "Vacant Land",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_Land/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_land.geojson"
+    },
+    {
+      "title": "TaxParcelsService(M)",
+      "url": "https://services8.arcgis.com/QlNjtMU89yOFWrJ8/arcgis/rest/services/TaxParcelsService/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxparcelsservice_m_.geojson"
+    },
+    {
+      "title": "Mohawk Water Supply Class by Parcel",
+      "url": "https://services2.arcgis.com/okXm0pb6aWH6XOGI/arcgis/rest/services/Mohawk_Water_Supply_Class_by_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mohawk_water_supply_class_by_parcel.geojson"
+    },
+    {
+      "title": "Utah Housing Unit Inventory",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/HousingUnitInventory/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "utah_housing_unit_inventory.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2003",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2003/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2003.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2022",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2022.geojson"
+    },
+    {
+      "title": "plss_township",
+      "url": "https://services7.arcgis.com/y6YW10u0XkJDr4YY/arcgis/rest/services/plss_township/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_township.geojson"
+    },
+    {
+      "title": "WVU Tax Parcel WVGISTC 2021",
+      "url": "https://services9.arcgis.com/oBiZycLxRnTJhJER/arcgis/rest/services/WVU_TaxParcel_Info_WVGISTC_2021/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wvu_tax_parcel_wvgistc_2021.geojson"
+    },
+    {
+      "title": "Parcels on all zones_WFL1",
+      "url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/Parcels_on_all_zones_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_on_all_zones_wfl1.geojson"
+    },
+    {
+      "title": "Mohawk Sewer Class by Parcel",
+      "url": "https://services2.arcgis.com/okXm0pb6aWH6XOGI/arcgis/rest/services/Tax_Parcels_new/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mohawk_sewer_class_by_parcel.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2021",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2021/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2021.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2000",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2000/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2000.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2020",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2020.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2004",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2004/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2004.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2018",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2018/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2018.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 1993",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_1993/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_1993.geojson"
+    },
+    {
+      "title": "land_use_narrowed",
+      "url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/land_use_narrowed/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_use_narrowed.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 1990",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_1990/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_1990.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2008",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2008/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2008.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2005",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2005/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2005.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 1998",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_1998/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_1998.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2012",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2012/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2012.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2002",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2002/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2002.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 1995",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_1995/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_1995.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 1996",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_1996/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_1996.geojson"
+    },
+    {
+      "title": "LocalConservationAreas_BlockIsland_EPSG3438",
+      "url": "https://services9.arcgis.com/04Mfke8TEc0Pvqvt/arcgis/rest/services/LocalConservationAreas_BlockIsland_EPSG3438/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "localconservationareas_blockisland_epsg3438.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2007",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2007/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2007.geojson"
+    },
+    {
+      "title": "August 2025",
+      "url": "https://services2.arcgis.com/7iPhaYyq6PkRoVhV/arcgis/rest/services/August/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "august_2025.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2017",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2017.geojson"
+    },
+    {
+      "title": "Legacy_Parcels",
+      "url": "https://services6.arcgis.com/Tu5JcmtrRRLVaRlf/arcgis/rest/services/Legacy_Parcels/FeatureServer",
+      "features": 97,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "legacy_parcels.geojson"
+    },
+    {
+      "title": "LandUse2021_OR7c_ZonedFarm_1acre50pct",
+      "url": "https://services7.arcgis.com/tdHJEPlA4ngSGfpW/arcgis/rest/services/LandUse2021_OR7c_ZonedFarm_1acre50pct/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landuse2021_or7c_zonedfarm_1acre50pct.geojson"
+    },
+    {
+      "title": "SLIS Public",
+      "url": "https://maps.dsl.state.or.us/arcgis/rest/services/SlisPublic/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "slis_public.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2019",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2019.geojson"
+    },
+    {
+      "title": "Tualatin Land Use Data",
+      "url": "https://services7.arcgis.com/cw66lBk1O7OM8APn/arcgis/rest/services/Tualatin_Land_Use_Data/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tualatin_land_use_data.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2006",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2006/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2006.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2023",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2023.geojson"
+    },
+    {
+      "title": "Du Project Land Use Clip",
+      "url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/Du_Project_Land_Use_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "du_project_land_use_clip.geojson"
+    },
+    {
+      "title": "hazardMitigationBuyout_20240809_polygons_wmA84",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/hazardMitigationBuyout_20240809_polygons_wmA84/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hazardmitigationbuyout_20240809_polygons_wma84.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2015",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2015/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2015.geojson"
+    },
+    {
+      "title": "hazardMitigationBuyout_20240809_centroids_wmA84",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/hazardMitigationBuyout_20240809_centroids_wmA84/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hazardmitigationbuyout_20240809_centroids_wma84.geojson"
+    },
+    {
+      "title": "Unity Parcels",
+      "url": "https://services3.arcgis.com/QNL6ESLaMOiSE2DQ/arcgis/rest/services/Unity_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "unity_parcels.geojson"
+    },
+    {
+      "title": "MULTE_Expanded_Buffer",
+      "url": "https://services.arcgis.com/quVN97tn06YNGj9s/arcgis/rest/services/MULTE_Expanded_Buffer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "multe_expanded_buffer.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2024",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2024.geojson"
+    },
+    {
+      "title": "LandUse2021_UseFarm_OR7c",
+      "url": "https://services7.arcgis.com/tdHJEPlA4ngSGfpW/arcgis/rest/services/LandUse2021_UseFarm_OR7c/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landuse2021_usefarm_or7c.geojson"
+    },
+    {
+      "title": "ParkSpace",
+      "url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/ParkSpace/FeatureServer",
+      "features": 84,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parkspace.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2013",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2013/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2013.geojson"
+    },
+    {
+      "title": "Washington County Parcels",
+      "url": "https://services8.arcgis.com/tblHe99qQFMcNzpC/arcgis/rest/services/Washington_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washington_county_parcels.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 1999",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_1999/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_1999.geojson"
+    },
+    {
+      "title": "Utah  County Townships",
+      "url": "https://services1.arcgis.com/9DapJHuwsEakbYuW/arcgis/rest/services/Utah_County_Townships/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah__county_townships.geojson"
+    },
+    {
+      "title": "Tualatin City Boundary",
+      "url": "https://services7.arcgis.com/cw66lBk1O7OM8APn/arcgis/rest/services/Tualatin_City_Boundary/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tualatin_city_boundary.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2016",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2016/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2016.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2014",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2014/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2014.geojson"
+    },
+    {
+      "title": "MapTaxLot_SinglePart",
+      "url": "https://services.arcgis.com/ogdeCdziRfIzuoFs/arcgis/rest/services/MapTaxLot_SinglePart/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maptaxlot_singlepart.geojson"
+    },
+    {
+      "title": "Port Taxlots",
+      "url": "https://services1.arcgis.com/DSTsMrzgcyf3Fkz4/arcgis/rest/services/Port_Taxlots_OD/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "port_taxlots.geojson"
+    },
+    {
+      "title": "WVU Parcels",
+      "url": "https://services9.arcgis.com/oBiZycLxRnTJhJER/arcgis/rest/services/WVU_Parcels/FeatureServer",
+      "features": 59,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wvu_parcels.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2009",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2009/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2009.geojson"
+    },
+    {
+      "title": "Detroit_MP_Parcel_Authoritative",
+      "url": "https://services2.arcgis.com/PpbvckyUgaYqseNQ/arcgis/rest/services/Detroit_MP_Parcel_Authoritative/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "detroit_mp_parcel_authoritative.geojson"
+    },
+    {
+      "title": "Tax Lots with Zone Changes",
+      "url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/Tax_Lots_with_Zone_Changes/FeatureServer",
+      "features": 51,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_lots_with_zone_changes.geojson"
+    },
+    {
+      "title": "NaturalAreas_RLIS_",
+      "url": "https://services3.arcgis.com/q5Jezm9AgzqyE7Q6/arcgis/rest/services/NaturalAreas_RLIS_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "naturalareas_rlis_.geojson"
+    },
+    {
+      "title": "Taxlots",
+      "url": "https://services1.arcgis.com/aD4sstpQmlnZu2vq/arcgis/rest/services/Taxlots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "taxlots.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2011",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2011/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2011.geojson"
+    },
+    {
+      "title": "tax_parcels",
+      "url": "https://services2.arcgis.com/pc4beVTMEhYHqerq/arcgis/rest/services/tax_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_parcels.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 1997",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_1997/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_1997.geojson"
+    },
+    {
+      "title": "MultoCoAppraisalAndTax",
+      "url": "https://services1.arcgis.com/hwQMmmEzVzbTfv5U/arcgis/rest/services/MultoCoAppraisalAndTax/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "multocoappraisalandtax.geojson"
+    },
+    {
+      "title": "Feb 2026 Parcels",
+      "url": "https://services2.arcgis.com/7iPhaYyq6PkRoVhV/arcgis/rest/services/Feb_2026_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "feb_2026_parcels.geojson"
+    },
+    {
+      "title": "LeastAccessBuffer",
+      "url": "https://services1.arcgis.com/WTeo28TIuKuIFAJu/arcgis/rest/services/LeastAccessBuffer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "leastaccessbuffer.geojson"
+    },
+    {
+      "title": "County of Maui Land Owners and TMK",
+      "url": "https://services2.arcgis.com/iRXQh9fsThHqHhAy/arcgis/rest/services/County_of_Maui_Land_Owners_and_TMK/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_of_maui_land_owners_and_tmk.geojson"
+    },
+    {
+      "title": "Oregon Township and Range - Cadastral PLSS Township - BLM",
+      "url": "https://services3.arcgis.com/XKdcZ5bPprVHpe9t/arcgis/rest/services/BLM_OR_Cadastral_PLSS_Township/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oregon_township_and_range_-_cadastral_plss_township_-_blm.geojson"
+    },
+    {
+      "title": "ClatsopLandUse",
+      "url": "https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/ClatsopLandUse/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "clatsoplanduse.geojson"
+    },
+    {
+      "title": "Richmond_sugarbush_parcel_AOI_Original",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Richmond_sugarbush_parcel_AOI_Original/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "richmond_sugarbush_parcel_aoi_original.geojson"
+    },
+    {
+      "title": "Oregon Township and Range - Cadastral PLSS Intersected - BLM",
+      "url": "https://services3.arcgis.com/XKdcZ5bPprVHpe9t/arcgis/rest/services/BLM_OR_Cadastral_PLSS_Intersected/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oregon_township_and_range_-_cadastral_plss_intersected_-_blm.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2001",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2001/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2001.geojson"
+    },
+    {
+      "title": "hazardMitigationBuyout_20240715_centroids_wmA84",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/hazardMitigationBuyout_20240715_centroids_wmA84/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hazardmitigationbuyout_20240715_centroids_wma84.geojson"
+    },
+    {
+      "title": "Oregon Township and Range - Cadastral PLSS First - BLM",
+      "url": "https://services3.arcgis.com/XKdcZ5bPprVHpe9t/arcgis/rest/services/BLM_OR_Cadastral_PLSS_First/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oregon_township_and_range_-_cadastral_plss_first_-_blm.geojson"
+    },
+    {
+      "title": "LCC_Zones",
+      "url": "https://services5.arcgis.com/9s1YtFmLS0YTl10F/arcgis/rest/services/LCC_Zones/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lcc_zones.geojson"
+    },
+    {
+      "title": "County PLSS Townships large scale",
+      "url": "https://services1.arcgis.com/DwYBkWQPdaJNWrPG/arcgis/rest/services/County_PLSS_Townships_large_scale/FeatureServer",
+      "features": 87,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_plss_townships_large_scale.geojson"
+    },
+    {
+      "title": "ASA_Sections_WGS",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/ASA_Sections_WGS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "asa_sections_wgs.geojson"
+    },
+    {
+      "title": "Vacant and Developed Land 2010",
+      "url": "https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Vacant_and_Developed_Land_2010/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_and_developed_land_2010.geojson"
+    },
+    {
+      "title": "ODOT Owned Parcels",
+      "url": "https://services.arcgis.com/kIA6yS9KDGqZL7U3/arcgis/rest/services/ODOT_Owned_Parcels/FeatureServer",
+      "features": 72,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "odot_owned_parcels.geojson"
+    },
+    {
+      "title": "Under2acrePoints",
+      "url": "https://services1.arcgis.com/DwYBkWQPdaJNWrPG/arcgis/rest/services/Under2acrePoints/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "under2acrepoints.geojson"
+    },
+    {
+      "title": "ASA_QQ_WGS",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/ASA_QQ_WGS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "asa_qq_wgs.geojson"
+    },
+    {
+      "title": "ASA_Q_WGS",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/ASA_Q_WGS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "asa_q_wgs.geojson"
+    },
+    {
+      "title": "Maui County Parcels without Roads",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/main_mauicotmk_not999_wgs84/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "maui_county_parcels_without_roads.geojson"
+    },
+    {
+      "title": "ASA_Townships_WGS",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/ASA_Townships_WGS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "asa_townships_wgs.geojson"
+    },
+    {
+      "title": "FarmPcls_18Apr2024",
+      "url": "https://services.arcgis.com/neJvtQ4PXvnQ86MJ/arcgis/rest/services/FarmPcls_18Apr2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "farmpcls_18apr2024.geojson"
+    },
+    {
+      "title": "Palmer Township Vacant Parcels",
+      "url": "https://services9.arcgis.com/1jQCpEkFaeEIWkMe/arcgis/rest/services/Palmer_Township_Vacant_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "palmer_township_vacant_parcels.geojson"
+    },
+    {
+      "title": "Buildingsry",
+      "url": "https://services7.arcgis.com/mbC97TSabuNgCnce/arcgis/rest/services/Buildingsry/FeatureServer",
+      "features": 19,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "buildingsry.geojson"
+    },
+    {
+      "title": "Over2acrePoints",
+      "url": "https://services1.arcgis.com/DwYBkWQPdaJNWrPG/arcgis/rest/services/Over2acrePoints/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "over2acrepoints.geojson"
+    },
+    {
+      "title": "QrtQrtSectionsChemultASA",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/QrtQrtSectionsChemultASA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "qrtqrtsectionschemultasa.geojson"
+    },
+    {
+      "title": "DPC Parcels",
+      "url": "https://services.arcgis.com/neJvtQ4PXvnQ86MJ/arcgis/rest/services/DPC_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dpc_parcels.geojson"
+    },
+    {
+      "title": "OregonLandUse_Clip",
+      "url": "https://services5.arcgis.com/W1uyphp8h2tna3qJ/arcgis/rest/services/OregonLandUse_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oregonlanduse_clip.geojson"
+    },
+    {
+      "title": "buyoutPolygons20240809",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/buyoutPolygons20240809/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "buyoutpolygons20240809.geojson"
+    },
+    {
+      "title": "Maui_Parcels_setbacks_septic",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Maui_Parcels_setbacks_septic/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "maui_parcels_setbacks_septic.geojson"
+    },
+    {
+      "title": "M56_OwnershipLayer",
+      "url": "https://services3.arcgis.com/QNL6ESLaMOiSE2DQ/arcgis/rest/services/M56_OwnershipLayer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "m56_ownershiplayer.geojson"
+    },
+    {
+      "title": "SecondDivisionASA",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/SecondDivisionASA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "seconddivisionasa.geojson"
+    },
+    {
+      "title": "misstownship",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/misstownship/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "misstownship.geojson"
+    },
+    {
+      "title": "OR_Tri_Client_ Harlan Borow _ Commercial Search _ Undeveloped 20220422_WFL1",
+      "url": "https://services.arcgis.com/VYsrLd1WbPJ93eyz/arcgis/rest/services/OR_Tri_Client__Harlan_Borow___Commercial_Search___Undeveloped_20220422_WFL1/FeatureServer",
+      "features": 13,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "or_tri_client__harlan_borow___commercial_search___undevelope.geojson"
+    },
+    {
+      "title": "ASA10_190308",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/ASA10_190308/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "asa10_190308.geojson"
+    },
+    {
+      "title": "Phase1_Parcels_SCORE",
+      "url": "https://services3.arcgis.com/AIedJ8QOuTCbJmk4/arcgis/rest/services/Parcels_Opps_SCORE/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "phase1_parcels_score.geojson"
+    },
+    {
+      "title": "QrtQrtSectionsASA",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/QrtQrtSectionsASA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "qrtqrtsectionsasa.geojson"
+    },
+    {
+      "title": "SectionsChemultASA",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/SectionsChemultASA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sectionschemultasa.geojson"
+    },
+    {
+      "title": "TownshipASA",
+      "url": "https://services1.arcgis.com/FB50u5E6wrw7l3d1/arcgis/rest/services/TownshipASA/FeatureServer",
+      "features": 56,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "townshipasa.geojson"
+    },
+    {
+      "title": "OR_Tri_Client _ Tucker Owen _ I205 Oak Grove to Oregon City 5_30 units _ 03_2023_WFL1",
+      "url": "https://services.arcgis.com/VYsrLd1WbPJ93eyz/arcgis/rest/services/OR_Tri_Client___Tucker_Owen___I205_Oak_Grove_to_Oregon_City_5_30_units___03_2023_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "or_tri_client___tucker_owen___i205_oak_grove_to_oregon_city_.geojson"
+    },
+    {
+      "title": "West Windsor Parcel Map dsheare3_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/West_Windsor_Parcel_Map_dsheare3_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "west_windsor_parcel_map_dsheare3_wfl1.geojson"
+    },
+    {
+      "title": "LocalConservationAreas_BlockIsland_EPSG3438",
+      "url": "https://services9.arcgis.com/6EuFgO4fLTqfNOhu/arcgis/rest/services/LocalConservationAreas_BlockIsland_EPSG3438/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "localconservationareas_blockisland_epsg3438.geojson"
+    },
+    {
+      "title": "Taxlots_PUBLIC_AGOL",
+      "url": "https://services2.arcgis.com/FG6egSBuusZHY3D1/arcgis/rest/services/Taxlots_PUBLIC_AGOL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "taxlots_public_agol.geojson"
+    },
+    {
+      "title": "LaneCounty_Buildings__Taxlots_FireAreas_SpatialJoin",
+      "url": "https://services9.arcgis.com/R4AYjTLa5g2C5fq2/arcgis/rest/services/LaneCounty_Buildings__Taxlots_FireAreas_SpatialJoin/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lanecounty_buildings__taxlots_fireareas_spatialjoin.geojson"
+    },
+    {
+      "title": "Maui county TMKs",
+      "url": "https://services6.arcgis.com/n132qPR6OPYplXuW/arcgis/rest/services/Maui_county_TMKs/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "maui_county_tmks.geojson"
+    },
+    {
+      "title": "Target Oregon Relators",
+      "url": "https://services1.arcgis.com/T1XS85Rf93qeUx9G/arcgis/rest/services/Target_Oregon_Relators/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "target_oregon_relators.geojson"
+    },
+    {
+      "title": "West Windsor parcels map dsheare3_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/West_Windsor_parcels_map_dsheare3_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "west_windsor_parcels_map_dsheare3_wfl1.geojson"
+    },
+    {
+      "title": "SKParcels_Oct2022selection",
+      "url": "https://services8.arcgis.com/so2EgTyc9zimSJvq/arcgis/rest/services/SKParcels_Oct2022selection/FeatureServer",
+      "features": 28,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "skparcels_oct2022selection.geojson"
+    },
+    {
+      "title": "USFWS National Realty Boundaries",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/FWSInterest_Simplified_Authoritative/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usfws_national_realty_boundaries.geojson"
+    }
+  ]
+}

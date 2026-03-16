@@ -1,0 +1,1008 @@
+{
+  "state": "Delaware",
+  "sources_attempted": 129,
+  "sources_successful": 111,
+  "total_features": 8696,
+  "pulled_at": "2026-03-16T01:21:06.247005",
+  "datasets": [
+    {
+      "title": "Parcels (Deprecated)",
+      "url": "https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/Parcels_Current/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels__deprecated_.geojson"
+    },
+    {
+      "title": "Parcels (Current)",
+      "url": "https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/parcel_file_current/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels__current_.geojson"
+    },
+    {
+      "title": "Parcel Boundaries of Indiana Current",
+      "url": "https://gisdata.in.gov/server/rest/services/Hosted/Parcel_Boundaries_of_Indiana_Current/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_boundaries_of_indiana_current.geojson"
+    },
+    {
+      "title": "Parcels (Dublin, Ohio Merged)",
+      "url": "https://services1.arcgis.com/NqY8dnPSEdMJhuRw/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels__dublin__ohio_merged_.geojson"
+    },
+    {
+      "title": "Delaware Bay Habitat (Landscape Project v3.4)",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Landscape_Project_Species_Based_Habitat_Delaware_Bay/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_bay_habitat__landscape_project_v3_4_.geojson"
+    },
+    {
+      "title": "DE_StateParcels - State Parcels - Kent FM2",
+      "url": "https://enterprise.firstmap.delaware.gov/arcgis/rest/services/PlanningCadastre/DE_StateParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "de_stateparcels_-_state_parcels_-_kent_fm2.geojson"
+    },
+    {
+      "title": "State Boundary of NJ, 3424",
+      "url": "https://services2.arcgis.com/XVOqAjTOJ5P6ngMu/arcgis/rest/services/NJ_State_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_boundary_of_nj__3424.geojson"
+    },
+    {
+      "title": "Lots cadastre",
+      "url": "https://sig.argenteuil.qc.ca/server/rest/services/DB_PROD/lots_cadastre/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lots_cadastre.geojson"
+    },
+    {
+      "title": "McHenryParcels_Test",
+      "url": "https://services5.arcgis.com/72ZZon8FQb6nYtKt/arcgis/rest/services/McHenryParcels_Test/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mchenryparcels_test.geojson"
+    },
+    {
+      "title": "Neighborhood Enterprise Zones - Homestead (NEZ-H), Current",
+      "url": "https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/NEZHOMESTEAD2021/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "neighborhood_enterprise_zones_-_homestead__nez-h___current.geojson"
+    },
+    {
+      "title": "Parcel",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel.geojson"
+    },
+    {
+      "title": "Subdivision",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/Subdivision/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivision.geojson"
+    },
+    {
+      "title": "Delaware County Parcels Public Access",
+      "url": "https://gis.delcopa.gov/arcgis/rest/services/Parcels/Parcels_Public_Access/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "delaware_county_parcels_public_access.geojson"
+    },
+    {
+      "title": "Zoning_and_Land_Use_Designations",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Zoning_and_Land_Use_Designations/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_and_land_use_designations.geojson"
+    },
+    {
+      "title": "NYC_WaterConnection_DEP24V10_202410_PG_REV3",
+      "url": "https://services.arcgis.com/at3rDjch5X7i9Bag/arcgis/rest/services/NYC_WaterConnection_DEP24V10_202410_PG_REV3/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nyc_waterconnection_dep24v10_202410_pg_rev3.geojson"
+    },
+    {
+      "title": "Priority Project and Parcel Selections - Eglin & Tyndall",
+      "url": "https://services.arcgis.com/RCbhhjhpPZMzteoU/arcgis/rest/services/Priority_Proj_Parcels/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "priority_project_and_parcel_selections_-_eglin___tyndall.geojson"
+    },
+    {
+      "title": "Property Sales",
+      "url": "https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/assessor_property_sales_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales.geojson"
+    },
+    {
+      "title": "UPDE Municipal Zoning 2024",
+      "url": "https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/UPDE_BND_TownZoning_ply/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "upde_municipal_zoning_2024.geojson"
+    },
+    {
+      "title": "Niagara Falls Property Parcels",
+      "url": "https://services9.arcgis.com/oMFQlUUrLd1Uh1bd/arcgis/rest/services/Niagara_Falls_Property_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "niagara_falls_property_parcels.geojson"
+    },
+    {
+      "title": "GPD_Form_Use_Density_March_29_2023",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/GPD_Form_Use_Density_March_29_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gpd_form_use_density_march_29_2023.geojson"
+    },
+    {
+      "title": "ParcelWebpublish",
+      "url": "https://services.arcgis.com/VyRjdyMziYNF5Bwe/arcgis/rest/services/ParcelWebpublish/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcelwebpublish.geojson"
+    },
+    {
+      "title": "Right_of_Way_and_Deeds",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Right_of_Way_and_Deeds/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "right_of_way_and_deeds.geojson"
+    },
+    {
+      "title": "Farm Lot",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/Farm_Lot/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "farm_lot.geojson"
+    },
+    {
+      "title": "School District",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/School_District/FeatureServer",
+      "features": 23,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "school_district.geojson"
+    },
+    {
+      "title": "AGO_NewarkParcels_Labeled_MS",
+      "url": "https://services.arcgis.com/nQgBxn6WXyRCKVUz/arcgis/rest/services/AGO_NewarkParcels_Labeled_MS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ago_newarkparcels_labeled_ms.geojson"
+    },
+    {
+      "title": "KN15682_UTAH0043_ROWparcels (public view only)",
+      "url": "https://services.arcgis.com/gfpXnknjcY6QHKhU/arcgis/rest/services/KN15682_UTAH0043_ROWparcels_(editing)_viewing/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "kn15682_utah0043_rowparcels__public_view_only_.geojson"
+    },
+    {
+      "title": "Historic_Sites_of_Newtown_Square_in_1892",
+      "url": "https://services3.arcgis.com/2moS4uuhIzUP5dNH/arcgis/rest/services/Historic_Sites_of_Newtown_Square_in_1892/FeatureServer",
+      "features": 5,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "historic_sites_of_newtown_square_in_1892.geojson"
+    },
+    {
+      "title": "zoning parcel map combo",
+      "url": "https://services3.arcgis.com/2moS4uuhIzUP5dNH/arcgis/rest/services/Online_Maps_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_parcel_map_combo.geojson"
+    },
+    {
+      "title": "Delaware County Parcel Info",
+      "url": "https://services.arcgis.com/VyRjdyMziYNF5Bwe/arcgis/rest/services/ParcelInfo/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_county_parcel_info.geojson"
+    },
+    {
+      "title": "Barberton_Planning_Development",
+      "url": "https://services3.arcgis.com/3Ukh5HzAdI6WZ3KP/arcgis/rest/services/Barberton_Planning_Development/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "barberton_planning_development.geojson"
+    },
+    {
+      "title": "DVRPC_Land_Use_2015___Undeveloped",
+      "url": "https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/DVRPC_Land_Use_2015___Undeveloped/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dvrpc_land_use_2015___undeveloped.geojson"
+    },
+    {
+      "title": "Zip Code",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/Zip_Code/FeatureServer",
+      "features": 64,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zip_code.geojson"
+    },
+    {
+      "title": "Zoning_DELETE",
+      "url": "https://services1.arcgis.com/aZEZgA7GEh819dvL/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_delete.geojson"
+    },
+    {
+      "title": "STORYMAP_DEMO_TRANSIT_ZONING_WFL1",
+      "url": "https://services1.arcgis.com/Ps1YVQiv5JQLIFu2/arcgis/rest/services/STORYMAP_DEMO_TRANSIT_ZONING_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "storymap_demo_transit_zoning_wfl1.geojson"
+    },
+    {
+      "title": "Chouteau_PUBLIC_Parcels",
+      "url": "https://services8.arcgis.com/pGAq1gLItvGrOScO/arcgis/rest/services/Chouteau_PUBLIC_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "chouteau_public_parcels.geojson"
+    },
+    {
+      "title": "NYC_WaterConnection_DEP25V11_202601_PG_gdb",
+      "url": "https://services.arcgis.com/at3rDjch5X7i9Bag/arcgis/rest/services/NYC_WaterConnection_DEP25V11_202601_PG_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nyc_waterconnection_dep25v11_202601_pg_gdb.geojson"
+    },
+    {
+      "title": "Parcel_export_2023_Dec",
+      "url": "https://services6.arcgis.com/Nx0Kxzo2nhFhIbCV/arcgis/rest/services/Parcel_export_2023_Dec/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_export_2023_dec.geojson"
+    },
+    {
+      "title": "Contracts_Dev_Sale",
+      "url": "https://gis.trustlands.utah.gov/mapping/rest/services/Contracts_Dev_Sale/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "contracts_dev_sale.geojson"
+    },
+    {
+      "title": "Parcels Adjusted",
+      "url": "https://services2.arcgis.com/JSw5FPLGACZknOZv/arcgis/rest/services/Parcels_Adjusted/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_adjusted.geojson"
+    },
+    {
+      "title": "IDNR_DesPlainesStateFishandWildlife",
+      "url": "https://services.arcgis.com/fGsbyIOAuxHnF97m/arcgis/rest/services/IDNR_DesPlainesStateFishandWildlife/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "idnr_desplainesstatefishandwildlife.geojson"
+    },
+    {
+      "title": "HLZ Suitability on DoD Installations _ Oahu_ Hawaii",
+      "url": "https://services1.arcgis.com/qTQ6qYkHpxlu0G82/arcgis/rest/services/HLZ_Suitability_on_DoD_Installations___Oahu__Hawaii/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hlz_suitability_on_dod_installations___oahu__hawaii.geojson"
+    },
+    {
+      "title": "Parcel Update Boundary",
+      "url": "https://services1.arcgis.com/NqY8dnPSEdMJhuRw/arcgis/rest/services/Parcel_Update_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_update_boundary.geojson"
+    },
+    {
+      "title": "Delaware_PrivateProp_AggregateParcels",
+      "url": "https://services.arcgis.com/zGE9AukqyfoIhMHb/arcgis/rest/services/Delaware_PrivateProp_AggregateParcels/FeatureServer",
+      "features": 27,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_privateprop_aggregateparcels.geojson"
+    },
+    {
+      "title": "nc_developmentsites",
+      "url": "https://services6.arcgis.com/XpyWTDYqLlWnNWDq/arcgis/rest/services/nc_developmentsites/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nc_developmentsites.geojson"
+    },
+    {
+      "title": "dvrpc_region",
+      "url": "https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/dvrpc_region/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dvrpc_region.geojson"
+    },
+    {
+      "title": "Delaware Kent County Parcels 2.0",
+      "url": "https://gis.kentcountyde.gov/server/rest/services/Parcels/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "delaware_kent_county_parcels_2_0.geojson"
+    },
+    {
+      "title": "Taxing_Units",
+      "url": "https://services.arcgis.com/VyRjdyMziYNF5Bwe/arcgis/rest/services/Taxing_Units/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxing_units.geojson"
+    },
+    {
+      "title": "LandUse",
+      "url": "https://services7.arcgis.com/8kZv9DESIQ1hYuyJ/arcgis/rest/services/LandUse/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landuse.geojson"
+    },
+    {
+      "title": "Newtown Township Zoning Map_WFL1",
+      "url": "https://services3.arcgis.com/2moS4uuhIzUP5dNH/arcgis/rest/services/Newtown_Township_Zoning_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "newtown_township_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "Wyoming_Parcels_August2025",
+      "url": "https://services7.arcgis.com/85E8yrjEGbCKVQjw/arcgis/rest/services/Wyoming_Parcels_August2025/FeatureServer",
+      "features": 14,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "wyoming_parcels_august2025.geojson"
+    },
+    {
+      "title": "Chadds Ford Township Parcels",
+      "url": "https://services2.arcgis.com/nY5zvXHAje4LAUxE/arcgis/rest/services/Chadds_Ford_Township_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "chadds_ford_township_parcels.geojson"
+    },
+    {
+      "title": "Pinckneyville_Enterprise_Boundary",
+      "url": "https://services2.arcgis.com/kVhBUtzgRFJZxuuX/arcgis/rest/services/Pinckneyville_Enterprise_Boundary/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pinckneyville_enterprise_boundary.geojson"
+    },
+    {
+      "title": "Municipal Boundaries for NJ, PA, DE, and MD (line)",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/municipalboundaries_line/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipal_boundaries_for_nj__pa__de__and_md__line_.geojson"
+    },
+    {
+      "title": "Del_Water_Gap",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Del_Water_Gap/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "del_water_gap.geojson"
+    },
+    {
+      "title": "Tax Incentive Areas_WFL1",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/Tax_Incentive_Areas_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tax_incentive_areas_wfl1.geojson"
+    },
+    {
+      "title": "Contracts_Dev_Dedication",
+      "url": "https://gis.trustlands.utah.gov/mapping/rest/services/Contracts_Dev_Dedication/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "contracts_dev_dedication.geojson"
+    },
+    {
+      "title": "Balloon Landing Map_WFL1",
+      "url": "https://services3.arcgis.com/iISaUisYi4rM2M0D/arcgis/rest/services/Balloon_Landing_Map_WFL1/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "balloon_landing_map_wfl1.geojson"
+    },
+    {
+      "title": "Municipal Boundaries for NJ, PA, DE, and MD",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/municipalboundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "municipal_boundaries_for_nj__pa__de__and_md.geojson"
+    },
+    {
+      "title": "Parcelas Louiville",
+      "url": "https://services5.arcgis.com/l23kE3b7uPnZIuaB/arcgis/rest/services/Parcelas_Louiville/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelas_louiville.geojson"
+    },
+    {
+      "title": "Municipal Boundaries/Philadelphia County Planning Areas for the DVRPC Region",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/dvrpc_mcd_phicpa/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipal_boundaries_philadelphia_county_planning_areas_for_.geojson"
+    },
+    {
+      "title": "Decorah_Parcels_Dec2021",
+      "url": "https://services7.arcgis.com/YCtITycTdKKL214V/arcgis/rest/services/Decorah_Parcels_Dec2021/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "decorah_parcels_dec2021.geojson"
+    },
+    {
+      "title": "CRA Districts (Public view)",
+      "url": "https://services.arcgis.com/OrM4sGBhxpl5PoQe/arcgis/rest/services/CRA_(Public_view)/FeatureServer",
+      "features": 5,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cra_districts__public_view_.geojson"
+    },
+    {
+      "title": "Contracts_Dev_Subdivision_Lot",
+      "url": "https://gis.trustlands.utah.gov/mapping/rest/services/Contracts_Dev_Subdivision_Lot/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "contracts_dev_subdivision_lot.geojson"
+    },
+    {
+      "title": "DelawareCityParcels_Prior_1998_New",
+      "url": "https://services2.arcgis.com/jCPZmQjF0kIPAohC/arcgis/rest/services/DelawareCityParcels_Prior_1998_New/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delawarecityparcels_prior_1998_new.geojson"
+    },
+    {
+      "title": "DE State Parcels",
+      "url": "https://services2.arcgis.com/JSw5FPLGACZknOZv/arcgis/rest/services/DE_State_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "de_state_parcels.geojson"
+    },
+    {
+      "title": "Potential_Developable_Properties",
+      "url": "https://services1.arcgis.com/qTQ6qYkHpxlu0G82/arcgis/rest/services/Potential_Developable_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "potential_developable_properties.geojson"
+    },
+    {
+      "title": "Parcel Acreage Review Oct 14",
+      "url": "https://services2.arcgis.com/JSw5FPLGACZknOZv/arcgis/rest/services/ParcelsOct14MapAcreFt/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_acreage_review_oct_14.geojson"
+    },
+    {
+      "title": "ND_IndustrialFA_VacantLand",
+      "url": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/ND_IndustrialFA_VacantLand/FeatureServer",
+      "features": 48,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nd_industrialfa_vacantland.geojson"
+    },
+    {
+      "title": "Yavapai County Proposed Land Use Comprehensive Plan_WFL1",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/arcgis/rest/services/Yavapai_County_Proposed_Land_Use_Comprehensive_Plan_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "yavapai_county_proposed_land_use_comprehensive_plan_wfl1.geojson"
+    },
+    {
+      "title": "DelawareCityParcels_LeadPossible View",
+      "url": "https://services2.arcgis.com/jCPZmQjF0kIPAohC/arcgis/rest/services/DelawareCityParcels_LeadPossible_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delawarecityparcels_leadpossible_view.geojson"
+    },
+    {
+      "title": "CMAP_Land_Use_Inventory__2020",
+      "url": "https://services7.arcgis.com/8kZv9DESIQ1hYuyJ/arcgis/rest/services/CMAP_Land_Use_Inventory__2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cmap_land_use_inventory__2020.geojson"
+    },
+    {
+      "title": "dvrpc_region_states",
+      "url": "https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/dvrpc_region_states/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dvrpc_region_states.geojson"
+    },
+    {
+      "title": "Cassopolis_Parcels",
+      "url": "https://services8.arcgis.com/PrsPdsflms4LbDeT/arcgis/rest/services/Cassopolis_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cassopolis_parcels.geojson"
+    },
+    {
+      "title": "Parcels_Merged_Franklin_and_Delaware_Only",
+      "url": "https://services1.arcgis.com/NqY8dnPSEdMJhuRw/arcgis/rest/services/Parcels_Merged_Franklin_and_Delaware_Only/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_merged_franklin_and_delaware_only.geojson"
+    },
+    {
+      "title": "Youngstown Cadastral Layer",
+      "url": "https://services7.arcgis.com/BdxVWim3RqQp6zGH/arcgis/rest/services/Youngstown_Cadastral_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "youngstown_cadastral_layer.geojson"
+    },
+    {
+      "title": "2023 Delaware Tax Parcels",
+      "url": "https://services1.arcgis.com/bQ68YUVG6MKPIQ8f/arcgis/rest/services/2023_Delaware_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "2023_delaware_tax_parcels.geojson"
+    },
+    {
+      "title": "DELCO_Amtrak_Parcels_Update",
+      "url": "https://services2.arcgis.com/nY5zvXHAje4LAUxE/arcgis/rest/services/DELCO_Amtrak_Parcels_Update/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "delco_amtrak_parcels_update.geojson"
+    },
+    {
+      "title": "Gould_Parcels",
+      "url": "https://services5.arcgis.com/Qgy791PwCQvVznG0/arcgis/rest/services/Gould_Parcels/FeatureServer",
+      "features": 35,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gould_parcels.geojson"
+    },
+    {
+      "title": "Municipal Boundaries/Philadelphia County Planning Areas for the DVRPC Region (line)",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/dvrpc_mcd_phicpa_line/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipal_boundaries_philadelphia_county_planning_areas_for_.geojson"
+    },
+    {
+      "title": "DLNR_East_Kapolei_Transit_Oriented_Development_Plan_DEIS_Shapefile2",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/DLNR_East_Kapolei_Transit_Oriented_Development_Plan_DEIS_Shapefile2/FeatureServer",
+      "features": 11,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dlnr_east_kapolei_transit_oriented_development_plan_deis_sha.geojson"
+    },
+    {
+      "title": "MarquetteParcelData",
+      "url": "https://services9.arcgis.com/6EuFgO4fLTqfNOhu/arcgis/rest/services/MarquetteParcelData/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "marquetteparceldata.geojson"
+    },
+    {
+      "title": "SWP2017_with_DelParcel",
+      "url": "https://services6.arcgis.com/WxzH89pOxvgKDZcE/arcgis/rest/services/SWP2017_with_DelParcel/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "swp2017_with_delparcel.geojson"
+    },
+    {
+      "title": "BBstateparcels_centroids_clp",
+      "url": "https://services.arcgis.com/DCPX1PuggGH4Tici/arcgis/rest/services/BBstateparcels_centroids_clp/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bbstateparcels_centroids_clp.geojson"
+    },
+    {
+      "title": "Intersection Projects Clay County",
+      "url": "https://services.arcgis.com/QiFO0pStAs0GCOKW/arcgis/rest/services/Intersection_Projects_Clay_County/FeatureServer",
+      "features": 42,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "intersection_projects_clay_county.geojson"
+    },
+    {
+      "title": "Selected_Demo_Parcels",
+      "url": "https://services2.arcgis.com/w657bnjzrjguNyOy/arcgis/rest/services/Selected_Demo_Parcels/FeatureServer",
+      "features": 18,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "selected_demo_parcels.geojson"
+    },
+    {
+      "title": "ASR Parcels Flood_Slope Percents",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/arcgis/rest/services/ASR_Parcels_Flood_Slope_Percents/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "asr_parcels_flood_slope_percents.geojson"
+    },
+    {
+      "title": "Segment Projects Clay County",
+      "url": "https://services.arcgis.com/QiFO0pStAs0GCOKW/arcgis/rest/services/Segment_Projects_Clay_County/FeatureServer",
+      "features": 33,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "segment_projects_clay_county.geojson"
+    },
+    {
+      "title": "Delaware Canal Parcels",
+      "url": "https://services3.arcgis.com/SP47Tddf7RK32lBU/arcgis/rest/services/Delaware_Canal_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_canal_parcels.geojson"
+    },
+    {
+      "title": "Parcel_delaware",
+      "url": "https://services3.arcgis.com/6a1bGmrcDyZ77wYt/arcgis/rest/services/Parcel_delaware/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_delaware.geojson"
+    },
+    {
+      "title": "Delaware Sales Parcels",
+      "url": "https://services1.arcgis.com/ivsyBnYvCqD5QZwO/arcgis/rest/services/Delaware_Sales_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "delaware_sales_parcels.geojson"
+    },
+    {
+      "title": "Delaware City Parcels View",
+      "url": "https://services2.arcgis.com/jCPZmQjF0kIPAohC/arcgis/rest/services/Delaware_City_Parcels_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_city_parcels_view.geojson"
+    },
+    {
+      "title": "Delaware Parcels WMAS Dynamic",
+      "url": "https://services1.arcgis.com/ivsyBnYvCqD5QZwO/arcgis/rest/services/Delaware_Parcels_WMAS_Dynamic/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_parcels_wmas_dynamic.geojson"
+    },
+    {
+      "title": "Lower Delaware Municipalities",
+      "url": "https://services1.arcgis.com/HERT3Lrqxe0YUfxz/arcgis/rest/services/Lower_Delaware_Municalities/FeatureServer",
+      "features": 37,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lower_delaware_municipalities.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/mXosPCpkF9n8TYTE/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "TaxParcelsAcreageCheckFt",
+      "url": "https://services2.arcgis.com/JSw5FPLGACZknOZv/arcgis/rest/services/TaxParcelsAcreageCheckFt/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "taxparcelsacreagecheckft.geojson"
+    },
+    {
+      "title": "DelawareCo_LiveLearn_Roads_Parcels_Ownership",
+      "url": "https://services6.arcgis.com/Zis1U6AMAVmy1F0N/arcgis/rest/services/DelawareCo_LiveLearn_Roads_Parcels_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delawareco_livelearn_roads_parcels_ownership.geojson"
+    },
+    {
+      "title": "Eddystone_Parcels",
+      "url": "https://services7.arcgis.com/lUUOKkoY7nEYIw1m/arcgis/rest/services/Eddystone_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "eddystone_parcels.geojson"
+    },
+    {
+      "title": "PathfinderRanches_DeededParcels_Wyoming",
+      "url": "https://services1.arcgis.com/ynfSwD4FCM8EgtT5/arcgis/rest/services/PathfinderRanches_DeededParcels_Wyoming/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pathfinderranches_deededparcels_wyoming.geojson"
+    },
+    {
+      "title": "DelCo_30Acre_Properties",
+      "url": "https://services.arcgis.com/zGE9AukqyfoIhMHb/arcgis/rest/services/DelCo_30Acre_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "delco_30acre_properties.geojson"
+    },
+    {
+      "title": "Delaware_State_Parcels_shp",
+      "url": "https://services8.arcgis.com/sobOABa6Py1P7318/arcgis/rest/services/Delaware_State_Parcels_shp/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_state_parcels_shp.geojson"
+    },
+    {
+      "title": "Prior Year Parcels",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/PriorYearParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "prior_year_parcels.geojson"
+    },
+    {
+      "title": "DelawareCO_Public_Land",
+      "url": "https://services.arcgis.com/VyRjdyMziYNF5Bwe/arcgis/rest/services/DelawareCO_Public_Land/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delawareco_public_land.geojson"
+    },
+    {
+      "title": "del_parcels",
+      "url": "https://services5.arcgis.com/nXNRC1vdZsFxBgaG/arcgis/rest/services/del_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "del_parcels.geojson"
+    },
+    {
+      "title": "Delaware_State_Parcels",
+      "url": "https://services.arcgis.com/aScBVpZOvioggfOZ/arcgis/rest/services/Delaware_State_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delaware_state_parcels.geojson"
+    },
+    {
+      "title": "DelawareCounty PA Parcels",
+      "url": "https://services3.arcgis.com/miwRkYSyQDSRgy73/arcgis/rest/services/DelawareCounty_PA_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "delawarecounty_pa_parcels.geojson"
+    },
+    {
+      "title": "parcels____",
+      "url": "https://services5.arcgis.com/nXNRC1vdZsFxBgaG/arcgis/rest/services/parcels____/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels____.geojson"
+    },
+    {
+      "title": "Delaware Public School Tax Parcels",
+      "url": "https://services1.arcgis.com/bQ68YUVG6MKPIQ8f/arcgis/rest/services/Delaware_Public_School_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "delaware_public_school_tax_parcels.geojson"
+    },
+    {
+      "title": "REACH_IncentiveAreas",
+      "url": "https://services2.arcgis.com/ziXVKVy3BiopMCCU/arcgis/rest/services/REACH_IncentiveAreas/FeatureServer",
+      "features": 96,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "reach_incentiveareas.geojson"
+    },
+    {
+      "title": "Housing_Parcels",
+      "url": "https://services.arcgis.com/DCPX1PuggGH4Tici/arcgis/rest/services/Housing_Parcels/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "housing_parcels.geojson"
+    },
+    {
+      "title": "2023 NSGIC Parcel Portal",
+      "url": "https://services5.arcgis.com/fmKivMCp6fwbWbeE/arcgis/rest/services/2023_NSGIC_Parcel_Portal/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2023_nsgic_parcel_portal.geojson"
+    },
+    {
+      "title": "2025 NSGIC Parcel Portal",
+      "url": "https://services5.arcgis.com/fmKivMCp6fwbWbeE/arcgis/rest/services/2025_NSGIC_Parcel_Portal/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2025_nsgic_parcel_portal.geojson"
+    }
+  ]
+}

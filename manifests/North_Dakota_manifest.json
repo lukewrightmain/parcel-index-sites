@@ -1,0 +1,108 @@
+{
+  "state": "North Dakota",
+  "sources_attempted": 13,
+  "sources_successful": 11,
+  "total_features": 1024,
+  "pulled_at": "2026-03-16T01:34:49.681833",
+  "datasets": [
+    {
+      "title": "Public Parcels",
+      "url": "https://services1.arcgis.com/XxHmL09eFqJWI0gE/arcgis/rest/services/ParcelsPublic/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "public_parcels.geojson"
+    },
+    {
+      "title": "Section Quadrants ",
+      "url": "https://services8.arcgis.com/CPSmaVdVctqO5Kqp/arcgis/rest/services/Section_Lines/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "section_quadrants_.geojson"
+    },
+    {
+      "title": "Ward County ND Parcels",
+      "url": "https://services2.arcgis.com/tvgNL3LD8EYwagwG/arcgis/rest/services/Ward_County_ND_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ward_county_nd_parcels.geojson"
+    },
+    {
+      "title": "Sections",
+      "url": "https://services8.arcgis.com/CPSmaVdVctqO5Kqp/arcgis/rest/services/Sections/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sections.geojson"
+    },
+    {
+      "title": "West Fargo Extraterritorial Area Zoning Districts",
+      "url": "https://services.arcgis.com/kycwcva1achR3cJA/arcgis/rest/services/ETZoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "west_fargo_extraterritorial_area_zoning_districts.geojson"
+    },
+    {
+      "title": "North Dakota State Parcel Program Feedback_fieldworker",
+      "url": "https://services1.arcgis.com/GOcSXpzwBHyk2nog/arcgis/rest/services/survey123_aba1575d32f34eccae1f7231e5008822_fieldworker/FeatureServer",
+      "features": 24,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "north_dakota_state_parcel_program_feedback_fieldworker.geojson"
+    },
+    {
+      "title": "West Fargo Zoning Districts",
+      "url": "https://services.arcgis.com/kycwcva1achR3cJA/arcgis/rest/services/CityZoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "west_fargo_zoning_districts.geojson"
+    },
+    {
+      "title": "Pahrump Water Right Relinquishments",
+      "url": "https://arcgis.water.nv.gov/arcgis/rest/services/NDWR/Pahrump_Relinquishments/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pahrump_water_right_relinquishments.geojson"
+    },
+    {
+      "title": "McIntoshNDParcelLayer",
+      "url": "https://services6.arcgis.com/Z09ape5S1CSNUwRl/arcgis/rest/services/McIntoshNDParcelLayer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mcintoshndparcellayer.geojson"
+    },
+    {
+      "title": "WA DNR Major Public Lands (state_ndmpl)",
+      "url": "https://services2.arcgis.com/TGEC20q86HQAeMS6/arcgis/rest/services/WA_DNR_Major_Public_Lands_(state_ndmpl)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wa_dnr_major_public_lands__state_ndmpl_.geojson"
+    },
+    {
+      "title": "Vacant Lots (All Land Use Types) Linton North Dakota",
+      "url": "https://services6.arcgis.com/MhhE5pgCPypps4To/arcgis/rest/services/Vacant_Lots___All_Land_Use_Types/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_lots__all_land_use_types__linton_north_dakota.geojson"
+    }
+  ]
+}

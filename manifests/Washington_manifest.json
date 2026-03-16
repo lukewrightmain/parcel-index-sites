@@ -1,0 +1,630 @@
+{
+  "state": "Washington",
+  "sources_attempted": 87,
+  "sources_successful": 69,
+  "total_features": 5896,
+  "pulled_at": "2026-03-16T01:44:56.410041",
+  "datasets": [
+    {
+      "title": "Current Parcels",
+      "url": "https://services.arcgis.com/jsIt88o09Q0r1j8h/arcgis/rest/services/Current_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "current_parcels.geojson"
+    },
+    {
+      "title": "Tax Parcels (Pierce County)",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "tax_parcels__pierce_county_.geojson"
+    },
+    {
+      "title": "WA RCO Public Lands Inventory 2019",
+      "url": "https://services2.arcgis.com/TGEC20q86HQAeMS6/arcgis/rest/services/Public_Lands_Inventory_2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "wa_rco_public_lands_inventory_2019.geojson"
+    },
+    {
+      "title": "Parcel_Addresses",
+      "url": "https://services8.arcgis.com/oGUlQVwqEiX7aF12/arcgis/rest/services/Parcel_Addresses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcel_addresses.geojson"
+    },
+    {
+      "title": "1965_04_11_Outlooks_and_Watches",
+      "url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/Default_gdb/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "1965_04_11_outlooks_and_watches.geojson"
+    },
+    {
+      "title": "Cuba_Soil_and_Water",
+      "url": "https://services3.arcgis.com/CkhxOCyQmitz4nLa/arcgis/rest/services/Cuba_Soil_and_Water/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cuba_soil_and_water.geojson"
+    },
+    {
+      "title": "Parcel",
+      "url": "https://services2.arcgis.com/hQZvdtFxRzJpMtdS/arcgis/rest/services/Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/hQZvdtFxRzJpMtdS/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Airport Safety Overlay",
+      "url": "https://services2.arcgis.com/hQZvdtFxRzJpMtdS/arcgis/rest/services/Airport_Safety_Overlay/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "airport_safety_overlay.geojson"
+    },
+    {
+      "title": "Previous Parcels",
+      "url": "https://services.arcgis.com/jsIt88o09Q0r1j8h/arcgis/rest/services/Previous_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "previous_parcels.geojson"
+    },
+    {
+      "title": "Comprehensive Plan",
+      "url": "https://services2.arcgis.com/hQZvdtFxRzJpMtdS/arcgis/rest/services/Comprehensive_Plan/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "comprehensive_plan.geojson"
+    },
+    {
+      "title": "Parcel Tax Roll With Main Area Year Built",
+      "url": "https://services2.arcgis.com/oUXiR7ziAPAzGw6X/arcgis/rest/services/ParcelTaxRollWithMainAreaYearBuilt/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcel_tax_roll_with_main_area_year_built.geojson"
+    },
+    {
+      "title": "Land Acquisitions",
+      "url": "https://services5.arcgis.com/4LKAHwqnBooVDUlX/arcgis/rest/services/LandAcquisitions/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "land_acquisitions.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services2.arcgis.com/hQZvdtFxRzJpMtdS/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "PARKS - Park Boundaries",
+      "url": "https://services5.arcgis.com/4LKAHwqnBooVDUlX/arcgis/rest/services/ParkBoundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parks_-_park_boundaries.geojson"
+    },
+    {
+      "title": "Parcels (VIEW)",
+      "url": "https://services1.arcgis.com/KvhR4yxUNNPvtbwc/arcgis/rest/services/City_of_Washington_Parcels_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels__view_.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/KvhR4yxUNNPvtbwc/arcgis/rest/services/City_of_Washington_Parcels_031517/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services3.arcgis.com/DLryYCwhA8W7Jq7Q/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "Parcels Simplified",
+      "url": "https://services3.arcgis.com/DLryYCwhA8W7Jq7Q/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_simplified.geojson"
+    },
+    {
+      "title": "Parcels2023Washington",
+      "url": "https://arcgis.metc.state.mn.us/ds1/rest/services/GISParcels/Parcels2023Washington/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels2023washington.geojson"
+    },
+    {
+      "title": "Comprehensive Plan Simplified",
+      "url": "https://services3.arcgis.com/DLryYCwhA8W7Jq7Q/arcgis/rest/services/Comprehensive_Plan/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "comprehensive_plan_simplified.geojson"
+    },
+    {
+      "title": "RTSQ",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/RTSQ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rtsq.geojson"
+    },
+    {
+      "title": "Washington Parcels",
+      "url": "https://services1.arcgis.com/VthbbMDEQLq4F9GE/arcgis/rest/services/WashingtonParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "washington_parcels.geojson"
+    },
+    {
+      "title": "Washington Township Parcels",
+      "url": "https://services7.arcgis.com/WHLQY4gAbtehzCVA/arcgis/rest/services/ParcelsMODIV/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "washington_township_parcels.geojson"
+    },
+    {
+      "title": "RTSQQ",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/RTSQQ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rtsqq.geojson"
+    },
+    {
+      "title": "Parcel Values",
+      "url": "https://services3.arcgis.com/S61OMZovc3AIomN2/arcgis/rest/services/Parcel_Values/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_values.geojson"
+    },
+    {
+      "title": "Thurston Wetlands",
+      "url": "https://map.co.thurston.wa.us/arcgis/rest/services/Thurston/Thurston_Wetlands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "thurston_wetlands.geojson"
+    },
+    {
+      "title": "Plats_and_Short_Plats",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Plats_and_Short_Plats/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plats_and_short_plats.geojson"
+    },
+    {
+      "title": "Washington State Land Use 2010",
+      "url": "https://services.arcgis.com/jsIt88o09Q0r1j8h/arcgis/rest/services/LandUse2010gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washington_state_land_use_2010.geojson"
+    },
+    {
+      "title": "Residential WTN Scores (Parcel Level)",
+      "url": "https://services6.arcgis.com/tboeqGwETr5ppr5Q/arcgis/rest/services/WA_EV_Residential/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "residential_wtn_scores__parcel_level_.geojson"
+    },
+    {
+      "title": "DAHP - Government Land Office maps (GLOs) Trails",
+      "url": "https://services6.arcgis.com/yIPFYZqx6a8IC4Hk/arcgis/rest/services/GLO_Trails/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dahp_-_government_land_office_maps__glos__trails.geojson"
+    },
+    {
+      "title": "Mobile_Homes",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Mobile_Homes/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mobile_homes.geojson"
+    },
+    {
+      "title": "EFSEC Washington Land Use Conflict (public)",
+      "url": "https://services7.arcgis.com/TuQ8KXxdnKZCJwrs/arcgis/rest/services/EFSEC_Washington_Land_Use_Conflict/FeatureServer",
+      "features": 29,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "efsec_washington_land_use_conflict__public_.geojson"
+    },
+    {
+      "title": "Public Composite Score Parcel Layer",
+      "url": "https://services6.arcgis.com/tboeqGwETr5ppr5Q/arcgis/rest/services/WAEVCP_Public_Composite_Score_Parcel_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "public_composite_score_parcel_layer.geojson"
+    },
+    {
+      "title": "Future Charging Events Potential - (Parcel Level)",
+      "url": "https://services6.arcgis.com/tboeqGwETr5ppr5Q/arcgis/rest/services/Replica_Layers_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "future_charging_events_potential_-__parcel_level_.geojson"
+    },
+    {
+      "title": "Historic Landmarks",
+      "url": "https://services.arcgis.com/Ej0PsM5Aw677QF1W/arcgis/rest/services/Historic_Landmarks/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "historic_landmarks.geojson"
+    },
+    {
+      "title": "Parcels_OpenData",
+      "url": "https://services1.arcgis.com/o3wuEYcU5N00WpI1/arcgis/rest/services/Parcels_OpenData/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_opendata.geojson"
+    },
+    {
+      "title": "Landmark Corridors",
+      "url": "https://services.arcgis.com/Ej0PsM5Aw677QF1W/arcgis/rest/services/Landmark_Corridors/FeatureServer",
+      "features": 12,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "landmark_corridors.geojson"
+    },
+    {
+      "title": "Montesano Community Forest Boundary",
+      "url": "https://services8.arcgis.com/HogvShnM2xiAm8ml/arcgis/rest/services/Montesano_Community_Forest_Boundary/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "montesano_community_forest_boundary.geojson"
+    },
+    {
+      "title": "Thurston Zoning",
+      "url": "https://tconline.co.thurston.wa.us/server/rest/services/ThurstonExt/Thurston_ZoningOS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "thurston_zoning.geojson"
+    },
+    {
+      "title": "Village of Montebello Historic Resources_WFL1",
+      "url": "https://services2.arcgis.com/8T9oLChn87ExnqDl/arcgis/rest/services/Village_of_Montebello_Historic_Resources_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "village_of_montebello_historic_resources_wfl1.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services9.arcgis.com/ofI31TqDqv3WUzXK/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "RTS",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/RTS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rts.geojson"
+    },
+    {
+      "title": "Non-DNR Major Public Lands",
+      "url": "https://gis.dnr.wa.gov/site3/rest/services/Public_Boundaries/WADNR_PUBLIC_Major_Public_Lands_NonDNR/MapServer",
+      "features": 30,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "non-dnr_major_public_lands.geojson"
+    },
+    {
+      "title": "Range_Township",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Range_Township/FeatureServer",
+      "features": 52,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "range_township.geojson"
+    },
+    {
+      "title": "Clark County Parcels",
+      "url": "https://services9.arcgis.com/q7pm9Tl3Km6ai4ml/arcgis/rest/services/Clark_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "clark_county_parcels.geojson"
+    },
+    {
+      "title": "Planning",
+      "url": "https://services3.arcgis.com/S61OMZovc3AIomN2/arcgis/rest/services/Planning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "planning.geojson"
+    },
+    {
+      "title": "2023 Spokane City Parcels _ Education",
+      "url": "https://services1.arcgis.com/igNkUJZ7SGoMjDNi/arcgis/rest/services/2023_Spokane_City_Parcels___Education/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "2023_spokane_city_parcels___education.geojson"
+    },
+    {
+      "title": "Lake Stevens Parcels",
+      "url": "https://services6.arcgis.com/zefgdCfHrcjFIHNk/arcgis/rest/services/Lake_Stevens_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lake_stevens_parcels.geojson"
+    },
+    {
+      "title": "Cheney Land Quantity Analysis 2023_WFL1",
+      "url": "https://services9.arcgis.com/PIM6ojLbIEBpWUkK/arcgis/rest/services/Cheney_Land_Quantity_Analysis_2023_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cheney_land_quantity_analysis_2023_wfl1.geojson"
+    },
+    {
+      "title": "Aquatic Parcels",
+      "url": "https://services.arcgis.com/PNkCg7xWnaf90qde/arcgis/rest/services/Aquatic_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "aquatic_parcels.geojson"
+    },
+    {
+      "title": "Mason County Parcels",
+      "url": "https://services3.arcgis.com/0IbpLwS460cn4psv/arcgis/rest/services/Mason_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "mason_county_parcels.geojson"
+    },
+    {
+      "title": "2010 landuse vs 2020 landuse within consistent zoned for industrial_WFL1",
+      "url": "https://services1.arcgis.com/xQo6zoNjmy3NNfkT/arcgis/rest/services/2010_landuse_vs_2020_landuse_within_consistent_zoned_for_industrial_WFL1/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2010_landuse_vs_2020_landuse_within_consistent_zoned_for_ind.geojson"
+    },
+    {
+      "title": "Parcel_Watershed",
+      "url": "https://services1.arcgis.com/UvqJJ6GFv4u5BZQj/arcgis/rest/services/Parcel_Watershed/FeatureServer",
+      "features": 27,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcel_watershed.geojson"
+    },
+    {
+      "title": "Washington Township Parcels",
+      "url": "https://services7.arcgis.com/WHLQY4gAbtehzCVA/arcgis/rest/services/Washington_Township_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "washington_township_parcels.geojson"
+    },
+    {
+      "title": "2020 Landuse_2025 Zoning vs 2010 Landuse_2010 Zoning_WFL1",
+      "url": "https://services1.arcgis.com/xQo6zoNjmy3NNfkT/arcgis/rest/services/2020_Landuse_2025_Zoning_vs_2010_Landuse_2010_Zoning_WFL1/FeatureServer",
+      "features": 24,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2020_landuse_2025_zoning_vs_2010_landuse_2010_zoning_wfl1.geojson"
+    },
+    {
+      "title": "Cheney_ WA _ Zoning Map _ 2025_WFL1",
+      "url": "https://services.arcgis.com/yP5WvH3YqutU0LDh/arcgis/rest/services/Cheney__WA___Zoning_Map___2025_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "cheney__wa___zoning_map___2025_wfl1.geojson"
+    },
+    {
+      "title": "Forestlands Ph2 Site Selection _ January 2025_WFL1",
+      "url": "https://services5.arcgis.com/6sWQfiaPUsjQq06M/arcgis/rest/services/Forestlands_Ph2_Site_Selection___January_2025_WFL1/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "forestlands_ph2_site_selection___january_2025_wfl1.geojson"
+    },
+    {
+      "title": "Washington County Parcels",
+      "url": "https://services2.arcgis.com/NnxP4LZ3zX8wWmP9/arcgis/rest/services/Washington_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washington_county_parcels.geojson"
+    },
+    {
+      "title": "WTB _ Landuse Chapter Maps_WFL1",
+      "url": "https://services3.arcgis.com/j5vWE97jfKwNhb08/arcgis/rest/services/WTB___Landuse_Chapter_Maps_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wtb___landuse_chapter_maps_wfl1.geojson"
+    },
+    {
+      "title": "Washington County Parcels view",
+      "url": "https://services3.arcgis.com/nLnrKGwI08veJ5uu/arcgis/rest/services/Washington_County_Parcels_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "washington_county_parcels_view.geojson"
+    },
+    {
+      "title": "SalesTax_Wayne_WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_Wayne_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_wayne_webmap_wfl1.geojson"
+    },
+    {
+      "title": "Waterbury _ Parcel Opportunity Mapping_WFL1",
+      "url": "https://services3.arcgis.com/j5vWE97jfKwNhb08/arcgis/rest/services/Waterbury___Parcel_Opportunity_Mapping_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "waterbury___parcel_opportunity_mapping_wfl1.geojson"
+    },
+    {
+      "title": "St_ Albans Town _ Draft Municipal Parcel Layer_WFL1",
+      "url": "https://services5.arcgis.com/6sWQfiaPUsjQq06M/arcgis/rest/services/St__Albans_Town___Draft_Municipal_Parcel_Layer_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "st__albans_town___draft_municipal_parcel_layer_wfl1.geojson"
+    },
+    {
+      "title": "ParcelsWashington",
+      "url": "https://arcgis.metc.state.mn.us/ds1/rest/services/GISParcels/ParcelsWashington/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelswashington.geojson"
+    },
+    {
+      "title": "Parcels2023WashingtonPoints",
+      "url": "https://arcgis.metc.state.mn.us/ds1/rest/services/GISParcels/Parcels2023WashingtonPoints/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels2023washingtonpoints.geojson"
+    },
+    {
+      "title": "Parcels2022Washington",
+      "url": "https://arcgis.metc.state.mn.us/ds1/rest/services/GISParcels/Parcels2022Washington/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels2022washington.geojson"
+    },
+    {
+      "title": "Parcels2021WashingtonPoints",
+      "url": "https://arcgis.metc.state.mn.us/ds1/rest/services/GISParcels/Parcels2021WashingtonPoints/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels2021washingtonpoints.geojson"
+    },
+    {
+      "title": "Future Land Use 2044",
+      "url": "https://services.arcgis.com/ZOyb2t4B0UYuYNYH/arcgis/rest/services/FUTURE_LAND_USE_2044/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "future_land_use_2044.geojson"
+    }
+  ]
+}

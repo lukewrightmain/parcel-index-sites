@@ -1,0 +1,396 @@
+{
+  "state": "Iowa",
+  "sources_attempted": 51,
+  "sources_successful": 43,
+  "total_features": 3854,
+  "pulled_at": "2026-03-16T01:27:21.500614",
+  "datasets": [
+    {
+      "title": "Real Estate Building on Leased Land (BLL)",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/RealEstateBLL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "real_estate_building_on_leased_land__bll_.geojson"
+    },
+    {
+      "title": "Real Estate Address",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/RealEstateAddress/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "real_estate_address.geojson"
+    },
+    {
+      "title": "Treasurer Tax Distribution",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/TreasurerTaxDistribution/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "treasurer_tax_distribution.geojson"
+    },
+    {
+      "title": "Assessor Board of Review Petition",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/AssessorBORPetition/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "assessor_board_of_review_petition.geojson"
+    },
+    {
+      "title": "ParcelData OldArcmapData",
+      "url": "https://services5.arcgis.com/ya62ECiavqTkK0wv/arcgis/rest/services/ParcelData/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parceldata_oldarcmapdata.geojson"
+    },
+    {
+      "title": "Real Estate Parcel",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/RealEstateParcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "real_estate_parcel.geojson"
+    },
+    {
+      "title": "Assessor CAMA Comparable Sale",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/AssessorCAMAComparableSale/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "assessor_cama_comparable_sale.geojson"
+    },
+    {
+      "title": "LandGrantMapNew",
+      "url": "https://services.arcgis.com/XORNS2fPFySPlBgy/arcgis/rest/services/LandGrantMapNew/FeatureServer",
+      "features": 27,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "landgrantmapnew.geojson"
+    },
+    {
+      "title": "IATA Properties",
+      "url": "https://services.arcgis.com/EeCmkqXss9GYEKIZ/arcgis/rest/services/IATA_Fee/FeatureServer",
+      "features": 42,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "iata_properties.geojson"
+    },
+    {
+      "title": "Parcel Points Feature Service",
+      "url": "https://services7.arcgis.com/qyyoWTywHfayX67L/arcgis/rest/services/Parcel_Points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_points_feature_service.geojson"
+    },
+    {
+      "title": "Assessor CAMA Residential Building",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/AssessorCAMABuildingResidential/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "assessor_cama_residential_building.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services9.arcgis.com/yFGFONeiriTdq7Eq/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "City Layers",
+      "url": "https://services5.arcgis.com/5hE5PoX87LzkB5tp/arcgis/rest/services/City_Layers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_layers.geojson"
+    },
+    {
+      "title": "Treasurer Tax Detail",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/TreasurerTaxDetail/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "treasurer_tax_detail.geojson"
+    },
+    {
+      "title": "IGLSD Parcels",
+      "url": "https://services2.arcgis.com/ZkOsbg84o8DsPPaP/arcgis/rest/services/IGLSD_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "iglsd_parcels.geojson"
+    },
+    {
+      "title": "Treasurer Tax Percentile",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/TreasurerTaxPercentile/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "treasurer_tax_percentile.geojson"
+    },
+    {
+      "title": "Iowa Statewide Parcel Data, 2017",
+      "url": "https://services3.arcgis.com/kd9gaiUExYqUbnoq/arcgis/rest/services/Iowa_Parcels_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "iowa_statewide_parcel_data__2017.geojson"
+    },
+    {
+      "title": "Parcels_FeatSvc",
+      "url": "https://services7.arcgis.com/HClvrLZ0A9RUvy20/arcgis/rest/services/Parcels_FeatSvc/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_featsvc.geojson"
+    },
+    {
+      "title": "Zoning Feature Layer",
+      "url": "https://services7.arcgis.com/qyyoWTywHfayX67L/arcgis/rest/services/Zoning_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_feature_layer.geojson"
+    },
+    {
+      "title": "UpdatedParcelLandGrantMap",
+      "url": "https://services.arcgis.com/XORNS2fPFySPlBgy/arcgis/rest/services/UpdatedParcelLandGrantMap/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "updatedparcellandgrantmap.geojson"
+    },
+    {
+      "title": "Parcels051622",
+      "url": "https://services.arcgis.com/lcU85Lh3UvDs5Naw/arcgis/rest/services/Parcels051622/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels051622.geojson"
+    },
+    {
+      "title": "Parcels Joined to Valuation and GF Tax Revenue Data and Tax Status",
+      "url": "https://services2.arcgis.com/8xg0ntvPHd0DEjki/arcgis/rest/services/Parcels_Joined_to_Valuation_and_GF_Tax_Revenue_Data_and_Tax_Status/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_joined_to_valuation_and_gf_tax_revenue_data_and_tax_.geojson"
+    },
+    {
+      "title": "National IA Frequency Zones International Public",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/DMP_National_IA_Frequency_Zones_International_Public/FeatureServer",
+      "features": 17,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "national_ia_frequency_zones_international_public.geojson"
+    },
+    {
+      "title": "Parcel_Ownership",
+      "url": "https://services3.arcgis.com/kd9gaiUExYqUbnoq/arcgis/rest/services/Parcel_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_ownership.geojson"
+    },
+    {
+      "title": "LandGrantMapNew2",
+      "url": "https://services.arcgis.com/XORNS2fPFySPlBgy/arcgis/rest/services/LandGrantMapNew2/FeatureServer",
+      "features": 27,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "landgrantmapnew2.geojson"
+    },
+    {
+      "title": "FCCBProperty",
+      "url": "https://services7.arcgis.com/vkK9gWXr5NOvX1LA/arcgis/rest/services/FCCBProperty/FeatureServer",
+      "features": 32,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "fccbproperty.geojson"
+    },
+    {
+      "title": "Parcels Mills County Iowa",
+      "url": "https://services1.arcgis.com/20XE3PmEegLQbaze/arcgis/rest/services/Parcels_Mills_County_Iowa/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_mills_county_iowa.geojson"
+    },
+    {
+      "title": "Basemap_Reference_091721_2",
+      "url": "https://services.arcgis.com/Sf3rzzad9Dl4Cuf7/arcgis/rest/services/Basemap_Reference_091721_2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "basemap_reference_091721_2.geojson"
+    },
+    {
+      "title": "parcels_iworq",
+      "url": "https://services1.arcgis.com/20XE3PmEegLQbaze/arcgis/rest/services/parcels_iworq/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_iworq.geojson"
+    },
+    {
+      "title": "Meskwaki_Parcels",
+      "url": "https://services6.arcgis.com/JLx7xRj2YfaSvieL/arcgis/rest/services/Meskwaki_Parcels/FeatureServer",
+      "features": 88,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "meskwaki_parcels.geojson"
+    },
+    {
+      "title": "Public_Data_Web_Services",
+      "url": "https://services.arcgis.com/kd1jFI4TM5bZHeP8/arcgis/rest/services/Public_Data_Web_Services/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_data_web_services.geojson"
+    },
+    {
+      "title": "OpportunityZone_ParcelsXY",
+      "url": "https://services.arcgis.com/vPD5PVLI6sfkZ5E4/arcgis/rest/services/OpportunityZone_ParcelsXY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "opportunityzone_parcelsxy.geojson"
+    },
+    {
+      "title": "Parcels_V7_View",
+      "url": "https://services5.arcgis.com/RdkPF6RyvQRLjoru/arcgis/rest/services/Parcels_V7_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_v7_view.geojson"
+    },
+    {
+      "title": "West Branch Future Land Use_WFL1",
+      "url": "https://services3.arcgis.com/kd9gaiUExYqUbnoq/arcgis/rest/services/West_Branch_Future_Land_Use_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "west_branch_future_land_use_wfl1.geojson"
+    },
+    {
+      "title": "Algona Parcels",
+      "url": "https://services.arcgis.com/XORNS2fPFySPlBgy/arcgis/rest/services/Algona_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "algona_parcels.geojson"
+    },
+    {
+      "title": "Land_Parcels",
+      "url": "https://services1.arcgis.com/p8I1YAb5VvsDj1Sf/arcgis/rest/services/Land_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_parcels.geojson"
+    },
+    {
+      "title": "REC_ISU_Parcels",
+      "url": "https://services9.arcgis.com/24tuayw7Qw0aa7b9/arcgis/rest/services/REC_ISU_Parcels/FeatureServer",
+      "features": 45,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rec_isu_parcels.geojson"
+    },
+    {
+      "title": "Iowa_State_Owned_Parcels",
+      "url": "https://services9.arcgis.com/24tuayw7Qw0aa7b9/arcgis/rest/services/Iowa_State_Owned_Parcels/FeatureServer",
+      "features": 78,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "iowa_state_owned_parcels.geojson"
+    },
+    {
+      "title": "Iowa Parcel Data ",
+      "url": "https://services.arcgis.com/kd1jFI4TM5bZHeP8/arcgis/rest/services/parcel_polygons_20251008_125259/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "iowa_parcel_data_.geojson"
+    },
+    {
+      "title": "Iowa Parcel Fabric Users_WFL1",
+      "url": "https://services.arcgis.com/XORNS2fPFySPlBgy/arcgis/rest/services/Iowa_Parcel_Fabric_Users_WFL1/FeatureServer",
+      "features": 99,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "iowa_parcel_fabric_users_wfl1.geojson"
+    },
+    {
+      "title": "Woodbury County, Iowa - Parcel Polygon Feature (March 12, 2026 - 04:26 PM)",
+      "url": "https://services.arcgis.com/kd1jFI4TM5bZHeP8/arcgis/rest/services/parcel_polygon_feature/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "woodbury_county__iowa_-_parcel_polygon_feature__march_12__20.geojson"
+    },
+    {
+      "title": "Real Estate Tax District",
+      "url": "https://services.arcgis.com/i14SLLmXo7Hn9vNc/arcgis/rest/services/RealEstateTaxDistrict/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "real_estate_tax_district.geojson"
+    },
+    {
+      "title": "Iowa_GMA_2025",
+      "url": "https://services.arcgis.com/vPD5PVLI6sfkZ5E4/arcgis/rest/services/Iowa_GMA_2025/FeatureServer",
+      "features": 99,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "iowa_gma_2025.geojson"
+    }
+  ]
+}

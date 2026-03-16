@@ -1,0 +1,513 @@
+{
+  "state": "Virginia",
+  "sources_attempted": 68,
+  "sources_successful": 56,
+  "total_features": 4233,
+  "pulled_at": "2026-03-16T01:44:42.245193",
+  "datasets": [
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/k3vhq11XkBNeeOfM/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "TaxParcels",
+      "url": "https://services3.arcgis.com/fYt1jp3hqamxgSvI/arcgis/rest/services/TaxParcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "taxparcels.geojson"
+    },
+    {
+      "title": "PLUS Zoning Applications",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/PLUS_Zoning_Applications/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plus_zoning_applications.geojson"
+    },
+    {
+      "title": "LandTrack",
+      "url": "https://services.arcgis.com/p5v98VHDX9Atv3l7/arcgis/rest/services/LandTrack/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "landtrack.geojson"
+    },
+    {
+      "title": "REA Property Polygons",
+      "url": "https://arlgis.arlingtonva.us/arcgis/rest/services/Open_Data/od_REA_Property_Polygons/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rea_property_polygons.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/qKiA6JuCrE2l72iL/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "VBCPS School Facilities",
+      "url": "https://services5.arcgis.com/36soGIYKLrgDhHrr/arcgis/rest/services/VBCPS_School_Facilities_New/FeatureServer",
+      "features": 98,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "vbcps_school_facilities.geojson"
+    },
+    {
+      "title": "TaxParcels_OwnerName",
+      "url": "https://services3.arcgis.com/fYt1jp3hqamxgSvI/arcgis/rest/services/TaxParcels_OwnerName/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxparcels_ownername.geojson"
+    },
+    {
+      "title": "Cadastral",
+      "url": "https://services3.arcgis.com/TsynfzBSE6sXfoLq/arcgis/rest/services/Cadastral/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cadastral.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/Dc6hhMQCpvLlOmSY/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "TaxParcels (Public View)",
+      "url": "https://services7.arcgis.com/hPGyuBCaFm583AVs/arcgis/rest/services/TaxParcels_(Public)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "taxparcels__public_view_.geojson"
+    },
+    {
+      "title": "TaxParcels",
+      "url": "https://services7.arcgis.com/hPGyuBCaFm583AVs/arcgis/rest/services/TaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "taxparcels.geojson"
+    },
+    {
+      "title": "Parcels_Vision",
+      "url": "https://services2.arcgis.com/wRTEaR3VIVeAhJdr/arcgis/rest/services/Parcels_Vision/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_vision.geojson"
+    },
+    {
+      "title": "ConservationEasements2024",
+      "url": "https://services7.arcgis.com/hPGyuBCaFm583AVs/arcgis/rest/services/ConservationEasements2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "conservationeasements2024.geojson"
+    },
+    {
+      "title": "Agricultural and Forestal Districts  (deprecated - do not use)",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/AgriculturalAndForestalDistricts/FeatureServer",
+      "features": 42,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "agricultural_and_forestal_districts___deprecated_-_do_not_us.geojson"
+    },
+    {
+      "title": "Special Tax Areas",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/Special_Tax_Areas/FeatureServer",
+      "features": 11,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "special_tax_areas.geojson"
+    },
+    {
+      "title": "Questionable Split Parcels",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/Questionable_Split_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "questionable_split_parcels.geojson"
+    },
+    {
+      "title": "Address Parcel Join (VIEW)",
+      "url": "https://services1.arcgis.com/umAze4B28rywBpwB/arcgis/rest/services/Address_Parcel_Join_(VIEW)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "address_parcel_join__view_.geojson"
+    },
+    {
+      "title": "Subwatersheds Parcel Flood Score",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/Subwatersheds_Parcel_Flood_Score/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subwatersheds_parcel_flood_score.geojson"
+    },
+    {
+      "title": "Prop Ties",
+      "url": "https://services3.arcgis.com/fYt1jp3hqamxgSvI/arcgis/rest/services/Prop_Ties/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "prop_ties.geojson"
+    },
+    {
+      "title": "Address_points",
+      "url": "https://services7.arcgis.com/RL8aZgZHmJOdyNXk/arcgis/rest/services/Address_points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "address_points.geojson"
+    },
+    {
+      "title": "Nitro Zoning Map",
+      "url": "https://services7.arcgis.com/0zwAQRpiWEGhBBHb/arcgis/rest/services/Nitro_Zoning_Map/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nitro_zoning_map.geojson"
+    },
+    {
+      "title": "Area Parcels",
+      "url": "https://services.arcgis.com/DN2fPfpggEPlLhP6/arcgis/rest/services/Area_Parcels/FeatureServer",
+      "features": 12,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "area_parcels.geojson"
+    },
+    {
+      "title": "Planning Special Planning Areas",
+      "url": "https://services2.arcgis.com/0Q7l03Ls62VG0fy4/arcgis/rest/services/Planning_Special_Planning_Areas/FeatureServer",
+      "features": 58,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "planning_special_planning_areas.geojson"
+    },
+    {
+      "title": "Easements",
+      "url": "https://services1.arcgis.com/qKiA6JuCrE2l72iL/arcgis/rest/services/Easements/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "easements.geojson"
+    },
+    {
+      "title": "Zoning_08162022_Webmap",
+      "url": "https://services1.arcgis.com/8y9N82F3nS8JSOBl/arcgis/rest/services/Zoning_08162022_Webmap/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_08162022_webmap.geojson"
+    },
+    {
+      "title": "TaxParcels",
+      "url": "https://services7.arcgis.com/RL8aZgZHmJOdyNXk/arcgis/rest/services/TaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxparcels.geojson"
+    },
+    {
+      "title": "WVLSC Projects Map_WFL1",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/WVLSC_Projects_Map_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wvlsc_projects_map_wfl1.geojson"
+    },
+    {
+      "title": "Crab_Creek_Impervious",
+      "url": "https://services2.arcgis.com/kDpbmuH4CGPPO6ob/arcgis/rest/services/Crab_Creek_Impervious/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "crab_creek_impervious.geojson"
+    },
+    {
+      "title": "Conservation Priority Parcels",
+      "url": "https://services2.arcgis.com/ChUbz2hk6xRj7wYw/arcgis/rest/services/Conservation_Priority_Parcels/FeatureServer",
+      "features": 53,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "conservation_priority_parcels.geojson"
+    },
+    {
+      "title": "Public Research Map 2025_WFL1",
+      "url": "https://services9.arcgis.com/XHPMHLtcwUiGJ0nS/arcgis/rest/services/Public_Research_Map_2025_WFL1/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_research_map_2025_wfl1.geojson"
+    },
+    {
+      "title": "LakeAnnaVillage",
+      "url": "https://services1.arcgis.com/Fs0uoy8dWAYsVfXh/arcgis/rest/services/LakeAnnaVillage/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lakeannavillage.geojson"
+    },
+    {
+      "title": "FranklinCoVA_ZoningClassifications",
+      "url": "https://services9.arcgis.com/AzdpqVmJ5GjGWCoI/arcgis/rest/services/FranklinCoVA_ZoningClassifications/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "franklincova_zoningclassifications.geojson"
+    },
+    {
+      "title": "WVU Morgantown Campus - Clery Geography Land",
+      "url": "https://services9.arcgis.com/oBiZycLxRnTJhJER/arcgis/rest/services/Clery_Geography_2021_Land/FeatureServer",
+      "features": 83,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "wvu_morgantown_campus_-_clery_geography_land.geojson"
+    },
+    {
+      "title": "WVU Land FY23",
+      "url": "https://services9.arcgis.com/oBiZycLxRnTJhJER/arcgis/rest/services/WVU_Land_FY23/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "wvu_land_fy23.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/SDtTDK6g6vcIGShP/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Town Arts and Cultural District",
+      "url": "https://services1.arcgis.com/7owdfh5mgjEgbCSM/arcgis/rest/services/ARTS_CULTURAL/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "town_arts_and_cultural_district.geojson"
+    },
+    {
+      "title": "Grayson County Parcels",
+      "url": "https://services2.arcgis.com/ChUbz2hk6xRj7wYw/arcgis/rest/services/Grayson_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "grayson_county_parcels.geojson"
+    },
+    {
+      "title": "Washington County Parcels",
+      "url": "https://services2.arcgis.com/ChUbz2hk6xRj7wYw/arcgis/rest/services/Washington_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "washington_county_parcels.geojson"
+    },
+    {
+      "title": "Albemarle County Scenic Byways",
+      "url": "https://services2.arcgis.com/8k2PygHqghVevhzy/arcgis/rest/services/Albemarle_County_Scenic_Byways/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "albemarle_county_scenic_byways.geojson"
+    },
+    {
+      "title": "Northumberland_Geocoded_Well_Records",
+      "url": "https://services1.arcgis.com/QHK2l9cSYhemgg5s/arcgis/rest/services/Northumberland_Geocoded_Well_Records/FeatureServer",
+      "features": 82,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "northumberland_geocoded_well_records.geojson"
+    },
+    {
+      "title": "Potomac State College of WVU - Clery Geography Land",
+      "url": "https://services9.arcgis.com/oBiZycLxRnTJhJER/arcgis/rest/services/PSC_Clery_Land/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "potomac_state_college_of_wvu_-_clery_geography_land.geojson"
+    },
+    {
+      "title": "Prince George County Parcels",
+      "url": "https://services5.arcgis.com/9Z9r3rLUCq0SjsRb/arcgis/rest/services/Prince_George_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "prince_george_county_parcels.geojson"
+    },
+    {
+      "title": "City Park",
+      "url": "https://services5.arcgis.com/56UKT5NHVCJyli9q/arcgis/rest/services/City_Park/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "city_park.geojson"
+    },
+    {
+      "title": "LCBOS_LCPS_OwnedLand_11032025",
+      "url": "https://services1.arcgis.com/MxjRokvPm7bjslyR/arcgis/rest/services/LCBOS_LCPS_OwnedLand_11032025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lcbos_lcps_ownedland_11032025.geojson"
+    },
+    {
+      "title": "ZONING_PROPOSED",
+      "url": "https://services1.arcgis.com/7owdfh5mgjEgbCSM/arcgis/rest/services/ZONING_PROPOSED/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_proposed.geojson"
+    },
+    {
+      "title": "Alleghany_Zoning_2022",
+      "url": "https://services6.arcgis.com/cGI8zn9Oo7U9dF6z/arcgis/rest/services/Alleghany_Zoning_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alleghany_zoning_2022.geojson"
+    },
+    {
+      "title": "WVU_Property_1_2020",
+      "url": "https://services7.arcgis.com/lE5mQkgxehcTjzKf/arcgis/rest/services/WVU_Property_1_2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wvu_property_1_2020.geojson"
+    },
+    {
+      "title": "Danny Webb Construction UIC Parcel Boundary",
+      "url": "https://services5.arcgis.com/wnx44O0Em94A0cG5/arcgis/rest/services/UIC_Parcel_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "danny_webb_construction_uic_parcel_boundary.geojson"
+    },
+    {
+      "title": "Raleigh County 830 Dilapidated Structures",
+      "url": "https://services9.arcgis.com/KpMczgynHDNPRX7w/arcgis/rest/services/830_Dilapidated_Structures/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "raleigh_county_830_dilapidated_structures.geojson"
+    },
+    {
+      "title": "JEFCO_VacantLands_V2_ReadOnly",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/JEFCO_VacantLands_V2_ReadOnly/FeatureServer",
+      "features": 9,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "jefco_vacantlands_v2_readonly.geojson"
+    },
+    {
+      "title": "WALCO_VacantLands_V2_ReadOnly",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/WALCO_VacantLands_V2_ReadOnly/FeatureServer",
+      "features": 35,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "walco_vacantlands_v2_readonly.geojson"
+    },
+    {
+      "title": "PADUS_ValleyCO_W_BOR",
+      "url": "https://services3.arcgis.com/YvnhE5oLknZDklbW/arcgis/rest/services/PADUS_ValleyCO_W_BOR/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_valleyco_w_bor.geojson"
+    },
+    {
+      "title": "FleetwoodLandCover_Dissolve",
+      "url": "https://services3.arcgis.com/mTaShYKffyWc5uRb/arcgis/rest/services/FleetwoodLandCover_Dissolve/FeatureServer",
+      "features": 9,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fleetwoodlandcover_dissolve.geojson"
+    },
+    {
+      "title": "Future Land Use 2020 - Proposed",
+      "url": "https://services1.arcgis.com/Fs0uoy8dWAYsVfXh/arcgis/rest/services/FLU_Final_2020_Merged20200831/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "future_land_use_2020_-_proposed.geojson"
+    }
+  ]
+}

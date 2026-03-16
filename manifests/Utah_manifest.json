@@ -1,0 +1,954 @@
+{
+  "state": "Utah",
+  "sources_attempted": 109,
+  "sources_successful": 105,
+  "total_features": 10202,
+  "pulled_at": "2026-03-16T01:44:22.921534",
+  "datasets": [
+    {
+      "title": "Utah Statewide Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/UtahStatewideParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_statewide_parcels.geojson"
+    },
+    {
+      "title": "Utah Utah County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Utah/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_utah_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Utah County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Utah_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_utah_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Davis County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Davis/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_davis_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Sanpete County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Sanpete/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_sanpete_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Wasatch County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Wasatch_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_wasatch_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Wasatch County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Wasatch/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_wasatch_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Washington County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Washington_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_washington_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Salt Lake County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_SaltLake/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_salt_lake_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Tooele County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Tooele/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_tooele_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Salt Lake County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_SaltLake_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_salt_lake_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Summit County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Summit/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_summit_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Summit County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Summit_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_summit_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Weber County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Weber_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_weber_county_parcels_lir.geojson"
+    },
+    {
+      "title": "ParcelService",
+      "url": "https://services5.arcgis.com/9zdKz4c9IFXMrlCe/arcgis/rest/services/ParcelService/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelservice.geojson"
+    },
+    {
+      "title": "Utah Davis County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Davis_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_davis_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Subdivisions_Public",
+      "url": "https://services.arcgis.com/xGNWaeXY0POVazgT/arcgis/rest/services/Subdivisions_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "subdivisions_public.geojson"
+    },
+    {
+      "title": "Utah Washington County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Washington/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_washington_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Weber County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Weber/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_weber_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Rich County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Rich/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_rich_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Municipal Boundaries Cartography",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/UtahMunicipalBoundaries_Cartography/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_municipal_boundaries_cartography.geojson"
+    },
+    {
+      "title": "Utah Juab County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Juab_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_juab_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Sanpete County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Sanpete_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_sanpete_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Iron County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Iron_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_iron_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Morgan County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Morgan_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_morgan_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Tooele County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Tooele_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_tooele_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Garfield County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Garfield/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_garfield_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Box Elder County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_BoxElder/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_box_elder_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Beaver County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Beaver_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_beaver_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Residential Compatibility Overlay Zone (RCOZ)",
+      "url": "https://services9.arcgis.com/XRrSFvEwSsReIxuA/arcgis/rest/services/Zone_RCOZ/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "residential_compatibility_overlay_zone__rcoz_.geojson"
+    },
+    {
+      "title": "Zoning Service",
+      "url": "https://services2.arcgis.com/gyfpgFh2Wj2gglYD/arcgis/rest/services/Zoning_Service/FeatureServer",
+      "features": 73,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_service.geojson"
+    },
+    {
+      "title": "Utah San Juan County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_SanJuan/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_san_juan_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Millard County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Millard_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_millard_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah San Juan County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_SanJuan_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_san_juan_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Garfield County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Garfield_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_garfield_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Kane County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Kane/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_kane_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Box Elder County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_BoxElder_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_box_elder_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Uintah County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Uintah/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_uintah_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Cache County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Cache_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_cache_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Emery County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Emery/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_emery_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Cache County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Cache/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_cache_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Wayne County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Wayne/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_wayne_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Morgan County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Morgan/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_morgan_county_parcels.geojson"
+    },
+    {
+      "title": "Saco_Utiltiies_Public",
+      "url": "https://services1.arcgis.com/quYj7DElPX8Xn4vi/arcgis/rest/services/Saco_Utiltiies_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "saco_utiltiies_public.geojson"
+    },
+    {
+      "title": "Utah Trail Network Land Ownership",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/UTN_Land_Ownership_eaa25/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_trail_network_land_ownership.geojson"
+    },
+    {
+      "title": "Garfield County Land Use Map_WFL1",
+      "url": "https://services8.arcgis.com/6hOf02oJVANYf9op/arcgis/rest/services/Garfield_County_Land_Use_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "garfield_county_land_use_map_wfl1.geojson"
+    },
+    {
+      "title": "Utah Iron County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Iron/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_iron_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Kane County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Kane_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_kane_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Duchesne County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Duchesne_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_duchesne_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Carbon County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Carbon/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_carbon_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Piute County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Piute/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_piute_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Juab County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Juab/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_juab_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Wayne County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Wayne_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_wayne_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Beaver County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Beaver/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_beaver_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Grand County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Grand/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_grand_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Sevier County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Sevier/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_sevier_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Sevier County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Sevier_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_sevier_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Millard County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Millard/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_millard_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Duchesne County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Duchesne/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_duchesne_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Daggett County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Daggett_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_daggett_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Rich County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Rich_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_rich_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Carbon County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Carbon_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_carbon_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Grand County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Grand_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_grand_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Dingell Exchange ROD 2024",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/Dingell_Exchange_ROD_2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dingell_exchange_rod_2024.geojson"
+    },
+    {
+      "title": "Garfield County Zoning Map",
+      "url": "https://services8.arcgis.com/6hOf02oJVANYf9op/arcgis/rest/services/Garfield_County_Zoning_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "garfield_county_zoning_map.geojson"
+    },
+    {
+      "title": "Utah Emery County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Emery_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_emery_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Utah Daggett County Parcels",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Daggett/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_daggett_county_parcels.geojson"
+    },
+    {
+      "title": "Utah Uintah County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Uintah_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_uintah_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Parcel Icons",
+      "url": "https://services6.arcgis.com/1wGe9OtOPvKepFKv/arcgis/rest/services/UIP_Land_POI/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_icons.geojson"
+    },
+    {
+      "title": "Brian_Head_Zoning_and_Trails",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Brian_Head_Zoning_and_Trails/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brian_head_zoning_and_trails.geojson"
+    },
+    {
+      "title": "Utah Piute County Parcels LIR",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/Parcels_Piute_LIR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_piute_county_parcels_lir.geojson"
+    },
+    {
+      "title": "Parcels - Public",
+      "url": "https://services2.arcgis.com/nAPVXppTJAHM40Se/arcgis/rest/services/Public_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_-_public.geojson"
+    },
+    {
+      "title": "Zoning Map of Garfield County_ Utah_WFL1",
+      "url": "https://services8.arcgis.com/6hOf02oJVANYf9op/arcgis/rest/services/Zoning_Map_of_Garfield_County__Utah_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_map_of_garfield_county__utah_wfl1.geojson"
+    },
+    {
+      "title": "Utah PLSS Edit Tracker",
+      "url": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/PLSS_EditTracker/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "utah_plss_edit_tracker.geojson"
+    },
+    {
+      "title": "UDOT Right of Way Parcels By Region",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/UDOT_Right_of_Way_Parcels_By_Region/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "udot_right_of_way_parcels_by_region.geojson"
+    },
+    {
+      "title": "Garfield County Zoning Map 3_23_WFL1",
+      "url": "https://services8.arcgis.com/6hOf02oJVANYf9op/arcgis/rest/services/Garfield_County_Zoning_Map_3_23_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "garfield_county_zoning_map_3_23_wfl1.geojson"
+    },
+    {
+      "title": "UDOT Region 1 SR-126 Existing Roadway Data",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/SR126_Existing_Roadway_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "udot_region_1_sr-126_existing_roadway_data.geojson"
+    },
+    {
+      "title": "Subdivisions_Field",
+      "url": "https://services.arcgis.com/xGNWaeXY0POVazgT/arcgis/rest/services/Subdivisions_Field/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "subdivisions_field.geojson"
+    },
+    {
+      "title": "BLM Utah UTTR Land Exchange Final Parcels",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_UT_UTTR_final1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_utah_uttr_land_exchange_final_parcels.geojson"
+    },
+    {
+      "title": "Virgin Parcels",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/Virgin_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "virgin_parcels.geojson"
+    },
+    {
+      "title": "Contracts_Transaction_Active",
+      "url": "https://gis.trustlands.utah.gov/hosting/rest/services/Contracts_Transaction_Active/FeatureServer",
+      "features": 63,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "contracts_transaction_active.geojson"
+    },
+    {
+      "title": "City Owned Property",
+      "url": "https://services2.arcgis.com/nAPVXppTJAHM40Se/arcgis/rest/services/City_Owned_Property/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_owned_property.geojson"
+    },
+    {
+      "title": "Exchanges_Recreation",
+      "url": "https://gis.trustlands.utah.gov/mapping/rest/services/Exchanges_Recreation/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "exchanges_recreation.geojson"
+    },
+    {
+      "title": "Parcel Map_WFL1",
+      "url": "https://services1.arcgis.com/2exN3kG1f2h7coIQ/arcgis/rest/services/Parcel_Map_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_map_wfl1.geojson"
+    },
+    {
+      "title": "Water Related Land Use Statewide (2024) (Features)",
+      "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/WRLU_2024_Publish/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "water_related_land_use_statewide__2024___features_.geojson"
+    },
+    {
+      "title": "SubdivisionService",
+      "url": "https://services2.arcgis.com/23UqnR4HgyUvYRWd/arcgis/rest/services/SubdivisionService/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivisionservice.geojson"
+    },
+    {
+      "title": "taxDistrcits_WVGISTC_2018_UTM83",
+      "url": "https://services5.arcgis.com/utt6p0aguO0uXuIw/arcgis/rest/services/taxDistrcits_WVGISTC_2018_UTM83/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxdistrcits_wvgistc_2018_utm83.geojson"
+    },
+    {
+      "title": "UTA Parcels",
+      "url": "https://services3.arcgis.com/q5Jezm9AgzqyE7Q6/arcgis/rest/services/UTA_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uta_parcels.geojson"
+    },
+    {
+      "title": "Utah County Parcels",
+      "url": "https://services.arcgis.com/04HiymDgLlsbhaV4/arcgis/rest/services/Utah_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "utah_county_parcels.geojson"
+    },
+    {
+      "title": "Exchanges_5600_West",
+      "url": "https://gis.trustlands.utah.gov/mapping/rest/services/Exchanges_5600_West/FeatureServer",
+      "features": 85,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "exchanges_5600_west.geojson"
+    },
+    {
+      "title": "BLM_UT_Sept2020_RevisedPreliminaryParcels_20200609",
+      "url": "https://services7.arcgis.com/F4iYwOOvXLYhkPXF/arcgis/rest/services/BLM_UT_Sept2020_RevisedPreliminaryParcels_20200609/FeatureServer",
+      "features": 80,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_ut_sept2020_revisedpreliminaryparcels_20200609.geojson"
+    },
+    {
+      "title": "Utah County Parcel Subset",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/Utah_County_Parcel_Subset/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "utah_county_parcel_subset.geojson"
+    },
+    {
+      "title": "BLM_UT_Sept2020_PreliminaryParcels_20200421",
+      "url": "https://services7.arcgis.com/F4iYwOOvXLYhkPXF/arcgis/rest/services/BLM_UT_Sept2020_PreliminaryParcels_20200421/FeatureServer",
+      "features": 99,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_ut_sept2020_preliminaryparcels_20200421.geojson"
+    },
+    {
+      "title": "UDOT Parcels (Utah County)",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/UDOT_ROW_Utah_County/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "udot_parcels__utah_county_.geojson"
+    },
+    {
+      "title": "WFRC Housing Unit Inventory April 2024 - All Layers",
+      "url": "https://services9.arcgis.com/XRrSFvEwSsReIxuA/arcgis/rest/services/WFRC_Housing_Unit_Inventory_April_2024_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wfrc_housing_unit_inventory_april_2024_-_all_layers.geojson"
+    },
+    {
+      "title": "UDOT ROW - Tier Parcels Greater 1Acre (POINT)",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/Tier2thru4_Parcels_Greater_1Acre_POINT/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "udot_row_-_tier_parcels_greater_1acre__point_.geojson"
+    },
+    {
+      "title": "WRLU_4326_LU_Group",
+      "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/WRLU_4326_LU_Group/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wrlu_4326_lu_group.geojson"
+    },
+    {
+      "title": "UDOT Right of Way Surplus Parcels",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/UDOT_Right_of_Way_Surplus_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "udot_right_of_way_surplus_parcels.geojson"
+    },
+    {
+      "title": "SalesTax_UTC_WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_UTC_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_utc_webmap_wfl1.geojson"
+    },
+    {
+      "title": "UIPA Land Use",
+      "url": "https://services6.arcgis.com/1wGe9OtOPvKepFKv/arcgis/rest/services/UIPA_Land_Use_d3370/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uipa_land_use.geojson"
+    },
+    {
+      "title": "Water Related Land Use",
+      "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/Water_Related_Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "water_related_land_use.geojson"
+    },
+    {
+      "title": "Parcels2024",
+      "url": "https://services6.arcgis.com/ChBN6mDajdBNZ6qK/arcgis/rest/services/Parcels2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels2024.geojson"
+    },
+    {
+      "title": "taxDistrcits_WVGISTC_2018_UTM83",
+      "url": "https://services1.arcgis.com/qN3V93cYGMKQCOxL/arcgis/rest/services/taxDistrcits_WVGISTC_2018_UTM83/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxdistrcits_wvgistc_2018_utm83.geojson"
+    },
+    {
+      "title": "UDOT ROW - Tier Parcels Greater 1Acre",
+      "url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/Tier2thru4_Parcels_Greater_1Acre/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "udot_row_-_tier_parcels_greater_1acre.geojson"
+    },
+    {
+      "title": "School Districts and Tax Units_WFL1",
+      "url": "https://services1.arcgis.com/9DapJHuwsEakbYuW/arcgis/rest/services/School_Districts_and_Tax_Units_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "school_districts_and_tax_units_wfl1.geojson"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "state": "North Carolina",
+  "sources_attempted": 87,
+  "sources_successful": 46,
+  "total_features": 4249,
+  "pulled_at": "2026-03-16T01:34:46.523904",
+  "datasets": [
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/23uf7jKvz6SRPFWJ/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "parcel_records_base",
+      "url": "https://services6.arcgis.com/w1igg0Q14weqYXUh/arcgis/rest/services/parcel_records_base/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_records_base.geojson"
+    },
+    {
+      "title": "LenoirNC_Parcels_Zoning_Addressing",
+      "url": "https://services3.arcgis.com/nJbIFHiSnaX0z0hS/arcgis/rest/services/LenoirNC_Parcels_Zoning_Addressing/FeatureServer",
+      "features": 93,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lenoirnc_parcels_zoning_addressing.geojson"
+    },
+    {
+      "title": "NC Brownfields Location_View",
+      "url": "https://services2.arcgis.com/kCu40SDxsCGcuUWO/arcgis/rest/services/NCBP_Feature_Point_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nc_brownfields_location_view.geojson"
+    },
+    {
+      "title": "GrahamAGOL",
+      "url": "https://services3.arcgis.com/nJbIFHiSnaX0z0hS/arcgis/rest/services/GrahamAGOL/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "grahamagol.geojson"
+    },
+    {
+      "title": "land_records_base",
+      "url": "https://services6.arcgis.com/w1igg0Q14weqYXUh/arcgis/rest/services/land_records_base/FeatureServer",
+      "features": 22,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_records_base.geojson"
+    },
+    {
+      "title": "DWR EBCI parcels poly",
+      "url": "https://services2.arcgis.com/kCu40SDxsCGcuUWO/arcgis/rest/services/EBCI_parcels_poly_032114/FeatureServer",
+      "features": 57,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dwr_ebci_parcels_poly.geojson"
+    },
+    {
+      "title": "Symbols_2023",
+      "url": "https://services1.arcgis.com/H71paQpWhqUBnyO1/arcgis/rest/services/Symbols_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "symbols_2023.geojson"
+    },
+    {
+      "title": "DukeTransmissionEasements",
+      "url": "https://services3.arcgis.com/oX5r75R7mapdoI2F/arcgis/rest/services/DukeTransmission/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "duketransmissioneasements.geojson"
+    },
+    {
+      "title": "symbols",
+      "url": "https://services1.arcgis.com/H71paQpWhqUBnyO1/arcgis/rest/services/symbols/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "symbols.geojson"
+    },
+    {
+      "title": "misc_lines",
+      "url": "https://services1.arcgis.com/H71paQpWhqUBnyO1/arcgis/rest/services/misc_lines/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "misc_lines.geojson"
+    },
+    {
+      "title": "parcels",
+      "url": "https://services1.arcgis.com/H71paQpWhqUBnyO1/arcgis/rest/services/parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Historic Property Boundaries",
+      "url": "https://services3.arcgis.com/zMTrRjxZirPAKsKd/arcgis/rest/services/NCHOP_NR_SL_DOE_Boundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "historic_property_boundaries.geojson"
+    },
+    {
+      "title": "Misc_Lines_2023",
+      "url": "https://services1.arcgis.com/H71paQpWhqUBnyO1/arcgis/rest/services/Misc_Lines_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "misc_lines_2023.geojson"
+    },
+    {
+      "title": "Unified Development Ordinance Zoning Translation",
+      "url": "https://services.arcgis.com/9Nl857LBlQVyzq54/arcgis/rest/services/Unified_Development_Ordinance_Zoning_Translation/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "unified_development_ordinance_zoning_translation.geojson"
+    },
+    {
+      "title": "TaxSQL Parcels",
+      "url": "https://maps.iredellcountync.gov/server/rest/services/Data/TaxSQL_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxsql_parcels.geojson"
+    },
+    {
+      "title": "Parcels_2023",
+      "url": "https://services1.arcgis.com/H71paQpWhqUBnyO1/arcgis/rest/services/Parcels_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_2023.geojson"
+    },
+    {
+      "title": "U_5976_GML_2024_D",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/U_5976_GML_2024_D/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "u_5976_gml_2024_d.geojson"
+    },
+    {
+      "title": "ParcelNumber",
+      "url": "https://services1.arcgis.com/23uf7jKvz6SRPFWJ/arcgis/rest/services/ParcelNumber/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelnumber.geojson"
+    },
+    {
+      "title": "NCDOTFacilities_View",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/NCDOTFacilities_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ncdotfacilities_view.geojson"
+    },
+    {
+      "title": "Reidsville Public Zoning Map_WFL7",
+      "url": "https://services6.arcgis.com/F05wl398YvOrLJax/arcgis/rest/services/Reidsville_Public_Zoning_Map_WFL7/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "reidsville_public_zoning_map_wfl7.geojson"
+    },
+    {
+      "title": "Durham City North Carolina Basemap View",
+      "url": "https://services1.arcgis.com/VVapzOPgBae5joyC/arcgis/rest/services/Durham_City_North_Carolina_Basemap_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "durham_city_north_carolina_basemap_view.geojson"
+    },
+    {
+      "title": "R2250 Rdy RoW Parcel Acreages Inside and Outside",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/R2250_Rdy_RoW_Parcel_Acerages_Inside_and_Outside/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "r2250_rdy_row_parcel_acreages_inside_and_outside.geojson"
+    },
+    {
+      "title": "AsheCountyParcels",
+      "url": "https://services1.arcgis.com/vj28eVZMB2OMIUh5/arcgis/rest/services/AsheCountyParcels_201706/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ashecountyparcels.geojson"
+    },
+    {
+      "title": "Watauga County Parcels",
+      "url": "https://services2.arcgis.com/wdQEqhSQSuYA89VW/arcgis/rest/services/Watauga_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "watauga_county_parcels.geojson"
+    },
+    {
+      "title": "TaxParcels",
+      "url": "https://services1.arcgis.com/23uf7jKvz6SRPFWJ/arcgis/rest/services/TaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxparcels.geojson"
+    },
+    {
+      "title": "NC Lead Safe Parcels",
+      "url": "https://services1.arcgis.com/XBhYkoXKJCRHbe7M/arcgis/rest/services/NC_Lead_Safe_Parcels_Feb_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nc_lead_safe_parcels.geojson"
+    },
+    {
+      "title": "NCDOT Airport Property Boundaries",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/NCDOT_AirportPropertyBoundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ncdot_airport_property_boundaries.geojson"
+    },
+    {
+      "title": "Reidsville Public Zoning Map_WFL1",
+      "url": "https://services6.arcgis.com/F05wl398YvOrLJax/arcgis/rest/services/Reidsville_Public_Zoning_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "reidsville_public_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "U_6073_GML_2024_AA",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/U_6073_GML_2024_AA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "u_6073_gml_2024_aa.geojson"
+    },
+    {
+      "title": "Great Smoky Mtn Agricultural Growth Zone for Swain County_ NC_WFL1",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/Great_Smoky_Mtn_Agricultural_Growth_Zone_for_Swain_County__NC_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "great_smoky_mtn_agricultural_growth_zone_for_swain_county__n.geojson"
+    },
+    {
+      "title": "Background_34909_00_publicview",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/Background_34909_00_publicview/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "background_34909_00_publicview.geojson"
+    },
+    {
+      "title": "MiniBasins09022018 View",
+      "url": "https://services1.arcgis.com/VVapzOPgBae5joyC/arcgis/rest/services/MiniBasins09022018_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "minibasins09022018_view.geojson"
+    },
+    {
+      "title": "Campus Boundary",
+      "url": "https://services1.arcgis.com/LHR3xygGZdtJuI79/arcgis/rest/services/Campus_Boundary/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "campus_boundary.geojson"
+    },
+    {
+      "title": "R_5900_GML_2024_AH",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/R_5900_GML_2024_AH/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "r_5900_gml_2024_ah.geojson"
+    },
+    {
+      "title": "HL_0065_ML_2_7_2024",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/HL_0065_ML_2_7_2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hl_0065_ml_2_7_2024.geojson"
+    },
+    {
+      "title": "Sentinel Landscape Map 2023",
+      "url": "https://services6.arcgis.com/3Sj1fiIDvQtFfbvg/arcgis/rest/services/Sentinel_Landscape_Map_2023/FeatureServer",
+      "features": 29,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sentinel_landscape_map_2023.geojson"
+    },
+    {
+      "title": "ARZ Parcels For Alignment",
+      "url": "https://services.arcgis.com/9Nl857LBlQVyzq54/arcgis/rest/services/ARZ_Parcels_For_Alignment/FeatureServer",
+      "features": 64,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "arz_parcels_for_alignment.geojson"
+    },
+    {
+      "title": "Mosinee Zoning Layer",
+      "url": "https://services6.arcgis.com/pHG4ZR8FFSuCMvSA/arcgis/rest/services/Mosinee_Zoning_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mosinee_zoning_layer.geojson"
+    },
+    {
+      "title": "NC Statewide Voluntary Agricultural Districts VAD Parcels",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/NC_Statewide_Voluntary_Agricultural_Districts_VAD_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "nc_statewide_voluntary_agricultural_districts_vad_parcels.geojson"
+    },
+    {
+      "title": "New Flood Zones for Buncombe County, NC",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/andegon_PP3_Q1_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "new_flood_zones_for_buncombe_county__nc.geojson"
+    },
+    {
+      "title": "Mosinee Zoning",
+      "url": "https://services6.arcgis.com/pHG4ZR8FFSuCMvSA/arcgis/rest/services/zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mosinee_zoning.geojson"
+    },
+    {
+      "title": "NC Zoning Web Map_WFL1",
+      "url": "https://services7.arcgis.com/RLQtED7qlYHuT1ha/arcgis/rest/services/NC_Zoning_Web_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nc_zoning_web_map_wfl1.geojson"
+    },
+    {
+      "title": "20_ Acre Swain County Parcels within 5 Mile Buffer of Great Smoky Mountain National Park_WFL1",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/20__Acre_Swain_County_Parcels_within_5_Mile_Buffer_of_Great_Smoky_Mountain_National_Park_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "20__acre_swain_county_parcels_within_5_mile_buffer_of_great_.geojson"
+    },
+    {
+      "title": "Street Level Suitability vs FEMA 500 Flood Model",
+      "url": "https://services1.arcgis.com/GwaLJVJq0Y6voqEc/arcgis/rest/services/Street_Level_Suitability_vs_FEMA_500_Flood_Model/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "street_level_suitability_vs_fema_500_flood_model.geojson"
+    },
+    {
+      "title": "fema_parcels",
+      "url": "https://services1.arcgis.com/GwaLJVJq0Y6voqEc/arcgis/rest/services/fema_parcels/FeatureServer",
+      "features": 81,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fema_parcels.geojson"
+    }
+  ]
+}

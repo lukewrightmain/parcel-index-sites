@@ -1,0 +1,774 @@
+{
+  "state": "Hawaii",
+  "sources_attempted": 109,
+  "sources_successful": 85,
+  "total_features": 5862,
+  "pulled_at": "2026-03-16T01:22:33.114146",
+  "datasets": [
+    {
+      "title": "County of Hawai\u02bbi Properties as of April 2025",
+      "url": "https://services1.arcgis.com/C2LPusZs5OXNGFDn/arcgis/rest/services/County_of_Hawai\u02bbi_Properties_as_of_April_2025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_of_hawai\u02bbi_properties_as_of_april_2025.geojson"
+    },
+    {
+      "title": "Hawaii - Parcels - Raw",
+      "url": "https://services9.arcgis.com/KxdxEENNmnYRWfSd/arcgis/rest/services/HI_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "hawaii_-_parcels_-_raw.geojson"
+    },
+    {
+      "title": "VacantProperties_outside_HighIncome_BlockGroups",
+      "url": "https://services1.arcgis.com/npLnRW3gAaK3foIj/arcgis/rest/services/VacantProperties_outside_HighIncome_BlockGroups/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "vacantproperties_outside_highincome_blockgroups.geojson"
+    },
+    {
+      "title": "DOFAW Managed Lands",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/DOFAW_Managed_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dofaw_managed_lands.geojson"
+    },
+    {
+      "title": "Undeveloped Private Large Landowner Residential Land",
+      "url": "https://services1.arcgis.com/ROYridpvbRwP5woD/arcgis/rest/services/Undeveloped_Private_Large_Landowner_Residential_Land/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "undeveloped_private_large_landowner_residential_land.geojson"
+    },
+    {
+      "title": "Undeveloped Government Residential Land",
+      "url": "https://services1.arcgis.com/ROYridpvbRwP5woD/arcgis/rest/services/Undeveloped_Government_Residential_Property/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "undeveloped_government_residential_land.geojson"
+    },
+    {
+      "title": "Indigenous Homelands Under Colonization",
+      "url": "https://services.arcgis.com/9ecg2KpMLcsUv1Oh/arcgis/rest/services/Indigenous_Homelands_Under_Colonization/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "indigenous_homelands_under_colonization.geojson"
+    },
+    {
+      "title": "DOFAW Managed Areas 2018",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/DOFAW_Managed_Areas_2018/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dofaw_managed_areas_2018.geojson"
+    },
+    {
+      "title": "Parcels_Impacted_by_Lava_gfl",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/Parcels_Impacted_by_Lava_gfl/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_impacted_by_lava_gfl.geojson"
+    },
+    {
+      "title": "DLNR Parcels (GL and RP) 2018",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/DLNR_Parcels_(GL_and_RP)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dlnr_parcels__gl_and_rp__2018.geojson"
+    },
+    {
+      "title": "Hawaii Secured Areas",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/HI_secured_vector_2022_01_22/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hawaii_secured_areas.geojson"
+    },
+    {
+      "title": "slr_potent_econ_loss_3_pt_2_ft",
+      "url": "https://services3.arcgis.com/fsrDo0QMPlK9CkZD/arcgis/rest/services/slr_potent_econ_loss_3_pt_2_ft/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "slr_potent_econ_loss_3_pt_2_ft.geojson"
+    },
+    {
+      "title": "EVOA Hawaiian Homelands Parcels",
+      "url": "https://services.arcgis.com/tNJpAOha4mODLkXz/arcgis/rest/services/EVOA_Hawaiian_Homelands_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "evoa_hawaiian_homelands_parcels.geojson"
+    },
+    {
+      "title": "Statewide_Sewe_PairwiseErase",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Statewide_Sewe_PairwiseErase/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "statewide_sewe_pairwiseerase.geojson"
+    },
+    {
+      "title": "HI_Parcels_Bedrooms_Bathrooms_Units",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/HI_Parcels_Bedrooms_Bathrooms_Units/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hi_parcels_bedrooms_bathrooms_units.geojson"
+    },
+    {
+      "title": "HawaiiSmallScaleFarmPotential",
+      "url": "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/HawaiiSmallScaleFarmPotential/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hawaiismallscalefarmpotential.geojson"
+    },
+    {
+      "title": "Project Areas",
+      "url": "https://services2.arcgis.com/iRXQh9fsThHqHhAy/arcgis/rest/services/Project_Areas/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "project_areas.geojson"
+    },
+    {
+      "title": "TNC Preserves 2024",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/TNC_Preserves_2024/FeatureServer",
+      "features": 26,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tnc_preserves_2024.geojson"
+    },
+    {
+      "title": "oahtmk_kailua_waimanalo",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/oahtmk_kailua_waimanalo/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "oahtmk_kailua_waimanalo.geojson"
+    },
+    {
+      "title": "Collection System Maintenance (CSM) Pearl City Warehouse",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Collection_System_Maintenance_(CSM)_Pearl_City_Warehouse/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "collection_system_maintenance__csm__pearl_city_warehouse.geojson"
+    },
+    {
+      "title": "Hawaii County Parcels 2020",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Hawaii_County_Parcels_2020/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hawaii_county_parcels_2020.geojson"
+    },
+    {
+      "title": "Makena State Park Improvements",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Makena_State_Park_Improvements/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "makena_state_park_improvements.geojson"
+    },
+    {
+      "title": "Halau of Oiwi Art",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Halau_of_Oiwi_Art/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "halau_of_oiwi_art.geojson"
+    },
+    {
+      "title": "Honolua to Honokohau Management Plan",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Honolua_to_Honokohau_Management_Plan/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "honolua_to_honokohau_management_plan.geojson"
+    },
+    {
+      "title": "Hawaii TMK (For HDOT Use)",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Hawaii_TMK_(For_HDOT_Use)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hawaii_tmk__for_hdot_use_.geojson"
+    },
+    {
+      "title": "EVLoad_only_Hawaii_gdb",
+      "url": "https://services5.arcgis.com/gfBpz2hbsVDgru6D/arcgis/rest/services/EVLoad_only_Hawaii_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "evload_only_hawaii_gdb.geojson"
+    },
+    {
+      "title": "Hilo Medical Center Expansion",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Hilo_Medical_Center_Expansion/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hilo_medical_center_expansion.geojson"
+    },
+    {
+      "title": "Lehua",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Lehua/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lehua.geojson"
+    },
+    {
+      "title": "Puunani Homestead Subdivision Water System Storage Improvements",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Puunani_Homestead_Subdivision_Water_System_Storage_Improvements/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "puunani_homestead_subdivision_water_system_storage_improveme.geojson"
+    },
+    {
+      "title": "Puunani Homestead Subdivision",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Puunani_Homestead_Subdivision/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "puunani_homestead_subdivision.geojson"
+    },
+    {
+      "title": "Categories_HI_Bedrooms_Per_Ac",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Categories_HI_Bedrooms_Per_Ac/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "categories_hi_bedrooms_per_ac.geojson"
+    },
+    {
+      "title": "Atherton Mixed Use Student Housing Innovation and Entrepreneurship Center",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Atherton_Mixed_Use_Student_Housing_Innovation_and_Entrepreneurship_Center/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "atherton_mixed_use_student_housing_innovation_and_entreprene.geojson"
+    },
+    {
+      "title": "Cluster_method_Oahu",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Cluster_method_Oahu/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cluster_method_oahu.geojson"
+    },
+    {
+      "title": "Hawaii_TMK_2025",
+      "url": "https://services1.arcgis.com/wQnFk5ouCfPzTlPw/arcgis/rest/services/Hawaii_TMK_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hawaii_tmk_2025.geojson"
+    },
+    {
+      "title": "gov_own_clipped_kipahulu",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/gov_own_clipped_kipahulu/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gov_own_clipped_kipahulu.geojson"
+    },
+    {
+      "title": "Kauai County Sewered Areas",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Kauai_County_Sewered_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "kauai_county_sewered_areas.geojson"
+    },
+    {
+      "title": "Tradewinds Garden ",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Tradewinds_Garden_/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tradewinds_garden_.geojson"
+    },
+    {
+      "title": "Ledcor Maui Properties and Improvements",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Ledcor_Maui_Properties_and_Improvements/FeatureServer",
+      "features": 22,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ledcor_maui_properties_and_improvements.geojson"
+    },
+    {
+      "title": "parcels_in_danger_KM",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/parcels_in_danger_KM/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_in_danger_km.geojson"
+    },
+    {
+      "title": "Nearest_Hawaii_Emergency_Shelter_BBB",
+      "url": "https://services8.arcgis.com/68JTBa9Pi1Ub1rvX/arcgis/rest/services/Nearest_Hawaii_Emergency_Shelter_BBB/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nearest_hawaii_emergency_shelter_bbb.geojson"
+    },
+    {
+      "title": "OahuTMK_TaxPlat_LateralPCT",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/OahuTMK_TaxPlat_LateralPCT/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oahutmk_taxplat_lateralpct.geojson"
+    },
+    {
+      "title": "Nearest_Hawaii_Shelter_to_Residential_At_Risk_Land_Parcels_mfh312",
+      "url": "https://services8.arcgis.com/68JTBa9Pi1Ub1rvX/arcgis/rest/services/Nearest_Hawaii_Shelter_to_Residential_At_Risk_Land_Parcels_mfh312/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nearest_hawaii_shelter_to_residential_at_risk_land_parcels_m.geojson"
+    },
+    {
+      "title": "PukalaniServiceArea",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/PukalaniServiceArea/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pukalaniservicearea.geojson"
+    },
+    {
+      "title": "BigIslandTMK_D_PairwiseErase",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/BigIslandTMK_D_PairwiseErase/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bigislandtmk_d_pairwiseerase.geojson"
+    },
+    {
+      "title": "large_landowners_2017",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/large_landowners_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "large_landowners_2017.geojson"
+    },
+    {
+      "title": "NaturalAreaReserve",
+      "url": "https://services.arcgis.com/wKiTqqEYQLgNM4kT/arcgis/rest/services/NaturalAreaReserve/FeatureServer",
+      "features": 28,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "naturalareareserve.geojson"
+    },
+    {
+      "title": "parcels_at_risk__fh",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/parcels_at_risk__fh/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_at_risk__fh.geojson"
+    },
+    {
+      "title": "SewerBillingTMKs",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/SewerBillingTMKs/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sewerbillingtmks.geojson"
+    },
+    {
+      "title": "tmk_state_cluster_intersect",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/tmk_state_cluster_intersect/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tmk_state_cluster_intersect.geojson"
+    },
+    {
+      "title": "Nearest_Hawaii_Emergency_Shelters_to_Centroid_EO521",
+      "url": "https://services4.arcgis.com/InH2ctI0mXwZbjMf/arcgis/rest/services/Nearest_Hawaii_Emergency_Shelters_to_Centroid_EO521/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nearest_hawaii_emergency_shelters_to_centroid_eo521.geojson"
+    },
+    {
+      "title": "tmk_state_shp",
+      "url": "https://services7.arcgis.com/zhv02phVr2lR14uE/arcgis/rest/services/tmk_state_shp/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tmk_state_shp.geojson"
+    },
+    {
+      "title": "MauiLatPCT_PairwiseErase",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/MauiLatPCT_PairwiseErase/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mauilatpct_pairwiseerase.geojson"
+    },
+    {
+      "title": "County of Kauai Sewer Served Areas",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/County_of_Kauai_Sewer_Served_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_of_kauai_sewer_served_areas.geojson"
+    },
+    {
+      "title": "New_Nearest_Hawaii_Emergency_Shelters_to_Centroids_for_Dissolve_land_parcels",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/New_Nearest_Hawaii_Emergency_Shelters_to_Centroids_for_Dissolve_land_parcels/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "new_nearest_hawaii_emergency_shelters_to_centroids_for_disso.geojson"
+    },
+    {
+      "title": "Oahu_TMK_Lateral_Intersect3",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Oahu_TMK_Lateral_Intersect3/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oahu_tmk_lateral_intersect3.geojson"
+    },
+    {
+      "title": "Nearest_Hawaii_Emergency_Shelters_to_Centroids_for_Dissolve_land_parcels",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/Nearest_Hawaii_Emergency_Shelters_to_Centroids_for_Dissolve_land_parcels/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nearest_hawaii_emergency_shelters_to_centroids_for_dissolve_.geojson"
+    },
+    {
+      "title": "Plats_Summarize",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Plats_Summarize/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plats_summarize.geojson"
+    },
+    {
+      "title": "At_Risk_Hawaii_Land_Parcels_Centroid_BBB",
+      "url": "https://services8.arcgis.com/68JTBa9Pi1Ub1rvX/arcgis/rest/services/At_Risk_Hawaii_Land_Parcels_Centroid_BBB/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "at_risk_hawaii_land_parcels_centroid_bbb.geojson"
+    },
+    {
+      "title": "At_Risk_Hawaii_Land_Parcels_v2_BBB",
+      "url": "https://services8.arcgis.com/68JTBa9Pi1Ub1rvX/arcgis/rest/services/At_Risk_Hawaii_Land_Parcels_v2_BBB/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "at_risk_hawaii_land_parcels_v2_bbb.geojson"
+    },
+    {
+      "title": "Hawaii County TMKs",
+      "url": "https://services6.arcgis.com/n132qPR6OPYplXuW/arcgis/rest/services/Hawaii_County_TMKs/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hawaii_county_tmks.geojson"
+    },
+    {
+      "title": "SewerBillingTMKs_Kauai_v2",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/SewerBillingTMKs_Kauai_v2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sewerbillingtmks_kauai_v2.geojson"
+    },
+    {
+      "title": "Dissolve_Find_Locations_in_Hawaii__Home_Parcels_within_buffer",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/Dissolve_Find_Locations_in_Hawaii__Home_Parcels_within_buffer/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dissolve_find_locations_in_hawaii__home_parcels_within_buffe.geojson"
+    },
+    {
+      "title": "Centroids_for_Dissolve_Find_Locations_in_Hawaii__Home_Parcels_within_buffer",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/Centroids_for_Dissolve_Find_Locations_in_Hawaii__Home_Parcels_within_buffer/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "centroids_for_dissolve_find_locations_in_hawaii__home_parcel.geojson"
+    },
+    {
+      "title": "OahuTMK_No_P1_Dissolve",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/OahuTMK_No_P1_Dissolve/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oahutmk_no_p1_dissolve.geojson"
+    },
+    {
+      "title": "OahuTMK_Red_Green_Laterals",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/OahuTMK_Red_Green_Laterals/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "oahutmk_red_green_laterals.geojson"
+    },
+    {
+      "title": "Nearest_Hawaii_Emergency_Shelters_to_Centroids_for_Dissolve_residential_land_parcels",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/Nearest_Hawaii_Emergency_Shelters_to_Centroids_for_Dissolve_residential_land_parcels/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nearest_hawaii_emergency_shelters_to_centroids_for_dissolve_.geojson"
+    },
+    {
+      "title": "SewerBillingTMKs_Kauai",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/SewerBillingTMKs_Kauai/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sewerbillingtmks_kauai.geojson"
+    },
+    {
+      "title": "BigIslandTMKLateralSum",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/BigIslandTMKLateralSum/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bigislandtmklateralsum.geojson"
+    },
+    {
+      "title": "BigIslandTMK_Lateral_Intersect",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/BigIslandTMK_Lateral_Intersect/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bigislandtmk_lateral_intersect.geojson"
+    },
+    {
+      "title": "BigIslandTMK_ExampleMap",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/BigIslandTMK_ExampleMap/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bigislandtmk_examplemap.geojson"
+    },
+    {
+      "title": "Manual_cluster_tmk_v1",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Manual_cluster_tmk_v1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "manual_cluster_tmk_v1.geojson"
+    },
+    {
+      "title": "Find_Locations_in_Hawaii_Selected_ParcelsEED",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/Find_Locations_in_Hawaii_Selected_ParcelsEED/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "find_locations_in_hawaii_selected_parcelseed.geojson"
+    },
+    {
+      "title": "tmk_state_clus_MinimumBoundi",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/tmk_state_clus_MinimumBoundi/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tmk_state_clus_minimumboundi.geojson"
+    },
+    {
+      "title": "Nearest_Hawaii_Emergency_Shelters_to_At_risk_parcels_CB",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/Nearest_Hawaii_Emergency_Shelters_to_At_risk_parcels_CB/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nearest_hawaii_emergency_shelters_to_at_risk_parcels_cb.geojson"
+    },
+    {
+      "title": "MJAFind_Locations_in_Hawaii_Selected_Parcels",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/MJAFind_Locations_in_Hawaii_Selected_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mjafind_locations_in_hawaii_selected_parcels.geojson"
+    },
+    {
+      "title": "Locations_in_Hawaii_Selected_Parcels",
+      "url": "https://services4.arcgis.com/wyNGOB7qusRtCAPP/arcgis/rest/services/Locations_in_Hawaii_Selected_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "locations_in_hawaii_selected_parcels.geojson"
+    },
+    {
+      "title": "Parker Ranch_Owned",
+      "url": "https://services2.arcgis.com/iRXQh9fsThHqHhAy/arcgis/rest/services/Parker_Ranch_Owned/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parker_ranch_owned.geojson"
+    },
+    {
+      "title": "HI_Parcels_Bedr_Bath_Units_2021",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/HI_Parcels_Bedr_Bath_Units_2021/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hi_parcels_bedr_bath_units_2021.geojson"
+    },
+    {
+      "title": "tmk_state_2025_dwelling_data",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/tmk_state_2025_dwelling_data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tmk_state_2025_dwelling_data.geojson"
+    },
+    {
+      "title": "Plats_6digit_Prcls_and_OSDS",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Plats_6digit_Prcls_and_OSDS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plats_6digit_prcls_and_osds.geojson"
+    },
+    {
+      "title": "StateTMKtoTaxPlat",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/StateTMKtoTaxPlat/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "statetmktotaxplat.geojson"
+    },
+    {
+      "title": "Statewide_SewerMerge",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Statewide_SewerMerge/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "statewide_sewermerge.geojson"
+    },
+    {
+      "title": "plats_summ",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/plats_summ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plats_summ.geojson"
+    },
+    {
+      "title": "Percentage of _Native Hawaiian_ Pacific Islander_ Veterans Among the Veteran Population_WFL1",
+      "url": "https://services.arcgis.com/ycIuRaoIC4UuCDAS/arcgis/rest/services/Percentage_of__Native_Hawaiian__Pacific_Islander__Veterans_Among_the_Veteran_Population_WFL1/FeatureServer",
+      "features": 27,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "percentage_of__native_hawaiian__pacific_islander__veterans_a.geojson"
+    },
+    {
+      "title": "Percentage of _Native Hawaiian_ Pacific Islander_ Veterans Among the County Population_WFL1",
+      "url": "https://services.arcgis.com/ycIuRaoIC4UuCDAS/arcgis/rest/services/Percentage_of__Native_Hawaiian__Pacific_Islander__Veterans_Among_the_County_Population_WFL1/FeatureServer",
+      "features": 27,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "percentage_of__native_hawaiian__pacific_islander__veterans_a.geojson"
+    }
+  ]
+}

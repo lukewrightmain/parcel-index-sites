@@ -1,0 +1,342 @@
+{
+  "state": "Nebraska",
+  "sources_attempted": 44,
+  "sources_successful": 37,
+  "total_features": 3441,
+  "pulled_at": "2026-03-16T01:32:57.064285",
+  "datasets": [
+    {
+      "title": "ParcelDetails",
+      "url": "https://services3.arcgis.com/oIhWXTph9P1clNT3/arcgis/rest/services/Tax_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parceldetails.geojson"
+    },
+    {
+      "title": "IV1_Water",
+      "url": "https://services3.arcgis.com/H1fomogcAqX4720J/arcgis/rest/services/IV1_Water/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "iv1_water.geojson"
+    },
+    {
+      "title": "Newark Parcels with Ownership",
+      "url": "https://services1.arcgis.com/WAUuvHqqP3le2PMh/arcgis/rest/services/Newark_Parcels_with_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "newark_parcels_with_ownership.geojson"
+    },
+    {
+      "title": "PV1_DistrictManagement",
+      "url": "https://services3.arcgis.com/H1fomogcAqX4720J/arcgis/rest/services/PV1_DistrictManagement/FeatureServer",
+      "features": 24,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pv1_districtmanagement.geojson"
+    },
+    {
+      "title": "Tax Parcels (Cass County, NE)",
+      "url": "https://services3.arcgis.com/oIhWXTph9P1clNT3/arcgis/rest/services/Tax_Parcels_(Cass_County)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels__cass_county__ne_.geojson"
+    },
+    {
+      "title": "Vacant_Lots",
+      "url": "https://services1.arcgis.com/gqTCvanrwF2z2HEu/arcgis/rest/services/Vacant_Lots/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "vacant_lots.geojson"
+    },
+    {
+      "title": "Airport (public)",
+      "url": "https://services9.arcgis.com/ksv1wRvySwOGRs8x/arcgis/rest/services/Airport_(public)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "airport__public_.geojson"
+    },
+    {
+      "title": "Newark Parcels",
+      "url": "https://services1.arcgis.com/WAUuvHqqP3le2PMh/arcgis/rest/services/Newark_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "newark_parcels.geojson"
+    },
+    {
+      "title": "BRF Parcel Analysis: Geology, Hunting, Protected Lands",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/BRF_ParcelAnalysis_Other/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brf_parcel_analysis__geology__hunting__protected_lands.geojson"
+    },
+    {
+      "title": "Zoning_Newberry_Owned_Parcels_CENACS21_WFL1",
+      "url": "https://services.arcgis.com/LBbVDC0hKPAnLRpO/arcgis/rest/services/Zoning_Newberry_Owned_Parcels_CENACS21_WFL1/FeatureServer",
+      "features": 44,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_newberry_owned_parcels_cenacs21_wfl1.geojson"
+    },
+    {
+      "title": "Regulated Use (public)",
+      "url": "https://services9.arcgis.com/ksv1wRvySwOGRs8x/arcgis/rest/services/Regulated_Use_(public)/FeatureServer",
+      "features": 90,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "regulated_use__public_.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/WAUuvHqqP3le2PMh/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "GIT_New",
+      "url": "https://services3.arcgis.com/PvkAiSMFS7cpxnJP/arcgis/rest/services/GIT_New/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "git_new.geojson"
+    },
+    {
+      "title": "LPSNRD_DigitizedLandRights_view",
+      "url": "https://services2.arcgis.com/iTf0MCf7KYGMrPY1/arcgis/rest/services/LPSNRD_DigitizedLandRights_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "lpsnrd_digitizedlandrights_view.geojson"
+    },
+    {
+      "title": "BRF: Parcel Analysis, Agriculture",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/BRF_ParcelAnalysis_Ag/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brf__parcel_analysis__agriculture.geojson"
+    },
+    {
+      "title": "BRF: Parcel Analysis, Historic",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/BFA_ParcelAnalysis_Hist/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brf__parcel_analysis__historic.geojson"
+    },
+    {
+      "title": "SCEDD Parcel Data",
+      "url": "https://services7.arcgis.com/RN7qZgb70CZgBPCl/arcgis/rest/services/SCEDD_Parcel_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "scedd_parcel_data.geojson"
+    },
+    {
+      "title": "NE Wilmington Parcel Survey_WFL1",
+      "url": "https://services3.arcgis.com/rmhAJpZ4mGH0eI14/arcgis/rest/services/NE_Wilmington_Parcel_Survey_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ne_wilmington_parcel_survey_wfl1.geojson"
+    },
+    {
+      "title": "OG_PrelimSaleParcels2023_12",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OG_PrelimSaleParcels2023_12/FeatureServer",
+      "features": 47,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "og_prelimsaleparcels2023_12.geojson"
+    },
+    {
+      "title": "BRF: Parcel Analysis, Water",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/BRF_ParcelAnalysis_water/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brf__parcel_analysis__water.geojson"
+    },
+    {
+      "title": "parcels_zoning_new_row",
+      "url": "https://services1.arcgis.com/Qo2HHQp8vgPs2wg3/arcgis/rest/services/parcels_zoning_new_row/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_zoning_new_row.geojson"
+    },
+    {
+      "title": "Nebraska Parcels (NebraskaMAP)",
+      "url": "https://gis.ne.gov/Enterprise/rest/services/StatewideParcelsExternal/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "nebraska_parcels__nebraskamap_.geojson"
+    },
+    {
+      "title": "NGPC_NE_Parcels_2023",
+      "url": "https://services8.arcgis.com/jzdN07B7ZhRTxuzU/arcgis/rest/services/NGPC_NE_Parcels_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ngpc_ne_parcels_2023.geojson"
+    },
+    {
+      "title": "Parcels Stamford Nebraska 2023",
+      "url": "https://services7.arcgis.com/RN7qZgb70CZgBPCl/arcgis/rest/services/Parcels_Stamford_Nebraska_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_stamford_nebraska_2023.geojson"
+    },
+    {
+      "title": "OGPrelimSaleParcels2024_03",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OGPrelimSaleParcels2024_03/FeatureServer",
+      "features": 36,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogprelimsaleparcels2024_03.geojson"
+    },
+    {
+      "title": "BRF: Parcel Analysis, Climate",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/BRF_ParcelAnalysis_Climate/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brf__parcel_analysis__climate.geojson"
+    },
+    {
+      "title": "VTPARCELS_Newport Town",
+      "url": "https://services3.arcgis.com/qDu2EiOa5WeBhk3C/arcgis/rest/services/VTPARCELS_Newport_Town/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vtparcels_newport_town.geojson"
+    },
+    {
+      "title": "parcels_zoning_new_ug_owned",
+      "url": "https://services1.arcgis.com/Qo2HHQp8vgPs2wg3/arcgis/rest/services/parcels_zoning_new_ug_owned/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_zoning_new_ug_owned.geojson"
+    },
+    {
+      "title": "BRF: Parcel Analysis, Ecology",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/BRF_ParcelAnalysis_Eco2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brf__parcel_analysis__ecology.geojson"
+    },
+    {
+      "title": "Parcels_for_BOE",
+      "url": "https://services.arcgis.com/pDAi2YK0L0QxVJHj/arcgis/rest/services/Parcels_for_BOE/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_for_boe.geojson"
+    },
+    {
+      "title": "BRF: Parcel Analysis, Recreation",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "brf__parcel_analysis__recreation.geojson"
+    },
+    {
+      "title": "Nebraska Tax Parcels",
+      "url": "https://services8.arcgis.com/jzdN07B7ZhRTxuzU/arcgis/rest/services/Layers_Data_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "nebraska_tax_parcels.geojson"
+    },
+    {
+      "title": "Previous Years Sale",
+      "url": "https://services3.arcgis.com/oIhWXTph9P1clNT3/arcgis/rest/services/Previous_Years_Sale/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "previous_years_sale.geojson"
+    },
+    {
+      "title": "Parcels_ThayerNE",
+      "url": "https://services3.arcgis.com/FRsBDrFjzZkBiqMW/arcgis/rest/services/Parcels_ThayerNE/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_thayerne.geojson"
+    },
+    {
+      "title": "Madison Parcel Data 01012025 view",
+      "url": "https://services5.arcgis.com/Gbmp5qaBUbr846rq/arcgis/rest/services/Madison_Parcel_Data_01012025_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "madison_parcel_data_01012025_view.geojson"
+    },
+    {
+      "title": "NE Oregon parcels",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/NE_Oregon_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ne_oregon_parcels.geojson"
+    },
+    {
+      "title": "Value_Change_By_Neighborhood_2025",
+      "url": "https://services2.arcgis.com/OSbOBWdLkmvu5I9F/arcgis/rest/services/Value_Change_By_Neighborhood_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "value_change_by_neighborhood_2025.geojson"
+    }
+  ]
+}

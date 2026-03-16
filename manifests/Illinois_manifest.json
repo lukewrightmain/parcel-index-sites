@@ -1,0 +1,891 @@
+{
+  "state": "Illinois",
+  "sources_attempted": 115,
+  "sources_successful": 98,
+  "total_features": 8533,
+  "pulled_at": "2026-03-16T01:23:27.270128",
+  "datasets": [
+    {
+      "title": "Parcels",
+      "url": "https://services9.arcgis.com/6FnscPPlUa9DXXOk/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES ST CLAIR COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAMBL_PROPERTIES_ST_CLAIR_COUNTY_IL/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_st_clair_county.geojson"
+    },
+    {
+      "title": "Adams County, IL Parcels",
+      "url": "https://services3.arcgis.com/BXTAaNPMn1VANOeH/arcgis/rest/services/ParcelsOnlineMap/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "adams_county__il_parcels.geojson"
+    },
+    {
+      "title": "LakeCounty_Landmarks",
+      "url": "https://services3.arcgis.com/HESxeTbDliKKvec2/arcgis/rest/services/LakeCounty_Landmarks/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "lakecounty_landmarks.geojson"
+    },
+    {
+      "title": "Townships (PLSS)",
+      "url": "https://services.arcgis.com/neJvtQ4PXvnQ86MJ/arcgis/rest/services/Townships_new/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "townships__plss_.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/RzqA4ca3R8Re7lYp/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Parcels View",
+      "url": "https://services.arcgis.com/K8hCj4l2z1EMabnx/arcgis/rest/services/Parcels_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/K8hCj4l2z1EMabnx/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Tax Parcels",
+      "url": "https://services3.arcgis.com/HESxeTbDliKKvec2/arcgis/rest/services/OpenData_ParcelPolygons/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "tax_parcels.geojson"
+    },
+    {
+      "title": "Public Gray Map",
+      "url": "https://services.arcgis.com/K8hCj4l2z1EMabnx/arcgis/rest/services/READ_Public_Gray_Map/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "public_gray_map.geojson"
+    },
+    {
+      "title": "INPC_Update_Holman_10_9_20",
+      "url": "https://services.arcgis.com/b9DHj1BjfdLLFv11/arcgis/rest/services/INPC_Update_Holman_10_9_20/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "inpc_update_holman_10_9_20.geojson"
+    },
+    {
+      "title": "Silvis Data Loading Map",
+      "url": "https://services6.arcgis.com/iZ6GmQZ9zaRNfvWH/arcgis/rest/services/Silvis_Data_Loading_Map_New_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "silvis_data_loading_map.geojson"
+    },
+    {
+      "title": "Land Use Inventory, northeastern Illinois (2020)",
+      "url": "https://services5.arcgis.com/LcMXE3TFhi1BSaCY/arcgis/rest/services/LUI20_geodatabase_v1_CMAP/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_use_inventory__northeastern_illinois__2020_.geojson"
+    },
+    {
+      "title": "Zoning_View",
+      "url": "https://services6.arcgis.com/4WLaseAJEud7jfEm/arcgis/rest/services/Zoning_View/FeatureServer",
+      "features": 5,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_view.geojson"
+    },
+    {
+      "title": "PublishedFabric",
+      "url": "https://services5.arcgis.com/pweYHqdOby1TE9DD/arcgis/rest/services/PublishedFabric/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "publishedfabric.geojson"
+    },
+    {
+      "title": "EnerGov Feature Service",
+      "url": "https://services3.arcgis.com/sVDuYsm37AMvFL49/arcgis/rest/services/EnerGov_Feature_Service/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "energov_feature_service.geojson"
+    },
+    {
+      "title": "East Moline Zoning Map_WFL1",
+      "url": "https://services2.arcgis.com/AexCN3RZHA62zqjz/arcgis/rest/services/East_Moline_Zoning_Map_WFL1/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "east_moline_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "TaxParcelsAndSubdivisions_TaxYear2023",
+      "url": "https://services2.arcgis.com/wtCeg7DiC1GyX2L9/arcgis/rest/services/TaxParcelsAndSubdivisions_TaxYear2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxparcelsandsubdivisions_taxyear2023.geojson"
+    },
+    {
+      "title": "2024 Snow Route Map",
+      "url": "https://services.arcgis.com/K8hCj4l2z1EMabnx/arcgis/rest/services/2021_Snow_Route_Map/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2024_snow_route_map.geojson"
+    },
+    {
+      "title": "2015 Land Use Inventory for Northeastern Illinois",
+      "url": "https://services5.arcgis.com/LcMXE3TFhi1BSaCY/arcgis/rest/services/Landuse2015_CMAP_v1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2015_land_use_inventory_for_northeastern_illinois.geojson"
+    },
+    {
+      "title": "Property Parcels",
+      "url": "https://gis.cityofdanville.org/arcgis/rest/services/Property/Property/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "property_parcels.geojson"
+    },
+    {
+      "title": "Basemap",
+      "url": "https://services7.arcgis.com/7X0Cm9p41M4uAkPP/arcgis/rest/services/Basemap/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "basemap.geojson"
+    },
+    {
+      "title": "FPDCC Boundaries",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/FPDCC_Boundaries/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fpdcc_boundaries.geojson"
+    },
+    {
+      "title": "2010 Land Use Inventory for Northeastern Illinois",
+      "url": "https://services5.arcgis.com/LcMXE3TFhi1BSaCY/arcgis/rest/services/Land_Use_Inventory_for_Northeast_Illinois_2010_v3/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2010_land_use_inventory_for_northeastern_illinois.geojson"
+    },
+    {
+      "title": "McLean County Parcels 2022",
+      "url": "https://services1.arcgis.com/utVR6GjejYAZciWt/arcgis/rest/services/McLean_County_Parcels_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mclean_county_parcels_2022.geojson"
+    },
+    {
+      "title": "City of Silvis Illinois Zoning Classifications",
+      "url": "https://services6.arcgis.com/iZ6GmQZ9zaRNfvWH/arcgis/rest/services/City_of_Silvis_Illinois_Zoning_Classifications/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_silvis_illinois_zoning_classifications.geojson"
+    },
+    {
+      "title": "Crow_IL_Parcels",
+      "url": "https://services6.arcgis.com/6hR3ncgZytDB2gKA/arcgis/rest/services/Crow_IL_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "crow_il_parcels.geojson"
+    },
+    {
+      "title": "Parcel_Point",
+      "url": "https://services7.arcgis.com/LiP3SciiR8VBXvcO/arcgis/rest/services/Parcel_Point/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_point.geojson"
+    },
+    {
+      "title": "SSMMA Delinquent Parcels",
+      "url": "https://services1.arcgis.com/kZsOWCED80XbRyJ0/arcgis/rest/services/SSMMA_Delinquent_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ssmma_delinquent_parcels.geojson"
+    },
+    {
+      "title": "Residential_Sales",
+      "url": "https://services.arcgis.com/iPiPjILCMYxPZWTc/arcgis/rest/services/Residential_Sales/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "residential_sales.geojson"
+    },
+    {
+      "title": "Illinois Nature Preserves Commission",
+      "url": "https://services9.arcgis.com/AmgnhNUQOhIscOKJ/arcgis/rest/services/Illinois_Nature_Preserves_Commission/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "illinois_nature_preserves_commission.geojson"
+    },
+    {
+      "title": "Private Open Space",
+      "url": "https://services9.arcgis.com/AmgnhNUQOhIscOKJ/arcgis/rest/services/Private_Open_Space/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "private_open_space.geojson"
+    },
+    {
+      "title": "Huntley_ IL _ Cadastral_WFL1",
+      "url": "https://services5.arcgis.com/dqsuVCxPy9LTxdOJ/arcgis/rest/services/Huntley__IL___Cadastral_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "huntley__il___cadastral_wfl1.geojson"
+    },
+    {
+      "title": "Air_and_Mineral_Rights",
+      "url": "https://services.arcgis.com/iPiPjILCMYxPZWTc/arcgis/rest/services/Air_and_Mineral_Rights/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "air_and_mineral_rights.geojson"
+    },
+    {
+      "title": "Industrial",
+      "url": "https://services1.arcgis.com/RKHOEYhbKFt1KpD3/arcgis/rest/services/Industrial/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "industrial.geojson"
+    },
+    {
+      "title": "All Tax Districts",
+      "url": "https://services.arcgis.com/iPiPjILCMYxPZWTc/arcgis/rest/services/All_Tax_Districts/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "all_tax_districts.geojson"
+    },
+    {
+      "title": "Cook County Forest Preserve Boundaries",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Cook_County_Forest_Preserve_Boundaries/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cook_county_forest_preserve_boundaries.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services7.arcgis.com/43AQXTEk8mAvgdOb/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "Protectedparcels_500_Buffer_Update",
+      "url": "https://services2.arcgis.com/AexCN3RZHA62zqjz/arcgis/rest/services/Protectedparcels_500_Buffer_Update/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "protectedparcels_500_buffer_update.geojson"
+    },
+    {
+      "title": "Parcels with Addresses",
+      "url": "https://services1.arcgis.com/rXJ6QApc2sOtl1Pd/arcgis/rest/services/Parcels_with_Addresses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_with_addresses.geojson"
+    },
+    {
+      "title": "Vacant Land Chicagoland",
+      "url": "https://services6.arcgis.com/OO2s4OoyCZkYJ6oE/arcgis/rest/services/Vacant_Land_Chicagoland/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "vacant_land_chicagoland.geojson"
+    },
+    {
+      "title": "McHenry County TaxParcels",
+      "url": "https://services1.arcgis.com/6iYC5AXXYapRVNzl/arcgis/rest/services/McHenry_County_TaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "mchenry_county_taxparcels.geojson"
+    },
+    {
+      "title": "Parcels_GrundyCo_Illinois_20150529",
+      "url": "https://services3.arcgis.com/VYrEjSsDHxMxl6fT/arcgis/rest/services/Parcels_GrundyCo_Illinois_20150529/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_grundyco_illinois_20150529.geojson"
+    },
+    {
+      "title": "River Forest Parcels",
+      "url": "https://services5.arcgis.com/74bZbbuf05Ctvbzv/arcgis/rest/services/River_Forest_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "river_forest_parcels.geojson"
+    },
+    {
+      "title": "Zoning Possibilities for Cannabis Sales_gdb",
+      "url": "https://services2.arcgis.com/AexCN3RZHA62zqjz/arcgis/rest/services/Zoning_Possibilities_for_Cannabis_Sales_gdb/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_possibilities_for_cannabis_sales_gdb.geojson"
+    },
+    {
+      "title": "CMAPLandUseOS",
+      "url": "https://services1.arcgis.com/kZsOWCED80XbRyJ0/arcgis/rest/services/CMAPLandUseOS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cmaplanduseos.geojson"
+    },
+    {
+      "title": "LakeCounty_TaxDistricts",
+      "url": "https://services3.arcgis.com/HESxeTbDliKKvec2/arcgis/rest/services/LakeCounty_TaxDistricts/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lakecounty_taxdistricts.geojson"
+    },
+    {
+      "title": "Chicago Central Area Parking_WFL1",
+      "url": "https://services.arcgis.com/GL0fWlNkwysZaKeV/arcgis/rest/services/Chicago_Central_Area_Parking_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "chicago_central_area_parking_wfl1.geojson"
+    },
+    {
+      "title": "TaxCode0612",
+      "url": "https://services.arcgis.com/fGsbyIOAuxHnF97m/arcgis/rest/services/TaxCode0612/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxcode0612.geojson"
+    },
+    {
+      "title": "Vacant Parcels (None, 2015)",
+      "url": "https://services2.arcgis.com/dJOijx2lWTlGQBDJ/arcgis/rest/services/CW_430/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_parcels__none__2015_.geojson"
+    },
+    {
+      "title": "Silvis Data Loading Map _ New_WFL1",
+      "url": "https://services6.arcgis.com/iZ6GmQZ9zaRNfvWH/arcgis/rest/services/Silvis_Data_Loading_Map___New_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "silvis_data_loading_map___new_wfl1.geojson"
+    },
+    {
+      "title": "Illinois County Parcel Viewers and GIS Data 2023",
+      "url": "https://gis.prairie.illinois.edu/arcgis/rest/services/Hosted/GIS_data_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "illinois_county_parcel_viewers_and_gis_data_2023.geojson"
+    },
+    {
+      "title": "Silvis Data Loading Map_view layer",
+      "url": "https://services6.arcgis.com/iZ6GmQZ9zaRNfvWH/arcgis/rest/services/Silvis_Data_Loading_Map_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "silvis_data_loading_map_view_layer.geojson"
+    },
+    {
+      "title": "City Owned Parcels",
+      "url": "https://services.arcgis.com/K8hCj4l2z1EMabnx/arcgis/rest/services/Parcels_CityOwned/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "city_owned_parcels.geojson"
+    },
+    {
+      "title": "2013 Pilsen Industrial Corridor Land Use Map",
+      "url": "https://services.arcgis.com/GL0fWlNkwysZaKeV/arcgis/rest/services/2013_Pilsen_Industrial_Corridor_Land_Use_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2013_pilsen_industrial_corridor_land_use_map.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services7.arcgis.com/O9Z7JkIFFJ6nOIIq/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Old Valmeyer Parcels JHEB",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Old_Valmeyer_Parcels_JHEB/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "old_valmeyer_parcels_jheb.geojson"
+    },
+    {
+      "title": "parcels_new_valmeyer",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/parcels_new_valmeyer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_new_valmeyer.geojson"
+    },
+    {
+      "title": "New Valmeyer Parcels JHEB",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_Valmeyer_Parcels_JHEB/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_parcels_jheb.geojson"
+    },
+    {
+      "title": "New Valmeyer Parcel Map_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_Valmeyer_Parcel_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_parcel_map_wfl1.geojson"
+    },
+    {
+      "title": "Moving Valmeyer Julian Ishii_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Moving_Valmeyer_Julian_Ishii_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "moving_valmeyer_julian_ishii_wfl1.geojson"
+    },
+    {
+      "title": "ParcelsALL",
+      "url": "https://services1.arcgis.com/rXJ6QApc2sOtl1Pd/arcgis/rest/services/ParcelsALL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelsall.geojson"
+    },
+    {
+      "title": "Map of Valmeyer Illinois Tax Parcels Categorized by Mean Elevation_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Map_of_Valmeyer_Illinois_Tax_Parcels_Categorized_by_Mean_Elevation_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "map_of_valmeyer_illinois_tax_parcels_categorized_by_mean_ele.geojson"
+    },
+    {
+      "title": "Final Assignment Valmeyer_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Final_Assignment_Valmeyer_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "final_assignment_valmeyer_wfl1.geojson"
+    },
+    {
+      "title": " An Old Valmeyer Parcels",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/_An_Old_Valmeyer_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "_an_old_valmeyer_parcels.geojson"
+    },
+    {
+      "title": "Valmeyer IL_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Valmeyer_IL_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "valmeyer_il_wfl1.geojson"
+    },
+    {
+      "title": "NPS Illinois River Parcels",
+      "url": "https://services5.arcgis.com/PADY1WtQSQ4Ijq5k/arcgis/rest/services/NPS_Illinois_River_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nps_illinois_river_parcels.geojson"
+    },
+    {
+      "title": "Assessment Areas",
+      "url": "https://services.arcgis.com/iPiPjILCMYxPZWTc/arcgis/rest/services/Assessment_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "assessment_areas.geojson"
+    },
+    {
+      "title": "TSD City Parcels for Signaling _ 2_WFL1",
+      "url": "https://services.arcgis.com/GL0fWlNkwysZaKeV/arcgis/rest/services/TSD_City_Parcels_for_Signaling___2_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tsd_city_parcels_for_signaling___2_wfl1.geojson"
+    },
+    {
+      "title": "New Valmeyer_Mathew Erickson_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_Valmeyer_Mathew_Erickson_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_mathew_erickson_wfl1.geojson"
+    },
+    {
+      "title": "Valmeyer Relocation Analysis MP",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Valmeyer_Relocation_Analysis_MP/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "valmeyer_relocation_analysis_mp.geojson"
+    },
+    {
+      "title": "PeotoneIDOTacquired",
+      "url": "https://services9.arcgis.com/aftZsggIJyezpZLk/arcgis/rest/services/PeotoneIDOTacquired/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "peotoneidotacquired.geojson"
+    },
+    {
+      "title": "New_Valmeyer_NoureddineMayassi_February2024",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_Valmeyer_NoureddineMayassi_February2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_noureddinemayassi_february2024.geojson"
+    },
+    {
+      "title": "Old Valmeyer Parcels1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Old_Valmeyer_Parcels1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "old_valmeyer_parcels1.geojson"
+    },
+    {
+      "title": "New Valmeyer TM_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_Valmeyer_TM_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_tm_wfl1.geojson"
+    },
+    {
+      "title": "Relocation and GIS update of Valmeyer_ Illinois_WFL1",
+      "url": "https://services5.arcgis.com/Ndi1QSsLBM7IsTBy/arcgis/rest/services/Relocation_and_GIS_update_of_Valmeyer__Illinois_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "relocation_and_gis_update_of_valmeyer__illinois_wfl1.geojson"
+    },
+    {
+      "title": "New Parcel Data for Valmeyer_ Illinois_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_Parcel_Data_for_Valmeyer__Illinois_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_parcel_data_for_valmeyer__illinois_wfl1.geojson"
+    },
+    {
+      "title": "Newvalmeyer__parcels",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Newvalmeyer__parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "newvalmeyer__parcels.geojson"
+    },
+    {
+      "title": "Moving Valmeyer Merrill",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Moving_Valmeyer_Merrill/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "moving_valmeyer_merrill.geojson"
+    },
+    {
+      "title": "old_valmeyer_IL_parcels_moving_city_project",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/old_valmeyer_IL_parcels_moving_city_project/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "old_valmeyer_il_parcels_moving_city_project.geojson"
+    },
+    {
+      "title": "new_valmeyer_parcels (2)",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/new_valmeyer_parcels_(2)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_parcels__2_.geojson"
+    },
+    {
+      "title": "Valmeyer_Suitability_Analysis_Updated_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Valmeyer_Suitability_Analysis_Updated_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "valmeyer_suitability_analysis_updated_wfl1.geojson"
+    },
+    {
+      "title": "parcels_old_valmeyer",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/parcels_old_valmeyer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_old_valmeyer.geojson"
+    },
+    {
+      "title": "Valmeyer Relocation_ Parcel Elevation_ Slope_ and Roads_WFL1",
+      "url": "https://services.arcgis.com/E5vyYQKPMX5X3R3H/arcgis/rest/services/Valmeyer_Relocation__Parcel_Elevation__Slope__and_Roads_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "valmeyer_relocation__parcel_elevation__slope__and_roads_wfl1.geojson"
+    },
+    {
+      "title": "old_valmeyer_parcels",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/o/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "old_valmeyer_parcels.geojson"
+    },
+    {
+      "title": "Moving_Valmeyer_Parcels_Work_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Moving_Valmeyer_Parcels_Work_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "moving_valmeyer_parcels_work_wfl1.geojson"
+    },
+    {
+      "title": "oldvalmeyer_parcel",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/oldvalmeyer_parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "oldvalmeyer_parcel.geojson"
+    },
+    {
+      "title": "TSD City Parcels for Signaling_WFL1",
+      "url": "https://services.arcgis.com/GL0fWlNkwysZaKeV/arcgis/rest/services/TSD_City_Parcels_for_Signaling_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tsd_city_parcels_for_signaling_wfl1.geojson"
+    },
+    {
+      "title": "Old_valmeyer_parcels_",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Old_valmeyer_parcels_CN/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "old_valmeyer_parcels_.geojson"
+    },
+    {
+      "title": "new_valmeyer_IL_parcels_moving_city_project",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/new_valmeyer_IL_parcels_moving_city_project/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_il_parcels_moving_city_project.geojson"
+    },
+    {
+      "title": "Moving Valmeyer Project by Luis Daniel Perez_Squeo_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Moving_Valmeyer_Project_by_Luis_Daniel_Perez_Squeo_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "moving_valmeyer_project_by_luis_daniel_perez_squeo_wfl1.geojson"
+    },
+    {
+      "title": "New_valmeyer_parcels_",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_valmeyer_parcels_CN/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_parcels_.geojson"
+    },
+    {
+      "title": "Old Valmeyer Town Parcels_dissolved_pm",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Old_Valmeyer_Town_Parcels_dissolved_pm/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "old_valmeyer_town_parcels_dissolved_pm.geojson"
+    },
+    {
+      "title": "New Valmeyer parcels__WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/New_Valmeyer_parcels__WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_parcels__wfl1.geojson"
+    },
+    {
+      "title": "old_valmeyer_parcel",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/old_valmeyer_parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "old_valmeyer_parcel.geojson"
+    },
+    {
+      "title": "Moving",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Moving/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "moving.geojson"
+    },
+    {
+      "title": "new_valmeyer_parcels_MK",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/new_valmeyer_parcels_MK/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_valmeyer_parcels_mk.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/GL0fWlNkwysZaKeV/arcgis/rest/services/Parcels_layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    }
+  ]
+}

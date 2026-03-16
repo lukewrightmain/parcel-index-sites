@@ -1,0 +1,801 @@
+{
+  "state": "Maryland",
+  "sources_attempted": 174,
+  "sources_successful": 88,
+  "total_features": 7627,
+  "pulled_at": "2026-03-16T01:29:34.175847",
+  "datasets": [
+    {
+      "title": "MDOT SHA Parcel Inventory",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mdot_sha_parcel_inventory.geojson"
+    },
+    {
+      "title": "MDOT Maryland Roadside Historical Markers",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Marylands_Historical_Markers_(View)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mdot_maryland_roadside_historical_markers.geojson"
+    },
+    {
+      "title": "Charles County Chesapeake Bay Critical Area ",
+      "url": "https://services7.arcgis.com/3BMWkdyrt45RNCrq/arcgis/rest/services/Charles_County_Chesapeake_Bay_Critical_Area_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "charles_county_chesapeake_bay_critical_area_.geojson"
+    },
+    {
+      "title": "PermitsProAccela",
+      "url": "https://services.arcgis.com/Uf0DiYpD9NOFO5YH/arcgis/rest/services/PermitsProAccela/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "permitsproaccela.geojson"
+    },
+    {
+      "title": "Subdivision Boundaries",
+      "url": "https://services.arcgis.com/q8r0H9SbF6PzNpYE/arcgis/rest/services/SubdivisionBoundaries/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "subdivision_boundaries.geojson"
+    },
+    {
+      "title": "Tax Parcels",
+      "url": "https://services7.arcgis.com/3BMWkdyrt45RNCrq/arcgis/rest/services/Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_parcels.geojson"
+    },
+    {
+      "title": "MetCom Serviced Locations_WFL1",
+      "url": "https://services3.arcgis.com/oMyOi7kozGXYXHPr/arcgis/rest/services/MetCom_Serviced_Locations_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "metcom_serviced_locations_wfl1.geojson"
+    },
+    {
+      "title": "BCPS_School_Parcels_2017",
+      "url": "https://services1.arcgis.com/V388bo78v0PokOBx/arcgis/rest/services/BCPS_School_Parcels_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bcps_school_parcels_2017.geojson"
+    },
+    {
+      "title": "ProtectedLands_Charles_gdb",
+      "url": "https://services7.arcgis.com/3BMWkdyrt45RNCrq/arcgis/rest/services/ProtectedLands_Charles_gdb/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "protectedlands_charles_gdb.geojson"
+    },
+    {
+      "title": "Property Parcels",
+      "url": "https://services7.arcgis.com/yqhlYKSnzjiOzQig/arcgis/rest/services/PropParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "property_parcels.geojson"
+    },
+    {
+      "title": "Wicomico County, MD: Parcels",
+      "url": "https://services6.arcgis.com/Hx8jJ6McXQ0jnqLk/arcgis/rest/services/Parcels1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "wicomico_county__md__parcels.geojson"
+    },
+    {
+      "title": "Charles County Parcels",
+      "url": "https://services7.arcgis.com/3BMWkdyrt45RNCrq/arcgis/rest/services/CharlesCounty_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "charles_county_parcels.geojson"
+    },
+    {
+      "title": "Workforce Housing ZTA  Applicable Parcels",
+      "url": "https://services1.arcgis.com/HbzrdBZjOwNHp70P/arcgis/rest/services/Workforce_Housing_ZTA_Parcel_Corridors/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "workforce_housing_zta__applicable_parcels.geojson"
+    },
+    {
+      "title": "Select_Parcels_Points_and_Polys",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Select_Parcels_Points_and_Polys/FeatureServer",
+      "features": 65,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "select_parcels_points_and_polys.geojson"
+    },
+    {
+      "title": "Parcels_1216",
+      "url": "https://services6.arcgis.com/RWHujKM5TItecIqp/arcgis/rest/services/Parcels_1216/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_1216.geojson"
+    },
+    {
+      "title": "Washington County Planning Zones and Overlays",
+      "url": "https://services2.arcgis.com/uxxyl33jRTSmjre5/arcgis/rest/services/Washington_County_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "washington_county_planning_zones_and_overlays.geojson"
+    },
+    {
+      "title": "Econ_Electric_WFL1",
+      "url": "https://services6.arcgis.com/RWHujKM5TItecIqp/arcgis/rest/services/Econ_Electric_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "econ_electric_wfl1.geojson"
+    },
+    {
+      "title": "Prince George County Park Area",
+      "url": "https://services1.arcgis.com/qTQ6qYkHpxlu0G82/arcgis/rest/services/Prince_George_County_Park_Area/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "prince_george_county_park_area.geojson"
+    },
+    {
+      "title": "Stormdrain_Features_and_Pipes",
+      "url": "https://services.arcgis.com/q8r0H9SbF6PzNpYE/arcgis/rest/services/Stormdrain_Features_and_Pipes/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "stormdrain_features_and_pipes.geojson"
+    },
+    {
+      "title": "COAParcel",
+      "url": "https://services.arcgis.com/7ww0md22RA7aTw3W/arcgis/rest/services/COAParcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "coaparcel.geojson"
+    },
+    {
+      "title": "CCo Study Area Parcels",
+      "url": "https://services3.arcgis.com/Pn95KPPz613AKHXi/arcgis/rest/services/CCo_Study_Area_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "cco_study_area_parcels.geojson"
+    },
+    {
+      "title": "Berlin",
+      "url": "https://services1.arcgis.com/X3lKekbdaBmNjCHu/arcgis/rest/services/Berlin/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "berlin.geojson"
+    },
+    {
+      "title": "Talbot Thrive Geodatabase",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Talbot_Thrive_Geodatabase/FeatureServer",
+      "features": 58,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "talbot_thrive_geodatabase.geojson"
+    },
+    {
+      "title": "Parcel_Viewer_experience_builder",
+      "url": "https://services6.arcgis.com/RWHujKM5TItecIqp/arcgis/rest/services/Parcel_Viewer_experience_builder/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcel_viewer_experience_builder.geojson"
+    },
+    {
+      "title": "Jonestown Parcel Boundaries",
+      "url": "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/JonestownParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "jonestown_parcel_boundaries.geojson"
+    },
+    {
+      "title": "Crow_MD_Parcels",
+      "url": "https://services6.arcgis.com/6hR3ncgZytDB2gKA/arcgis/rest/services/Crow_MD_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "crow_md_parcels.geojson"
+    },
+    {
+      "title": "MDOT SHA NPDES Conveyance",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/23ab9309817f4832810937c8a16239d1/rest/services/NPDES/NPDES_Simple_Conveyance_Maryland_MDOTSHA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mdot_sha_npdes_conveyance.geojson"
+    },
+    {
+      "title": "Vacant Lots per Neighborhood",
+      "url": "https://services1.arcgis.com/1EZ7DqkhGiNWRyiL/arcgis/rest/services/VacantLotsPerNeighborhood/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "vacant_lots_per_neighborhood.geojson"
+    },
+    {
+      "title": "Emergency_Truck_Parking_2016_FreightStoryMap",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Emergency_Truck_Parking_2016_FreightStoryMap/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "emergency_truck_parking_2016_freightstorymap.geojson"
+    },
+    {
+      "title": "UMD_Property",
+      "url": "https://services7.arcgis.com/QbUU1hrC1rQBrOiZ/arcgis/rest/services/UMD_Property/FeatureServer",
+      "features": 22,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "umd_property.geojson"
+    },
+    {
+      "title": "CCo Interconnection Site Analysis Buffers",
+      "url": "https://services3.arcgis.com/Pn95KPPz613AKHXi/arcgis/rest/services/CCo_Interconnection_Site_Analysis_Buffers/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cco_interconnection_site_analysis_buffers.geojson"
+    },
+    {
+      "title": "Gaithersburg City Zoning",
+      "url": "https://services8.arcgis.com/cbDaIA5xFnHBUlC1/arcgis/rest/services/Gaithersburg_City_Zoning/FeatureServer",
+      "features": 19,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gaithersburg_city_zoning.geojson"
+    },
+    {
+      "title": "Land VPA",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Land_Vpa/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "land_vpa.geojson"
+    },
+    {
+      "title": "Sustainable Growth and Agricultural Preservation Act of 2012",
+      "url": "https://services.arcgis.com/q8r0H9SbF6PzNpYE/arcgis/rest/services/SB236/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sustainable_growth_and_agricultural_preservation_act_of_2012.geojson"
+    },
+    {
+      "title": "Stormdrains_and_Culverts_Map_WFL1",
+      "url": "https://services.arcgis.com/q8r0H9SbF6PzNpYE/arcgis/rest/services/Stormdrains_and_Culverts_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "stormdrains_and_culverts_map_wfl1.geojson"
+    },
+    {
+      "title": "State Highway Property Suitability Analysis",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/State_Highway_Property_Suitability_Analysis/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "state_highway_property_suitability_analysis.geojson"
+    },
+    {
+      "title": "Maryland Private Schools_WFL1",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Maryland_Private_Schools_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maryland_private_schools_wfl1.geojson"
+    },
+    {
+      "title": "ES Parcels Waterfront",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Es_Parcels_Waterfront/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "es_parcels_waterfront.geojson"
+    },
+    {
+      "title": "LorrainePark01_FINAL",
+      "url": "https://services1.arcgis.com/FLgshDLgxaIsVNWq/arcgis/rest/services/LorrainePark01_FINAL/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lorrainepark01_final.geojson"
+    },
+    {
+      "title": "ES Land Use Inside Core",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/es_land_use_Inside_Core/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "es_land_use_inside_core.geojson"
+    },
+    {
+      "title": "ES Land Use",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/es_land_use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "es_land_use.geojson"
+    },
+    {
+      "title": "ES Parcels Taxable vs Exempt",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Es_Parcels_Taxable_vs_Exempt/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "es_parcels_taxable_vs_exempt.geojson"
+    },
+    {
+      "title": "ES Land Use Outside Core",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/es_land_use_Outside_Core/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "es_land_use_outside_core.geojson"
+    },
+    {
+      "title": "Dev Parcels Pre1952",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Dev_Parcels_Pre1952/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "dev_parcels_pre1952.geojson"
+    },
+    {
+      "title": "ES Parcels Total Value",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Es_Parcels_Total_Val/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "es_parcels_total_value.geojson"
+    },
+    {
+      "title": "MDOT SHA Parcels within 100ft PAD-US Combined Properties",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Parcels_within_100ft_PAD_US_Combined_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mdot_sha_parcels_within_100ft_pad-us_combined_properties.geojson"
+    },
+    {
+      "title": "City of Salisbury, MD: Parcels with Tax Assessment Values",
+      "url": "https://services6.arcgis.com/Hx8jJ6McXQ0jnqLk/arcgis/rest/services/Salisbury_Parcels_with_Tax_Assessment_Values/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "city_of_salisbury__md__parcels_with_tax_assessment_values.geojson"
+    },
+    {
+      "title": "Land Use Developed",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Land_Use_Developed/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "land_use_developed.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services6.arcgis.com/RWHujKM5TItecIqp/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Dev Parcels Post1952",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Dev_Parcels_Post1952/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "dev_parcels_post1952.geojson"
+    },
+    {
+      "title": "MDOT SHA Parcels within 100ft PAD US Proclamation Properties",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Parcels_within_100ft_PAD_US_Proclamation_Properties/FeatureServer",
+      "features": 30,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mdot_sha_parcels_within_100ft_pad_us_proclamation_properties.geojson"
+    },
+    {
+      "title": "City of Salisbury, MD: Planting Opportunities",
+      "url": "https://services6.arcgis.com/Hx8jJ6McXQ0jnqLk/arcgis/rest/services/Planting_Opportunities/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "city_of_salisbury__md__planting_opportunities.geojson"
+    },
+    {
+      "title": "MDOT SHA Parcels within 100ft DNR Owned Properties",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Parcels_within_100ft_DNR_Owned_Properties/FeatureServer",
+      "features": 27,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mdot_sha_parcels_within_100ft_dnr_owned_properties.geojson"
+    },
+    {
+      "title": "PAEDIRT_2025_12_26_rev",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/PAEDIRT_2025_12_26_rev/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "paedirt_2025_12_26_rev.geojson"
+    },
+    {
+      "title": "ES Parcels",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Es_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "es_parcels.geojson"
+    },
+    {
+      "title": "Charles County Parcels",
+      "url": "https://services3.arcgis.com/Pn95KPPz613AKHXi/arcgis/rest/services/Charles_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "charles_county_parcels.geojson"
+    },
+    {
+      "title": "Baltimore City Land Parcels",
+      "url": "https://services5.arcgis.com/cuQhNeNcUrgLmYGD/arcgis/rest/services/Baltimore_City_Land_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "baltimore_city_land_parcels.geojson"
+    },
+    {
+      "title": "Nearest_Property_Points_to_Fence_1000",
+      "url": "https://services6.arcgis.com/ViYttNLX8a3q3DgR/arcgis/rest/services/Nearest_Property_Points_to_Fence_1000/FeatureServer",
+      "features": 83,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nearest_property_points_to_fence_1000.geojson"
+    },
+    {
+      "title": "Zoning Map_WFL1",
+      "url": "https://services1.arcgis.com/AwDuFhONE9qxjJjX/arcgis/rest/services/Zoning_Map_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "boundary zoned",
+      "url": "https://services5.arcgis.com/9jfGg288K34UNiRe/arcgis/rest/services/boundary_zoned/FeatureServer",
+      "features": 82,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "boundary_zoned.geojson"
+    },
+    {
+      "title": "Talbot County _ Malpf Scoring for Ag Parceles",
+      "url": "https://services5.arcgis.com/pGIpkO9l9XlmojjG/arcgis/rest/services/Talbot_County___Malpf_Scoring_for_Ag_Parceles/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "talbot_county___malpf_scoring_for_ag_parceles.geojson"
+    },
+    {
+      "title": "Land VPA with Counties",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Land_VPA_with_Counties/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_vpa_with_counties.geojson"
+    },
+    {
+      "title": "Streets 2ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_2ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_2ft_slr_clip.geojson"
+    },
+    {
+      "title": "Streets 10ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_10ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_10ft_slr_clip.geojson"
+    },
+    {
+      "title": "Streets 3ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_3ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_3ft_slr_clip.geojson"
+    },
+    {
+      "title": "Streets 1ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_1ft_Slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_1ft_slr_clip.geojson"
+    },
+    {
+      "title": "MD Senior Centers_WFL1",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/MD_Senior_Centers_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "md_senior_centers_wfl1.geojson"
+    },
+    {
+      "title": "Streets 7ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_7ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_7ft_slr_clip.geojson"
+    },
+    {
+      "title": "Streets 9ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_9ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_9ft_slr_clip.geojson"
+    },
+    {
+      "title": "Streets 5ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_5ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_5ft_slr_clip.geojson"
+    },
+    {
+      "title": "Solar Sites of MDOT",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Solar_Sites_of_MDOT/FeatureServer",
+      "features": 98,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "solar_sites_of_mdot.geojson"
+    },
+    {
+      "title": "Streets 8ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_8ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_8ft_slr_clip.geojson"
+    },
+    {
+      "title": "Built_Residential_Fields",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Built_Residential_Fields/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "built_residential_fields.geojson"
+    },
+    {
+      "title": "Streets 6ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_6ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_6ft_slr_clip.geojson"
+    },
+    {
+      "title": "Streets 4ft SLR Clip",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Streets_4ft_slr_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "streets_4ft_slr_clip.geojson"
+    },
+    {
+      "title": "All_Parcel_Points_and_Polys",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/All_Parcel_Points_and_Polys/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "all_parcel_points_and_polys.geojson"
+    },
+    {
+      "title": "Talbot County BasemapFinal",
+      "url": "https://services1.arcgis.com/X3lKekbdaBmNjCHu/arcgis/rest/services/Talbot_County_BasemapFinal/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "talbot_county_basemapfinal.geojson"
+    },
+    {
+      "title": "MyCoast PALS Final Communities",
+      "url": "https://services1.arcgis.com/qTQ6qYkHpxlu0G82/arcgis/rest/services/MyCoast_PALS_Final_Communities/FeatureServer",
+      "features": 31,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mycoast_pals_final_communities.geojson"
+    },
+    {
+      "title": "SLR Streets (1 - 10 ft)",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/SLR_Streets_All/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "slr_streets__1_-_10_ft_.geojson"
+    },
+    {
+      "title": "CarrollCounty",
+      "url": "https://services1.arcgis.com/FLgshDLgxaIsVNWq/arcgis/rest/services/CarrollCounty/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "carrollcounty.geojson"
+    },
+    {
+      "title": "Montogomery County Land Use",
+      "url": "https://services1.arcgis.com/qTQ6qYkHpxlu0G82/arcgis/rest/services/Montogomery_County_Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "montogomery_county_land_use.geojson"
+    },
+    {
+      "title": "Property Boundary",
+      "url": "https://services3.arcgis.com/oMyOi7kozGXYXHPr/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "property_boundary.geojson"
+    },
+    {
+      "title": "Maryland_Parcel_Blight",
+      "url": "https://services3.arcgis.com/EsK8TQtmsqRfL3XK/arcgis/rest/services/Maryland_Parcel_Blight/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "maryland_parcel_blight.geojson"
+    },
+    {
+      "title": "Linkwood Base Data",
+      "url": "https://services5.arcgis.com/PADY1WtQSQ4Ijq5k/arcgis/rest/services/Linkwood_Base_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "linkwood_base_data.geojson"
+    },
+    {
+      "title": "Maryland Community Centers_WFL1",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/Maryland_Community_Centers_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "maryland_community_centers_wfl1.geojson"
+    },
+    {
+      "title": "Howard County Parcels State Owned that are 30 acres or greater",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Howard_County_Parcels_State_Owned_that_are_30_acres_or_greater/FeatureServer",
+      "features": 69,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "howard_county_parcels_state_owned_that_are_30_acres_or_great.geojson"
+    },
+    {
+      "title": "District 9 Schools",
+      "url": "https://services4.arcgis.com/AR1W7xFomwfGolOe/arcgis/rest/services/District_9_Schools/FeatureServer",
+      "features": 18,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "district_9_schools.geojson"
+    },
+    {
+      "title": "Maryland_s Unbuilt Utility Scale Solar Projects_WFL1",
+      "url": "https://services1.arcgis.com/qTQ6qYkHpxlu0G82/arcgis/rest/services/Maryland_s_Unbuilt_Utility_Scale_Solar_Projects_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "maryland_s_unbuilt_utility_scale_solar_projects_wfl1.geojson"
+    }
+  ]
+}

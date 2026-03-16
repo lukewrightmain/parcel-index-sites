@@ -1,0 +1,324 @@
+{
+  "state": "New Mexico",
+  "sources_attempted": 36,
+  "sources_successful": 35,
+  "total_features": 2786,
+  "pulled_at": "2026-03-16T01:34:05.959176",
+  "datasets": [
+    {
+      "title": "Otero County Property Lines",
+      "url": "https://services7.arcgis.com/bgz8gagoCo8zWA4H/arcgis/rest/services/Cloudcroft_Property_lines/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "otero_county_property_lines.geojson"
+    },
+    {
+      "title": "Do\u00f1a Ana County Assessed Parcels",
+      "url": "https://services7.arcgis.com/JMIoqakAkedEx0oU/arcgis/rest/services/DAC_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "do\u00f1a_ana_county_assessed_parcels.geojson"
+    },
+    {
+      "title": "MunicipalBoundaries_2025",
+      "url": "https://services.arcgis.com/33TOOklri9xpic7U/arcgis/rest/services/MunicipalBoundaries_2025/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipalboundaries_2025.geojson"
+    },
+    {
+      "title": "Grant County Interactive Parcel Map",
+      "url": "https://services.arcgis.com/33TOOklri9xpic7U/arcgis/rest/services/Grant_County_Interactive_Parcel_Map/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "grant_county_interactive_parcel_map.geojson"
+    },
+    {
+      "title": "Sunland Park Zoning",
+      "url": "https://services5.arcgis.com/4MEMBPMfRkN9N7wp/arcgis/rest/services/Sunland_Park_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sunland_park_zoning.geojson"
+    },
+    {
+      "title": "Tax Parcel_Polygon20241007",
+      "url": "https://services3.arcgis.com/fneA3L2J0387Pb3S/arcgis/rest/services/Tax_Parcel_Polygon20241007/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcel_polygon20241007.geojson"
+    },
+    {
+      "title": "sale_08_20_draft_NM",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/sale_08_20_draft_NM/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sale_08_20_draft_nm.geojson"
+    },
+    {
+      "title": "NMLC Conservation Easements",
+      "url": "https://services7.arcgis.com/mKZLh4JYPCI8Qlsl/arcgis/rest/services/NMLC_Conservation_Easements/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nmlc_conservation_easements.geojson"
+    },
+    {
+      "title": "2022 DAC Parcel Complete",
+      "url": "https://services7.arcgis.com/JMIoqakAkedEx0oU/arcgis/rest/services/2022_DAC_Parcel_Complete/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "2022_dac_parcel_complete.geojson"
+    },
+    {
+      "title": "CityOwnedProperties",
+      "url": "https://services1.arcgis.com/CZidbxjza1rSdynU/arcgis/rest/services/CityOwnedProperties/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cityownedproperties.geojson"
+    },
+    {
+      "title": "Cloudcroft Subdivisions",
+      "url": "https://services7.arcgis.com/bgz8gagoCo8zWA4H/arcgis/rest/services/Otero_County_Property_Lines_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cloudcroft_subdivisions.geojson"
+    },
+    {
+      "title": "sale_01_21_final_NM",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/sale_01_21_final_NM/FeatureServer",
+      "features": 32,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sale_01_21_final_nm.geojson"
+    },
+    {
+      "title": "2020 DAC Parcel Complete",
+      "url": "https://services7.arcgis.com/JMIoqakAkedEx0oU/arcgis/rest/services/2020_DAC_Parcel_Complete/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "2020_dac_parcel_complete.geojson"
+    },
+    {
+      "title": "Firewise Spring Cleanup Sign Up",
+      "url": "https://services5.arcgis.com/MuetKt2X4gaxiKvl/arcgis/rest/services/Firewise_Spring_Cleanup/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "firewise_spring_cleanup_sign_up.geojson"
+    },
+    {
+      "title": "State Land Office Renewable Energy Leases",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/State Land Office Renewable Energy Leases/FeatureServer",
+      "features": 33,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_land_office_renewable_energy_leases.geojson"
+    },
+    {
+      "title": "Cloudcroft Properties",
+      "url": "https://services7.arcgis.com/bgz8gagoCo8zWA4H/arcgis/rest/services/Cloudcroft_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "cloudcroft_properties.geojson"
+    },
+    {
+      "title": "sale_01_21_draft_NM_v2",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/sale_01_21_draft_NM_v2/FeatureServer",
+      "features": 32,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sale_01_21_draft_nm_v2.geojson"
+    },
+    {
+      "title": "Parcels View All Fields",
+      "url": "https://services1.arcgis.com/tZhkGVr1gXGPSz0S/arcgis/rest/services/Parcels_View_All_Fields/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_view_all_fields.geojson"
+    },
+    {
+      "title": "PLSS_First_Division_ExportFeatures",
+      "url": "https://services5.arcgis.com/MuetKt2X4gaxiKvl/arcgis/rest/services/PLSS_First_Division_ExportFeatures/FeatureServer",
+      "features": 38,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_first_division_exportfeatures.geojson"
+    },
+    {
+      "title": "NM_CE_LCIA",
+      "url": "https://services6.arcgis.com/A1tNIYoq2pwZK3ro/arcgis/rest/services/NM_CE_LCIA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nm_ce_lcia.geojson"
+    },
+    {
+      "title": "NM state trust lands within native trout historical range",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/NM_state_trust_lands_within_native_trout_historical_range/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nm_state_trust_lands_within_native_trout_historical_range.geojson"
+    },
+    {
+      "title": "SunlandPark_Parcels",
+      "url": "https://services5.arcgis.com/4MEMBPMfRkN9N7wp/arcgis/rest/services/SunlandPark_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sunlandpark_parcels.geojson"
+    },
+    {
+      "title": "Parcels view",
+      "url": "https://services1.arcgis.com/tZhkGVr1gXGPSz0S/arcgis/rest/services/Parcels_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "Restoration Boundary",
+      "url": "https://services1.arcgis.com/CDe8d2aaeFz4FBy6/arcgis/rest/services/Restoration_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "restoration_boundary.geojson"
+    },
+    {
+      "title": "PTD / DFA Special Districts: DRAFT",
+      "url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/TRD_PTD_property_tax_special_districts_DRAFT_rev3/FeatureServer",
+      "features": 87,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ptd___dfa_special_districts__draft.geojson"
+    },
+    {
+      "title": "lamancha_parcel_utm",
+      "url": "https://services1.arcgis.com/CDe8d2aaeFz4FBy6/arcgis/rest/services/lamancha_parcel_utm/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lamancha_parcel_utm.geojson"
+    },
+    {
+      "title": "UnifiedZoningDistricts",
+      "url": "https://services1.arcgis.com/CZidbxjza1rSdynU/arcgis/rest/services/UnifiedZoningDistricts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "unifiedzoningdistricts.geojson"
+    },
+    {
+      "title": "Grant County Parcels_WFL1",
+      "url": "https://services9.arcgis.com/h2T8KwQEZGypOW4c/arcgis/rest/services/Grant_County_Parcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "grant_county_parcels_wfl1.geojson"
+    },
+    {
+      "title": "Santa Clara Fort Bayard Parcels",
+      "url": "https://services8.arcgis.com/nm8Z54pdbnOzit8c/arcgis/rest/services/Santa_Clara_Fort_Bayard_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "santa_clara_fort_bayard_parcels.geojson"
+    },
+    {
+      "title": "Silver City Parcels",
+      "url": "https://services8.arcgis.com/nm8Z54pdbnOzit8c/arcgis/rest/services/Silver_City_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "silver_city_parcels.geojson"
+    },
+    {
+      "title": "Bayard Parcels",
+      "url": "https://services8.arcgis.com/nm8Z54pdbnOzit8c/arcgis/rest/services/Bayard_Parcels/FeatureServer",
+      "features": 64,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bayard_parcels.geojson"
+    },
+    {
+      "title": "Deming Parcels",
+      "url": "https://services8.arcgis.com/nm8Z54pdbnOzit8c/arcgis/rest/services/Deming_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "deming_parcels.geojson"
+    },
+    {
+      "title": "parcel test_WFL1",
+      "url": "https://services1.arcgis.com/CDe8d2aaeFz4FBy6/arcgis/rest/services/parcel_test_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_test_wfl1.geojson"
+    },
+    {
+      "title": "PTD DFA Special Districts_202512",
+      "url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/PTD_DFA_Special_Districts_202512/FeatureServer",
+      "features": 88,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ptd_dfa_special_districts_202512.geojson"
+    },
+    {
+      "title": "PTD Special Districts",
+      "url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/PTD_Special_Districts/FeatureServer",
+      "features": 96,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ptd_special_districts.geojson"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "state": "Tennessee",
+  "sources_attempted": 32,
+  "sources_successful": 31,
+  "total_features": 2609,
+  "pulled_at": "2026-03-16T01:38:33.252727",
+  "datasets": [
+    {
+      "title": "WhiteHouseTN_EnergovAGOL",
+      "url": "https://services3.arcgis.com/pFngyvIqq2CUcLpI/arcgis/rest/services/WhiteHouseTN_EnergovAGOL/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "whitehousetn_energovagol.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/HdTo6HJqh92wn4D8/arcgis/rest/services/Parcels_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Cadastral",
+      "url": "https://services8.arcgis.com/vL7QLF4BNi1wukPE/arcgis/rest/services/Cadastral/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "cadastral.geojson"
+    },
+    {
+      "title": "Algood Parcels 220802",
+      "url": "https://services1.arcgis.com/EMZFDxQzNQloLbAf/arcgis/rest/services/Algood_Parcels_220802/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "algood_parcels_220802.geojson"
+    },
+    {
+      "title": "Livingston Parcels",
+      "url": "https://services1.arcgis.com/EMZFDxQzNQloLbAf/arcgis/rest/services/Livingston_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "livingston_parcels.geojson"
+    },
+    {
+      "title": "ExistingLandUseInventory_Features",
+      "url": "https://services1.arcgis.com/sRmcNvrTVX9Y0AgX/arcgis/rest/services/LandUseInventory_Features/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existinglanduseinventory_features.geojson"
+    },
+    {
+      "title": "Certified Parcels",
+      "url": "https://services1.arcgis.com/sRmcNvrTVX9Y0AgX/arcgis/rest/services/Certified_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "certified_parcels.geojson"
+    },
+    {
+      "title": "Historical Properties",
+      "url": "https://services1.arcgis.com/du2kAhlOU8gWyWb5/arcgis/rest/services/Historical_Properties/FeatureServer",
+      "features": 25,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "historical_properties.geojson"
+    },
+    {
+      "title": "June 2017 Mosheim Parcels",
+      "url": "https://services3.arcgis.com/duOXQT76rrwCBokY/arcgis/rest/services/June_2017_Mosheim_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "june_2017_mosheim_parcels.geojson"
+    },
+    {
+      "title": "Zoning_Features",
+      "url": "https://services1.arcgis.com/sRmcNvrTVX9Y0AgX/arcgis/rest/services/Zoning_Features/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_features.geojson"
+    },
+    {
+      "title": "June 2017 Baileyton Parcels",
+      "url": "https://services3.arcgis.com/duOXQT76rrwCBokY/arcgis/rest/services/June_2017_Baileyton_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "june_2017_baileyton_parcels.geojson"
+    },
+    {
+      "title": "Parcels_Clip",
+      "url": "https://services3.arcgis.com/k6aQP9AQncZQEtBv/arcgis/rest/services/Parcels_Clip/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_clip.geojson"
+    },
+    {
+      "title": "June 2017 Tusculum Parcels",
+      "url": "https://services3.arcgis.com/duOXQT76rrwCBokY/arcgis/rest/services/June_2017_Tusculum_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "june_2017_tusculum_parcels.geojson"
+    },
+    {
+      "title": "Long Island Solar Roadmap Potential Solar Installation Capacity",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Long_Island_Solar_Roadmap_Potential_Solar_Installation_Capacity/FeatureServer",
+      "features": 17,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "long_island_solar_roadmap_potential_solar_installation_capac.geojson"
+    },
+    {
+      "title": "Parcels_EditorView",
+      "url": "https://services3.arcgis.com/u2GVj9XBeyjTKkMn/arcgis/rest/services/Parcels_EditorView/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_editorview.geojson"
+    },
+    {
+      "title": "Statewide School Property",
+      "url": "https://services1.arcgis.com/YuVBSS7Y1of2Qud1/arcgis/rest/services/SchoolProperty/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "statewide_school_property.geojson"
+    },
+    {
+      "title": "TN County Parcel Map",
+      "url": "https://services.arcgis.com/rD2ylXRs80UroD90/arcgis/rest/services/TN_County_Parcel_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tn_county_parcel_map.geojson"
+    },
+    {
+      "title": "Tennessee State and Federal Lands_WFL1",
+      "url": "https://services5.arcgis.com/bPacKTm9cauMXVfn/arcgis/rest/services/Tennessee_State_and_Federal_Lands_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "tennessee_state_and_federal_lands_wfl1.geojson"
+    },
+    {
+      "title": "Reflection Riding Property Boundary",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/Reflection_Riding_Property_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "reflection_riding_property_boundary.geojson"
+    },
+    {
+      "title": "Parcels View",
+      "url": "https://services8.arcgis.com/QXQAkIJanx4EuI50/arcgis/rest/services/Parcels_2023_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "State Owned Land Public",
+      "url": "https://services8.arcgis.com/hnrf2eRMHkfDhePO/arcgis/rest/services/State_Owned_Land_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_owned_land_public.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services3.arcgis.com/nLnrKGwI08veJ5uu/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "parcels_redbank",
+      "url": "https://services9.arcgis.com/b7VbpZSIoQ7S1Sl6/arcgis/rest/services/parcels_redbank/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_redbank.geojson"
+    },
+    {
+      "title": "UTC Parcels 2024",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/UTC_Parcels_2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "utc_parcels_2024.geojson"
+    },
+    {
+      "title": "Hardin Parcels (Public)",
+      "url": "https://services8.arcgis.com/QuuhNNKD3xQ6RqEv/arcgis/rest/services/Hardin_Parcels_(Public)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "hardin_parcels__public_.geojson"
+    },
+    {
+      "title": "CumberlandCoParcels_0423",
+      "url": "https://services1.arcgis.com/TSNNo8H51qYl31gq/arcgis/rest/services/CumberlandCoParcels_0423/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "cumberlandcoparcels_0423.geojson"
+    },
+    {
+      "title": "Current Land Use 20240507",
+      "url": "https://services3.arcgis.com/vXlGQTJjSdUfsVqG/arcgis/rest/services/Current_Land_Use_20240507/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "current_land_use_20240507.geojson"
+    },
+    {
+      "title": "ExistingLandUse_2019_WFL1",
+      "url": "https://services1.arcgis.com/sRmcNvrTVX9Y0AgX/arcgis/rest/services/ExistingLandUse_2019_WFL1/FeatureServer",
+      "features": 3,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existinglanduse_2019_wfl1.geojson"
+    },
+    {
+      "title": "Jablonski Parcels Impervious",
+      "url": "https://services3.arcgis.com/nV0HyP5uKL48nAKr/arcgis/rest/services/Jablonski_Parcels_Impervious/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jablonski_parcels_impervious.geojson"
+    },
+    {
+      "title": "Hamilton County Parcels owned by University of Tennessee (2025)",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/Hamilton_County_Parcels_owned_by_University_of_Tennessee_(2025)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "hamilton_county_parcels_owned_by_university_of_tennessee__20.geojson"
+    },
+    {
+      "title": "State Park Boundaries by Primary Name Oct 2023",
+      "url": "https://services5.arcgis.com/bPacKTm9cauMXVfn/arcgis/rest/services/State_Park_Boundaries_by_Primary_Name_Oct_2023/FeatureServer",
+      "features": 62,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_park_boundaries_by_primary_name_oct_2023.geojson"
+    }
+  ]
+}

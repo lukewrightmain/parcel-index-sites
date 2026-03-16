@@ -1,0 +1,1161 @@
+{
+  "state": "Florida",
+  "sources_attempted": 153,
+  "sources_successful": 128,
+  "total_features": 9769,
+  "pulled_at": "2026-03-16T01:21:50.370777",
+  "datasets": [
+    {
+      "title": "Property Boundary View",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/PaParcelView_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "property_boundary_view.geojson"
+    },
+    {
+      "title": "Florida Statewide Parcels",
+      "url": "https://services9.arcgis.com/Gh9awoU677aKree0/arcgis/rest/services/Florida_Statewide_Cadastral/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "florida_statewide_parcels.geojson"
+    },
+    {
+      "title": "Lee County Parcels",
+      "url": "https://services2.arcgis.com/LvWGAAhHwbCJ2GMP/arcgis/rest/services/Lee_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "lee_county_parcels.geojson"
+    },
+    {
+      "title": "Tidal Climate Adjusted Flood Elevation (CAFE SLR 4ft) for New Jersey",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Tidal_Climate_Adjusted_Flood_Elevation_CAFE_SLR_4ft/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tidal_climate_adjusted_flood_elevation__cafe_slr_4ft__for_ne.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES MARION COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/MARION_COUNTY/FeatureServer",
+      "features": 18,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_marion_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES CITRUS COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/CITRUS_COUNTY/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_citrus_county.geojson"
+    },
+    {
+      "title": "Existing Land Use 2022",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2022.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES JACKSON COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_JACKSON_COUNTY/FeatureServer",
+      "features": 14,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_jackson_county.geojson"
+    },
+    {
+      "title": "Disturbed Lands View",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/Disturbed_Lands_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "disturbed_lands_view.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES VOLUSIA COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_VOLUSIA_COUNTY/FeatureServer",
+      "features": 27,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_volusia_county.geojson"
+    },
+    {
+      "title": "Existing Land Use 2020",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2020_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2020.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES HOLMES COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_HOLMES_COUNTY/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bam_properties_holmes_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES ST JOHNS COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/ST_JOHNS_COUNTY/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bam_properties_st_johns_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES LEVY COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_LEVY_COUNTY/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_levy_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES LEE COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_LEE_COUNTY/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_lee_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES SARASOTA COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_SARASOTA_COUNTY/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_sarasota_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES ST LUCIE COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_ST_LUCIE_COUNTY/FeatureServer",
+      "features": 9,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_st_lucie_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES SANTA ROSA COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_SANTA_ROSA_COUNTY/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_santa_rosa_county.geojson"
+    },
+    {
+      "title": "Existing Land Use 2021",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2021_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2021.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES GLADES COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_GLADES_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_glades_county.geojson"
+    },
+    {
+      "title": "Existing Land Use 2018",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/Existing_Land_Use_2018/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2018.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES ORANGE COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_ORANGE_COUNTY/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bam_properties_orange_county.geojson"
+    },
+    {
+      "title": "GAZZA FAMILY FUND PROPERTIES HIGHLANDS COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/GAZZA_FAMILY_FUND_HIGHLANDS_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gazza_family_fund_properties_highlands_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES WASHINGTON COUNTY FL",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_WASHINGTON_COUNTY_FL/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bam_properties_washington_county_fl.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES OSCEOLA COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_OSCEOLA_COUNTY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_osceola_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES HARDEE COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_HARDEE_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_hardee_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES INDIAN RIVER COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/JZG_PROPERTIES_INDIAN_RIVER_COUNTY/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_indian_river_county.geojson"
+    },
+    {
+      "title": "JZG PROPERTIES PALM BEACH COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/JZG_PROPERTIES_PALM_BEACH_COUNTY/FeatureServer",
+      "features": 8,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jzg_properties_palm_beach_county.geojson"
+    },
+    {
+      "title": "JEG PROPERTIES OKEECHOBEE COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/JEG_PROPERTIES_OKEECHOBEE_COUNTY/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jeg_properties_okeechobee_county.geojson"
+    },
+    {
+      "title": "JZG AND CNG PROPERTIES PALM BEACH COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/JZG_AND_CNG_PROPERTIES_PALM_BEACH_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jzg_and_cng_properties_palm_beach_county.geojson"
+    },
+    {
+      "title": "JEG PROPERTIES MARTIN COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/JEG_PROPERTIES_MARTIN_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jeg_properties_martin_county.geojson"
+    },
+    {
+      "title": "Parcel",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/Parcelpoly_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel.geojson"
+    },
+    {
+      "title": "NEW BAM PROPERTIES HIGHLANDS COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/NEW_BAM_PROPERTIES_HIGHLANDS_COUNTY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_bam_properties_highlands_county.geojson"
+    },
+    {
+      "title": "JZG PROPERTIES OSCEOLA COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/JZG_PROPERTIES_OSCEOLA_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "jzg_properties_osceola_county.geojson"
+    },
+    {
+      "title": "NewPropSearch",
+      "url": "https://services2.arcgis.com/x5zvhhxfUuRDntRe/arcgis/rest/services/NewPropSearch/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "newpropsearch.geojson"
+    },
+    {
+      "title": "Parcel Line",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/Parcelline_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_line.geojson"
+    },
+    {
+      "title": "SubdivisionParcels_190802",
+      "url": "https://services2.arcgis.com/xEhz4K4uxbjGXOPE/arcgis/rest/services/SubdivisionParcels_190802/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivisionparcels_190802.geojson"
+    },
+    {
+      "title": "Subdivisions_FL",
+      "url": "https://services7.arcgis.com/gqcDdwE7LMrYrEMJ/arcgis/rest/services/Subdivisions_FL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivisions_fl.geojson"
+    },
+    {
+      "title": "Leon County Real Estate Portfolio Parcels",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/LC_Owned_Land_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "leon_county_real_estate_portfolio_parcels.geojson"
+    },
+    {
+      "title": "EnerGov_WFL1",
+      "url": "https://services5.arcgis.com/hbtBppF7t3PpouVf/arcgis/rest/services/EnerGov_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "energov_wfl1.geojson"
+    },
+    {
+      "title": "County Zoning",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/ZonepolyU_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_zoning.geojson"
+    },
+    {
+      "title": "Existing Land Use 2024",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2024_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2024.geojson"
+    },
+    {
+      "title": "Existing Land Use 2019",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2019_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2019.geojson"
+    },
+    {
+      "title": "GIS Section",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/GISSection_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gis_section.geojson"
+    },
+    {
+      "title": "Easement Line",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/Easeline_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "easement_line.geojson"
+    },
+    {
+      "title": "WCS Disposal Facility Fee Area Parcel",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/WCSDisposalFacilFeeAreaParcel_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wcs_disposal_facility_fee_area_parcel.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES GADSDEN COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_GADSDEN_COUNTY/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_gadsden_county.geojson"
+    },
+    {
+      "title": "Florida Statewide Parcel Centroid Version",
+      "url": "https://services9.arcgis.com/Gh9awoU677aKree0/arcgis/rest/services/Florida_Statewide_Parcel_Centroid_Version/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "florida_statewide_parcel_centroid_version.geojson"
+    },
+    {
+      "title": "Approved Site Plans_2024_WFL1",
+      "url": "https://services.arcgis.com/Eg4L1xEv2R3abuQd/arcgis/rest/services/Approved_Site_Plans_2024_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "approved_site_plans_2024_wfl1.geojson"
+    },
+    {
+      "title": "Right of Way",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/ROW_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "right_of_way.geojson"
+    },
+    {
+      "title": "Planning_WFL1",
+      "url": "https://services5.arcgis.com/hbtBppF7t3PpouVf/arcgis/rest/services/Planning_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "planning_wfl1.geojson"
+    },
+    {
+      "title": "Right of Way Line",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/ROWLine_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "right_of_way_line.geojson"
+    },
+    {
+      "title": "Lot Poly",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/Lotpoly_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lot_poly.geojson"
+    },
+    {
+      "title": "Mobile Home Lots",
+      "url": "https://services2.arcgis.com/LvWGAAhHwbCJ2GMP/arcgis/rest/services/MobileHomeLots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "mobile_home_lots.geojson"
+    },
+    {
+      "title": "Imap 2020A",
+      "url": "https://services.arcgis.com/xEgvNONu6FbcEW52/arcgis/rest/services/Imap_2020A/FeatureServer",
+      "features": 7,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "imap_2020a.geojson"
+    },
+    {
+      "title": "Subdivision Boundary",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/Subdpoly_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivision_boundary.geojson"
+    },
+    {
+      "title": "Florida_Forever_Acquisitions",
+      "url": "https://services.arcgis.com/9Jk4Zl9KofTtvg3x/arcgis/rest/services/Florida_Forever_Acquisitions/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "florida_forever_acquisitions.geojson"
+    },
+    {
+      "title": "Existing Land Use 2023",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2023_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2023.geojson"
+    },
+    {
+      "title": "Non Mandatory Phosphate ZW Parcels",
+      "url": "https://services1.arcgis.com/nRHtyn3uE1kyzoYc/arcgis/rest/services/Non_Mandatory_Phosphate_ZW_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "non_mandatory_phosphate_zw_parcels.geojson"
+    },
+    {
+      "title": "Existing Land Use 2009",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2009_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2009.geojson"
+    },
+    {
+      "title": "Existing Land Use 2008",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2008_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2008.geojson"
+    },
+    {
+      "title": "Existing Land Use 2017",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/Existing_Land_Use_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2017.geojson"
+    },
+    {
+      "title": "Existing Land Use 2015",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2015/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2015.geojson"
+    },
+    {
+      "title": "Existing Land Use 2014",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2014_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2014.geojson"
+    },
+    {
+      "title": "Existing Land Use 2016",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/Existing_Land_Use_2016/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2016.geojson"
+    },
+    {
+      "title": "Existing Land Use 2013",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2013_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2013.geojson"
+    },
+    {
+      "title": "Existing Land Use 2010",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2010_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2010.geojson"
+    },
+    {
+      "title": "Existing Land Use 2005",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2005_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2005.geojson"
+    },
+    {
+      "title": "Existing Land Use 2012",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2012_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2012.geojson"
+    },
+    {
+      "title": "Existing Land Use 2011",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2011_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_2011.geojson"
+    },
+    {
+      "title": "Existing Land Use 2007",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2007_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2007.geojson"
+    },
+    {
+      "title": "Existing Land Use 2006",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2006_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2006.geojson"
+    },
+    {
+      "title": "Parcels_SubAreaSiteAddress",
+      "url": "https://services.arcgis.com/f5HgUpxURgEzTccH/arcgis/rest/services/Parcels_SubAreaSiteAddress/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_subareasiteaddress.geojson"
+    },
+    {
+      "title": "Hendry County Parcels",
+      "url": "https://services7.arcgis.com/8l7Qq5t0CPLAJwJK/arcgis/rest/services/Hendry_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hendry_county_parcels.geojson"
+    },
+    {
+      "title": "Glades Parcels42023",
+      "url": "https://services6.arcgis.com/90Aakxb3SLGcQGor/arcgis/rest/services/Glades_Parcels2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "glades_parcels42023.geojson"
+    },
+    {
+      "title": "Lot Line",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/Lotline_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lot_line.geojson"
+    },
+    {
+      "title": "Zone",
+      "url": "https://services.arcgis.com/Eg4L1xEv2R3abuQd/arcgis/rest/services/Zone/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone.geojson"
+    },
+    {
+      "title": "Sanibel FLUMS Resort Housing District",
+      "url": "https://services7.arcgis.com/OnCt8XFWOgmkvMJE/arcgis/rest/services/Sanibel_FLUMS_Resort_Housing_District/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "sanibel_flums_resort_housing_district.geojson"
+    },
+    {
+      "title": "Sanibel Future Land Use Map Series Speical Use Districts",
+      "url": "https://services7.arcgis.com/OnCt8XFWOgmkvMJE/arcgis/rest/services/Sanibel_Future_Land_Use_Map_Series_Speical_Use_Districts/FeatureServer",
+      "features": 11,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sanibel_future_land_use_map_series_speical_use_districts.geojson"
+    },
+    {
+      "title": "Sanibel FLUMS Interior Wetlands Conservation District",
+      "url": "https://services7.arcgis.com/OnCt8XFWOgmkvMJE/arcgis/rest/services/Sanibel_FLUMS_Interior_Wetlands_Conservation_District/FeatureServer",
+      "features": 72,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sanibel_flums_interior_wetlands_conservation_district.geojson"
+    },
+    {
+      "title": "WashingtonParcelsAGOL",
+      "url": "https://services2.arcgis.com/xDFo56nFuq1SBnBw/arcgis/rest/services/WashingtonParcelsAGOL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "washingtonparcelsagol.geojson"
+    },
+    {
+      "title": "Sea Level Rise Projections",
+      "url": "https://services8.arcgis.com/qhgIImgl4UmEEyAS/arcgis/rest/services/Sea_Level_Rise_Projections/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sea_level_rise_projections.geojson"
+    },
+    {
+      "title": "Zoning_Flu",
+      "url": "https://services2.arcgis.com/x5zvhhxfUuRDntRe/arcgis/rest/services/Zoning_Flu/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_flu.geojson"
+    },
+    {
+      "title": "Zoning designations Baker and Nassau Counties",
+      "url": "https://services2.arcgis.com/PYn6bWCjT6bhw1z3/arcgis/rest/services/Parcels_and_Zoning_for_Baker_and_Nassau_Counties/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_designations_baker_and_nassau_counties.geojson"
+    },
+    {
+      "title": "Connect Parcel to WASD Sewer",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/ConnectParcelToWASDSewer_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "connect_parcel_to_wasd_sewer.geojson"
+    },
+    {
+      "title": "Property_Flattened_Py",
+      "url": "https://services.arcgis.com/kSZiBgsXsUF788NB/arcgis/rest/services/Property_Flattened_Py/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "property_flattened_py.geojson"
+    },
+    {
+      "title": "Chipola_Parcels_Status",
+      "url": "https://services3.arcgis.com/XYg2eF8UuxZVuVmF/arcgis/rest/services/Chipola_Parcels_Status/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "chipola_parcels_status.geojson"
+    },
+    {
+      "title": "GeoPlan Generalized Land Use Derived from Florida Parcels - 2017",
+      "url": "https://services.arcgis.com/LBbVDC0hKPAnLRpO/arcgis/rest/services/lu_gen_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "geoplan_generalized_land_use_derived_from_florida_parcels_-_.geojson"
+    },
+    {
+      "title": "MCRVS_Parcels_FDOR_Study_2018",
+      "url": "https://services.arcgis.com/04HiymDgLlsbhaV4/arcgis/rest/services/MCRVS_Parcels_FDOR_Study_2018/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mcrvs_parcels_fdor_study_2018.geojson"
+    },
+    {
+      "title": "Property_Flattened_Py",
+      "url": "https://services1.arcgis.com/qS7AYixGtf3sv8B6/arcgis/rest/services/Property_Flattened_Py/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "property_flattened_py.geojson"
+    },
+    {
+      "title": "UnionMaintenanceRequests",
+      "url": "https://services.arcgis.com/yghUoIoA2Cd2cWki/arcgis/rest/services/UnionMaintenanceRequests/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "unionmaintenancerequests.geojson"
+    },
+    {
+      "title": "PaseoCDD_Parcel_Lake_Sidewalk_update_112321",
+      "url": "https://services8.arcgis.com/GcPtFFAsQfUqzpLm/arcgis/rest/services/PaseoCDD_Parcel_Lake_Sidewalk_update_112321/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "paseocdd_parcel_lake_sidewalk_update_112321.geojson"
+    },
+    {
+      "title": "GeoPlan City Limits - Derived From Florida Parcel Data - 2019",
+      "url": "https://services.arcgis.com/LBbVDC0hKPAnLRpO/arcgis/rest/services/par_citylm_2019/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "geoplan_city_limits_-_derived_from_florida_parcel_data_-_201.geojson"
+    },
+    {
+      "title": "Reference Layers",
+      "url": "https://services6.arcgis.com/UZU5YYWrSlE9YWnx/arcgis/rest/services/Reference_Layers/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "reference_layers.geojson"
+    },
+    {
+      "title": "City Limits Pensacola Florida",
+      "url": "https://services.arcgis.com/4Ko8f1mCWFLyY4NV/arcgis/rest/services/City_Limits_Florida/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "city_limits_pensacola_florida.geojson"
+    },
+    {
+      "title": "Leon County Real Estate Portfolio Locations",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/LC_Owned_Land_Points_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "leon_county_real_estate_portfolio_locations.geojson"
+    },
+    {
+      "title": "Port of the Islands CID_WFL1",
+      "url": "https://services8.arcgis.com/q702LPaxuJ6qX4xo/arcgis/rest/services/Port_of_the_Islands_CID_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "port_of_the_islands_cid_wfl1.geojson"
+    },
+    {
+      "title": "Connect Parcel to WASD Water",
+      "url": "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/ConnectParcelToWASDWater_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "connect_parcel_to_wasd_water.geojson"
+    },
+    {
+      "title": "FIND Data",
+      "url": "https://services3.arcgis.com/LOjaP8FHi3grDXrg/arcgis/rest/services/FIND_Web_Data_20230531/FeatureServer",
+      "features": 71,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "find_data.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services6.arcgis.com/BAJNi3EgCdtQ1BCG/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Pinellas_SiteAddressPoint",
+      "url": "https://services.arcgis.com/f5HgUpxURgEzTccH/arcgis/rest/services/Pinellas_SiteAddressPoint_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "pinellas_siteaddresspoint.geojson"
+    },
+    {
+      "title": "Pinellas_ParcelPropertyInfo",
+      "url": "https://services.arcgis.com/f5HgUpxURgEzTccH/arcgis/rest/services/Pinellas_ParcelPropertyInfo/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "pinellas_parcelpropertyinfo.geojson"
+    },
+    {
+      "title": "Parcels35 view",
+      "url": "https://services1.arcgis.com/MiBZ4u97DWldovjI/arcgis/rest/services/Parcels35_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels35_view.geojson"
+    },
+    {
+      "title": "Existing Land Use 2025",
+      "url": "https://services.arcgis.com/ptvDyBs1KkcwzQNJ/arcgis/rest/services/EXLU_2025_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use_2025.geojson"
+    },
+    {
+      "title": "Florida Managed Areas 2016",
+      "url": "https://gis.fdacs.gov/mapping/rest/services/BASE/BASE_FL_MANAGED_LANDS/MapServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "florida_managed_areas_2016.geojson"
+    },
+    {
+      "title": "Orlando Existing Land Use",
+      "url": "https://services5.arcgis.com/mMuoPCaIYD4wEgDl/arcgis/rest/services/OrlandoExistingLandUse/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "orlando_existing_land_use.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/N4cKzJ9dzXmsPNRs/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "SaxonLot",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/SaxonLot/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "saxonlot.geojson"
+    },
+    {
+      "title": "Basemap_MT_Flood",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/Basemap_MT_Flood/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "basemap_mt_flood.geojson"
+    },
+    {
+      "title": "Florida Owned Out of State",
+      "url": "https://services7.arcgis.com/KzeiCaQsMoeCfoCq/arcgis/rest/services/Florida_Owned_Out_of_State/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "florida_owned_out_of_state.geojson"
+    },
+    {
+      "title": "Waccasassa_Parcels",
+      "url": "https://services7.arcgis.com/TuQ8KXxdnKZCJwrs/arcgis/rest/services/Waccasassa_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "waccasassa_parcels.geojson"
+    },
+    {
+      "title": "Future Land Use_WFL1",
+      "url": "https://services5.arcgis.com/hbtBppF7t3PpouVf/arcgis/rest/services/Future_Land_Use_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "future_land_use_wfl1.geojson"
+    },
+    {
+      "title": "Union Parcels",
+      "url": "https://services.arcgis.com/yghUoIoA2Cd2cWki/arcgis/rest/services/Union_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "union_parcels.geojson"
+    },
+    {
+      "title": "hazardMitigationBuyout_20240809_centroids_wmA84_flags_only",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/hazardMitigationBuyout_20240809_centroids_wmA84_flags_only/FeatureServer",
+      "features": 41,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hazardmitigationbuyout_20240809_centroids_wma84_flags_only.geojson"
+    },
+    {
+      "title": "MARC_FLU",
+      "url": "https://services8.arcgis.com/YKIZLV97YLZN6bol/arcgis/rest/services/MARC_FLU/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "marc_flu.geojson"
+    },
+    {
+      "title": "hazardMitigationBuyout_20240715_centroids_wmA84_flags_only",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/hazardMitigationBuyout_20240715_centroids_wmA84_flags_only/FeatureServer",
+      "features": 57,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hazardmitigationbuyout_20240715_centroids_wma84_flags_only.geojson"
+    },
+    {
+      "title": "Buildings_Floodplainry",
+      "url": "https://services7.arcgis.com/mbC97TSabuNgCnce/arcgis/rest/services/Buildings_Floodplainry/FeatureServer",
+      "features": 19,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "buildings_floodplainry.geojson"
+    },
+    {
+      "title": "Tax Parcels",
+      "url": "https://services9.arcgis.com/8NmlvbJP7GiTD9uZ/arcgis/rest/services/Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_parcels.geojson"
+    },
+    {
+      "title": "BV_Tidal_Flooding_Parcels_QFS",
+      "url": "https://services2.arcgis.com/sFujhckYoxsqnpfe/arcgis/rest/services/BV_Tidal_Flooding_Parcels_QFS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bv_tidal_flooding_parcels_qfs.geojson"
+    },
+    {
+      "title": "Oceola_Parcels_Current_FLU",
+      "url": "https://services7.arcgis.com/DAi79NctcAvQq1Gd/arcgis/rest/services/Oceola_Parcels_Current_FLU/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "oceola_parcels_current_flu.geojson"
+    },
+    {
+      "title": "hazardMitigationBuyout_20240715_polygons_flags_only",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/hazardMitigationBuyout_20240715_polygons_flags_only/FeatureServer",
+      "features": 57,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hazardmitigationbuyout_20240715_polygons_flags_only.geojson"
+    },
+    {
+      "title": "Roads_intersecting_with_lava_flow",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/Roads_intersecting_with_lava_flow/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "roads_intersecting_with_lava_flow.geojson"
+    },
+    {
+      "title": "WALCO_Parcels_Master_V2_FLU_View",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/WALCO_Parcels_Master_V2_FLU/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "walco_parcels_master_v2_flu_view.geojson"
+    },
+    {
+      "title": "JEFCO_Parcels_Master_V2_FLU_View",
+      "url": "https://services2.arcgis.com/1BOMy3PNdECswnJ5/arcgis/rest/services/JEFCO_Parcels_Master_V2_FLU/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "jefco_parcels_master_v2_flu_view.geojson"
+    },
+    {
+      "title": "Historic Property (GIS Data)",
+      "url": "https://services6.arcgis.com/CNNo1rxoi1NqCYkY/arcgis/rest/services/Historic_Property_(GIS_Data)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "historic_property__gis_data_.geojson"
+    },
+    {
+      "title": "US Army Corps of Engineering Jurisdiction",
+      "url": "https://services1.arcgis.com/nRHtyn3uE1kyzoYc/arcgis/rest/services/US_Army_Corp_of_Engineering_Jurisdiction/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "us_army_corps_of_engineering_jurisdiction.geojson"
+    },
+    {
+      "title": "MARC_FLU_Draft2025",
+      "url": "https://services5.arcgis.com/tbnCzQ0iyXeEj5i5/arcgis/rest/services/MARC_FLU_Draft2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "marc_flu_draft2025.geojson"
+    },
+    {
+      "title": "Rural_Parcels_Selec_Dissolve",
+      "url": "https://services1.arcgis.com/0U8EQ1FrumPeIqDb/arcgis/rest/services/Rural_Parcels_Selec_Dissolve/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "rural_parcels_selec_dissolve.geojson"
+    }
+  ]
+}

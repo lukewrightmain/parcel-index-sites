@@ -1,0 +1,270 @@
+{
+  "state": "Texas",
+  "sources_attempted": 29,
+  "sources_successful": 29,
+  "total_features": 2647,
+  "pulled_at": "2026-03-16T01:38:40.339366",
+  "datasets": [
+    {
+      "title": "OL City Limits",
+      "url": "https://services3.arcgis.com/h9QEFLHkUI1SIRs7/arcgis/rest/services/OL_City_Limits/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ol_city_limits.geojson"
+    },
+    {
+      "title": "Original Texas Land Survey (OTLS) - Statewide Land Grid (RRC version)",
+      "url": "https://services1.arcgis.com/7DRakJXKPEhwv0fM/arcgis/rest/services/Original_Texas_Land_Survey/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "original_texas_land_survey__otls__-_statewide_land_grid__rrc.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services8.arcgis.com/ovJOFQdikJNb2dMW/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "ParcelARI",
+      "url": "https://services3.arcgis.com/wdTkTU0MdZbNBEZy/arcgis/rest/services/ParcelARI/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelari.geojson"
+    },
+    {
+      "title": "2011TexasTanglewoodMainFeaturesAGOL",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/2011TexasTanglewoodMainFeaturesAGOL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "2011texastanglewoodmainfeaturesagol.geojson"
+    },
+    {
+      "title": "DentonCountyParcels",
+      "url": "https://services1.arcgis.com/x4nhme9V33KOzAfr/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "dentoncountyparcels.geojson"
+    },
+    {
+      "title": "Cibolo Parcel Boundaries (view)",
+      "url": "https://services3.arcgis.com/D32JCd9p0r1BYMwd/arcgis/rest/services/Cibolo_Parcel_Boundaries_2_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cibolo_parcel_boundaries__view_.geojson"
+    },
+    {
+      "title": "Parcels_(Public)",
+      "url": "https://services1.arcgis.com/JDTjnqpSnOe5tCBg/arcgis/rest/services/Parcels_(Public)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels__public_.geojson"
+    },
+    {
+      "title": "PARCELS",
+      "url": "https://services5.arcgis.com/k1ZyjVw1fpWcwy7h/arcgis/rest/services/PARCELS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Cibolo Parcel Boundaries",
+      "url": "https://services3.arcgis.com/D32JCd9p0r1BYMwd/arcgis/rest/services/Cibolo_Parcel_Boundaries_July_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cibolo_parcel_boundaries.geojson"
+    },
+    {
+      "title": "CollinCountyParcel",
+      "url": "https://services1.arcgis.com/x4nhme9V33KOzAfr/arcgis/rest/services/CollinCountyParcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "collincountyparcel.geojson"
+    },
+    {
+      "title": "Parcels_Zoning_2024",
+      "url": "https://services5.arcgis.com/HmZrfXtpyBP9VLYQ/arcgis/rest/services/Parcels_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_zoning_2024.geojson"
+    },
+    {
+      "title": "North Texas Parcels",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/93a29856249f4cb2862fa4f6b3b0b780/rest/services/Hosted/North_Texas_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "north_texas_parcels.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services5.arcgis.com/FkDUU6xkZJTbBa9X/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Weslaco Zoning Review Map_WFL1",
+      "url": "https://services3.arcgis.com/Wa24xHapeqcIVaGK/arcgis/rest/services/Weslaco_Zoning_Review_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "weslaco_zoning_review_map_wfl1.geojson"
+    },
+    {
+      "title": "PortlandAll_WFL1",
+      "url": "https://services3.arcgis.com/DAf01WuIltSLujAv/arcgis/rest/services/PortlandAll_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "portlandall_wfl1.geojson"
+    },
+    {
+      "title": "FBCAD Parcels November 2014",
+      "url": "https://services.arcgis.com/Ga5PFntoooL0Dlwu/arcgis/rest/services/FBCAD_Parcels_November_2014/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "fbcad_parcels_november_2014.geojson"
+    },
+    {
+      "title": "Zoning_public",
+      "url": "https://services1.arcgis.com/rrMt0tlqg3eYOL0M/arcgis/rest/services/Zoning_public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_public.geojson"
+    },
+    {
+      "title": "UplandsVacantContiguousLots",
+      "url": "https://services2.arcgis.com/PGv0SS9sE3M9RybT/arcgis/rest/services/UplandsVacantContiguousLots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "uplandsvacantcontiguouslots.geojson"
+    },
+    {
+      "title": "State Agency Lands",
+      "url": "https://services1.arcgis.com/YWG34dhJxrbxQWdF/arcgis/rest/services/State_Agency_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_agency_lands.geojson"
+    },
+    {
+      "title": "Mountain Grove Wright County and Texas County Parcels",
+      "url": "https://services2.arcgis.com/5fBksrmhqE9Y6xQi/arcgis/rest/services/Mountain_Grove_Wright_County_and_Texas_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mountain_grove_wright_county_and_texas_county_parcels.geojson"
+    },
+    {
+      "title": "City Zoning Districts ReadOnly_view",
+      "url": "https://services7.arcgis.com/2iAOv9D7729Bn31m/arcgis/rest/services/City_Zoning_Districts_ReadOnly_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "city_zoning_districts_readonly_view.geojson"
+    },
+    {
+      "title": "CityParcels_OpenSpace",
+      "url": "https://services.arcgis.com/0L95CJ0VTaxqcmED/arcgis/rest/services/CityParcels_OpenSpace/FeatureServer",
+      "features": 44,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cityparcels_openspace.geojson"
+    },
+    {
+      "title": "Robinson Map",
+      "url": "https://services7.arcgis.com/Ls5quuABi3I5K4Lg/arcgis/rest/services/Robinson_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "robinson_map.geojson"
+    },
+    {
+      "title": "Padre Island National Seashore 2-3 mile Buffer (PADUS)",
+      "url": "https://services1.arcgis.com/YWG34dhJxrbxQWdF/arcgis/rest/services/Padre_Island_Shore_2_3_mile_Buffer/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "padre_island_national_seashore_2-3_mile_buffer__padus_.geojson"
+    },
+    {
+      "title": "ENERGOV_UPDATE_08092019",
+      "url": "https://services6.arcgis.com/1zuvRnm7tm3WFwVI/arcgis/rest/services/ENERGOV_UPDATE_08092019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "energov_update_08092019.geojson"
+    },
+    {
+      "title": "City of Cibolo  Zoning Districts",
+      "url": "https://services3.arcgis.com/D32JCd9p0r1BYMwd/arcgis/rest/services/City_of_Cibolo__Zoning_(view)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "city_of_cibolo__zoning_districts.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/PGv0SS9sE3M9RybT/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "LWRCRP_Texas_Properties",
+      "url": "https://services2.arcgis.com/LYMgRMwHfrWWEg3s/arcgis/rest/services/LWRCRP_Texas_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lwrcrp_texas_properties.geojson"
+    }
+  ]
+}

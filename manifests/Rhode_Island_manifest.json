@@ -1,0 +1,207 @@
+{
+  "state": "Rhode Island",
+  "sources_attempted": 32,
+  "sources_successful": 22,
+  "total_features": 1989,
+  "pulled_at": "2026-03-16T01:38:18.173844",
+  "datasets": [
+    {
+      "title": "Public Shoreline Access (2021)",
+      "url": "https://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/PLAN_Public_Shoreline_Access_spf/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_shoreline_access__2021_.geojson"
+    },
+    {
+      "title": "Easement_and_Right_of_Way_Lines",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Easement_and_Right_of_Way_Lines/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "easement_and_right_of_way_lines.geojson"
+    },
+    {
+      "title": "Development_Rights",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Development_Rights/FeatureServer",
+      "features": 47,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "development_rights.geojson"
+    },
+    {
+      "title": "WayneCoOH_RightOfWay",
+      "url": "https://services6.arcgis.com/WiOy9S7NUTWyXUe4/arcgis/rest/services/WayneCoOH_RightOfWay/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "waynecooh_rightofway.geojson"
+    },
+    {
+      "title": "Parcels_011224_WetlandsBuffersSplit",
+      "url": "https://services9.arcgis.com/04Mfke8TEc0Pvqvt/arcgis/rest/services/Parcels_011224_WetlandsBuffersSplit/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_011224_wetlandsbufferssplit.geojson"
+    },
+    {
+      "title": "Rhode Island - All Data (w/ Additional Flood Plain & Public Health Data)",
+      "url": "https://services1.arcgis.com/eGSDp8lpKe5izqVc/arcgis/rest/services/RhodeIslandAllDataInclFloodHealth/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rhode_island_-_all_data__w__additional_flood_plain___public_.geojson"
+    },
+    {
+      "title": "Parcels_011224_FHASplit",
+      "url": "https://services9.arcgis.com/04Mfke8TEc0Pvqvt/arcgis/rest/services/Parcels_011224_FHASplit/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_011224_fhasplit.geojson"
+    },
+    {
+      "title": "EnerGov Map_WFL1",
+      "url": "https://services3.arcgis.com/M3rkbYKAc3M3lusZ/arcgis/rest/services/EnerGov_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "energov_map_wfl1.geojson"
+    },
+    {
+      "title": "WIN: BND abutter parcels (200m)",
+      "url": "https://services8.arcgis.com/HHb8XkBvFqtzGH36/arcgis/rest/services/Winnapaug_BND_Parcels_Abutters_200m_py/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "win__bnd_abutter_parcels__200m_.geojson"
+    },
+    {
+      "title": "Parcels_1100ft_FromCoast",
+      "url": "https://services7.arcgis.com/7EbO0sDrpxYJfbeG/arcgis/rest/services/Parcels_1100ft_FromCoast/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_1100ft_fromcoast.geojson"
+    },
+    {
+      "title": "Parcels_011224_LCASplit",
+      "url": "https://services9.arcgis.com/04Mfke8TEc0Pvqvt/arcgis/rest/services/Parcels_011224_LCASplit/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_011224_lcasplit.geojson"
+    },
+    {
+      "title": "Warren Critical Assets_V5_WFL2",
+      "url": "https://services6.arcgis.com/aknZhNpfQunD2p0u/arcgis/rest/services/Warren_Critical_Assets_V5_WFL2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "warren_critical_assets_v5_wfl2.geojson"
+    },
+    {
+      "title": "Riviera_Beach_ZoningandFLU2018",
+      "url": "https://services3.arcgis.com/M3rkbYKAc3M3lusZ/arcgis/rest/services/Riviera_Beach_ZoningandFLU2018/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "riviera_beach_zoningandflu2018.geojson"
+    },
+    {
+      "title": "Warren Critical Assets_V5_WFL1",
+      "url": "https://services6.arcgis.com/aknZhNpfQunD2p0u/arcgis/rest/services/Warren_Critical_Assets_V5_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "warren_critical_assets_v5_wfl1.geojson"
+    },
+    {
+      "title": "ParcelsOwnership_GS20",
+      "url": "https://services5.arcgis.com/FKwcDz27wRAj4HUT/arcgis/rest/services/ParcelsOwnership_GS20/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcelsownership_gs20.geojson"
+    },
+    {
+      "title": "InerGovMap",
+      "url": "https://services3.arcgis.com/5g4JcCVJwbhPOszb/arcgis/rest/services/InerGovMap/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "inergovmap.geojson"
+    },
+    {
+      "title": "Sewered Areas",
+      "url": "https://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/UTILITY_Sewered_Areas_spf/FeatureServer",
+      "features": 21,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sewered_areas.geojson"
+    },
+    {
+      "title": "EnerGovMapWGS84",
+      "url": "https://services3.arcgis.com/5g4JcCVJwbhPOszb/arcgis/rest/services/EnerGovMapWGS84/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "energovmapwgs84.geojson"
+    },
+    {
+      "title": "MiddletownParcelsAssess1",
+      "url": "https://services5.arcgis.com/h6RSw6HV2SnVSCaN/arcgis/rest/services/MiddletownParcelsAssess1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "middletownparcelsassess1.geojson"
+    },
+    {
+      "title": "Hopkinton Broadband Data_WFL1",
+      "url": "https://services6.arcgis.com/70X0jB6UtsfE8L2y/arcgis/rest/services/Hopkinton_Broadband_Data_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hopkinton_broadband_data_wfl1.geojson"
+    },
+    {
+      "title": "Sewered Areas",
+      "url": "https://services.arcgis.com/8veDRDlhXWywYP3S/arcgis/rest/services/Sewered_Areas/FeatureServer",
+      "features": 21,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sewered_areas.geojson"
+    },
+    {
+      "title": "Public Lands",
+      "url": "https://services7.arcgis.com/Bq5yvxFKGREICK7t/arcgis/rest/services/Public_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "public_lands.geojson"
+    }
+  ]
+}

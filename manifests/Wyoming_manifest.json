@@ -1,0 +1,279 @@
+{
+  "state": "Wyoming",
+  "sources_attempted": 33,
+  "sources_successful": 30,
+  "total_features": 2374,
+  "pulled_at": "2026-03-16T01:45:20.650374",
+  "datasets": [
+    {
+      "title": "Wyoming County Parcels",
+      "url": "https://services3.arcgis.com/Sq7KUOgahdDkqoAp/arcgis/rest/services/Wyco_Parcels_9_2021/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wyoming_county_parcels.geojson"
+    },
+    {
+      "title": "WyomingCountyParcels",
+      "url": "https://services.arcgis.com/0POQ0PQT9pHLMnL2/arcgis/rest/services/WyomingCountyParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "wyomingcountyparcels.geojson"
+    },
+    {
+      "title": "Converse County Parcels",
+      "url": "https://services1.arcgis.com/ypdMhhEhrtBXLtQv/arcgis/rest/services/Converse_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "converse_county_parcels.geojson"
+    },
+    {
+      "title": "Wyoming Parcels for 2025",
+      "url": "https://services3.arcgis.com/r0iJ85SKZ4zAzz3P/arcgis/rest/services/Wyoming_Parcels_for_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wyoming_parcels_for_2025.geojson"
+    },
+    {
+      "title": "Wyoming Structures Built Date - (2023 Lead Service Line Prioritization study)",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Wyoming_Structures_Built_Date/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wyoming_structures_built_date_-__2023_lead_service_line_prio.geojson"
+    },
+    {
+      "title": "OGPrelimSaleParcels2023_09",
+      "url": "https://services8.arcgis.com/UMKKVGuOg30uA02r/arcgis/rest/services/OGPrelimSaleParcels2023_09/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogprelimsaleparcels2023_09.geojson"
+    },
+    {
+      "title": "Parcels2025",
+      "url": "https://services1.arcgis.com/i5xRZLABP6oUOcld/arcgis/rest/services/Parcels2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels2025.geojson"
+    },
+    {
+      "title": "PublishParcel2",
+      "url": "https://services6.arcgis.com/ZaepYkZEwJCIdB2c/arcgis/rest/services/PublishParcel2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "publishparcel2.geojson"
+    },
+    {
+      "title": "Parcels Public Download",
+      "url": "https://services1.arcgis.com/mAJPyaZkZWzjRIy7/arcgis/rest/services/Public_Download_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_public_download.geojson"
+    },
+    {
+      "title": "Wyoming Interactive Zoning Map",
+      "url": "https://services6.arcgis.com/CWUB5LdQqLSWLhLO/arcgis/rest/services/Wyoming_Interactive_Zoning_Map/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "wyoming_interactive_zoning_map.geojson"
+    },
+    {
+      "title": "ParcelsAll",
+      "url": "https://services.arcgis.com/3lhSvleboHW33hAj/arcgis/rest/services/ParcelsAll/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelsall.geojson"
+    },
+    {
+      "title": "AGOL Village Warsaw Zoning",
+      "url": "https://services3.arcgis.com/Sq7KUOgahdDkqoAp/arcgis/rest/services/AGOL_Village_Warsaw_Zoning/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "agol_village_warsaw_zoning.geojson"
+    },
+    {
+      "title": "AGOL Town Warsaw Zoning",
+      "url": "https://services3.arcgis.com/Sq7KUOgahdDkqoAp/arcgis/rest/services/AGOL_Town_Warsaw_Zoning/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "agol_town_warsaw_zoning.geojson"
+    },
+    {
+      "title": "OGPrelimSaleParcels2024_12",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OGPrelimSaleParcels2024_12/FeatureServer",
+      "features": 14,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogprelimsaleparcels2024_12.geojson"
+    },
+    {
+      "title": "Land Use Plan DRAFT_WFL1",
+      "url": "https://services5.arcgis.com/74bZbbuf05Ctvbzv/arcgis/rest/services/Land_Use_Plan_DRAFT_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_use_plan_draft_wfl1.geojson"
+    },
+    {
+      "title": "AGOL Bennington Zoning",
+      "url": "https://services3.arcgis.com/Sq7KUOgahdDkqoAp/arcgis/rest/services/AGOL_Bennington_Zoning/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "agol_bennington_zoning.geojson"
+    },
+    {
+      "title": "OGScopingSaleParcels2025_03",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OGScopingSaleParcels2025_03/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogscopingsaleparcels2025_03.geojson"
+    },
+    {
+      "title": "OGScopingSaleParcels2025_06",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OGScopingSaleParcels2025_06/FeatureServer",
+      "features": 29,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogscopingsaleparcels2025_06.geojson"
+    },
+    {
+      "title": "OGScopingSaleParcels2025_09",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OGScopingSaleParcels2025_09/FeatureServer",
+      "features": 38,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogscopingsaleparcels2025_09.geojson"
+    },
+    {
+      "title": "WY_2022_07_WGS84",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/WY_2022_07_WGS84/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wy_2022_07_wgs84.geojson"
+    },
+    {
+      "title": "DEC Informational Freshwater Wetland Mapping Wyoming County",
+      "url": "https://services3.arcgis.com/Sq7KUOgahdDkqoAp/arcgis/rest/services/DEC_Informational_Freshwater_Wetland_Mapping_Wyoming_County/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dec_informational_freshwater_wetland_mapping_wyoming_county.geojson"
+    },
+    {
+      "title": "WY OSLI Surface Ownership",
+      "url": "https://services5.arcgis.com/FeaGMhyvOuOWv03n/arcgis/rest/services/WY_OSLI_Surface_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wy_osli_surface_ownership.geojson"
+    },
+    {
+      "title": "OGScopingSaleParcels2026_03",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OGScopingSaleParcels2026_03/FeatureServer",
+      "features": 68,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogscopingsaleparcels2026_03.geojson"
+    },
+    {
+      "title": "BLM WY 2026Q3 Oil and Gas Lease Sale",
+      "url": "https://services6.arcgis.com/doW1zMBdj2GVxvrs/arcgis/rest/services/BLM_WY_2026Q3_Oil_and_Gas_Lease_Sale/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_wy_2026q3_oil_and_gas_lease_sale.geojson"
+    },
+    {
+      "title": "OGScopingSaleParcels_2025_12",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/OGScopingSaleParcels_2025_12/FeatureServer",
+      "features": 99,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ogscopingsaleparcels_2025_12.geojson"
+    },
+    {
+      "title": "ownership_010719",
+      "url": "https://services1.arcgis.com/VA8qSG2eGMxXGKnw/arcgis/rest/services/ownership_010719/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ownership_010719.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/qEJ3hgR2R81AFChw/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Parcels2024",
+      "url": "https://gis2.statelands.wyo.gov/arcgis/rest/services/basesde/Parcels2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels2024.geojson"
+    },
+    {
+      "title": "WyomingParcels",
+      "url": "https://services7.arcgis.com/IRwObajcV9nxQIrC/arcgis/rest/services/WyomingParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wyomingparcels.geojson"
+    },
+    {
+      "title": "LandOwnership_BLM_Dataset",
+      "url": "https://services.arcgis.com/0oJ4dmPrVzF2g9ay/arcgis/rest/services/LandOwnership_BLM_Dataset/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landownership_blm_dataset.geojson"
+    }
+  ]
+}

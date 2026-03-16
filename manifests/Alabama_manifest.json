@@ -1,0 +1,1503 @@
+{
+  "state": "Alabama",
+  "sources_attempted": 178,
+  "sources_successful": 166,
+  "total_features": 13613,
+  "pulled_at": "2026-03-16T01:13:03.534733",
+  "datasets": [
+    {
+      "title": "BLM Natl MLRS Mining Claims -Closed",
+      "url": "https://gis.blm.gov/nlsdb/rest/services/HUB/BLM_Natl_MLRS_Mining_Claims_Closed/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_natl_mlrs_mining_claims_-closed.geojson"
+    },
+    {
+      "title": "BLM Natl MLRS Mining Claims - Not Closed",
+      "url": "https://gis.blm.gov/nlsdb/rest/services/HUB/BLM_Natl_MLRS_Mining_Claims_Not_Closed/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_natl_mlrs_mining_claims_-_not_closed.geojson"
+    },
+    {
+      "title": "BLM Natl MLRS Oil and Gas Leases",
+      "url": "https://gis.blm.gov/nlsdb/rest/services/HUB/BLM_Natl_MLRS_Oil_and_Gas_Leases/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_natl_mlrs_oil_and_gas_leases.geojson"
+    },
+    {
+      "title": "DCPI_All",
+      "url": "https://services2.arcgis.com/CfhoRi2v351nuUH7/arcgis/rest/services/DCPI_All/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dcpi_all.geojson"
+    },
+    {
+      "title": "Interior Landmarks",
+      "url": "https://services5.arcgis.com/Oos4pNA2538iVFA1/arcgis/rest/services/Interiors/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "interior_landmarks.geojson"
+    },
+    {
+      "title": "Permit Software Info",
+      "url": "https://services8.arcgis.com/aC6pR154SayQRkkS/arcgis/rest/services/Permit_Software_Info/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "permit_software_info.geojson"
+    },
+    {
+      "title": "NWI Wetlands",
+      "url": "https://services6.arcgis.com/mBzcjj7yrA6fBe9F/arcgis/rest/services/NWI_Wetlands_AC_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nwi_wetlands.geojson"
+    },
+    {
+      "title": "DRZbuffers_parcels_all_9_25",
+      "url": "https://services.arcgis.com/2Mcx1M1MORKfBNPM/arcgis/rest/services/DRZbuffers_parcels_all_9_25/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "drzbuffers_parcels_all_9_25.geojson"
+    },
+    {
+      "title": "Alexandria Parcels",
+      "url": "https://services2.arcgis.com/ChYV69FhfjwkvRmy/arcgis/rest/services/Alexandria_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alexandria_parcels.geojson"
+    },
+    {
+      "title": "USFWS_wetland_area",
+      "url": "https://services1.arcgis.com/e5YqQVeOlRe9Wmq5/arcgis/rest/services/USFWS_wetland_area/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "usfws_wetland_area.geojson"
+    },
+    {
+      "title": "Miscellaneous_PublicView",
+      "url": "https://services2.arcgis.com/lfD49qylDsb6IIcE/arcgis/rest/services/Miscellaneous_PublicView/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "miscellaneous_publicview.geojson"
+    },
+    {
+      "title": "Roads",
+      "url": "https://services7.arcgis.com/abcn8A25PPQFVHHF/arcgis/rest/services/Roads/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "roads.geojson"
+    },
+    {
+      "title": "NamedStreams_All_WGS1984",
+      "url": "https://services3.arcgis.com/uKh72TYBlxpm42Cm/arcgis/rest/services/NamedStreams_All_WGS1984/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "namedstreams_all_wgs1984.geojson"
+    },
+    {
+      "title": "Landmark_List_Points",
+      "url": "https://services5.arcgis.com/Oos4pNA2538iVFA1/arcgis/rest/services/Landmark_List_Points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landmark_list_points.geojson"
+    },
+    {
+      "title": "Caroline_Conservation_Easements",
+      "url": "https://services1.arcgis.com/ue5fMdTkPeHLCobS/arcgis/rest/services/Caroline_Conservation_Easements/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "caroline_conservation_easements.geojson"
+    },
+    {
+      "title": "Notable Parks along Long Island Greenway Phase 1",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/Notable_Parks_along_Long_Island_Greenway_Phase_1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "notable_parks_along_long_island_greenway_phase_1.geojson"
+    },
+    {
+      "title": "RocklandIAM_TrashRecycling_allLayers_09202022",
+      "url": "https://services5.arcgis.com/4nnVuHGKuOkLg4id/arcgis/rest/services/RocklandIAM_TrashRecycling_allLayers_09202022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "rocklandiam_trashrecycling_alllayers_09202022.geojson"
+    },
+    {
+      "title": "Monroe Tax Parcels in Warren County",
+      "url": "https://services5.arcgis.com/ZpzXpUOckwsAhLFh/arcgis/rest/services/Monroe_Tax_Parcels_in_Warren_County/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "monroe_tax_parcels_in_warren_county.geojson"
+    },
+    {
+      "title": "BLM_Lands",
+      "url": "https://services5.arcgis.com/XhZs5lLsWDmZpTlD/arcgis/rest/services/BLM_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_lands.geojson"
+    },
+    {
+      "title": "Parcels_All",
+      "url": "https://services5.arcgis.com/dLSpoSuiU8QkkRAK/arcgis/rest/services/Parcels_All/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_all.geojson"
+    },
+    {
+      "title": "Tax_Parcels_V2511",
+      "url": "https://services6.arcgis.com/dQQCC5HsocVNGmxM/arcgis/rest/services/Tax_Parcels_V2511/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_parcels_v2511.geojson"
+    },
+    {
+      "title": "Protected Areas Database",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/Protected_Areas_Database/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "protected_areas_database.geojson"
+    },
+    {
+      "title": "PADUS3 SGI Boundary",
+      "url": "https://services.arcgis.com/XaWc1MuAt1v6Ook0/arcgis/rest/services/PADUS3_SGI_Boundary/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus3_sgi_boundary.geojson"
+    },
+    {
+      "title": "Department of Defense Managed Land",
+      "url": "https://services1.arcgis.com/IAQQkLXctKHrf8Av/arcgis/rest/services/Department_of_Defense_Managed_Land/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "department_of_defense_managed_land.geojson"
+    },
+    {
+      "title": "City of Spanish Fort Online Zoning Map_WFL1",
+      "url": "https://services6.arcgis.com/4wCxHefFBgp9pROw/arcgis/rest/services/City_of_Spanish_Fort_Online_Zoning_Map_WFL1/FeatureServer",
+      "features": 15,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_spanish_fort_online_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "Vermont_parcels_with_allareas",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/Vermont_parcels_with_allareas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "vermont_parcels_with_allareas.geojson"
+    },
+    {
+      "title": "Tribal_Water_Allocations",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/Tribal_Water_Allocations/FeatureServer",
+      "features": 22,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tribal_water_allocations.geojson"
+    },
+    {
+      "title": "Online Zoning Map _ Troy_ Alabama _unofficial map__WFL1",
+      "url": "https://services7.arcgis.com/u0hiOTsMoeYCfvHB/arcgis/rest/services/Online_Zoning_Map___Troy__Alabama__unofficial_map__WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "online_zoning_map___troy__alabama__unofficial_map__wfl1.geojson"
+    },
+    {
+      "title": "Baldwin_Co_Land_Owners_Adjacent_to_Approved_Waters",
+      "url": "https://services7.arcgis.com/jcVUvxpWnajErgCr/arcgis/rest/services/Baldwin_Co_Land_Owners_Adjacent_to_Approved_Waters/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "baldwin_co_land_owners_adjacent_to_approved_waters.geojson"
+    },
+    {
+      "title": "Wildlife Protection Overlay",
+      "url": "https://services.arcgis.com/WLhB60Nqwp4NnHz3/arcgis/rest/services/Wildlife_Protection_Overlay/FeatureServer",
+      "features": 17,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wildlife_protection_overlay.geojson"
+    },
+    {
+      "title": "Story_Map_All_TNCPA_and_Partner_Public_Parcels_2018",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Story_Map_All_TNCPA_and_Partner_Public_Parcels_2018/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "story_map_all_tncpa_and_partner_public_parcels_2018.geojson"
+    },
+    {
+      "title": "Robertsdale_Zoning_webmercator_2025",
+      "url": "https://services6.arcgis.com/aROFfSNHbmHPb6wX/arcgis/rest/services/Robertsdale_Zoning_webmercator_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "robertsdale_zoning_webmercator_2025.geojson"
+    },
+    {
+      "title": "Natural monument or feature (PADUS)",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/Natural_monument_or_feature_(PADUS)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "natural_monument_or_feature__padus_.geojson"
+    },
+    {
+      "title": "Mobile_Co_Land_Owners_Adjacent_to_Approved_Waters",
+      "url": "https://services7.arcgis.com/jcVUvxpWnajErgCr/arcgis/rest/services/Mobile_Co_Land_Owners_Adjacent_to_Approved_Waters/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mobile_co_land_owners_adjacent_to_approved_waters.geojson"
+    },
+    {
+      "title": "Strict nature reserves",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/Strict_nature_reserves/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "strict_nature_reserves.geojson"
+    },
+    {
+      "title": "Other Conservation Area (PADUS)",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/Other_Conservation_Area_(PADUS)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "other_conservation_area__padus_.geojson"
+    },
+    {
+      "title": "Federal_Lands_Adjacent_to_Approved_Waters",
+      "url": "https://services7.arcgis.com/jcVUvxpWnajErgCr/arcgis/rest/services/Federal_Lands_Adjacent_to_Approved_Waters/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "federal_lands_adjacent_to_approved_waters.geojson"
+    },
+    {
+      "title": "Baldwin_Co_Parcels_Adjacent_to_ConditionallyRestricted_Unclassfied_Waters",
+      "url": "https://services7.arcgis.com/jcVUvxpWnajErgCr/arcgis/rest/services/Baldwin_Co_Parcels_Adjacent_to_ConditionallyRestricted_Unclassfied_Waters/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "baldwin_co_parcels_adjacent_to_conditionallyrestricted_uncla.geojson"
+    },
+    {
+      "title": "State_Local_Public_Lands_Adjacent_to_Approved_Water",
+      "url": "https://services7.arcgis.com/jcVUvxpWnajErgCr/arcgis/rest/services/State_Local_Public_Lands_Adjacent_to_Approved_Water/FeatureServer",
+      "features": 88,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_local_public_lands_adjacent_to_approved_water.geojson"
+    },
+    {
+      "title": "Wilderness areas (PADUS)",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/Wilderness_areas_(PADUS)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wilderness_areas__padus_.geojson"
+    },
+    {
+      "title": "Mobile_Co_Parcels_Adjacent_to_ConditionallyRestricted_Unclassified_Waters",
+      "url": "https://services7.arcgis.com/jcVUvxpWnajErgCr/arcgis/rest/services/Mobile_Co_Parcels_Adjacent_to_ConditionallyRestricted_Unclassified_Waters/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mobile_co_parcels_adjacent_to_conditionallyrestricted_unclas.geojson"
+    },
+    {
+      "title": "Water Use Categories",
+      "url": "https://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/HYDRO_Water_Use_Categories/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "water_use_categories.geojson"
+    },
+    {
+      "title": "Unassigned (PADUS)",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/Unassigned_(PADUS)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "unassigned__padus_.geojson"
+    },
+    {
+      "title": "Leeds_St_Clairt",
+      "url": "https://services.arcgis.com/QC8bA2lSlebQNlhd/arcgis/rest/services/Leeds_St_Clairt/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "leeds_st_clairt.geojson"
+    },
+    {
+      "title": "PADUS Special Management Areas",
+      "url": "https://services1.arcgis.com/ypdMhhEhrtBXLtQv/arcgis/rest/services/PADUS_Special_Management_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_special_management_areas.geojson"
+    },
+    {
+      "title": "Land Use by Parcels",
+      "url": "https://services3.arcgis.com/AcvBA1fcgucsFQvO/arcgis/rest/services/LandUse_Polygon/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_use_by_parcels.geojson"
+    },
+    {
+      "title": "PADUS BLM National Conservation Areas",
+      "url": "https://services1.arcgis.com/ypdMhhEhrtBXLtQv/arcgis/rest/services/PADUS_BLM_National_Conservation_Areas/FeatureServer",
+      "features": 29,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_blm_national_conservation_areas.geojson"
+    },
+    {
+      "title": "PADUS3_0Combined_Fee_Easement_State_MA",
+      "url": "https://services9.arcgis.com/mxpFc8oFRyNIV03y/arcgis/rest/services/PADUS3_0Combined_Fee_Easement_State_MA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus3_0combined_fee_easement_state_ma.geojson"
+    },
+    {
+      "title": "PADUS3_0Combined_DOD_TRIB_Fee_Designation_Easement_State_MA",
+      "url": "https://services9.arcgis.com/mxpFc8oFRyNIV03y/arcgis/rest/services/PADUS3_0Combined_DOD_TRIB_Fee_Designation_Easement_State_MA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus3_0combined_dod_trib_fee_designation_easement_state_ma.geojson"
+    },
+    {
+      "title": "State Land Board_Bears Ears2",
+      "url": "https://services7.arcgis.com/F4iYwOOvXLYhkPXF/arcgis/rest/services/State_Land_Board_Bears_Ears2/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_land_board_bears_ears2.geojson"
+    },
+    {
+      "title": "PADUS2_1_WA",
+      "url": "https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/PADUS2_1_WA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "padus2_1_wa.geojson"
+    },
+    {
+      "title": "SVT_Parcels_NS_Summary",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/SVT_Parcels_NS_Summary/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "svt_parcels_ns_summary.geojson"
+    },
+    {
+      "title": "ProtectedArea_Ownership",
+      "url": "https://services2.arcgis.com/RPhrOu9XQzI31xTa/arcgis/rest/services/ProtectedArea_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "protectedarea_ownership.geojson"
+    },
+    {
+      "title": "2017_Arizona_Maricopa_County_All_Parcels",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/2017_Arizona_Maricopa_County_All_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "2017_arizona_maricopa_county_all_parcels.geojson"
+    },
+    {
+      "title": "MA_Easement",
+      "url": "https://services1.arcgis.com/XBhYkoXKJCRHbe7M/arcgis/rest/services/MA_Easement/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ma_easement.geojson"
+    },
+    {
+      "title": "Protected Areas Database of the United States (PAD-US)",
+      "url": "https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/HVRA_Source_Data_PADUS2_0Combined_DOD_Fee_Designation_Easement_OR/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_areas_database_of_the_united_states__pad-us_.geojson"
+    },
+    {
+      "title": "PADUS3_0Combined_DOD_TRIB_Fee_Designation_Easement_State_CT",
+      "url": "https://services9.arcgis.com/mxpFc8oFRyNIV03y/arcgis/rest/services/PADUS3_0Combined_DOD_TRIB_Fee_Designation_Easement_State_CT/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus3_0combined_dod_trib_fee_designation_easement_state_ct.geojson"
+    },
+    {
+      "title": "MA_Designation",
+      "url": "https://services1.arcgis.com/XBhYkoXKJCRHbe7M/arcgis/rest/services/MA_Designation/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ma_designation.geojson"
+    },
+    {
+      "title": "PADUS3_0Combined_Fee_Easement_State_CT",
+      "url": "https://services9.arcgis.com/mxpFc8oFRyNIV03y/arcgis/rest/services/PADUS3_0Combined_Fee_Easement_State_CT/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus3_0combined_fee_easement_state_ct.geojson"
+    },
+    {
+      "title": "State_Lands_Clip_shp",
+      "url": "https://services7.arcgis.com/WSiUmUhlFx4CtMBB/arcgis/rest/services/State_Lands_Clip_shp/FeatureServer",
+      "features": 9,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_lands_clip_shp.geojson"
+    },
+    {
+      "title": "Suitable Biking and Walking Buffers to Necessities in Mecklenburg County_ NC_WFL1",
+      "url": "https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/Suitable_Biking_and_Walking_Buffers_to_Necessities_in_Mecklenburg_County__NC_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "suitable_biking_and_walking_buffers_to_necessities_in_meckle.geojson"
+    },
+    {
+      "title": "Parks_All_Parcels_gdb",
+      "url": "https://services1.arcgis.com/X3dmaNvzWUnemDAc/arcgis/rest/services/Parks_All_Parcels_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parks_all_parcels_gdb.geojson"
+    },
+    {
+      "title": "MA_Fee",
+      "url": "https://services1.arcgis.com/XBhYkoXKJCRHbe7M/arcgis/rest/services/MA_Fee/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ma_fee.geojson"
+    },
+    {
+      "title": "PAD GAP I & II: Federal Areas \"Managed for Biodiversity\"",
+      "url": "https://services6.arcgis.com/doW1zMBdj2GVxvrs/arcgis/rest/services/PADI_Mgd_For_Biodiv/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pad_gap_i___ii__federal_areas__managed_for_biodiversity_.geojson"
+    },
+    {
+      "title": "PADUS",
+      "url": "https://services1.arcgis.com/BSnEnFfEn54YLVeq/arcgis/rest/services/PADUS/FeatureServer",
+      "features": 18,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus.geojson"
+    },
+    {
+      "title": "SVT_Parcels_H4B_Summary",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/SVT_Parcels_H4B_Summary/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "svt_parcels_h4b_summary.geojson"
+    },
+    {
+      "title": "PADUS Wilderness Study Areas",
+      "url": "https://services1.arcgis.com/ypdMhhEhrtBXLtQv/arcgis/rest/services/PADUS_Wilderness_Study_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_wilderness_study_areas.geojson"
+    },
+    {
+      "title": "PADUS_3_ManagerName_2_1_HERS",
+      "url": "https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/PADUS_3_ManagerName_21_ORWAID/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_3_managername_2_1_hers.geojson"
+    },
+    {
+      "title": "Dauphin Island Parcel Data_WFL1",
+      "url": "https://services5.arcgis.com/FDIcdEEqy1cBDX8N/arcgis/rest/services/Dauphin_Island_Parcel_Data_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dauphin_island_parcel_data_wfl1.geojson"
+    },
+    {
+      "title": "Elmore Parcels 5/29/2024_2",
+      "url": "https://portal.elmoreco.org/server/rest/services/Elmore_Parcels_Labeling/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "elmore_parcels_5_29_2024_2.geojson"
+    },
+    {
+      "title": "PADUS NPS National Recreation Areas",
+      "url": "https://services1.arcgis.com/ypdMhhEhrtBXLtQv/arcgis/rest/services/PADUS_NPS_National_Recreation_Areas/FeatureServer",
+      "features": 23,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_nps_national_recreation_areas.geojson"
+    },
+    {
+      "title": "SVT_Parcels_CC_Summary",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/SVT_Parcels_CC_Summary/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "svt_parcels_cc_summary.geojson"
+    },
+    {
+      "title": "Protected area with sustainable use of natural resources (PADUS)",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/Protected_area_with_sustainable_use_of_natural_resources_(PADUS)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_area_with_sustainable_use_of_natural_resources__pa.geojson"
+    },
+    {
+      "title": "Protected_Status",
+      "url": "https://services1.arcgis.com/rCcfuAf877pT4w3i/arcgis/rest/services/Protected_Status/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_status.geojson"
+    },
+    {
+      "title": "Vacant",
+      "url": "https://services.arcgis.com/5UFHFK7ZmWoapZj1/arcgis/rest/services/Vacant/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant.geojson"
+    },
+    {
+      "title": "SVT_Parcels_FL_Summary",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/SVT_Parcels_FL_Summary/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "svt_parcels_fl_summary.geojson"
+    },
+    {
+      "title": "PUBSCH1718_AllAvailParcels_selAreaBufV2_ParcelGrpLConly",
+      "url": "https://services6.arcgis.com/hYYMUyQV0EkaI5vt/arcgis/rest/services/PUBSCH1718_AllAvailParcels_selAreaBufV2_ParcelGrpLConly/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pubsch1718_allavailparcels_selareabufv2_parcelgrplconly.geojson"
+    },
+    {
+      "title": "EasternHemlockProject_NationalForests",
+      "url": "https://services5.arcgis.com/jnYf2Emqbv8T64a0/arcgis/rest/services/EasternHemlockProject_NationalForests/FeatureServer",
+      "features": 8,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "easternhemlockproject_nationalforests.geojson"
+    },
+    {
+      "title": "parcels_alabama_update2025",
+      "url": "https://services9.arcgis.com/eNX73FDxjlKFtCtH/arcgis/rest/services/parcels_alabama_update2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_alabama_update2025.geojson"
+    },
+    {
+      "title": "Parcels_North_Alabama",
+      "url": "https://services7.arcgis.com/y6YW10u0XkJDr4YY/arcgis/rest/services/Parcels_North_Alabama/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_north_alabama.geojson"
+    },
+    {
+      "title": "combined_state_final",
+      "url": "https://services7.arcgis.com/WSiUmUhlFx4CtMBB/arcgis/rest/services/combined_state_final/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "combined_state_final.geojson"
+    },
+    {
+      "title": "BO Charlotte County Wetlands",
+      "url": "https://services8.arcgis.com/7tOcoRLUBt73R0wV/arcgis/rest/services/BO_Charlotte_County_Wetlands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bo_charlotte_county_wetlands.geojson"
+    },
+    {
+      "title": "Lancaster_Parcels_All",
+      "url": "https://services1.arcgis.com/QHK2l9cSYhemgg5s/arcgis/rest/services/Lancaster_Parcels_All/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lancaster_parcels_all.geojson"
+    },
+    {
+      "title": "PADUS2_1_OR",
+      "url": "https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/PADUS2_1_OR/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "padus2_1_or.geojson"
+    },
+    {
+      "title": "PADUS2_1_GoblinValley_StatePark",
+      "url": "https://services7.arcgis.com/F4iYwOOvXLYhkPXF/arcgis/rest/services/PADUS2_1_GoblinValley_StatePark/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus2_1_goblinvalley_statepark.geojson"
+    },
+    {
+      "title": "PAD in the Yampa White Green Basin",
+      "url": "https://services2.arcgis.com/1mNWwa3BbvpUjy0N/arcgis/rest/services/PAD_in_the_Yampa_White_Green_Basin/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pad_in_the_yampa_white_green_basin.geojson"
+    },
+    {
+      "title": "PADUS Wilderness Areas",
+      "url": "https://services1.arcgis.com/ypdMhhEhrtBXLtQv/arcgis/rest/services/PADUS_Wilderness_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_wilderness_areas.geojson"
+    },
+    {
+      "title": "Richmond_Parcels_All",
+      "url": "https://services1.arcgis.com/QHK2l9cSYhemgg5s/arcgis/rest/services/Richmond_Parcels_All/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "richmond_parcels_all.geojson"
+    },
+    {
+      "title": "MA_Filtered",
+      "url": "https://services1.arcgis.com/XBhYkoXKJCRHbe7M/arcgis/rest/services/MA_Filtered/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ma_filtered.geojson"
+    },
+    {
+      "title": "GPI Colorado PADUS Score 1",
+      "url": "https://services1.arcgis.com/yWU5mm2MiovfH9MW/arcgis/rest/services/GPI_Colorado_PADUS_Score_1/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gpi_colorado_padus_score_1.geojson"
+    },
+    {
+      "title": "Tribal Boundary (from PADUS)",
+      "url": "https://services2.arcgis.com/RPhrOu9XQzI31xTa/arcgis/rest/services/TribalBoundary_shp/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tribal_boundary__from_padus_.geojson"
+    },
+    {
+      "title": "Federal_Lands_Clip",
+      "url": "https://services7.arcgis.com/WSiUmUhlFx4CtMBB/arcgis/rest/services/Federal_Lands_Clip/FeatureServer",
+      "features": 9,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "federal_lands_clip.geojson"
+    },
+    {
+      "title": "Bulloch_Wetlands_view",
+      "url": "https://services6.arcgis.com/XxfLDid4CNOqpdhy/arcgis/rest/services/Bulloch_Wetlands_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bulloch_wetlands_view.geojson"
+    },
+    {
+      "title": "PADUS_Designations",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/PADUS_Designations/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_designations.geojson"
+    },
+    {
+      "title": "Landownership",
+      "url": "https://services3.arcgis.com/91pLRT6NAIXyRhsy/arcgis/rest/services/Landownership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "landownership.geojson"
+    },
+    {
+      "title": "PADUS_Elk",
+      "url": "https://services3.arcgis.com/6GmrBMeBBW4YPl5U/arcgis/rest/services/PADUS_Elk/FeatureServer",
+      "features": 3,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_elk.geojson"
+    },
+    {
+      "title": "MI_PADUS",
+      "url": "https://services2.arcgis.com/5I7u4SJE1vUr79JC/arcgis/rest/services/MI_PADUS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mi_padus.geojson"
+    },
+    {
+      "title": "BC_Parcels_DBO_Bulloch_Wetlands",
+      "url": "https://services6.arcgis.com/XxfLDid4CNOqpdhy/arcgis/rest/services/BC_Parcels_DBO_Bulloch_Wetlands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bc_parcels_dbo_bulloch_wetlands.geojson"
+    },
+    {
+      "title": "Smith River National Recreation Area",
+      "url": "https://services7.arcgis.com/F4iYwOOvXLYhkPXF/arcgis/rest/services/Smith_River_National_Recreation_Area/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "smith_river_national_recreation_area.geojson"
+    },
+    {
+      "title": "GPI Colorado Project Development is Precluded by Law or Regulation",
+      "url": "https://services1.arcgis.com/yWU5mm2MiovfH9MW/arcgis/rest/services/GPI_Colorado_Project_Development_is_Precluded_by_Law_or_Regulation/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gpi_colorado_project_development_is_precluded_by_law_or_regu.geojson"
+    },
+    {
+      "title": "ETJ_ParcelCAMA_022822",
+      "url": "https://services7.arcgis.com/7c7D9V3dsU3qPDB8/arcgis/rest/services/ETJ_ParcelCAMA_022822/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "etj_parcelcama_022822.geojson"
+    },
+    {
+      "title": "GPI Colorado PADUS Score 4",
+      "url": "https://services1.arcgis.com/yWU5mm2MiovfH9MW/arcgis/rest/services/GPI_Colorado_PADUS_Score_4/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gpi_colorado_padus_score_4.geojson"
+    },
+    {
+      "title": "Federal Lands",
+      "url": "https://services3.arcgis.com/9Ij3DUv1U3250Rno/arcgis/rest/services/Federal_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "federal_lands.geojson"
+    },
+    {
+      "title": "WCD_Allotment_Properties",
+      "url": "https://services.arcgis.com/3xOwF6p0r7IHIjfn/arcgis/rest/services/WCD_Allotment_Properties/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wcd_allotment_properties.geojson"
+    },
+    {
+      "title": "Protected landscape or seascape (PADUS)",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/Protected_landscape_or_seascape_(PADUS)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_landscape_or_seascape__padus_.geojson"
+    },
+    {
+      "title": "A2APA_Merge_CleanedUpProject",
+      "url": "https://services2.arcgis.com/NzAqpeLbvbvoP3qh/arcgis/rest/services/A2APA_Merge_CleanedUpProject/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "a2apa_merge_cleanedupproject.geojson"
+    },
+    {
+      "title": "State_Parks",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/State_Parks/FeatureServer",
+      "features": 13,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_parks.geojson"
+    },
+    {
+      "title": "Hunt_VT",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/Hunt_VT/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hunt_vt.geojson"
+    },
+    {
+      "title": "Kalmiopsis Wilderness Area",
+      "url": "https://services7.arcgis.com/F4iYwOOvXLYhkPXF/arcgis/rest/services/Kalmiopsis_Wilderness_Area/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "kalmiopsis_wilderness_area.geojson"
+    },
+    {
+      "title": "City of Spanish Fort Zoning Map_WFL1",
+      "url": "https://services6.arcgis.com/4wCxHefFBgp9pROw/arcgis/rest/services/City_of_Spanish_Fort_Zoning_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_of_spanish_fort_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "Parcel Selection Feb_ 2026_WFL1",
+      "url": "https://services7.arcgis.com/66CMpP3K6NqyY54g/arcgis/rest/services/Parcel_Selection_Feb__2026_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_selection_feb__2026_wfl1.geojson"
+    },
+    {
+      "title": "PadusENA",
+      "url": "https://services1.arcgis.com/HLC8bAygObK4fhPW/arcgis/rest/services/PadusENA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padusena.geojson"
+    },
+    {
+      "title": "Foley_parcelzones",
+      "url": "https://services.arcgis.com/POWnQ9B55SeBoOXX/arcgis/rest/services/Foley_parcelzones/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "foley_parcelzones.geojson"
+    },
+    {
+      "title": "WV_Ohio_MP_all_parcels_WSL1",
+      "url": "https://services9.arcgis.com/p32OFU0tOg1QpCBl/arcgis/rest/services/WV_Ohio_MP_all_parcels_WSL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "wv_ohio_mp_all_parcels_wsl1.geojson"
+    },
+    {
+      "title": "RefugeLimestoneParcels",
+      "url": "https://services2.arcgis.com/8uN5i97bMkq2Mzrt/arcgis/rest/services/RefugeLimestoneParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "refugelimestoneparcels.geojson"
+    },
+    {
+      "title": "GPI Colorado PADUS Score 3",
+      "url": "https://services1.arcgis.com/yWU5mm2MiovfH9MW/arcgis/rest/services/GPI_Colorado_PADUS_Score_3_v2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gpi_colorado_padus_score_3.geojson"
+    },
+    {
+      "title": "NGO_projected",
+      "url": "https://services5.arcgis.com/XNu9jD76S3CY6lhX/arcgis/rest/services/NGO_projected/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ngo_projected.geojson"
+    },
+    {
+      "title": "PADUS4_JVStates",
+      "url": "https://services1.arcgis.com/lDFzr3JyGEn5Eymu/arcgis/rest/services/PADUS4_JVStates/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus4_jvstates.geojson"
+    },
+    {
+      "title": "Hunt_PA",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/Hunt_PA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hunt_pa.geojson"
+    },
+    {
+      "title": "Hunt_WV",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/Hunt_WV/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hunt_wv.geojson"
+    },
+    {
+      "title": "LaPaz_2035_Future_Land_Use_Alternates_WFL1",
+      "url": "https://services.arcgis.com/pgpW6qJ4VMq85bSI/arcgis/rest/services/LaPaz_2035_Future_Land_Use_Alternates_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "lapaz_2035_future_land_use_alternates_wfl1.geojson"
+    },
+    {
+      "title": "State_Forest",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/State_Forest/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "state_forest.geojson"
+    },
+    {
+      "title": "ParcelBoundaries",
+      "url": "https://services6.arcgis.com/MlXbNxI7ayebljeT/arcgis/rest/services/ParcelBoundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelboundaries.geojson"
+    },
+    {
+      "title": "Hunt_NH",
+      "url": "https://services1.arcgis.com/cTNi34MxOdcfum3A/arcgis/rest/services/Hunt_NH/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hunt_nh.geojson"
+    },
+    {
+      "title": "SLR_Parcels_All",
+      "url": "https://services2.arcgis.com/utBig56dGaw25bwu/arcgis/rest/services/SLR_Parcels_All/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "slr_parcels_all.geojson"
+    },
+    {
+      "title": "ForestedParcelSelection_WFL1",
+      "url": "https://services7.arcgis.com/66CMpP3K6NqyY54g/arcgis/rest/services/ForestedParcelSelection_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "forestedparcelselection_wfl1.geojson"
+    },
+    {
+      "title": "PADUS_Hel_Clip_Ownership",
+      "url": "https://services3.arcgis.com/17F7m6SrhCakwCcI/arcgis/rest/services/PADUS_Hel_Clip_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_hel_clip_ownership.geojson"
+    },
+    {
+      "title": "Parcel Selection Scoring_WFL1",
+      "url": "https://services7.arcgis.com/66CMpP3K6NqyY54g/arcgis/rest/services/Parcel_Selection_Scoring_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_selection_scoring_wfl1.geojson"
+    },
+    {
+      "title": "Land_to_Build",
+      "url": "https://services1.arcgis.com/ajkPMiuiqxF9xEgP/arcgis/rest/services/Land_to_Build/FeatureServer",
+      "features": 94,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "land_to_build.geojson"
+    },
+    {
+      "title": "Game Lands",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/Game_Lands/FeatureServer",
+      "features": 6,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "game_lands.geojson"
+    },
+    {
+      "title": "Sections",
+      "url": "https://services6.arcgis.com/8EipYlXFYbtSN973/arcgis/rest/services/Sections/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sections.geojson"
+    },
+    {
+      "title": "SmokyMountainNatPark",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/SmokyMountainNatPark/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "smokymountainnatpark.geojson"
+    },
+    {
+      "title": "Mobile County Alabama Tax Parcels",
+      "url": "https://services8.arcgis.com/HND1NcQt6vgOGn1z/arcgis/rest/services/MCRC_Public_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mobile_county_alabama_tax_parcels.geojson"
+    },
+    {
+      "title": "Historical_Parcels",
+      "url": "https://services8.arcgis.com/byTxl7QR42wVLPMe/arcgis/rest/services/Historical_Parcels/FeatureServer",
+      "features": 19,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "historical_parcels.geojson"
+    },
+    {
+      "title": "Weeks Bay NERR parcel year_WFL1",
+      "url": "https://services7.arcgis.com/jcVUvxpWnajErgCr/arcgis/rest/services/Weeks_Bay_NERR_parcel_year_WFL1/FeatureServer",
+      "features": 31,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "weeks_bay_nerr_parcel_year_wfl1.geojson"
+    },
+    {
+      "title": "Department of Energy",
+      "url": "https://services7.arcgis.com/Bq5yvxFKGREICK7t/arcgis/rest/services/Department_of_Energy/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "department_of_energy.geojson"
+    },
+    {
+      "title": "ACJV_PADUS2_1CombinedFeeDesignationEasement",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/ACJV_PADUS2_1CombinedFeeDesignationEasement/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "acjv_padus2_1combinedfeedesignationeasement.geojson"
+    },
+    {
+      "title": "AL_Storymap_Parcels",
+      "url": "https://services.arcgis.com/wKiTqqEYQLgNM4kT/arcgis/rest/services/AL_Storymap_Parcels/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "al_storymap_parcels.geojson"
+    },
+    {
+      "title": "Mitchell County Parcels_ALL_WFL1",
+      "url": "https://services6.arcgis.com/5FEPqaBxGEfW4Hk2/arcgis/rest/services/Mitchell_County_Parcels_ALL_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mitchell_county_parcels_all_wfl1.geojson"
+    },
+    {
+      "title": "Hale_Web_Service",
+      "url": "https://services9.arcgis.com/AhiZvN2uMZkZVfSu/arcgis/rest/services/Hale_Web_Service/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hale_web_service.geojson"
+    },
+    {
+      "title": "Parcel Selection_WFL1",
+      "url": "https://services7.arcgis.com/66CMpP3K6NqyY54g/arcgis/rest/services/Parcel_Selection_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_selection_wfl1.geojson"
+    },
+    {
+      "title": "HistoricPropertyOwners",
+      "url": "https://services1.arcgis.com/FsRunHWuiGXWVv3B/arcgis/rest/services/HistoricPropertyOwners/FeatureServer",
+      "features": 19,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "historicpropertyowners.geojson"
+    },
+    {
+      "title": "Voting Districts view",
+      "url": "https://services1.arcgis.com/YuUmeLTCOKueQ4fU/arcgis/rest/services/Voting_Districts_view/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "voting_districts_view.geojson"
+    },
+    {
+      "title": "CBW_AllAvailParcels_PUBLICSCH1718_IntersectV2_SpJnPubSch",
+      "url": "https://services6.arcgis.com/hYYMUyQV0EkaI5vt/arcgis/rest/services/CBW_AllAvailParcels_PUBLICSCH1718_IntersectV2_SpJnPubSch/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cbw_allavailparcels_publicsch1718_intersectv2_spjnpubsch.geojson"
+    },
+    {
+      "title": "PADUS_Public_LLLT",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/PADUS_Public_LLLT/FeatureServer",
+      "features": 18,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_public_lllt.geojson"
+    },
+    {
+      "title": "TALLASSEE_ZONING_012626_WFL1",
+      "url": "https://services7.arcgis.com/jF2q3LPxL7PETdYk/arcgis/rest/services/TALLASSEE_ZONING_012626_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tallassee_zoning_012626_wfl1.geojson"
+    },
+    {
+      "title": "PADUS_Combined_LLLT",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/PADUS_Combined_LLLT/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_combined_lllt.geojson"
+    },
+    {
+      "title": "LLLT_Lands",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/LLLT_Lands/FeatureServer",
+      "features": 9,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lllt_lands.geojson"
+    },
+    {
+      "title": "Parcels_Intersecting_Lava_Buffer_AL112",
+      "url": "https://services8.arcgis.com/68JTBa9Pi1Ub1rvX/arcgis/rest/services/Parcels_Intersecting_Lava_Buffer_AL112/FeatureServer",
+      "features": 38,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_intersecting_lava_buffer_al112.geojson"
+    },
+    {
+      "title": "PADUS_Private_LLLT",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/PADUS_Private_LLLT/FeatureServer",
+      "features": 89,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_private_lllt.geojson"
+    },
+    {
+      "title": "Alabama",
+      "url": "https://services7.arcgis.com/33Tmvrm3G2UZLFK9/arcgis/rest/services/Alabama/FeatureServer",
+      "features": 67,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alabama.geojson"
+    },
+    {
+      "title": "WashoeTribeParcels20161123",
+      "url": "https://services1.arcgis.com/9z9tEfqo0TExR9C8/arcgis/rest/services/WashoeTribeParcels20161123/FeatureServer",
+      "features": 8,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washoetribeparcels20161123.geojson"
+    },
+    {
+      "title": "Fire_Hydrants_240109",
+      "url": "https://services5.arcgis.com/HkmxEaQZPGKsHDA0/arcgis/rest/services/Fire_Hydrants_240109/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "fire_hydrants_240109.geojson"
+    },
+    {
+      "title": "WaineeLands_COM_All",
+      "url": "https://services2.arcgis.com/iRXQh9fsThHqHhAy/arcgis/rest/services/WaineeLands_COM_All/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "waineelands_com_all.geojson"
+    },
+    {
+      "title": "WaineeLands_COM_All_Dissolve",
+      "url": "https://services2.arcgis.com/iRXQh9fsThHqHhAy/arcgis/rest/services/WaineeLands_COM_All_Dissolve/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "waineelands_com_all_dissolve.geojson"
+    },
+    {
+      "title": "GPI Colorado PADUS Statewide",
+      "url": "https://services1.arcgis.com/yWU5mm2MiovfH9MW/arcgis/rest/services/GPI_Colorado_PADUS_Statewide/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gpi_colorado_padus_statewide.geojson"
+    },
+    {
+      "title": "PublicAccessPolygons",
+      "url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PublicAccessPolygons/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "publicaccesspolygons.geojson"
+    },
+    {
+      "title": "FED_clip_final",
+      "url": "https://services7.arcgis.com/WSiUmUhlFx4CtMBB/arcgis/rest/services/FED_clip_final/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fed_clip_final.geojson"
+    },
+    {
+      "title": "NC_Forest_Service_Land",
+      "url": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/NC_Forest_Service_Land/FeatureServer",
+      "features": 10,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nc_forest_service_land.geojson"
+    },
+    {
+      "title": "GapStatus123_ORWA",
+      "url": "https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/GapStatus123_ORWA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gapstatus123_orwa.geojson"
+    },
+    {
+      "title": "PADUS3_NC",
+      "url": "https://pctgis.pewtrusts.org/server/rest/services/Hosted/PADUS3_NC/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus3_nc.geojson"
+    },
+    {
+      "title": "BLM and USFS National Monuments",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/BLM_and_USFS_National_Monuments/FeatureServer",
+      "features": 63,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_and_usfs_national_monuments.geojson"
+    },
+    {
+      "title": "PADUS4OpenToPublic",
+      "url": "https://services.arcgis.com/9Dz5quHPmab2pMtb/arcgis/rest/services/PADUS4OpenToPublic/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus4opentopublic.geojson"
+    },
+    {
+      "title": "Land Ownership",
+      "url": "https://services.arcgis.com/9ecg2KpMLcsUv1Oh/arcgis/rest/services/Land_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "land_ownership.geojson"
+    },
+    {
+      "title": "National park (PADUS)",
+      "url": "https://services9.arcgis.com/90v9hhDSTUTen7c9/arcgis/rest/services/National_park_(PADUS)/FeatureServer",
+      "features": 70,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "national_park__padus_.geojson"
+    },
+    {
+      "title": "PAD_US",
+      "url": "https://services.arcgis.com/HRPe58bUyBqyyiCt/arcgis/rest/services/PAD_US/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pad_us.geojson"
+    }
+  ]
+}

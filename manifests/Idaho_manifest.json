@@ -1,0 +1,756 @@
+{
+  "state": "Idaho",
+  "sources_attempted": 94,
+  "sources_successful": 83,
+  "total_features": 6606,
+  "pulled_at": "2026-03-16T01:22:47.743145",
+  "datasets": [
+    {
+      "title": "Public Idaho Parcels ",
+      "url": "https://services1.arcgis.com/CNPdEkvnGl65jCX8/arcgis/rest/services/Public_Idaho_Parcels_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_idaho_parcels_.geojson"
+    },
+    {
+      "title": "MH",
+      "url": "https://services7.arcgis.com/gqcDdwE7LMrYrEMJ/arcgis/rest/services/MH/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mh.geojson"
+    },
+    {
+      "title": "PLSS",
+      "url": "https://services7.arcgis.com/gqcDdwE7LMrYrEMJ/arcgis/rest/services/PLSS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss.geojson"
+    },
+    {
+      "title": "TETON COUNTY PARCELS (PUBLIC)",
+      "url": "https://services1.arcgis.com/as6biEYkl7PaUM4Y/arcgis/rest/services/TETON_COUNTY_PARCELS_(PUBLIC)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "teton_county_parcels__public_.geojson"
+    },
+    {
+      "title": "Blaine County Parcel Data",
+      "url": "https://services9.arcgis.com/5rkKDrGuFJxI7V5b/arcgis/rest/services/Blaine_County_Parcel_Data/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blaine_county_parcel_data.geojson"
+    },
+    {
+      "title": "SCAFCA",
+      "url": "https://services3.arcgis.com/CkhxOCyQmitz4nLa/arcgis/rest/services/SCAFCA/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "scafca.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services6.arcgis.com/gcOKRHSENxBrmPoN/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Zoning Map",
+      "url": "https://services9.arcgis.com/X6IADK3MAoq4CuNd/arcgis/rest/services/Zoning_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_map.geojson"
+    },
+    {
+      "title": "Sections view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/Sections_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sections_view.geojson"
+    },
+    {
+      "title": "ParcelID",
+      "url": "https://services3.arcgis.com/XEKxIX32keB27PXV/arcgis/rest/services/ParcelID/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelid.geojson"
+    },
+    {
+      "title": "WASD_Parcels",
+      "url": "https://services6.arcgis.com/gcOKRHSENxBrmPoN/arcgis/rest/services/WASD_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "wasd_parcels.geojson"
+    },
+    {
+      "title": "Clearwater PLSS tr view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/ClearwaterPLSStr_view/FeatureServer",
+      "features": 87,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "clearwater_plss_tr_view.geojson"
+    },
+    {
+      "title": "Rio_Rancho_Units",
+      "url": "https://services3.arcgis.com/CkhxOCyQmitz4nLa/arcgis/rest/services/Rio_Rancho_Units/FeatureServer",
+      "features": 23,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rio_rancho_units.geojson"
+    },
+    {
+      "title": "Subdivision view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/Subdivision_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivision_view.geojson"
+    },
+    {
+      "title": "CanyonParcels4_4_22",
+      "url": "https://services6.arcgis.com/gcOKRHSENxBrmPoN/arcgis/rest/services/CanyonParcels4_4_22/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "canyonparcels4_4_22.geojson"
+    },
+    {
+      "title": "AdaParcels4_4_22",
+      "url": "https://services6.arcgis.com/gcOKRHSENxBrmPoN/arcgis/rest/services/AdaParcels4_4_22/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "adaparcels4_4_22.geojson"
+    },
+    {
+      "title": "Mendon MA Property Tax Parcels wCAMA VIEW",
+      "url": "https://services3.arcgis.com/wid5AQd6BHjWWq1h/arcgis/rest/services/Mendon_MA_Property_Tax_Parcels_wCAMA_VIEW/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "mendon_ma_property_tax_parcels_wcama_view.geojson"
+    },
+    {
+      "title": "Idaho Master Agreement Idaho Department of Lands (IDL) Legal Authority 2024",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/IDlLegalAuthority_2024_PublicView/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "idaho_master_agreement_idaho_department_of_lands__idl__legal.geojson"
+    },
+    {
+      "title": "Corporate_Boundaries",
+      "url": "https://services1.arcgis.com/nYfGJ9xFTKW6VPqW/arcgis/rest/services/Corporate_Boundaries/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "corporate_boundaries.geojson"
+    },
+    {
+      "title": "Idaho Master Agreement Private Forested Lands 2024",
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/IDPrivateForested_2024_PublicView/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "idaho_master_agreement_private_forested_lands_2024.geojson"
+    },
+    {
+      "title": "21_11_19 _ Parcels",
+      "url": "https://services8.arcgis.com/bJf0Bbe8cuVaPmLc/arcgis/rest/services/21_11_19___Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "21_11_19___parcels.geojson"
+    },
+    {
+      "title": "WetlandVerificationMap",
+      "url": "https://services5.arcgis.com/k6rZTDGNZ7Srk5IB/arcgis/rest/services/WetlandVerificationMap/FeatureServer",
+      "features": 23,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wetlandverificationmap.geojson"
+    },
+    {
+      "title": "HistoricData",
+      "url": "https://services.arcgis.com/7iO9jzKTrQqVrA3p/arcgis/rest/services/HistoricData/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "historicdata.geojson"
+    },
+    {
+      "title": "TaxParcels_ID_Dissolved",
+      "url": "https://services2.arcgis.com/xbigN5MncVRk9xX6/arcgis/rest/services/TaxParcels_ID_Dissolved/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxparcels_id_dissolved.geojson"
+    },
+    {
+      "title": "Polk County Parcels",
+      "url": "https://services7.arcgis.com/1PZmkk2mSW5b055Q/arcgis/rest/services/Polk_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "polk_county_parcels.geojson"
+    },
+    {
+      "title": "City of Shawano Parcels 2019 View Layer",
+      "url": "https://services9.arcgis.com/gcJrJcPpHyVRGU0T/arcgis/rest/services/City_of_Shawano_Parcels_2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "city_of_shawano_parcels_2019_view_layer.geojson"
+    },
+    {
+      "title": "Public Land Survey Quarter Quarter And Other Section Subdivisions",
+      "url": "https://gis.idwr.idaho.gov/hosting/rest/services/Reference/PlsQuarterQuarterAndOther/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_land_survey_quarter_quarter_and_other_section_subdivi.geojson"
+    },
+    {
+      "title": "WI School Forests",
+      "url": "https://services5.arcgis.com/Ul9AyFFeFTjf08DW/arcgis/rest/services/WI_School_Forests_04_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wi_school_forests.geojson"
+    },
+    {
+      "title": "ACUB Parcel Priority Map_WFL1",
+      "url": "https://services5.arcgis.com/FeaGMhyvOuOWv03n/arcgis/rest/services/ACUB_Parcel_Priority_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "acub_parcel_priority_map_wfl1.geojson"
+    },
+    {
+      "title": "Tax Lots",
+      "url": "https://services.arcgis.com/cfmdyB05xBau1dNQ/arcgis/rest/services/Tax_Lots/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_lots.geojson"
+    },
+    {
+      "title": "Fairgrounds",
+      "url": "https://services8.arcgis.com/bJf0Bbe8cuVaPmLc/arcgis/rest/services/Fairgrounds/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fairgrounds.geojson"
+    },
+    {
+      "title": "PSW Regional Verified Sites",
+      "url": "https://services3.arcgis.com/OwVO8oKCUjTngz5f/arcgis/rest/services/PSW_Regional_Verified_Sites/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "psw_regional_verified_sites.geojson"
+    },
+    {
+      "title": "Deeds view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/Deeds_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "deeds_view.geojson"
+    },
+    {
+      "title": "Dickeyville Parks",
+      "url": "https://services3.arcgis.com/OwVO8oKCUjTngz5f/arcgis/rest/services/Dickeyville_Parks/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dickeyville_parks.geojson"
+    },
+    {
+      "title": "Timber Productivity view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/TimberProductivity_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "timber_productivity_view.geojson"
+    },
+    {
+      "title": "Price County Parcels 2021",
+      "url": "https://services7.arcgis.com/wDLeIqfs18hKdUWd/arcgis/rest/services/Price_County_Parcels_2021/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "price_county_parcels_2021.geojson"
+    },
+    {
+      "title": "Yellowstone Boundary_MJH",
+      "url": "https://services1.arcgis.com/HLC8bAygObK4fhPW/arcgis/rest/services/Yellowstone_Boundary_MJH/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "yellowstone_boundary_mjh.geojson"
+    },
+    {
+      "title": "City Parcels",
+      "url": "https://services2.arcgis.com/nJNGTYLxhu0Jzq0W/arcgis/rest/services/City_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "city_parcels.geojson"
+    },
+    {
+      "title": "Surveys and Plats",
+      "url": "https://services2.arcgis.com/1cvrwLhZRFh3okEF/arcgis/rest/services/Surveys_and_Plats/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "surveys_and_plats.geojson"
+    },
+    {
+      "title": "Teton County Idaho Parcels",
+      "url": "https://services.arcgis.com/WLhB60Nqwp4NnHz3/arcgis/rest/services/Teton_County_Idaho_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "teton_county_idaho_parcels.geojson"
+    },
+    {
+      "title": "Dry Creek Ranch Future Land Use",
+      "url": "https://services2.arcgis.com/dgGjZc6xAH5m5JyP/arcgis/rest/services/Dry_Creek_Ranch_Future_Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "dry_creek_ranch_future_land_use.geojson"
+    },
+    {
+      "title": "Right of Way",
+      "url": "https://services1.arcgis.com/QjiQKkFtXufcXWpu/arcgis/rest/services/Right_of_Way/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "right_of_way.geojson"
+    },
+    {
+      "title": "Airport_Parcels_V9",
+      "url": "https://services6.arcgis.com/FsBMyO0EKuAe3Kx8/arcgis/rest/services/Airport_Parcels_V9/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "airport_parcels_v9.geojson"
+    },
+    {
+      "title": "County Parcel Progress",
+      "url": "https://services1.arcgis.com/CNPdEkvnGl65jCX8/arcgis/rest/services/TIM_Parcels_Progress/FeatureServer",
+      "features": 44,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_parcel_progress.geojson"
+    },
+    {
+      "title": "PSW Regional Verified Sites Dickeyville Public View (Lots for Sale)",
+      "url": "https://services3.arcgis.com/OwVO8oKCUjTngz5f/arcgis/rest/services/PSW_Regional_Verified_Sites_Dickeyville_Public_View_(Lots_for_Sale)/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "psw_regional_verified_sites_dickeyville_public_view__lots_fo.geojson"
+    },
+    {
+      "title": "Boscobel Lots for Sale",
+      "url": "https://services3.arcgis.com/OwVO8oKCUjTngz5f/arcgis/rest/services/Boscobel_Lots_for_Sale/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "boscobel_lots_for_sale.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services8.arcgis.com/5NCvmz1mrqKufinC/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Council Parcel Boundaries",
+      "url": "https://services8.arcgis.com/fhV7YmN3ZH8F4stQ/arcgis/rest/services/Council_Parcel_Boundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "council_parcel_boundaries.geojson"
+    },
+    {
+      "title": "Waukesha_Parcels_2019",
+      "url": "https://services6.arcgis.com/E4zmITc5k3J3fWRw/arcgis/rest/services/Waukesha_Parcels_2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "waukesha_parcels_2019.geojson"
+    },
+    {
+      "title": "CrawfordCountyParcels2025_gdb",
+      "url": "https://services7.arcgis.com/wDLeIqfs18hKdUWd/arcgis/rest/services/CrawfordCountyParcels2025_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "crawfordcountyparcels2025_gdb.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services9.arcgis.com/NNm61M2FO8MXnyNQ/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 12,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Lincoln_Parcel_V800_MohExtent_Clip2",
+      "url": "https://services9.arcgis.com/5UmNeC3YIVXGGkxV/arcgis/rest/services/Lincoln_Parcel_V800_MohExtent_Clip2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lincoln_parcel_v800_mohextent_clip2.geojson"
+    },
+    {
+      "title": "District_FI_20_ExportFeature1",
+      "url": "https://services5.arcgis.com/zlPCYMa2XFQgY6yK/arcgis/rest/services/District_FI_20_ExportFeature1/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "district_fi_20_exportfeature1.geojson"
+    },
+    {
+      "title": "mkeRiverParcels",
+      "url": "https://services1.arcgis.com/O7h3OCRVxKceyg19/arcgis/rest/services/mkeRiverParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mkeriverparcels.geojson"
+    },
+    {
+      "title": "ConsParcels",
+      "url": "https://services9.arcgis.com/NNm61M2FO8MXnyNQ/arcgis/rest/services/ConsParcels/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "consparcels.geojson"
+    },
+    {
+      "title": "V9_Parcels",
+      "url": "https://services6.arcgis.com/pHG4ZR8FFSuCMvSA/arcgis/rest/services/V9_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "v9_parcels.geojson"
+    },
+    {
+      "title": "Parcels_AbuttingRoW",
+      "url": "https://services1.arcgis.com/ziLNoRgqnICUM0q1/arcgis/rest/services/Parcels_AbuttingRoW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_abuttingrow.geojson"
+    },
+    {
+      "title": "ParcelOwnership_view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/ParcelOwnership_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcelownership_view.geojson"
+    },
+    {
+      "title": "Subdivisions_view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/Subdivisions_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivisions_view.geojson"
+    },
+    {
+      "title": "Deed view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/Deed_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "deed_view.geojson"
+    },
+    {
+      "title": "D3_Parcels",
+      "url": "https://services1.arcgis.com/Qqv4dYPC8Vv8e3c3/arcgis/rest/services/D3_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "d3_parcels.geojson"
+    },
+    {
+      "title": "Jay_prop",
+      "url": "https://services3.arcgis.com/LzjuyWFXeLulv5er/arcgis/rest/services/Jay_prop/FeatureServer",
+      "features": 9,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "jay_prop.geojson"
+    },
+    {
+      "title": "Existing Land Use _DRAFT_",
+      "url": "https://services6.arcgis.com/VRN2bGr6Ezohdszr/arcgis/rest/services/Existing_Land_Use__DRAFT_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use__draft_.geojson"
+    },
+    {
+      "title": "Florence_Parcels_2022_SHP",
+      "url": "https://services7.arcgis.com/bodWNkckm0c87R8U/arcgis/rest/services/Florence_Parcels_2022_SHP/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "florence_parcels_2022_shp.geojson"
+    },
+    {
+      "title": "PARCELS_xy_AssessmentSummary_10192023",
+      "url": "https://services7.arcgis.com/gqcDdwE7LMrYrEMJ/arcgis/rest/services/PARCELS_xy_AssessmentSummary_10192023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_xy_assessmentsummary_10192023.geojson"
+    },
+    {
+      "title": "parcels",
+      "url": "https://services6.arcgis.com/pHG4ZR8FFSuCMvSA/arcgis/rest/services/parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "parcels",
+      "url": "https://services5.arcgis.com/lIHH39JBU3FScVe5/arcgis/rest/services/parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Names view",
+      "url": "https://services2.arcgis.com/bkAz0G7Qq4dmkYCg/arcgis/rest/services/Names_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "names_view.geojson"
+    },
+    {
+      "title": "yellowstoneboundary",
+      "url": "https://services9.arcgis.com/u4Eb9rhSAyEWjb0e/arcgis/rest/services/yellowstoneboundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "yellowstoneboundary.geojson"
+    },
+    {
+      "title": "V1000_Wisconsin__BAYFIELD_SHP",
+      "url": "https://services.arcgis.com/GL0fWlNkwysZaKeV/arcgis/rest/services/V1000_Wisconsin__BAYFIELD_SHP/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "v1000_wisconsin__bayfield_shp.geojson"
+    },
+    {
+      "title": "Parcels_Downtown",
+      "url": "https://services1.arcgis.com/z5tlnpYHokW9isdE/arcgis/rest/services/Parcels_Downtown/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_downtown.geojson"
+    },
+    {
+      "title": "Sutherlands Development Map",
+      "url": "https://services1.arcgis.com/EiEr2xT4gB5AIOtc/arcgis/rest/services/Sutherlands_Development_Map/FeatureServer",
+      "features": 12,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sutherlands_development_map.geojson"
+    },
+    {
+      "title": "DaneZoom",
+      "url": "https://services.arcgis.com/HRPe58bUyBqyyiCt/arcgis/rest/services/DaneZoom/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "danezoom.geojson"
+    },
+    {
+      "title": "Non-ISU Parcels",
+      "url": "https://services1.arcgis.com/z5tlnpYHokW9isdE/arcgis/rest/services/Non_ISU_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "non-isu_parcels.geojson"
+    },
+    {
+      "title": "Statewide Parcel Centroid for South Carolina",
+      "url": "https://services9.arcgis.com/RvqSyw3diI7dTKo5/arcgis/rest/services/Statewide_Parcel_Centroid_for_South_Carolina/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "statewide_parcel_centroid_for_south_carolina.geojson"
+    },
+    {
+      "title": "District_CI_2003",
+      "url": "https://services.arcgis.com/91hXl6NfvLGEi8x5/arcgis/rest/services/District_CI_2003/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "district_ci_2003.geojson"
+    },
+    {
+      "title": "Parcels_7_22_Merge",
+      "url": "https://services6.arcgis.com/gcOKRHSENxBrmPoN/arcgis/rest/services/Parcels_7_22_Merge/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_7_22_merge.geojson"
+    },
+    {
+      "title": "ciro_boundary",
+      "url": "https://services.arcgis.com/FvF9MZKp3JWPrSkg/arcgis/rest/services/ciro_boundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ciro_boundary.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services6.arcgis.com/tNgqqEFlzKrVeDPz/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "ciro_tracts",
+      "url": "https://services.arcgis.com/FvF9MZKp3JWPrSkg/arcgis/rest/services/ciro_tracts/FeatureServer",
+      "features": 35,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ciro_tracts.geojson"
+    },
+    {
+      "title": "Parcels and Structures cut by 2020 census blocks",
+      "url": "https://services1.arcgis.com/t5AEz34BXrDSmxOi/arcgis/rest/services/Parcels_and_Structures_cut_by_2020_census_blocks/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_and_structures_cut_by_2020_census_blocks.geojson"
+    },
+    {
+      "title": "Parcels_MM",
+      "url": "https://services7.arcgis.com/B9LRGJ5x7H5vvidb/arcgis/rest/services/Parcels_MM/FeatureServer",
+      "features": 82,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_mm.geojson"
+    },
+    {
+      "title": "Idaho_CNTYPARCELTAX_ANutting_WFL1",
+      "url": "https://services3.arcgis.com/ZOm3lyRvRxR6535t/arcgis/rest/services/Idaho_CNTYPARCELTAX_ANutting_WFL1/FeatureServer",
+      "features": 44,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "idaho_cntyparceltax_anutting_wfl1.geojson"
+    }
+  ]
+}

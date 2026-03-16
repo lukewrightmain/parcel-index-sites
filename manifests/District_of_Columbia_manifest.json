@@ -1,0 +1,162 @@
+{
+  "state": "District of Columbia",
+  "sources_attempted": 60,
+  "sources_successful": 17,
+  "total_features": 1700,
+  "pulled_at": "2026-03-16T01:21:27.213737",
+  "datasets": [
+    {
+      "title": "DC_OL_DCPIAdvanced_AGOLX",
+      "url": "https://services2.arcgis.com/CfhoRi2v351nuUH7/arcgis/rest/services/DC_OL_DCPIAdvanced_AGOLX/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dc_ol_dcpiadvanced_agolx.geojson"
+    },
+    {
+      "title": "ITSPE_View_05022025",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/ITSPE_View_05022025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "itspe_view_05022025.geojson"
+    },
+    {
+      "title": "Pending_New_Lots_Ply_1st2025_view",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Pending_New_Lots_Ply_1st2025_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pending_new_lots_ply_1st2025_view.geojson"
+    },
+    {
+      "title": "LandLotIndexExternal",
+      "url": "https://services5.arcgis.com/5RxyIIJ9boPdptdo/arcgis/rest/services/LandLotIndexExternal/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landlotindexexternal.geojson"
+    },
+    {
+      "title": "Integrated Tax System Public Extract",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/ITSPE_View_07082025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "integrated_tax_system_public_extract.geojson"
+    },
+    {
+      "title": "Integrated Tax System Public Extract unresponsive",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Integrated_Tax_System_Public_Extract/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "integrated_tax_system_public_extract_unresponsive.geojson"
+    },
+    {
+      "title": "Integrated Tax System Public Extract Vacant Property",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/ITSPE_VACANT_PROPERTY_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "integrated_tax_system_public_extract_vacant_property.geojson"
+    },
+    {
+      "title": "Paved Surfaces in Parcels Larger Than 9 Sq Meter",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Paved_Surfaces_in_Parcels_Larger_Than_9_Sq_Meter/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "paved_surfaces_in_parcels_larger_than_9_sq_meter.geojson"
+    },
+    {
+      "title": "Paved Areas in Parcels",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Paved_Areas_in_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "paved_areas_in_parcels.geojson"
+    },
+    {
+      "title": "NCR Park Management (Jurisdictional) Boundaries",
+      "url": "https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/NCR_Park_Mgmt_Boundaries_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ncr_park_management__jurisdictional__boundaries.geojson"
+    },
+    {
+      "title": "Integrated Tax System Public Extract Facts Unresponsive",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Integrated_Tax_System_Public_Extract_Facts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "integrated_tax_system_public_extract_facts_unresponsive.geojson"
+    },
+    {
+      "title": "Integrated Tax System Public Extract Facts",
+      "url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/ITSPE_FACTS_05022025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "integrated_tax_system_public_extract_facts.geojson"
+    },
+    {
+      "title": "NACE Park Management (Jurisdictional) Boundaries",
+      "url": "https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/NACE_Park_Mgmt_Boundaries_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nace_park_management__jurisdictional__boundaries.geojson"
+    },
+    {
+      "title": "UC Land Parcels and Tribal Lands_WFL1",
+      "url": "https://services5.arcgis.com/Vm7I1fgtOcmi7COn/arcgis/rest/services/UC_Land_Parcels_and_Tribal_Lands_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uc_land_parcels_and_tribal_lands_wfl1.geojson"
+    },
+    {
+      "title": "Public_Parcels_DC_MD",
+      "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Public_Parcels_DC_MD/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "public_parcels_dc_md.geojson"
+    },
+    {
+      "title": "UC Land Parcel and Tribal_WFL1",
+      "url": "https://services5.arcgis.com/Vm7I1fgtOcmi7COn/arcgis/rest/services/UC_Land_Parcel_and_Tribal_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uc_land_parcel_and_tribal_wfl1.geojson"
+    },
+    {
+      "title": "Impervious_Surface_DC",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_DC/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_dc.geojson"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "state": "Mississippi",
+  "sources_attempted": 24,
+  "sources_successful": 24,
+  "total_features": 1989,
+  "pulled_at": "2026-03-16T01:31:39.635789",
+  "datasets": [
+    {
+      "title": "Chieftain's Dovre-Sioux Creek Wisconsin Sand Mine Proposal Parcels",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Chieftain's_Dovre-Sioux_Creek_Wisconsin_Sand_Mine_Proposal_Parcels/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "chieftain_s_dovre-sioux_creek_wisconsin_sand_mine_proposal_p.geojson"
+    },
+    {
+      "title": "FmHA of Mississippi",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/fmha_of_mississippi_0724_shp/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fmha_of_mississippi.geojson"
+    },
+    {
+      "title": "Zoning and Land Use_mso",
+      "url": "https://services.arcgis.com/HfwHS0BxZBQ1E5DY/arcgis/rest/services/Zoning_and_Land_Use_mso/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_and_land_use_mso.geojson"
+    },
+    {
+      "title": "PLSS_Township_Lee_MS",
+      "url": "https://services9.arcgis.com/vbsSdrKarV61624T/arcgis/rest/services/PLSS_Township_Lee_MS/FeatureServer",
+      "features": 35,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_township_lee_ms.geojson"
+    },
+    {
+      "title": "Moving Valmeyer_ Relocation _ Terrain Analysis_WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Moving_Valmeyer__Relocation___Terrain_Analysis_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "moving_valmeyer__relocation___terrain_analysis_wfl1.geojson"
+    },
+    {
+      "title": "PLSS_First_Division_Lee_MS",
+      "url": "https://services9.arcgis.com/vbsSdrKarV61624T/arcgis/rest/services/PLSS_First_Division_Lee_MS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_first_division_lee_ms.geojson"
+    },
+    {
+      "title": "MS 16th Section Lands 2021",
+      "url": "https://services5.arcgis.com/hE6urTTXj32LRUqx/arcgis/rest/services/MS_16th_Section_Lands_2021/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ms_16th_section_lands_2021.geojson"
+    },
+    {
+      "title": "Permitted or Likely Wisconsin Frac Sand Mine Parcels",
+      "url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Permitted_or_Likely_Wisconsin_Frac_Sand_Mine_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "permitted_or_likely_wisconsin_frac_sand_mine_parcels.geojson"
+    },
+    {
+      "title": "GRENADA PARCELS 2023",
+      "url": "https://services8.arcgis.com/S3dLnd050JR6e9ve/arcgis/rest/services/GRENADA_PARCELS_2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "grenada_parcels_2023.geojson"
+    },
+    {
+      "title": "MM Parcel Fabric Open Data",
+      "url": "https://services2.arcgis.com/LYkuMVpuqr7gjn5F/arcgis/rest/services/MM_Parcel_Fabric_Open_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mm_parcel_fabric_open_data.geojson"
+    },
+    {
+      "title": "EnerGov Feature Set V2 View",
+      "url": "https://services3.arcgis.com/HJKXwJwr6cXL7ioD/arcgis/rest/services/EnerGov_Feature_Set_V2_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "energov_feature_set_v2_view.geojson"
+    },
+    {
+      "title": "WashingtonTwp_MS4_Outfalls_Roads_Parcels",
+      "url": "https://services7.arcgis.com/4xHlAF85LdkWPmw2/arcgis/rest/services/WashingtonTwp_MS4_Assets_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washingtontwp_ms4_outfalls_roads_parcels.geojson"
+    },
+    {
+      "title": "Delta Parcels_WFL1",
+      "url": "https://services1.arcgis.com/cYEfxjk21j8UlsTQ/arcgis/rest/services/Delta_Parcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "delta_parcels_wfl1.geojson"
+    },
+    {
+      "title": "MSU Owned Property",
+      "url": "https://services1.arcgis.com/RTaez8fHeIiDRbgb/arcgis/rest/services/MSU_Owned_Property/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "msu_owned_property.geojson"
+    },
+    {
+      "title": "2021 Land Classification for Mississippi River Master Plan",
+      "url": "https://services6.arcgis.com/ym4vv2kwBujSjhwm/arcgis/rest/services/Mississippi_River_Master_Plan_Public_Review_1_and_half_m/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2021_land_classification_for_mississippi_river_master_plan.geojson"
+    },
+    {
+      "title": "CLARKSDALE_PARCELS",
+      "url": "https://services8.arcgis.com/S3dLnd050JR6e9ve/arcgis/rest/services/CLARKSDALE_PARCELS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "clarksdale_parcels.geojson"
+    },
+    {
+      "title": "New Albany Mississippi Zoning Map_WFL1",
+      "url": "https://services8.arcgis.com/zxqi28jLbBeyF8Y2/arcgis/rest/services/New_Albany_Mississippi_Zoning_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "new_albany_mississippi_zoning_map_wfl1.geojson"
+    },
+    {
+      "title": "HattiesburgMS_PublicLayers_PSA",
+      "url": "https://services.arcgis.com/jDD84VOqBEa0haCs/arcgis/rest/services/HattiesburgMS_PublicLayers_PSA_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "hattiesburgms_publiclayers_psa.geojson"
+    },
+    {
+      "title": "Moving Valemeyer _Rwendy_s Coursera Map__WFL1",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Moving_Valemeyer__Rwendy_s_Coursera_Map__WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "moving_valemeyer__rwendy_s_coursera_map__wfl1.geojson"
+    },
+    {
+      "title": "Parcel View Layer",
+      "url": "https://services3.arcgis.com/HJKXwJwr6cXL7ioD/arcgis/rest/services/Parcel_View_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_view_layer.geojson"
+    },
+    {
+      "title": "NWR ownership for MAV and WGCPO - 2024",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/NWR_ownership_JV_2024/FeatureServer",
+      "features": 51,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nwr_ownership_for_mav_and_wgcpo_-_2024.geojson"
+    },
+    {
+      "title": "miss_hdwtrs_2024parcels_old_RAQ",
+      "url": "https://services7.arcgis.com/26j4Vi9jWPFXTsxU/arcgis/rest/services/miss_hdwtrs_2024parcels_old_RAQ/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "miss_hdwtrs_2024parcels_old_raq.geojson"
+    },
+    {
+      "title": "Canton_Zoning",
+      "url": "https://services2.arcgis.com/TQnmvJ4NICOaocHd/arcgis/rest/services/Canton_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "canton_zoning.geojson"
+    },
+    {
+      "title": "WGCPO State Managed Lands (WMAs)",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/WGCPO_STATE_WILDLIFE_MANAGEMENT_AREAS_2015/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wgcpo_state_managed_lands__wmas_.geojson"
+    }
+  ]
+}

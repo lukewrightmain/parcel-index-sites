@@ -1,0 +1,909 @@
+{
+  "state": "Kentucky",
+  "sources_attempted": 102,
+  "sources_successful": 100,
+  "total_features": 9901,
+  "pulled_at": "2026-03-16T01:27:42.475902",
+  "datasets": [
+    {
+      "title": "Louisville Metro KY - Five (5) Years of Disposition Data for the Louisville and Jefferson County Landbank Authority, Inc.",
+      "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Five_(5)_Years_of_Disposition_Data_for_the_Louisville/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "louisville_metro_ky_-_five__5__years_of_disposition_data_for.geojson"
+    },
+    {
+      "title": "Louisville Metro KY - Property Maintenance Inspection Violations",
+      "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/PM_SiteVisit_Violations/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "louisville_metro_ky_-_property_maintenance_inspection_violat.geojson"
+    },
+    {
+      "title": "Louisville Metro KY - Landbank Sales Historical Data",
+      "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Landbank_Sales_Historical_Data/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "louisville_metro_ky_-_landbank_sales_historical_data.geojson"
+    },
+    {
+      "title": "Commercial Parcels",
+      "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/New_AllParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "commercial_parcels.geojson"
+    },
+    {
+      "title": "PVA_StateOwnedParcels_CBD",
+      "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/PVA_StateOwnedParcels_CBD_1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pva_stateownedparcels_cbd.geojson"
+    },
+    {
+      "title": "Ky_Webster_Parcels_WM_gdb",
+      "url": "https://services3.arcgis.com/ghsX9CKghMvyYjBU/arcgis/rest/services/Ky_Webster_Parcels_WM_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ky_webster_parcels_wm_gdb.geojson"
+    },
+    {
+      "title": "Metro_Owned_Parcels202301",
+      "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Metro_Owned_Parcels202301/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "metro_owned_parcels202301.geojson"
+    },
+    {
+      "title": "Parcels AF",
+      "url": "https://services1.arcgis.com/eGSDp8lpKe5izqVc/arcgis/rest/services/Parcels_AF/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_af.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/Iwwqwcdc5CWG2jt9/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services5.arcgis.com/4eBIYcSR3sVL9y0D/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Morgantown Zoning",
+      "url": "https://services6.arcgis.com/LledJs8ADlUCS7Cz/arcgis/rest/services/Zoning_Morgantown/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "morgantown_zoning.geojson"
+    },
+    {
+      "title": "pcls",
+      "url": "https://services.arcgis.com/Iwwqwcdc5CWG2jt9/arcgis/rest/services/pcls/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "pcls.geojson"
+    },
+    {
+      "title": "P_Z FLOODPLAIN MAP_WFL1",
+      "url": "https://services2.arcgis.com/rWBXXM3V5IXrtnYJ/arcgis/rest/services/P_Z_FLOODPLAIN_MAP_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "p_z_floodplain_map_wfl1.geojson"
+    },
+    {
+      "title": "MedicalCannabisZones",
+      "url": "https://services5.arcgis.com/4eBIYcSR3sVL9y0D/arcgis/rest/services/MedicalCannabisZones/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "medicalcannabiszones.geojson"
+    },
+    {
+      "title": "Horse Cave Zoning - Public View Layer",
+      "url": "https://services6.arcgis.com/LledJs8ADlUCS7Cz/arcgis/rest/services/HorseCaveZoning_ViewLayer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "horse_cave_zoning_-_public_view_layer.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Louisville Pervious Surface Cover Corinne Nowell_WFL1",
+      "url": "https://services1.arcgis.com/eGSDp8lpKe5izqVc/arcgis/rest/services/Louisville_Pervious_Surface_Cover_Corinne_Nowell_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "louisville_pervious_surface_cover_corinne_nowell_wfl1.geojson"
+    },
+    {
+      "title": "ParcelsKR",
+      "url": "https://services1.arcgis.com/eGSDp8lpKe5izqVc/arcgis/rest/services/ParcelsKR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelskr.geojson"
+    },
+    {
+      "title": "2045 Bullitt County Future Land Use",
+      "url": "https://services3.arcgis.com/7GIe3Xxna70nAWN0/arcgis/rest/services/2045_Bullitt_County_Comprehensive_Plan_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2045_bullitt_county_future_land_use.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_YY",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_YY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_yy.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_SJZ",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_SJZ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_sjz.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_HC",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/Parcels_to_Impervious_Surface_HC/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_hc.geojson"
+    },
+    {
+      "title": "Parcels_Project",
+      "url": "https://services8.arcgis.com/exgR4BNI38IIwXOt/arcgis/rest/services/Parcels_Project/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_project.geojson"
+    },
+    {
+      "title": "Parcelas_2",
+      "url": "https://services5.arcgis.com/l23kE3b7uPnZIuaB/arcgis/rest/services/Parcelas_2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelas_2.geojson"
+    },
+    {
+      "title": "Parcels Impervious MM",
+      "url": "https://services6.arcgis.com/jvs69Oah0GKw5eJG/arcgis/rest/services/Parcels_Impervious_MM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_impervious_mm.geojson"
+    },
+    {
+      "title": "Impervious_Surface_ZileWu",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_ZileWu/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_zilewu.geojson"
+    },
+    {
+      "title": "Parcels_Impervious_BV",
+      "url": "https://services6.arcgis.com/jvs69Oah0GKw5eJG/arcgis/rest/services/Parcels_Impervious_BV/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_impervious_bv.geojson"
+    },
+    {
+      "title": "Impervious_Surface_Xinya",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_Xinya/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_xinya.geojson"
+    },
+    {
+      "title": "BGKY Impervious Surfaces Parcel Summary",
+      "url": "https://webgis.bgky.org/server/rest/services/Hosted/BGKY_Impervious_Surfaces_Parcel_Summary/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bgky_impervious_surfaces_parcel_summary.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_Yiping_Ying",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_Yiping_Ying/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_yiping_ying.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_VW",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_VW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_vw.geojson"
+    },
+    {
+      "title": "Impervious_Surface_TL",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_TL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_tl.geojson"
+    },
+    {
+      "title": "Impervious_Surface_TMT",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_TMT/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_tmt.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_SR",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_SR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_sr.geojson"
+    },
+    {
+      "title": "Impervious_Surface_GH",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_GH/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_gh.geojson"
+    },
+    {
+      "title": "Impervious_Surface_Wenjun",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_Wenjun/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_wenjun.geojson"
+    },
+    {
+      "title": "Impervious_Surface_JoannZhao",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_JoannZhao/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_joannzhao.geojson"
+    },
+    {
+      "title": "Impervious_Surface_ZHE",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_ZHE/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_zhe.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_YG",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_YG/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_yg.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_OJY",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_OJY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_ojy.geojson"
+    },
+    {
+      "title": "Impervious_Surface_LY",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_LY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_ly.geojson"
+    },
+    {
+      "title": "Parcels_Zoning",
+      "url": "https://services.arcgis.com/Iwwqwcdc5CWG2jt9/arcgis/rest/services/Parcels_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_zoning.geojson"
+    },
+    {
+      "title": "Impervious_Surface_RS",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_RS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_rs.geojson"
+    },
+    {
+      "title": "Impervious_Surface_Jiewen",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_Jiewen/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_jiewen.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_Hanyu_G",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_Hanyu_G/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_hanyu_g.geojson"
+    },
+    {
+      "title": "Impervious_Surface_XG",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_XG/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_xg.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_KW",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_KW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_kw.geojson"
+    },
+    {
+      "title": "Impervious_Surface_Shengao Yi",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_Shengao_Yi/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_shengao_yi.geojson"
+    },
+    {
+      "title": "Impervious_Surface_YJS",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_YJS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_yjs.geojson"
+    },
+    {
+      "title": "Impervious_Surface_KK",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_KK/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_kk.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_BJ",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_BJ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_bj.geojson"
+    },
+    {
+      "title": "Impervious_Surface_emma",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_emma/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_emma.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_Yutong_Jiang",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_Yutong_Jiang/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_yutong_jiang.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_HZ",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_HZ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_hz.geojson"
+    },
+    {
+      "title": "Impervious_Surface_Yingtong",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_Yingtong/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_yingtong.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_XL",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_XL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_xl.geojson"
+    },
+    {
+      "title": "Parcels to Impervious Surface_os",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_os/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_os.geojson"
+    },
+    {
+      "title": "Impervious_Surface_CL",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_CL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_cl.geojson"
+    },
+    {
+      "title": "Impervious_Surface_TK",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_TK/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_tk.geojson"
+    },
+    {
+      "title": "Impervious_Surface_SL",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_SL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_sl.geojson"
+    },
+    {
+      "title": "maca_tracts",
+      "url": "https://services6.arcgis.com/fQ0AnFg7wFapKwWp/arcgis/rest/services/maca_tracts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maca_tracts.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_JD",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_JD/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_jd.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_ML",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_ML/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_ml.geojson"
+    },
+    {
+      "title": "Impervious_Surface_EB",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_EB/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_eb.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_SY",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_SY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_sy.geojson"
+    },
+    {
+      "title": "Impervious_Surface_YW",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_YW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_yw.geojson"
+    },
+    {
+      "title": "Impervious_Surface_SD",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_SD/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_sd.geojson"
+    },
+    {
+      "title": "Impervious_Surface_SM",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_SM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_sm.geojson"
+    },
+    {
+      "title": "Impervious_Surface_NL",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_NL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_nl.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_LYM",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_LYM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_lym.geojson"
+    },
+    {
+      "title": "Impervious_Surface_MDF",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_MDF/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_mdf.geojson"
+    },
+    {
+      "title": "Impervious_Surface_KMW",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_KMW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_kmw.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_Ming",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_Ming/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_ming.geojson"
+    },
+    {
+      "title": "Impervious_Surface_YZH",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_YZH/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_yzh.geojson"
+    },
+    {
+      "title": "Impervious_Surface_JW",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_JW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_jw.geojson"
+    },
+    {
+      "title": "Impervious_Surface_MA",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_MA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_ma.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_Sunyoung",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_Sunyoung/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_sunyoung.geojson"
+    },
+    {
+      "title": "Impervious_Surface_XNZ",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_XNZ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_xnz.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_ZY",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_ZY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_zy.geojson"
+    },
+    {
+      "title": "Impervious_Surfaces_Parcels_JMC",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surfaces_Parcels_JMC/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surfaces_parcels_jmc.geojson"
+    },
+    {
+      "title": "Impervious_Surface_GS",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_GS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_gs.geojson"
+    },
+    {
+      "title": "Impervious_Surface_ZY",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_ZY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_zy.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_JSW",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_JSW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_jsw.geojson"
+    },
+    {
+      "title": "Impervious_Surface_Hayoung Nho",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_Hayoung_Nho/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_hayoung_nho.geojson"
+    },
+    {
+      "title": "Impervious_Surface_WY",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_WY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_wy.geojson"
+    },
+    {
+      "title": "Impervious_Surface_YingxueOu",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_YingxueOu/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_yingxueou.geojson"
+    },
+    {
+      "title": "Impervious_Surface_GianlucaM",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_GianlucaM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_gianlucam.geojson"
+    },
+    {
+      "title": "Impervious_Surface_RC",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_RC/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_rc.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_HansenXie",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_HansenXie/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_hansenxie.geojson"
+    },
+    {
+      "title": "Impervious_Surface_JV",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_JV/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_jv.geojson"
+    },
+    {
+      "title": "Impervious_Surface_YX",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_YX/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_yx.geojson"
+    },
+    {
+      "title": "Impervious_Surface_XX",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_XX/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_xx.geojson"
+    },
+    {
+      "title": "Impervious_Surface_TGS",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_TGS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_tgs.geojson"
+    },
+    {
+      "title": "Impervious_Surface_HH",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_HH/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_hh.geojson"
+    },
+    {
+      "title": "Impervious_Surface_KL",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_KL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_kl.geojson"
+    },
+    {
+      "title": "Impervious_Surface_GM",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_GM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_gm.geojson"
+    },
+    {
+      "title": "Impervious_Surface_AN",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_AN/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_an.geojson"
+    },
+    {
+      "title": "Impervious_Surface_OA",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_OA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_oa.geojson"
+    },
+    {
+      "title": "Impervious_Surface_JieW",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_JieW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_jiew.geojson"
+    },
+    {
+      "title": "Impervious_Surface_IP",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_IP/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_ip.geojson"
+    }
+  ]
+}

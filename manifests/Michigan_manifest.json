@@ -1,0 +1,756 @@
+{
+  "state": "Michigan",
+  "sources_attempted": 111,
+  "sources_successful": 83,
+  "total_features": 7013,
+  "pulled_at": "2026-03-16T01:31:10.175371",
+  "datasets": [
+    {
+      "title": "ParcelsPublic",
+      "url": "https://gis.miottawa.org/arcgis/rest/services/HostedServices/ParcelsPublic/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcelspublic.geojson"
+    },
+    {
+      "title": "Lenawee Parcels Public",
+      "url": "https://services6.arcgis.com/mjEvhc9AE3ceAXtG/arcgis/rest/services/Lenawee_Parcels_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lenawee_parcels_public.geojson"
+    },
+    {
+      "title": "Lenawee Parcel Landhooks Public",
+      "url": "https://services6.arcgis.com/mjEvhc9AE3ceAXtG/arcgis/rest/services/Lenawee_County_Parcel_Landhooks_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lenawee_parcel_landhooks_public.geojson"
+    },
+    {
+      "title": "DNRPublicLandSurveySystemOPENDATA",
+      "url": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/DNRPublicLandSurveySystemOPENDATA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnrpubliclandsurveysystemopendata.geojson"
+    },
+    {
+      "title": "Gelman Site of 1,4-Dioxane Contamination - Gelman Property Boundary (approximate)",
+      "url": "https://services1.arcgis.com/FNjlrOFR0aGJ71Tg/arcgis/rest/services/Gelman_Property_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gelman_site_of_1_4-dioxane_contamination_-_gelman_property_b.geojson"
+    },
+    {
+      "title": "Lenawee Parcel Dims Public",
+      "url": "https://services6.arcgis.com/mjEvhc9AE3ceAXtG/arcgis/rest/services/Lenawee_Parcel_Dims_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lenawee_parcel_dims_public.geojson"
+    },
+    {
+      "title": "Geopolitical Areas",
+      "url": "https://services2.arcgis.com/c9l1e4fKpsCnqD7H/arcgis/rest/services/Geopolitical_Areas/FeatureServer",
+      "features": 31,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "geopolitical_areas.geojson"
+    },
+    {
+      "title": "Farmington Hills Tax Parcel Boundaries",
+      "url": "https://services1.arcgis.com/Voda7YLF8AUZO5Ro/arcgis/rest/services/FH_TaxParcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "farmington_hills_tax_parcel_boundaries.geojson"
+    },
+    {
+      "title": "Planning View",
+      "url": "https://services.arcgis.com/dril3ypTviG7LeUO/arcgis/rest/services/Planning_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "planning_view.geojson"
+    },
+    {
+      "title": "Ottawa County Real Estate Sales and Assessment Data",
+      "url": "https://services2.arcgis.com/ixRLoNIl4gmM9jgg/arcgis/rest/services/Ottawa_County_Arms_Length_Sales/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ottawa_county_real_estate_sales_and_assessment_data.geojson"
+    },
+    {
+      "title": "TWPParcelJoin",
+      "url": "https://services.arcgis.com/eKu0BIfy09ymzWZF/arcgis/rest/services/TWPParcelJoin/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "twpparceljoin.geojson"
+    },
+    {
+      "title": "DNRLOTSParcelsOPENDATA",
+      "url": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/DNRLOTSParcelsOPENDATA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dnrlotsparcelsopendata.geojson"
+    },
+    {
+      "title": "ALBERTON ZONING",
+      "url": "https://services8.arcgis.com/a0HR33xuh1KoWKl7/arcgis/rest/services/ALBERTON_ZONING/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alberton_zoning.geojson"
+    },
+    {
+      "title": "Likely Public Ownership, 2013-14",
+      "url": "https://services2.arcgis.com/HsXtOCMp1Nis1Ogr/arcgis/rest/services/LikelyPublicOwnership_2013_14/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "likely_public_ownership__2013-14.geojson"
+    },
+    {
+      "title": "Apex_Missouri_Parcels",
+      "url": "https://services6.arcgis.com/6hR3ncgZytDB2gKA/arcgis/rest/services/Apex_Missouri_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "apex_missouri_parcels.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services8.arcgis.com/a0HR33xuh1KoWKl7/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Zoning2023",
+      "url": "https://services2.arcgis.com/HNZrF1X1u5kCU7sL/arcgis/rest/services/Zoning2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning2023.geojson"
+    },
+    {
+      "title": "North Kent Study Area - Parcel Status from February 2020 Consent Decree",
+      "url": "https://services1.arcgis.com/FNjlrOFR0aGJ71Tg/arcgis/rest/services/Parcel_Status_from_February_2020_Consent_Decree/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "north_kent_study_area_-_parcel_status_from_february_2020_con.geojson"
+    },
+    {
+      "title": "PublishZoningParcels25",
+      "url": "https://services8.arcgis.com/01oq2N3cUfdKDUBU/arcgis/rest/services/PublishZoningParcels25/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "publishzoningparcels25.geojson"
+    },
+    {
+      "title": "Parcels for Washtenaw County",
+      "url": "https://services.arcgis.com/hVnyNvwbpFFPDV5j/arcgis/rest/services/Parcels_for_Washtenaw_County/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_for_washtenaw_county.geojson"
+    },
+    {
+      "title": "VIEW ONLY Land Management Feature Layer",
+      "url": "https://services2.arcgis.com/kvaALmlpNtqlsVfa/arcgis/rest/services/VIEW_ONLY_Land_Management_Feature_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "view_only_land_management_feature_layer.geojson"
+    },
+    {
+      "title": "V500_WI_Parcels_Oneida_MinocKawaSelection",
+      "url": "https://services9.arcgis.com/5UmNeC3YIVXGGkxV/arcgis/rest/services/V500_WI_Parcels_Oneida_MinocKawaSelection/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "v500_wi_parcels_oneida_minockawaselection.geojson"
+    },
+    {
+      "title": "Bloomfield Tax Parcels",
+      "url": "https://services.arcgis.com/EZzgO87vB4k7XLB1/arcgis/rest/services/BloomfieldTaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "bloomfield_tax_parcels.geojson"
+    },
+    {
+      "title": "SLAMM_polys_2100_268cmSLR",
+      "url": "https://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/SLAMM_polys_2100_268cmSLR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "slamm_polys_2100_268cmslr.geojson"
+    },
+    {
+      "title": "2025 Auction Parcels",
+      "url": "https://services2.arcgis.com/xRI3cTw3hPVoEJP0/arcgis/rest/services/2025_Auction_Parcels/FeatureServer",
+      "features": 11,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2025_auction_parcels.geojson"
+    },
+    {
+      "title": "TB_HuntingParcel_minusOthers",
+      "url": "https://services1.arcgis.com/T10PoAuLqJahkg0K/arcgis/rest/services/TB_HuntingParcel_minusOthers/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tb_huntingparcel_minusothers.geojson"
+    },
+    {
+      "title": "Land_Value_Parcels",
+      "url": "https://services2.arcgis.com/vn6CmLDc5f5u0ONG/arcgis/rest/services/Land_Value_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_value_parcels.geojson"
+    },
+    {
+      "title": "ElstonGroveParcels25",
+      "url": "https://services8.arcgis.com/01oq2N3cUfdKDUBU/arcgis/rest/services/ElstonGroveParcels25/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "elstongroveparcels25.geojson"
+    },
+    {
+      "title": "WabashStHistDistParcels25",
+      "url": "https://services8.arcgis.com/01oq2N3cUfdKDUBU/arcgis/rest/services/WabashStHistDistParcels25/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wabashsthistdistparcels25.geojson"
+    },
+    {
+      "title": "Property Sales 2017",
+      "url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2017/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales_2017.geojson"
+    },
+    {
+      "title": "WashtenawParcels",
+      "url": "https://services1.arcgis.com/7k5pwykhBf04bSfy/arcgis/rest/services/WashtenawParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washtenawparcels.geojson"
+    },
+    {
+      "title": "FranklinStHistDistParcels25",
+      "url": "https://services8.arcgis.com/01oq2N3cUfdKDUBU/arcgis/rest/services/FranklinStHistDistParcels25/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "franklinsthistdistparcels25.geojson"
+    },
+    {
+      "title": "Village of Lake Orion GIS V2_0_WFL1",
+      "url": "https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/Village_of_Lake_Orion_GIS_V2_0_WFL1/FeatureServer",
+      "features": 51,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "village_of_lake_orion_gis_v2_0_wfl1.geojson"
+    },
+    {
+      "title": "Property Sales 2014",
+      "url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2014_2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales_2014.geojson"
+    },
+    {
+      "title": "MASTER Land Management Feature Layer",
+      "url": "https://services2.arcgis.com/kvaALmlpNtqlsVfa/arcgis/rest/services/DMVA_Land_Management_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "master_land_management_feature_layer.geojson"
+    },
+    {
+      "title": "SEMCOG_2020LU_gdb",
+      "url": "https://services5.arcgis.com/t6ndwcHpE4BmkrKP/arcgis/rest/services/SEMCOG_2020LU_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "semcog_2020lu_gdb.geojson"
+    },
+    {
+      "title": "Property Sales 2015",
+      "url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2015_2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales_2015.geojson"
+    },
+    {
+      "title": "Washtenaw County Parcel Data",
+      "url": "https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/Washtenaw_County_Parcel_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washtenaw_county_parcel_data.geojson"
+    },
+    {
+      "title": "MCUrbanEnterpriseZone",
+      "url": "https://services8.arcgis.com/01oq2N3cUfdKDUBU/arcgis/rest/services/MCUrbanEnterpriseZone/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mcurbanenterprisezone.geojson"
+    },
+    {
+      "title": "DNR_PARCELS",
+      "url": "https://services1.arcgis.com/dJKlgwiGy0O9whLh/arcgis/rest/services/DNR_PARCELS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnr_parcels.geojson"
+    },
+    {
+      "title": "Property Sales 2002-2005",
+      "url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2002to2005/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales_2002-2005.geojson"
+    },
+    {
+      "title": "2024_Fire_Zone_School_v1_Online",
+      "url": "https://services2.arcgis.com/djh8oO0rYU7YdX5J/arcgis/rest/services/2024_Fire_Zone_School_v1_Online/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2024_fire_zone_school_v1_online.geojson"
+    },
+    {
+      "title": "Property Sales 2016",
+      "url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/OpenDataStaging/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales_2016.geojson"
+    },
+    {
+      "title": "ozark_parcels",
+      "url": "https://services1.arcgis.com/1107UTfqeg4EWnbL/arcgis/rest/services/ozark_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ozark_parcels.geojson"
+    },
+    {
+      "title": "Property Sales 2010-2013",
+      "url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales20102013/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales_2010-2013.geojson"
+    },
+    {
+      "title": "Marquette Landowner Classification",
+      "url": "https://services.arcgis.com/oOYhhFJlpjePln8M/arcgis/rest/services/Marquette_Landowner_Classification/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "marquette_landowner_classification.geojson"
+    },
+    {
+      "title": "county_parcels",
+      "url": "https://services.arcgis.com/edGXqVKidagzAIPB/arcgis/rest/services/county_parcels/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_parcels.geojson"
+    },
+    {
+      "title": "Property Sales 2006-2009",
+      "url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales20062009/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_sales_2006-2009.geojson"
+    },
+    {
+      "title": "Clinton Parcels 2025 Public View",
+      "url": "https://services7.arcgis.com/f1RRY3KdfLkWdWvF/arcgis/rest/services/Clinton_Parcels_2025_Public_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "clinton_parcels_2025_public_view.geojson"
+    },
+    {
+      "title": "Michigan DNR land and mineral ownership",
+      "url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Michigan_DNR_land_and_mineral_ownership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "michigan_dnr_land_and_mineral_ownership.geojson"
+    },
+    {
+      "title": "Millage_PARCELS_2025",
+      "url": "https://services1.arcgis.com/ZyuQAFDZ3HsELH0k/arcgis/rest/services/Millage_PARCELS_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "millage_parcels_2025.geojson"
+    },
+    {
+      "title": "Garden Mall Parcel",
+      "url": "https://services.arcgis.com/edGXqVKidagzAIPB/arcgis/rest/services/Garden_Mall_Parcel/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "garden_mall_parcel.geojson"
+    },
+    {
+      "title": "DNRRecreationGrantsOPENDATA",
+      "url": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/DNRRecreationGrantsOPENDATA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnrrecreationgrantsopendata.geojson"
+    },
+    {
+      "title": "SCT Parcels for Parks",
+      "url": "https://services.arcgis.com/edGXqVKidagzAIPB/arcgis/rest/services/SCT_Parcels_for_Parks/FeatureServer",
+      "features": 28,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sct_parcels_for_parks.geojson"
+    },
+    {
+      "title": "sct_schools_parcels",
+      "url": "https://services.arcgis.com/edGXqVKidagzAIPB/arcgis/rest/services/sct_schools_parcels/FeatureServer",
+      "features": 7,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sct_schools_parcels.geojson"
+    },
+    {
+      "title": "sct_parcels",
+      "url": "https://services.arcgis.com/edGXqVKidagzAIPB/arcgis/rest/services/sct_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sct_parcels.geojson"
+    },
+    {
+      "title": "City Owned Property",
+      "url": "https://services5.arcgis.com/F89SnaPby9Vz84cA/arcgis/rest/services/City_Owned_Property/FeatureServer",
+      "features": 85,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_owned_property.geojson"
+    },
+    {
+      "title": "Central Lake Zoning Available Housing Parcels",
+      "url": "https://services5.arcgis.com/cSWrfGvVKEogPhBh/arcgis/rest/services/Central_Lake_Zoning_Available_Housing_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "central_lake_zoning_available_housing_parcels.geojson"
+    },
+    {
+      "title": "BellairZoningMap Available Parcels",
+      "url": "https://services5.arcgis.com/cSWrfGvVKEogPhBh/arcgis/rest/services/BellairZoningMap_Available_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bellairzoningmap_available_parcels.geojson"
+    },
+    {
+      "title": "Wetlands2005 Bellaire",
+      "url": "https://services5.arcgis.com/cSWrfGvVKEogPhBh/arcgis/rest/services/Wetlands2005_Bellaire/FeatureServer",
+      "features": 56,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wetlands2005_bellaire.geojson"
+    },
+    {
+      "title": "Missouri City Parcels 2024",
+      "url": "https://services2.arcgis.com/6vRbgYSxztFGZwla/arcgis/rest/services/Missouri_City_Parcels_2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "missouri_city_parcels_2024.geojson"
+    },
+    {
+      "title": "vacant_parcels_grand_rapids",
+      "url": "https://services5.arcgis.com/vElyTHUSDMtSHSgT/arcgis/rest/services/vacant_parcels_grand_rapids/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "vacant_parcels_grand_rapids.geojson"
+    },
+    {
+      "title": "Southeast Michigan Parks",
+      "url": "https://services5.arcgis.com/vElyTHUSDMtSHSgT/arcgis/rest/services/Southeast_Michigan_Parks/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "southeast_michigan_parks.geojson"
+    },
+    {
+      "title": "Elk Rapids Zoning Available Parcels that avoid wetlands",
+      "url": "https://services5.arcgis.com/cSWrfGvVKEogPhBh/arcgis/rest/services/Elk_Rapids_Zoning_Available_Parcels_that_avoid_wetlands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "elk_rapids_zoning_available_parcels_that_avoid_wetlands.geojson"
+    },
+    {
+      "title": "Ann Arbor Parcels",
+      "url": "https://services2.arcgis.com/PpbvckyUgaYqseNQ/arcgis/rest/services/Ann_Arbor_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ann_arbor_parcels.geojson"
+    },
+    {
+      "title": "Wetlands2005 Ellsworth",
+      "url": "https://services5.arcgis.com/cSWrfGvVKEogPhBh/arcgis/rest/services/Wetlands2005_Ellsworth/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wetlands2005_ellsworth.geojson"
+    },
+    {
+      "title": "Wayne County All Community Parcels",
+      "url": "https://services6.arcgis.com/WXQyaFovsjw3xuqW/arcgis/rest/services/Wayne_County_All_Community_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wayne_county_all_community_parcels.geojson"
+    },
+    {
+      "title": "VTPARCELS_Middlesex_TownParcels",
+      "url": "https://services9.arcgis.com/KWbFPOCJc3KpR2YH/arcgis/rest/services/VTPARCELS_Middlesex_TownParcels/FeatureServer",
+      "features": 15,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vtparcels_middlesex_townparcels.geojson"
+    },
+    {
+      "title": "Bridgehampton Parcels",
+      "url": "https://services.arcgis.com/edGXqVKidagzAIPB/arcgis/rest/services/Bridgehampton_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bridgehampton_parcels.geojson"
+    },
+    {
+      "title": "Ownership_Mineral",
+      "url": "https://gis.trustlands.utah.gov/mapping/rest/services/Ownership_Mineral/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ownership_mineral.geojson"
+    },
+    {
+      "title": "Parcel Polygons",
+      "url": "https://services1.arcgis.com/jOKMO9vKmc98J4JC/arcgis/rest/services/Parcel_Polygons/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_polygons.geojson"
+    },
+    {
+      "title": "VTPARCELS_Burlington",
+      "url": "https://services1.arcgis.com/jOKMO9vKmc98J4JC/arcgis/rest/services/VTPARCELS_Burlington/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vtparcels_burlington.geojson"
+    },
+    {
+      "title": "VTPARCELS_Middlebury",
+      "url": "https://services1.arcgis.com/jOKMO9vKmc98J4JC/arcgis/rest/services/VTPARCELS_Middlebury/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vtparcels_middlebury.geojson"
+    },
+    {
+      "title": "ParcelsHudsonTwp22",
+      "url": "https://services2.arcgis.com/TjbOySMo6sixWSye/arcgis/rest/services/ParcelsHudsonTwp22/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcelshudsontwp22.geojson"
+    },
+    {
+      "title": "MichiganCityParcels24",
+      "url": "https://services8.arcgis.com/01oq2N3cUfdKDUBU/arcgis/rest/services/MichiganCityParcels24/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "michigancityparcels24.geojson"
+    },
+    {
+      "title": "DNRLOTSParcelsOPENDATA__3504506362404730244",
+      "url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/DNRLOTSParcelsOPENDATA__3504506362404730244/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dnrlotsparcelsopendata__3504506362404730244.geojson"
+    },
+    {
+      "title": "Chattanooga priority parcels",
+      "url": "https://services6.arcgis.com/vbnscUAx3hvAAQok/arcgis/rest/services/Chattanooga_priority_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "chattanooga_priority_parcels.geojson"
+    },
+    {
+      "title": "Parcel_Sales_minnesota",
+      "url": "https://services7.arcgis.com/DnUuP4EbVvv5YwJM/arcgis/rest/services/Parcel_Sales_minnesota/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_sales_minnesota.geojson"
+    },
+    {
+      "title": "ULI Final Taxlots_Repaired Southern Nevada Strong",
+      "url": "https://services6.arcgis.com/FyuuHO4sqcgu4Cm1/arcgis/rest/services/ULI_Final_Taxlots_Repaired_Southern_Nevada_Strong/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "uli_final_taxlots_repaired_southern_nevada_strong.geojson"
+    },
+    {
+      "title": "Burlington_futurelanduse_boundary",
+      "url": "https://services1.arcgis.com/KVHZNprt62ZdIujN/arcgis/rest/services/VTDataCCRPC_FLU/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "burlington_futurelanduse_boundary.geojson"
+    },
+    {
+      "title": "FINAL_MissingMiddleParcels_WFL1",
+      "url": "https://services3.arcgis.com/5eUtyAeI50fTMNL4/arcgis/rest/services/FINAL_MissingMiddleParcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "final_missingmiddleparcels_wfl1.geojson"
+    },
+    {
+      "title": "VT Forest Carbon Conserved Lands_WFL1",
+      "url": "https://services1.arcgis.com/jOKMO9vKmc98J4JC/arcgis/rest/services/VT_Forest_Carbon_Conserved_Lands_WFL1/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_forest_carbon_conserved_lands_wfl1.geojson"
+    },
+    {
+      "title": "LandUse_2020_RRClip",
+      "url": "https://services4.arcgis.com/854LDu0q5Mfip6MV/arcgis/rest/services/LandUse_2020_RRClip/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landuse_2020_rrclip.geojson"
+    }
+  ]
+}

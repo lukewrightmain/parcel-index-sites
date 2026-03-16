@@ -1,0 +1,1008 @@
+{
+  "state": "Louisiana",
+  "sources_attempted": 128,
+  "sources_successful": 111,
+  "total_features": 9543,
+  "pulled_at": "2026-03-16T01:28:20.823950",
+  "datasets": [
+    {
+      "title": "National Hydrography Dataset Plus Version 2.1",
+      "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/NHDPlusV21/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "national_hydrography_dataset_plus_version_2_1.geojson"
+    },
+    {
+      "title": "Parcel_Fabric_Layers_Map",
+      "url": "https://gis.tazewell-il.gov/arcgis/rest/services/Hosted/Parcel_Fabric_Layers_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_fabric_layers_map.geojson"
+    },
+    {
+      "title": "Tax Parcels Scotland County - Public View",
+      "url": "https://services3.arcgis.com/bgKigTDifCMNj8OU/arcgis/rest/services/Tax_Parcels_Scotland_County_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tax_parcels_scotland_county_-_public_view.geojson"
+    },
+    {
+      "title": "CC_PARCELS_SHP",
+      "url": "https://services1.arcgis.com/F1v0ufATbBQScMtY/arcgis/rest/services/CC_PARCELS_SHP/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "cc_parcels_shp.geojson"
+    },
+    {
+      "title": "USA Wetlands",
+      "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Wetlands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usa_wetlands.geojson"
+    },
+    {
+      "title": "2024 Texas Parcels StratMap",
+      "url": "https://services1.arcgis.com/1mtXwieMId59thmg/arcgis/rest/services/2019_Texas_Parcels_StratMap/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "2024_texas_parcels_stratmap.geojson"
+    },
+    {
+      "title": "DAC Parcel",
+      "url": "https://services1.arcgis.com/ejcbAsQEUUGWEyzb/arcgis/rest/services/DAC_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dac_parcel.geojson"
+    },
+    {
+      "title": "USA National Park Service Lands",
+      "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_National_Park_Service_Lands_20170930/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usa_national_park_service_lands.geojson"
+    },
+    {
+      "title": "LansingTaxParcels",
+      "url": "https://services1.arcgis.com/pNPbgWy7hpfFGWoZ/arcgis/rest/services/LansingTaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "lansingtaxparcels.geojson"
+    },
+    {
+      "title": "Zoning_Overlays",
+      "url": "https://services3.arcgis.com/rJcpRneDUBgTeCT3/arcgis/rest/services/Zoning_Overlays/FeatureServer",
+      "features": 44,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_overlays.geojson"
+    },
+    {
+      "title": "Conveyance Division",
+      "url": "https://services1.arcgis.com/NlvHF2FHoAfPIDvG/arcgis/rest/services/Conveyance_Division/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "conveyance_division.geojson"
+    },
+    {
+      "title": "USA Bureau of Land Management Lands",
+      "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Bureau_of_Land_Management_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usa_bureau_of_land_management_lands.geojson"
+    },
+    {
+      "title": "USA Forest Service Lands",
+      "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Forest_Service_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usa_forest_service_lands.geojson"
+    },
+    {
+      "title": "GIS_TaxParcel_Brun_Latest",
+      "url": "https://services.arcgis.com/O8ZpeBC0xLM5nL34/arcgis/rest/services/GIS_TaxParcel_Brun_Latest/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gis_taxparcel_brun_latest.geojson"
+    },
+    {
+      "title": "COL Planning_Layer",
+      "url": "https://services6.arcgis.com/nuWdH5CU0WK3IL1x/arcgis/rest/services/COL_Planning_Layer_export/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "col_planning_layer.geojson"
+    },
+    {
+      "title": "Parcels_with_Landmarks",
+      "url": "https://services1.arcgis.com/P5Mv5GY5S66M8Z1Q/arcgis/rest/services/Parcels_with_Landmarks/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_with_landmarks.geojson"
+    },
+    {
+      "title": "Property Owners with Assessments",
+      "url": "https://services.arcgis.com/YTojcvpJ9GpgYxjF/arcgis/rest/services/Property_Owners_with_Assessments/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "property_owners_with_assessments.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_WCH_09082025",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_WCH_09082025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_database_wch_09082025.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_WLA_09082025",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_WLA_09082025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_database_wla_09082025.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_PLM_09082025",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_PLM_09082025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_database_plm_09082025.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_PLM_02132024",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_PLM_02132024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_database_plm_02132024.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_VEN_09082025",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_VEN_09082025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_database_ven_09082025.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_VEN_02132024",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_VEN_02132024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_database_ven_02132024.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_WLA_02132024",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_WLA_02132024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_database_wla_02132024.geojson"
+    },
+    {
+      "title": "GPDesignation_Zoning_10062017",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/GPDesignation_Zoning_10062017/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gpdesignation_zoning_10062017.geojson"
+    },
+    {
+      "title": "DNR_Lands",
+      "url": "https://services5.arcgis.com/ajRlmtxbNBjZggOT/arcgis/rest/services/DNR_Land/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnr_lands.geojson"
+    },
+    {
+      "title": "Guild_2020_ZoningLink_with_landUse",
+      "url": "https://services9.arcgis.com/FV1e05n225oAVwkh/arcgis/rest/services/Guild_2020_ZoningLink_with_landUse/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "guild_2020_zoninglink_with_landuse.geojson"
+    },
+    {
+      "title": "Zone_Builder_Database_WCH_02132024",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Database_WCH_02132024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zone_builder_database_wch_02132024.geojson"
+    },
+    {
+      "title": "Econ_Electric_parcel_viewer_layers",
+      "url": "https://services6.arcgis.com/RWHujKM5TItecIqp/arcgis/rest/services/Econ_Electric_parcel_viewer_layers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "econ_electric_parcel_viewer_layers.geojson"
+    },
+    {
+      "title": "Base_layers",
+      "url": "https://services5.arcgis.com/hBzKXYlsDR65jdAs/arcgis/rest/services/Base_layers/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "base_layers.geojson"
+    },
+    {
+      "title": "AGO_Landbase",
+      "url": "https://services2.arcgis.com/t7WSFnGxSTZfwVPU/arcgis/rest/services/AGO_Landbase/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ago_landbase.geojson"
+    },
+    {
+      "title": "Neighborhoods_View",
+      "url": "https://services7.arcgis.com/UgFir2NPOBP6GiJV/arcgis/rest/services/Neighborhoods_View/FeatureServer",
+      "features": 37,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "neighborhoods_view.geojson"
+    },
+    {
+      "title": "Public_Private_Lands",
+      "url": "https://services2.arcgis.com/l8GRYtTYXpMUcOYV/arcgis/rest/services/Public_Private_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "public_private_lands.geojson"
+    },
+    {
+      "title": "ESGV Proposed and Existing Land Use Policy",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/ESGV_Proposed_and_Existing_Land_Use_Policy/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "esgv_proposed_and_existing_land_use_policy.geojson"
+    },
+    {
+      "title": "Tax_Map_Reference_Layers_Public",
+      "url": "https://services3.arcgis.com/0dC3T96jvK0z64NH/arcgis/rest/services/Tax_Map_Reference_Layers_Public/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_map_reference_layers_public.geojson"
+    },
+    {
+      "title": "Conservation Lands",
+      "url": "https://services1.arcgis.com/X1hcdGx5Fxqn4d0j/arcgis/rest/services/Conservation_Lands/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "conservation_lands.geojson"
+    },
+    {
+      "title": "Parcel Join Online",
+      "url": "https://services.arcgis.com/dRv4mQ6ZAnginHmF/arcgis/rest/services/Parcel_Join_Online/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_join_online.geojson"
+    },
+    {
+      "title": "PLANNINGCADASTRE_land_use_2010",
+      "url": "https://services.arcgis.com/0L95CJ0VTaxqcmED/arcgis/rest/services/PLANNINGCADASTRE_land_use_2010/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "planningcadastre_land_use_2010.geojson"
+    },
+    {
+      "title": "Santa Monica Mountains and Griffith Park Linkage - Vector Data",
+      "url": "https://services1.arcgis.com/X1hcdGx5Fxqn4d0j/arcgis/rest/services/Santa_Monica_Mountains_and_Griffith_Park_Linkage/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "santa_monica_mountains_and_griffith_park_linkage_-_vector_da.geojson"
+    },
+    {
+      "title": "CT_Scotland_Adv_Viewer_Layers",
+      "url": "https://services1.arcgis.com/j6iFLXhyiD3XTMyD/arcgis/rest/services/CT_Scotland_Adv_Viewer_Layers/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ct_scotland_adv_viewer_layers.geojson"
+    },
+    {
+      "title": "Public_Land_Survey_Data",
+      "url": "https://services1.arcgis.com/BrJrVYDObuVeZdbH/arcgis/rest/services/Public_Land_Survey_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_land_survey_data.geojson"
+    },
+    {
+      "title": "CLV Parcel and Property Assessment Records",
+      "url": "https://services1.arcgis.com/F1v0ufATbBQScMtY/arcgis/rest/services/parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "clv_parcel_and_property_assessment_records.geojson"
+    },
+    {
+      "title": "Zone_Builder_SEV_20250128_2",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_SEV_20250128_2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_builder_sev_20250128_2.geojson"
+    },
+    {
+      "title": "19066_SouthwestVillage_LandUse_Layers",
+      "url": "https://services.arcgis.com/w0K9MAswvUFWyjPZ/arcgis/rest/services/19066_SouthwestVillage_LandUse_Layers/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "19066_southwestvillage_landuse_layers.geojson"
+    },
+    {
+      "title": "Zone_Builder_Data_HAR_WIL_09_17_18_VIEW",
+      "url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Zone_Builder_Data_HAR_WIL_09_17_18_VIEW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "zone_builder_data_har_wil_09_17_18_view.geojson"
+    },
+    {
+      "title": "ESGV Proposed and Existing Zoning",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/ESGV_Proposed_and_Existing_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "esgv_proposed_and_existing_zoning.geojson"
+    },
+    {
+      "title": "College_lands_meeting_embeds_WFL1",
+      "url": "https://services8.arcgis.com/Gf7J70KyUdpb0dNE/arcgis/rest/services/College_lands_meeting_embeds_WFL1/FeatureServer",
+      "features": 93,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "college_lands_meeting_embeds_wfl1.geojson"
+    },
+    {
+      "title": "Tax Parcels_View",
+      "url": "https://services7.arcgis.com/UgFir2NPOBP6GiJV/arcgis/rest/services/Tax_Parcels_View_2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels_view.geojson"
+    },
+    {
+      "title": "Avon_Zoning_Layers",
+      "url": "https://services3.arcgis.com/ZvcJEU5PM6qt0B8f/arcgis/rest/services/Avon_Zoning_Layers/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "avon_zoning_layers.geojson"
+    },
+    {
+      "title": "City Parcels Public",
+      "url": "https://services6.arcgis.com/ep2P4aOWGVVBct0i/arcgis/rest/services/City_Parcels_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "city_parcels_public.geojson"
+    },
+    {
+      "title": "Outdoor_Recreation_On_State_Lands_new",
+      "url": "https://services1.arcgis.com/7iJyYTjCtKsZS1LR/arcgis/rest/services/Outdoor_Recreation_On_State_Lands_new/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "outdoor_recreation_on_state_lands_new.geojson"
+    },
+    {
+      "title": "Future_Land_Use_Online",
+      "url": "https://services5.arcgis.com/4CllgMSJJaeToEFP/arcgis/rest/services/Future_Land_Use_Online/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "future_land_use_online.geojson"
+    },
+    {
+      "title": "SMCA priority preservation (layer for storymap webmap)",
+      "url": "https://services3.arcgis.com/M5mflH99UYDtsMGx/arcgis/rest/services/SMCA_priority_preservation/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "smca_priority_preservation__layer_for_storymap_webmap_.geojson"
+    },
+    {
+      "title": "SonomaLandTrust_ReferenceFeatures_LayerView",
+      "url": "https://services.arcgis.com/NlM49UDC2QRv3lnY/arcgis/rest/services/SonomaLandTrust_ReferenceFeatures_LayerView/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "sonomalandtrust_referencefeatures_layerview.geojson"
+    },
+    {
+      "title": "nv_tribal_lands_full_2023",
+      "url": "https://services8.arcgis.com/6zoy8FhqGf9FaeLx/arcgis/rest/services/nv_tribal_lands_full_2023/FeatureServer",
+      "features": 35,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nv_tribal_lands_full_2023.geojson"
+    },
+    {
+      "title": "Parcels 2025 Fires Debris Removal (Public View)",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Parcels_Debris_Removal_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_2025_fires_debris_removal__public_view_.geojson"
+    },
+    {
+      "title": "Ozark_Future_Land_Use_Update",
+      "url": "https://services1.arcgis.com/1107UTfqeg4EWnbL/arcgis/rest/services/Ozark_Future_Land_Use_Update/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ozark_future_land_use_update.geojson"
+    },
+    {
+      "title": "DNRLOTSQQGridMineralsOPENDATA",
+      "url": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/DNRLOTSQQGridMineralsOPENDATA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnrlotsqqgridmineralsopendata.geojson"
+    },
+    {
+      "title": "DNR_LANDS_agol_gdb",
+      "url": "https://services5.arcgis.com/ajRlmtxbNBjZggOT/arcgis/rest/services/DNR_LANDS_agol_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dnr_lands_agol_gdb.geojson"
+    },
+    {
+      "title": "Tertiary_LandUse",
+      "url": "https://services.arcgis.com/Tbke9ca9DhtF4VIx/arcgis/rest/services/Tertiary_LandUse/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tertiary_landuse.geojson"
+    },
+    {
+      "title": "NRSFIA_LandUseChange_2019",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/NRS_LandUseChange_2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nrsfia_landusechange_2019.geojson"
+    },
+    {
+      "title": "Secondary_LandUse",
+      "url": "https://services.arcgis.com/Tbke9ca9DhtF4VIx/arcgis/rest/services/Secondary_LandUse/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "secondary_landuse.geojson"
+    },
+    {
+      "title": "Pressure Look Up-Parcel_Layer",
+      "url": "https://services7.arcgis.com/GqbJEEabcqZHETvE/arcgis/rest/services/Pressure_Map/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pressure_look_up-parcel_layer.geojson"
+    },
+    {
+      "title": "TAX DEFAULT PROPERTIES 2024A",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/TAX_DEFAULT_PROPERTIES_2024A/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "tax_default_properties_2024a.geojson"
+    },
+    {
+      "title": "WSGV Proposed Zoning",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/WSGV_Proposed_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wsgv_proposed_zoning.geojson"
+    },
+    {
+      "title": "WSGV Proposed Land Use Policy",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/WSGV_Proposed_Land_Use_Policy/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wsgv_proposed_land_use_policy.geojson"
+    },
+    {
+      "title": "Official Zoning Map _ City of La Vista_ Nebraska_WFL1",
+      "url": "https://services6.arcgis.com/lGvazUHtJKjqGjCn/arcgis/rest/services/Official_Zoning_Map___City_of_La_Vista__Nebraska_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "official_zoning_map___city_of_la_vista__nebraska_wfl1.geojson"
+    },
+    {
+      "title": "ODNR_Lands_fgdb",
+      "url": "https://services5.arcgis.com/ajRlmtxbNBjZggOT/arcgis/rest/services/ODNR_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "odnr_lands_fgdb.geojson"
+    },
+    {
+      "title": "La Plata County Land Survey_WFL1",
+      "url": "https://services1.arcgis.com/qr14biwnHA6Vis6l/arcgis/rest/services/La_Plata_County_Land_Survey_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "la_plata_county_land_survey_wfl1.geojson"
+    },
+    {
+      "title": "CCB_LandscapeDisturbance",
+      "url": "https://services1.arcgis.com/v0IZLkgglG1DPU2C/arcgis/rest/services/CCB_LandscapeDisturbance/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ccb_landscapedisturbance.geojson"
+    },
+    {
+      "title": "Map _ FloodZones_GSI_LandUse_Neigh_1_WFL1",
+      "url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/Map___FloodZones_GSI_LandUse_Neigh_1_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "map___floodzones_gsi_landuse_neigh_1_wfl1.geojson"
+    },
+    {
+      "title": "FmHA of Louisiana",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/fmha_of_louisiana_0724_shp/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fmha_of_louisiana.geojson"
+    },
+    {
+      "title": "Map _ FloodZones_GSI_LandUse_Neigh_WFL1",
+      "url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/Map___FloodZones_GSI_LandUse_Neigh_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "map___floodzones_gsi_landuse_neigh_wfl1.geojson"
+    },
+    {
+      "title": "PZ_Vacant_Buildings_Land",
+      "url": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PZ_Vacant_Building_points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pz_vacant_buildings_land.geojson"
+    },
+    {
+      "title": "Forfeited_Land_Sale_2021",
+      "url": "https://services1.arcgis.com/vGBb7WYV10mOJRNM/arcgis/rest/services/Forfeited_Land_Sale_2021/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "forfeited_land_sale_2021.geojson"
+    },
+    {
+      "title": "Static_Parcel_Layer_for_Period_Web_Map_Updates",
+      "url": "https://services2.arcgis.com/PTmtRZYLJhcUn6o9/arcgis/rest/services/Static_Parcel_Layer_for_Period_Web_Map_Updates/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "static_parcel_layer_for_period_web_map_updates.geojson"
+    },
+    {
+      "title": "tribal_lands_LCEPstudyarea",
+      "url": "https://services6.arcgis.com/g8SXAozbYSngoxcz/arcgis/rest/services/tribal_lands_LCEPstudyarea/FeatureServer",
+      "features": 39,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tribal_lands_lcepstudyarea.geojson"
+    },
+    {
+      "title": "Havana_Zoning_Districts_--_View_Layer",
+      "url": "https://services8.arcgis.com/N3lCn6dEKCL6LidU/arcgis/rest/services/Havana_Zoning_Districts_--_View_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "havana_zoning_districts_--_view_layer.geojson"
+    },
+    {
+      "title": "HiddenPrairieTownHolland",
+      "url": "https://services.arcgis.com/YTojcvpJ9GpgYxjF/arcgis/rest/services/HiddenPrairieTownHolland/FeatureServer",
+      "features": 30,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hiddenprairietownholland.geojson"
+    },
+    {
+      "title": "Saint James Parish Tax Parcels",
+      "url": "https://services6.arcgis.com/1fGAZVgZnPx4zcNH/arcgis/rest/services/Saint_James_Parish_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "saint_james_parish_tax_parcels.geojson"
+    },
+    {
+      "title": "11_Land Use 2016_WFL1",
+      "url": "https://services5.arcgis.com/lpGxT11GBKtwDtDA/arcgis/rest/services/11_Land_Use_2016_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "11_land_use_2016_wfl1.geojson"
+    },
+    {
+      "title": "Assumption_Parish_Parcels_2019",
+      "url": "https://services6.arcgis.com/1fGAZVgZnPx4zcNH/arcgis/rest/services/Assumption_Parish_Parcels_2019/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "assumption_parish_parcels_2019.geojson"
+    },
+    {
+      "title": "NC_Landfill_Restriction_Analysis",
+      "url": "https://services1.arcgis.com/KBUj0hFRM9v7XluE/arcgis/rest/services/NC_Landfill_Restriction_Analysis/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "nc_landfill_restriction_analysis.geojson"
+    },
+    {
+      "title": "NWLT_MGL_public_lands",
+      "url": "https://services7.arcgis.com/26j4Vi9jWPFXTsxU/arcgis/rest/services/NWLT_MGL_public_lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nwlt_mgl_public_lands.geojson"
+    },
+    {
+      "title": "Protected_Lands_southernBit",
+      "url": "https://services6.arcgis.com/VLA0ImJ33zhtGEaP/arcgis/rest/services/Protected_Lands_southernBit/FeatureServer",
+      "features": 79,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_lands_southernbit.geojson"
+    },
+    {
+      "title": "Parcels_011224_LandUseSplit",
+      "url": "https://services9.arcgis.com/04Mfke8TEc0Pvqvt/arcgis/rest/services/Parcels_011224_LandUseSplit/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_011224_landusesplit.geojson"
+    },
+    {
+      "title": "Public_Land_Survey",
+      "url": "https://services.arcgis.com/uEH09Hfm70zI2ZxR/arcgis/rest/services/Public_Land_Survey/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_land_survey.geojson"
+    },
+    {
+      "title": "25518_LandUse_and_Zoning",
+      "url": "https://services.arcgis.com/4qIOeADCgonipFEW/arcgis/rest/services/25518_LandUse_and_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "25518_landuse_and_zoning.geojson"
+    },
+    {
+      "title": "PZ_Vacant_Buildings_Land",
+      "url": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/PZ_Vacant_Buildings_Land/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pz_vacant_buildings_land.geojson"
+    },
+    {
+      "title": "LACo Assessor Parcels 2023 DS04",
+      "url": "https://services9.arcgis.com/vt06TugX2cjEwSJJ/arcgis/rest/services/LACo_Assessor_Parcels_2023_DS04/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "laco_assessor_parcels_2023_ds04.geojson"
+    },
+    {
+      "title": "EPT_EXISTING_LAND_USE_04112018",
+      "url": "https://services1.arcgis.com/Ps1YVQiv5JQLIFu2/arcgis/rest/services/EPT_EXISTING_LAND_USE_04112018/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ept_existing_land_use_04112018.geojson"
+    },
+    {
+      "title": "Public_Lands",
+      "url": "https://services6.arcgis.com/muKCmdnskcL9KyfG/arcgis/rest/services/Public_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_lands.geojson"
+    },
+    {
+      "title": "OR_Tri_Client_Jim Boyle_Land Search R5 thru R10",
+      "url": "https://services.arcgis.com/VYsrLd1WbPJ93eyz/arcgis/rest/services/OR_Tri_Client_Jim_Boyle_Land_Search_R5_thru_R10/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "or_tri_client_jim_boyle_land_search_r5_thru_r10.geojson"
+    },
+    {
+      "title": "LA County Residential Parcels",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/ResidentialParcels_LACounty_010924download_allCB20_HD22_attributes/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "la_county_residential_parcels.geojson"
+    },
+    {
+      "title": "Existing_Land_Use",
+      "url": "https://services3.arcgis.com/yFhsPYE8tajG76dg/arcgis/rest/services/Existing_Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "existing_land_use.geojson"
+    },
+    {
+      "title": "Annexation Parcel Map",
+      "url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/Annexation_Parcel_Map_WFL2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "annexation_parcel_map.geojson"
+    },
+    {
+      "title": "Appropriate_LandUse_Zoning",
+      "url": "https://services.arcgis.com/G4S1dGvn7PIgYd6Y/arcgis/rest/services/Appropriate_LandUse_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "appropriate_landuse_zoning.geojson"
+    },
+    {
+      "title": "Ohio Department of Natural Resources lands 2014",
+      "url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/Ohio_Department_of_Natural_Resources_lands_2014/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ohio_department_of_natural_resources_lands_2014.geojson"
+    },
+    {
+      "title": "NUCORSteel_Parcels",
+      "url": "https://services5.arcgis.com/nbwtrV1EDhKfIQhm/arcgis/rest/services/NUCORSteel_Parcels/FeatureServer",
+      "features": 4,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nucorsteel_parcels.geojson"
+    },
+    {
+      "title": "St. James Parish Tax Parcels \u2013 Town of Gramercy Subset (Assessor Source, 2026)",
+      "url": "https://services5.arcgis.com/NaE1rjvJf3JdTAkI/arcgis/rest/services/Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "st__james_parish_tax_parcels___town_of_gramercy_subset__asse.geojson"
+    },
+    {
+      "title": "Parcels_Layer",
+      "url": "https://services3.arcgis.com/HVjI8GKrRtjcQ4Ry/arcgis/rest/services/Parcels_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_layer.geojson"
+    },
+    {
+      "title": "Project Anna Site Options",
+      "url": "https://services6.arcgis.com/1fGAZVgZnPx4zcNH/arcgis/rest/services/Project_Anna_Site_Options/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "project_anna_site_options.geojson"
+    },
+    {
+      "title": "At_Risk_Land_Parcels",
+      "url": "https://services4.arcgis.com/C8vf4s5ZPjnWgemb/arcgis/rest/services/At_Risk_Land_Parcels/FeatureServer",
+      "features": 44,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "at_risk_land_parcels.geojson"
+    },
+    {
+      "title": "Charlotte_SouthEnd_LandUse_Roberge",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Charlotte_SouthEnd_LandUse_Roberge/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "charlotte_southend_landuse_roberge.geojson"
+    },
+    {
+      "title": "Comp_Plan_Land_Use",
+      "url": "https://services1.arcgis.com/nYfGJ9xFTKW6VPqW/arcgis/rest/services/Comp_Plan_Land_Use/FeatureServer",
+      "features": 21,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "comp_plan_land_use.geojson"
+    },
+    {
+      "title": "OahuTMK_Landowners",
+      "url": "https://services2.arcgis.com/iRXQh9fsThHqHhAy/arcgis/rest/services/OahuTMK_Landowners/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "oahutmk_landowners.geojson"
+    },
+    {
+      "title": "Chattanooga_Land_Use_Housing_Units_12_15_2025",
+      "url": "https://services2.arcgis.com/cclAu9OKhOfjeUdr/arcgis/rest/services/Chattanooga_Land_Use_Housing_Units_12_15_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "chattanooga_land_use_housing_units_12_15_2025.geojson"
+    },
+    {
+      "title": "20170829_Rankin_Landroll",
+      "url": "https://services7.arcgis.com/qOUALAsefSAGaqJH/arcgis/rest/services/20170829_Rankin_Landroll/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "20170829_rankin_landroll.geojson"
+    },
+    {
+      "title": "HardingNM_LandOwnership",
+      "url": "https://services.arcgis.com/4YineAQdtmx0tv46/arcgis/rest/services/HardingNM_LandOwnership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hardingnm_landownership.geojson"
+    },
+    {
+      "title": "CDFW_LandscapeBlocks",
+      "url": "https://services7.arcgis.com/y8bkPZiS2xXhSsGl/arcgis/rest/services/CDFW_LandscapeBlocks/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cdfw_landscapeblocks.geojson"
+    },
+    {
+      "title": "24_Bdwy_Map_Large_Lots",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/24_Bdwy_Map_Large_Lots/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "24_bdwy_map_large_lots.geojson"
+    }
+  ]
+}

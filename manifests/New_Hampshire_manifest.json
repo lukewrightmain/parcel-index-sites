@@ -1,0 +1,198 @@
+{
+  "state": "New Hampshire",
+  "sources_attempted": 25,
+  "sources_successful": 21,
+  "total_features": 1958,
+  "pulled_at": "2026-03-16T01:33:03.794304",
+  "datasets": [
+    {
+      "title": "New Hampshire Parcels - GRANIT",
+      "url": "https://nhgeodata.unh.edu/hosting/rest/services/Hosted/CAD_ParcelMosaic/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "new_hampshire_parcels_-_granit.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services9.arcgis.com/59ZvDexK7EO6ctwz/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "TaxMapIndex_WFL1",
+      "url": "https://services6.arcgis.com/UfXcKlfRMOLiWRIE/arcgis/rest/services/TaxMapIndex_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxmapindex_wfl1.geojson"
+    },
+    {
+      "title": "University of New Hampshire Properties",
+      "url": "https://services3.arcgis.com/UqDvtuTcaWV6ztHb/arcgis/rest/services/University_of_New_Hampshire_Properties/FeatureServer",
+      "features": 43,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "university_of_new_hampshire_properties.geojson"
+    },
+    {
+      "title": "PriorityStreamSegments",
+      "url": "https://services.arcgis.com/SXbDpmb7xQkk44JV/arcgis/rest/services/PriorityStreamSegments/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "prioritystreamsegments.geojson"
+    },
+    {
+      "title": "Parcels_Public",
+      "url": "https://services9.arcgis.com/59ZvDexK7EO6ctwz/arcgis/rest/services/Parcels_(Public_Access)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_public.geojson"
+    },
+    {
+      "title": "Three Towns_WFL1",
+      "url": "https://services9.arcgis.com/EGheeB0VDT6EarZv/arcgis/rest/services/Three_Towns_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "three_towns_wfl1.geojson"
+    },
+    {
+      "title": "Three Towns No Parcels_WFL1",
+      "url": "https://services9.arcgis.com/EGheeB0VDT6EarZv/arcgis/rest/services/Three_Towns_No_Parcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "three_towns_no_parcels_wfl1.geojson"
+    },
+    {
+      "title": "Lease Areas 2023",
+      "url": "https://services2.arcgis.com/QKs1u1Zs6RQO4G4r/arcgis/rest/services/Lease_Areas_2023/FeatureServer",
+      "features": 15,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lease_areas_2023.geojson"
+    },
+    {
+      "title": "2014 Zoning Districts",
+      "url": "https://services2.arcgis.com/QKs1u1Zs6RQO4G4r/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "2014_zoning_districts.geojson"
+    },
+    {
+      "title": "Developable_Vacant Properties 2023_24_WFL1",
+      "url": "https://services2.arcgis.com/QKs1u1Zs6RQO4G4r/arcgis/rest/services/Developable_Vacant_Properties_2023_24_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "developable_vacant_properties_2023_24_wfl1.geojson"
+    },
+    {
+      "title": "SHS_Parcels",
+      "url": "https://services2.arcgis.com/hXTufJlcbv1mehPB/arcgis/rest/services/SHS_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "shs_parcels.geojson"
+    },
+    {
+      "title": "Keene NH 2014 Zoning Districts",
+      "url": "https://services2.arcgis.com/QKs1u1Zs6RQO4G4r/arcgis/rest/services/Keene_NH_2014_Zoning_Districts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "keene_nh_2014_zoning_districts.geojson"
+    },
+    {
+      "title": "New Hampshire LMAC and RMAC State Lands",
+      "url": "https://services1.arcgis.com/MAcUimSes4gPY4sM/arcgis/rest/services/State_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_hampshire_lmac_and_rmac_state_lands.geojson"
+    },
+    {
+      "title": "New Hampshire Parcels_Classified",
+      "url": "https://services1.arcgis.com/tSTHzQRYhPyBxgWB/arcgis/rest/services/Parcels_shp/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "new_hampshire_parcels_classified.geojson"
+    },
+    {
+      "title": "Bow Natural Resources Inventory Conservation and Public Lands_WFL1",
+      "url": "https://services2.arcgis.com/Cgn6q9YGe3Zwzgkn/arcgis/rest/services/Bow_Natural_Resources_Inventory_Conservation_and_Public_Lands_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bow_natural_resources_inventory_conservation_and_public_land.geojson"
+    },
+    {
+      "title": "KN_Parcel_Poly_12_22_22",
+      "url": "https://services2.arcgis.com/QKs1u1Zs6RQO4G4r/arcgis/rest/services/KN_Parcel_Poly_12_22_22/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "kn_parcel_poly_12_22_22.geojson"
+    },
+    {
+      "title": "NH Conservation and Public Lands view",
+      "url": "https://services8.arcgis.com/hg1B9Egwk1I5p300/arcgis/rest/services/NH_Conservation_and_Public_Lands_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nh_conservation_and_public_lands_view.geojson"
+    },
+    {
+      "title": "Bow Natural Resources Inventory Conserved Lands_WFL1",
+      "url": "https://services2.arcgis.com/Cgn6q9YGe3Zwzgkn/arcgis/rest/services/Bow_Natural_Resources_Inventory_Conserved_Lands_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bow_natural_resources_inventory_conserved_lands_wfl1.geojson"
+    },
+    {
+      "title": "New Hampshire Conservation and Public Lands",
+      "url": "https://services1.arcgis.com/rYdMz5wrhDgWXPFk/arcgis/rest/services/New_Hampshire_Conservation_and_Public_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "new_hampshire_conservation_and_public_lands.geojson"
+    },
+    {
+      "title": "NH and VT Parcels on Sewer_WFL1",
+      "url": "https://services3.arcgis.com/wPqFMWJX0EPXraHc/arcgis/rest/services/NH_and_VT_Parcels_on_Sewer_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nh_and_vt_parcels_on_sewer_wfl1.geojson"
+    }
+  ]
+}

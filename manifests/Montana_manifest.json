@@ -1,0 +1,756 @@
+{
+  "state": "Montana",
+  "sources_attempted": 88,
+  "sources_successful": 83,
+  "total_features": 6392,
+  "pulled_at": "2026-03-16T01:32:24.568299",
+  "datasets": [
+    {
+      "title": "School Parcels",
+      "url": "https://services.arcgis.com/lnWnvGNQtyvDCFPs/arcgis/rest/services/Montana_School_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "school_parcels.geojson"
+    },
+    {
+      "title": "Parks Parcel",
+      "url": "https://services.arcgis.com/lnWnvGNQtyvDCFPs/arcgis/rest/services/Parks_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parks_parcel.geojson"
+    },
+    {
+      "title": "Cadastral Application Support",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/Cadastral_Application_Support/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cadastral_application_support.geojson"
+    },
+    {
+      "title": "CadNSDI Montana Public Land Survey System",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/CadNSDI_Montana_Public_Land_Survey_System/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cadnsdi_montana_public_land_survey_system.geojson"
+    },
+    {
+      "title": "Parcels_view",
+      "url": "https://services5.arcgis.com/yTCmMFjlqdhhFKP9/arcgis/rest/services/Parcels_view_2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "Public Lands",
+      "url": "https://services5.arcgis.com/k6rZTDGNZ7Srk5IB/arcgis/rest/services/Public_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_lands.geojson"
+    },
+    {
+      "title": "Montana State Parks - Activities",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_FWPLANDS_PARKS_ACTIVITIES/FeatureServer",
+      "features": 56,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "montana_state_parks_-_activities.geojson"
+    },
+    {
+      "title": "Montclair_Parcels",
+      "url": "https://services2.arcgis.com/15hiAMxslu19RRBo/arcgis/rest/services/Montclair_Parcels_20230224/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "montclair_parcels.geojson"
+    },
+    {
+      "title": "Wildlife Management Areas - Points",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_WMA_POINTS/FeatureServer",
+      "features": 71,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wildlife_management_areas_-_points.geojson"
+    },
+    {
+      "title": "Montana State Parks - Points",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_STATEPARKS_POINTS/FeatureServer",
+      "features": 56,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "montana_state_parks_-_points.geojson"
+    },
+    {
+      "title": "Fishing Access Sites - Points",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_FAS_POINTS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fishing_access_sites_-_points.geojson"
+    },
+    {
+      "title": "Structural Development by Year",
+      "url": "https://services.arcgis.com/iTQUx5ZpNUh47Geb/arcgis/rest/services/Montana_Parcel_Earliest_Build_Year/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "structural_development_by_year.geojson"
+    },
+    {
+      "title": "NoFPALayerDec9",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/NoFPALayerDec9/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nofpalayerdec9.geojson"
+    },
+    {
+      "title": "Fishing Access Sites - Polygons",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_FAS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fishing_access_sites_-_polygons.geojson"
+    },
+    {
+      "title": "Montclair_Boundary",
+      "url": "https://services2.arcgis.com/15hiAMxslu19RRBo/arcgis/rest/services/Montclair_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "montclair_boundary.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services8.arcgis.com/M9lBa5KYtuKzdhNy/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "FWP Lands Parcels - Polygons",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_FWPLANDS_PARCELS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fwp_lands_parcels_-_polygons.geojson"
+    },
+    {
+      "title": "Wildlife Management Areas - Polygons",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_WMA/FeatureServer",
+      "features": 70,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wildlife_management_areas_-_polygons.geojson"
+    },
+    {
+      "title": "Total Demolition",
+      "url": "https://services2.arcgis.com/15hiAMxslu19RRBo/arcgis/rest/services/Total_Demolition/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "total_demolition.geojson"
+    },
+    {
+      "title": "FWP Lands Sites - Polygons",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_FWPLANDS_SITES/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fwp_lands_sites_-_polygons.geojson"
+    },
+    {
+      "title": "Jefferson County Zoning Feb 2023_WFL1",
+      "url": "https://services2.arcgis.com/vFt5VMdMm1ZTFc55/arcgis/rest/services/Jefferson_County_Zoning_Feb_2023_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "jefferson_county_zoning_feb_2023_wfl1.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services5.arcgis.com/yTCmMFjlqdhhFKP9/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "CWPP Montana WUI",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/CWPPMontanaWUI/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cwpp_montana_wui.geojson"
+    },
+    {
+      "title": "MT Wetland Assessment Database_WFL1",
+      "url": "https://services1.arcgis.com/ERdCHt0sNM6dENSD/arcgis/rest/services/MT_Wetland_Assessment_Database_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mt_wetland_assessment_database_wfl1.geojson"
+    },
+    {
+      "title": "SNDRS_PARCELS_PLAT",
+      "url": "https://services.arcgis.com/lyaiBovac00Ony4j/arcgis/rest/services/SNDRS_PARCELS_PLAT/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sndrs_parcels_plat.geojson"
+    },
+    {
+      "title": "PARCELS_PLAT_SANDERS_TOBEDEPRECATED",
+      "url": "https://services.arcgis.com/lyaiBovac00Ony4j/arcgis/rest/services/PARCELS_PLAT_SANDERS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_plat_sanders_tobedeprecated.geojson"
+    },
+    {
+      "title": "Park County Parcel Boundary - PUBLIC",
+      "url": "https://services3.arcgis.com/De8iY1SoM3l4PKku/arcgis/rest/services/ParkCountyParcelBoundary2024_PUBLIC/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "park_county_parcel_boundary_-_public.geojson"
+    },
+    {
+      "title": "Montana Statewide Irrigation Dataset",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/Montana_Statewide_Irrigation_Dataset/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "montana_statewide_irrigation_dataset.geojson"
+    },
+    {
+      "title": "Agriculture and Property Type",
+      "url": "https://services5.arcgis.com/k6rZTDGNZ7Srk5IB/arcgis/rest/services/Agriculture_and_Property_Type/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "agriculture_and_property_type.geojson"
+    },
+    {
+      "title": "PublicLands",
+      "url": "https://services.arcgis.com/lyaiBovac00Ony4j/arcgis/rest/services/PublicLands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "publiclands.geojson"
+    },
+    {
+      "title": "LNFDraftWildernessInventoryLayers",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/LNFDraftWildernessInventoryLayers/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lnfdraftwildernessinventorylayers.geojson"
+    },
+    {
+      "title": "Montana State Parks - Polygons",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_STATEPARKS/FeatureServer",
+      "features": 54,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "montana_state_parks_-_polygons.geojson"
+    },
+    {
+      "title": "Crow_MT_Parcels",
+      "url": "https://services6.arcgis.com/6hR3ncgZytDB2gKA/arcgis/rest/services/Crow_MT_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "crow_mt_parcels.geojson"
+    },
+    {
+      "title": "CadastralJune",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/CadastralJune/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cadastraljune.geojson"
+    },
+    {
+      "title": "OwnerParcel_10_23",
+      "url": "https://services.arcgis.com/M8seqoJdDgYgyFge/arcgis/rest/services/OwnerParcel_10_23/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ownerparcel_10_23.geojson"
+    },
+    {
+      "title": "20240619_FPA",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/20240619_FPA/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "20240619_fpa.geojson"
+    },
+    {
+      "title": "ParkCountyGauge_Restricted_Parcels",
+      "url": "https://services8.arcgis.com/fhV7YmN3ZH8F4stQ/arcgis/rest/services/ParkCountyGauge_Restricted_Parcels/FeatureServer",
+      "features": 74,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parkcountygauge_restricted_parcels.geojson"
+    },
+    {
+      "title": "Ravalli County Parcels",
+      "url": "https://services8.arcgis.com/M9lBa5KYtuKzdhNy/arcgis/rest/services/Ravalli_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ravalli_county_parcels.geojson"
+    },
+    {
+      "title": "Intersecting Landowners",
+      "url": "https://services8.arcgis.com/fhV7YmN3ZH8F4stQ/arcgis/rest/services/Intersecting_Landowners/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "intersecting_landowners.geojson"
+    },
+    {
+      "title": "Existing Land Use",
+      "url": "https://services5.arcgis.com/k6rZTDGNZ7Srk5IB/arcgis/rest/services/Existing_Land_Use/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use.geojson"
+    },
+    {
+      "title": "StillwaterCounty_Restricted_Parcels",
+      "url": "https://services8.arcgis.com/fhV7YmN3ZH8F4stQ/arcgis/rest/services/StillwaterCounty_Restricted_Parcels/FeatureServer",
+      "features": 50,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "stillwatercounty_restricted_parcels.geojson"
+    },
+    {
+      "title": "Habitat Montana (HB 526) Funded Lands - Points",
+      "url": "https://services3.arcgis.com/Cdxz8r11hT0MGzg1/arcgis/rest/services/FWPLND_HABITATMT_PTS/FeatureServer",
+      "features": 71,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "habitat_montana__hb_526__funded_lands_-_points.geojson"
+    },
+    {
+      "title": "Montana Public Lands",
+      "url": "https://services3.arcgis.com/OYP7N6mAJJCyH6hd/arcgis/rest/services/Montana_Public_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "montana_public_lands.geojson"
+    },
+    {
+      "title": "Broadwater Exploratory Map Additional Layers",
+      "url": "https://services5.arcgis.com/GxY0ot2P08FasuSb/arcgis/rest/services/Broadwater_Exploratory_Map_Additional_Layers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "broadwater_exploratory_map_additional_layers.geojson"
+    },
+    {
+      "title": "Gravel Pits",
+      "url": "https://services5.arcgis.com/k6rZTDGNZ7Srk5IB/arcgis/rest/services/Gravel_Pits/FeatureServer",
+      "features": 13,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "gravel_pits.geojson"
+    },
+    {
+      "title": "Montana Parcel Residential",
+      "url": "https://services.arcgis.com/iTQUx5ZpNUh47Geb/arcgis/rest/services/Montana_Parcel_Residential/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "montana_parcel_residential.geojson"
+    },
+    {
+      "title": "Teton County Cadastral Data, March 2015",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/Teton_County_March_2015/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "teton_county_cadastral_data__march_2015.geojson"
+    },
+    {
+      "title": "Missoula City Conservation Lands",
+      "url": "https://services.arcgis.com/S0bgWxbY97XvuH2I/arcgis/rest/services/Missoula_City_Conservation_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "missoula_city_conservation_lands.geojson"
+    },
+    {
+      "title": "OwnerParcel_Glasgow",
+      "url": "https://services.arcgis.com/Xmnlx6On3kMP35bB/arcgis/rest/services/OwnerParcel_Glasgow/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ownerparcel_glasgow.geojson"
+    },
+    {
+      "title": "fvlt_publiclands",
+      "url": "https://services8.arcgis.com/LSBkyQLNTTVNlWsq/arcgis/rest/services/fvlt_publiclands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "fvlt_publiclands.geojson"
+    },
+    {
+      "title": "Teton County Cadastral Data, September 2015",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/Teton_County_September_2015/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "teton_county_cadastral_data__september_2015.geojson"
+    },
+    {
+      "title": "BSFD PARCELS 2024",
+      "url": "https://services9.arcgis.com/kjf48TpuE2cSfuA0/arcgis/rest/services/BSFD_PARCELS_2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bsfd_parcels_2024.geojson"
+    },
+    {
+      "title": "county_outline",
+      "url": "https://services2.arcgis.com/vFt5VMdMm1ZTFc55/arcgis/rest/services/county_outline/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_outline.geojson"
+    },
+    {
+      "title": "DNRC Trust Land",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/DNRC_Trust_Land/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "dnrc_trust_land.geojson"
+    },
+    {
+      "title": "Missoula Parcels - Paratransit",
+      "url": "https://services7.arcgis.com/MzVAkIClEIAhAIE7/arcgis/rest/services/Missoula_Parcels_Paratransit/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "missoula_parcels_-_paratransit.geojson"
+    },
+    {
+      "title": "DecCad",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/DecCad/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "deccad.geojson"
+    },
+    {
+      "title": "Subdivision Development Projects",
+      "url": "https://services1.arcgis.com/zy02xMI7T6QrPvfO/arcgis/rest/services/updated_2_subdivision_view/FeatureServer",
+      "features": 16,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "subdivision_development_projects.geojson"
+    },
+    {
+      "title": "Commercial Development Projects",
+      "url": "https://services1.arcgis.com/zy02xMI7T6QrPvfO/arcgis/rest/services/updated_2_commercial_development_view/FeatureServer",
+      "features": 16,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "commercial_development_projects.geojson"
+    },
+    {
+      "title": "Residential Development Projects",
+      "url": "https://services1.arcgis.com/zy02xMI7T6QrPvfO/arcgis/rest/services/updated_2_residential_development_view_/FeatureServer",
+      "features": 44,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "residential_development_projects.geojson"
+    },
+    {
+      "title": "Flathead County Zoning",
+      "url": "https://services5.arcgis.com/K08Ti8IHU6QaR33e/arcgis/rest/services/Flathead_County_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "flathead_county_zoning.geojson"
+    },
+    {
+      "title": "UZ",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/UZ/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "uz.geojson"
+    },
+    {
+      "title": "B_4",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/B_4/FeatureServer",
+      "features": 29,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "b_4.geojson"
+    },
+    {
+      "title": "All_Plan_Types",
+      "url": "https://services1.arcgis.com/zy02xMI7T6QrPvfO/arcgis/rest/services/All_Plan_Types/FeatureServer",
+      "features": 68,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "all_plan_types.geojson"
+    },
+    {
+      "title": "E_2",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/E_2/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "e_2.geojson"
+    },
+    {
+      "title": "B_3",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/B_3/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "b_3.geojson"
+    },
+    {
+      "title": "M_1",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/M_1/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "m_1.geojson"
+    },
+    {
+      "title": "Flathead County Neighborhood Plans",
+      "url": "https://services5.arcgis.com/K08Ti8IHU6QaR33e/arcgis/rest/services/Flathead_County_Neighborhood_Plans/FeatureServer",
+      "features": 14,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "flathead_county_neighborhood_plans.geojson"
+    },
+    {
+      "title": "R_1",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/R_1/FeatureServer",
+      "features": 30,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "r_1.geojson"
+    },
+    {
+      "title": "R_3",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/R_3/FeatureServer",
+      "features": 97,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "r_3.geojson"
+    },
+    {
+      "title": "Zoning and Conditional Use Permit Development Projects",
+      "url": "https://services1.arcgis.com/zy02xMI7T6QrPvfO/arcgis/rest/services/updated_2_CUP_and_zoning_view/FeatureServer",
+      "features": 31,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "zoning_and_conditional_use_permit_development_projects.geojson"
+    },
+    {
+      "title": "PLI",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/PLI/FeatureServer",
+      "features": 3,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pli.geojson"
+    },
+    {
+      "title": "R_2",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/R_2/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "r_2.geojson"
+    },
+    {
+      "title": "R_4",
+      "url": "https://services5.arcgis.com/Xq1Bse7OSjeB6yhw/arcgis/rest/services/R_4/FeatureServer",
+      "features": 4,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "r_4.geojson"
+    },
+    {
+      "title": "Montana Public Lands - Montana State Library Feb. 2022",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/Montana_Public_Lands_-_Montana_State_Library_Feb._2022/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "montana_public_lands_-_montana_state_library_feb__2022.geojson"
+    },
+    {
+      "title": "BeaverheadOwners",
+      "url": "https://services6.arcgis.com/4Q5KtBdRdkRWZXQ9/arcgis/rest/services/BeaverheadOwners/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "beaverheadowners.geojson"
+    },
+    {
+      "title": "Missoula Public Lands",
+      "url": "https://services.arcgis.com/S0bgWxbY97XvuH2I/arcgis/rest/services/Missoula_Public_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "missoula_public_lands.geojson"
+    },
+    {
+      "title": "MissoulaOwnerParcel_shp",
+      "url": "https://services1.arcgis.com/NQWYt9dWr9BlL9QE/arcgis/rest/services/MissoulaOwnerParcel_shp/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "missoulaownerparcel_shp.geojson"
+    },
+    {
+      "title": "MHLA WSR GIS Update 052421 MT Cadastral_WFL1",
+      "url": "https://services5.arcgis.com/lElo6Muu6AKbgOrY/arcgis/rest/services/MHLA_WSR_GIS_Update_052421_MT_Cadastral_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mhla_wsr_gis_update_052421_mt_cadastral_wfl1.geojson"
+    },
+    {
+      "title": "NoFPALayerMay12",
+      "url": "https://services2.arcgis.com/DRQySz3VhPgOv7Bo/arcgis/rest/services/NoFPALayerMay12/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nofpalayermay12.geojson"
+    },
+    {
+      "title": "Cameras and Land Ownership_WFL1",
+      "url": "https://services.arcgis.com/9ecg2KpMLcsUv1Oh/arcgis/rest/services/Cameras_and_Land_Ownership_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cameras_and_land_ownership_wfl1.geojson"
+    },
+    {
+      "title": "Flathead County Parcels",
+      "url": "https://services5.arcgis.com/K08Ti8IHU6QaR33e/arcgis/rest/services/Flathead_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "flathead_county_parcels.geojson"
+    },
+    {
+      "title": "Lease Parcels 20250114",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/Lease_Parcels_20250114/FeatureServer",
+      "features": 13,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lease_parcels_20250114.geojson"
+    },
+    {
+      "title": "Zoning Districts With Labels",
+      "url": "https://services.arcgis.com/fkY271PlXi5CZVei/arcgis/rest/services/Layers_for_Zoning_Atlas_WFL10/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_districts_with_labels.geojson"
+    }
+  ]
+}

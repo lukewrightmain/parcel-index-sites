@@ -1,0 +1,162 @@
+{
+  "state": "Nevada",
+  "sources_attempted": 19,
+  "sources_successful": 17,
+  "total_features": 853,
+  "pulled_at": "2026-03-16T01:33:01.058121",
+  "datasets": [
+    {
+      "title": "Nevada 2024 Roll Year",
+      "url": "https://services6.arcgis.com/snwvZ3EmaoXJiugR/arcgis/rest/services/Nevada_2024_Roll_Year/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nevada_2024_roll_year.geojson"
+    },
+    {
+      "title": "Nevada 2023 Roll Year",
+      "url": "https://services6.arcgis.com/snwvZ3EmaoXJiugR/arcgis/rest/services/Nevada_2023_Roll_Year/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nevada_2023_roll_year.geojson"
+    },
+    {
+      "title": "Nevada 2022 Roll Year",
+      "url": "https://services6.arcgis.com/snwvZ3EmaoXJiugR/arcgis/rest/services/Nevada_2022_Roll_Year/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nevada_2022_roll_year.geojson"
+    },
+    {
+      "title": "WhittellForest_Parcels",
+      "url": "https://services3.arcgis.com/QCH1Le0vwRIyplqB/arcgis/rest/services/WhittellForest_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "whittellforest_parcels.geojson"
+    },
+    {
+      "title": "Nevada 2025 Roll Year",
+      "url": "https://services6.arcgis.com/snwvZ3EmaoXJiugR/arcgis/rest/services/Nevada_2025_Roll_Year/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nevada_2025_roll_year.geojson"
+    },
+    {
+      "title": "Parcels_Churchill",
+      "url": "https://services6.arcgis.com/qe6okgF7Ps3J2RdO/arcgis/rest/services/Parcels_Churchill/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_churchill.geojson"
+    },
+    {
+      "title": "Dec2020_OG",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/Dec2020_OG/FeatureServer",
+      "features": 14,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dec2020_og.geojson"
+    },
+    {
+      "title": "TaxParcelQuery",
+      "url": "https://services7.arcgis.com/47djI2dDVjy1gZox/arcgis/rest/services/TaxParcelQuery/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxparcelquery.geojson"
+    },
+    {
+      "title": "TOWN_PARCELS_10_2025_PUBLIC",
+      "url": "https://services5.arcgis.com/i75zh9vlhYUpqwjr/arcgis/rest/services/TOWN_PARCELS_11_2023_PUBLIC/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "town_parcels_10_2025_public.geojson"
+    },
+    {
+      "title": "Nevada 2025 Roll Year",
+      "url": "https://services7.arcgis.com/iwxhJVOFEKDxO7gk/arcgis/rest/services/Nevada_2025_Roll_Year/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nevada_2025_roll_year.geojson"
+    },
+    {
+      "title": "Tax Parcels Viewer",
+      "url": "https://services7.arcgis.com/zEd0UM6DWpfqnURg/arcgis/rest/services/Tax_Parcels_Viewer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_parcels_viewer.geojson"
+    },
+    {
+      "title": "2024_O_G_parcels",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/2024_O_G_parcels/FeatureServer",
+      "features": 13,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2024_o_g_parcels.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services5.arcgis.com/C0ejqMIMxJZHALms/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "SYR Parcels Updated_20240328 Public VL",
+      "url": "https://services7.arcgis.com/1aAazsLyerlDzxOT/arcgis/rest/services/SYR_Parcels_Updated_20240328_Public_VL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "syr_parcels_updated_20240328_public_vl.geojson"
+    },
+    {
+      "title": "WestOrange_Boundary",
+      "url": "https://services2.arcgis.com/EfgKMXWYhNQe0H3M/arcgis/rest/services/WestOrange_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "westorange_boundary.geojson"
+    },
+    {
+      "title": "Zoning_Search_Zones_CCSD_SY25",
+      "url": "https://services7.arcgis.com/L9YKUNJNbUSr033r/arcgis/rest/services/Zoning_Search_Zones_CCSD_SY25/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_search_zones_ccsd_sy25.geojson"
+    },
+    {
+      "title": "2020SeptOGLeaseParcels",
+      "url": "https://services1.arcgis.com/754BERmVIq3RqSf8/arcgis/rest/services/2020SeptOGLeaseParcels/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "2020septogleaseparcels.geojson"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "state": "New York",
+  "sources_attempted": 54,
+  "sources_successful": 46,
+  "total_features": 3685,
+  "pulled_at": "2026-03-16T01:34:35.554930",
+  "datasets": [
+    {
+      "title": "NYCityMap - Tax Lots",
+      "url": "https://services6.arcgis.com/yG5s3afENB5iO9fj/arcgis/rest/services/MapPLUTO_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "nycitymap_-_tax_lots.geojson"
+    },
+    {
+      "title": "Albany County Tax Parcels 2025",
+      "url": "https://services6.arcgis.com/mBzcjj7yrA6fBe9F/arcgis/rest/services/Albany_County_Parcels_2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "albany_county_tax_parcels_2025.geojson"
+    },
+    {
+      "title": "NY State Parks Property",
+      "url": "https://services.arcgis.com/1xFZPtKn1wKC6POA/arcgis/rest/services/NYS_Park_Polygons/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ny_state_parks_property.geojson"
+    },
+    {
+      "title": "Remediation Parcels",
+      "url": "https://services6.arcgis.com/DZHaqZm9cxOD4CWM/arcgis/rest/services/Remediation_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "remediation_parcels.geojson"
+    },
+    {
+      "title": "Montgomery County Parcels",
+      "url": "https://services6.arcgis.com/EbVsqZ18sv1kVJ3k/arcgis/rest/services/Montgomery_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "montgomery_county_parcels.geojson"
+    },
+    {
+      "title": "Zoning Districts (NYZD)",
+      "url": "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/nyzd/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_districts__nyzd_.geojson"
+    },
+    {
+      "title": "Westchester County Parcels",
+      "url": "https://services6.arcgis.com/EbVsqZ18sv1kVJ3k/arcgis/rest/services/Westchester_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "westchester_county_parcels.geojson"
+    },
+    {
+      "title": "Erie County Parcels (2023)",
+      "url": "https://services1.arcgis.com/CgOSc11uky3egK6O/arcgis/rest/services/Erie_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "erie_county_parcels__2023_.geojson"
+    },
+    {
+      "title": "Chemung County Property Parcels",
+      "url": "https://services5.arcgis.com/Zuw6weNBpZX2wFbS/arcgis/rest/services/Chemung_County_Property_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "chemung_county_property_parcels.geojson"
+    },
+    {
+      "title": "NYS Tax Parcel Centroid Points",
+      "url": "https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Tax_Parcel_Centroid_Points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nys_tax_parcel_centroid_points.geojson"
+    },
+    {
+      "title": "Zoning 2021 View Layer",
+      "url": "https://services1.arcgis.com/MBcb1JDktb5ipmv9/arcgis/rest/services/Zoning_2021_View_Layer/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_2021_view_layer.geojson"
+    },
+    {
+      "title": "NYS Tax Parcels State Owned",
+      "url": "https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Tax_Parcels_State_Owned/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nys_tax_parcels_state_owned.geojson"
+    },
+    {
+      "title": "Peru_Zoning_Districts",
+      "url": "https://services3.arcgis.com/33FPYaVQYNa7sFJ5/arcgis/rest/services/Peru_Zoning_Districts/FeatureServer",
+      "features": 31,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "peru_zoning_districts.geojson"
+    },
+    {
+      "title": "ParcelProperties2024",
+      "url": "https://services3.arcgis.com/PvkAiSMFS7cpxnJP/arcgis/rest/services/ParcelProperties2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelproperties2024.geojson"
+    },
+    {
+      "title": "Parcels _2022_ Village of Altamont _Final",
+      "url": "https://services9.arcgis.com/FV1e05n225oAVwkh/arcgis/rest/services/Parcels__2022__Village_of_Altamont/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels__2022__village_of_altamont__final.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://gis.sullivanny.us/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Parcels: WCNY Master View Layer",
+      "url": "https://services6.arcgis.com/Fg3XpDIUTR3JZZES/arcgis/rest/services/WCNY_Parcels_MASTER_new_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels__wcny_master_view_layer.geojson"
+    },
+    {
+      "title": "CANOPY_Data_Parkland",
+      "url": "https://services3.arcgis.com/xJHn8F2NTtwCMFtX/arcgis/rest/services/CANOPY_PARKLAND/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "canopy_data_parkland.geojson"
+    },
+    {
+      "title": "Tax Roll Parcels 2023",
+      "url": "https://gis.sullivanny.us/arcgis/rest/services/Hosted/Tax_Roll_Parcels_2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tax_roll_parcels_2023.geojson"
+    },
+    {
+      "title": "Tax Parcels SteubenCoNY",
+      "url": "https://services2.arcgis.com/NZkLeERo9XICXiuy/arcgis/rest/services/Tax_Parcels_SteubenCoNY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_parcels_steubencony.geojson"
+    },
+    {
+      "title": "All Grants_FY23",
+      "url": "https://services5.arcgis.com/DLFSRk9amMA1nsmw/arcgis/rest/services/All_Grants_FY23/FeatureServer",
+      "features": 47,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "all_grants_fy23.geojson"
+    },
+    {
+      "title": "ParcelProperties2023",
+      "url": "https://services3.arcgis.com/PvkAiSMFS7cpxnJP/arcgis/rest/services/ParcelProperties2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelproperties2023.geojson"
+    },
+    {
+      "title": "CANOPY_Data_OTHER2",
+      "url": "https://services3.arcgis.com/xJHn8F2NTtwCMFtX/arcgis/rest/services/CANOPY_OTHER2/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "canopy_data_other2.geojson"
+    },
+    {
+      "title": "AgDistricts_NYDAM",
+      "url": "https://services2.arcgis.com/Iru0GxDFgGL6jQqp/arcgis/rest/services/AgDistricts_NYDAM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "agdistricts_nydam.geojson"
+    },
+    {
+      "title": "Lot",
+      "url": "https://services3.arcgis.com/vIoF3JArVJXLSHlD/arcgis/rest/services/Lot/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "lot.geojson"
+    },
+    {
+      "title": "Land Assessed Value per Acre_WFL1",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/Land_Assessed_Value_per_Acre_WFL1/FeatureServer",
+      "features": 10,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_assessed_value_per_acre_wfl1.geojson"
+    },
+    {
+      "title": "Public Parcels",
+      "url": "https://services2.arcgis.com/WosK7QpOS4eVSn36/arcgis/rest/services/Public_Parcels_2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "public_parcels.geojson"
+    },
+    {
+      "title": "Town Owned Parcels",
+      "url": "https://services9.arcgis.com/FV1e05n225oAVwkh/arcgis/rest/services/Town_Owned_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "town_owned_parcels.geojson"
+    },
+    {
+      "title": "MapPluto_View",
+      "url": "https://services.arcgis.com/wmZOI9vyUBq1zTZx/arcgis/rest/services/MapPluto_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "mappluto_view.geojson"
+    },
+    {
+      "title": "Commercial_Revitalization_Grants_FY25_updated2_3_25",
+      "url": "https://services5.arcgis.com/DLFSRk9amMA1nsmw/arcgis/rest/services/Commercial_Revitalization_Grants_FY25_updated2_3_25/FeatureServer",
+      "features": 53,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "commercial_revitalization_grants_fy25_updated2_3_25.geojson"
+    },
+    {
+      "title": "2020_ErieCountyOwnedParcels",
+      "url": "https://services1.arcgis.com/CgOSc11uky3egK6O/arcgis/rest/services/2020_ErieCountyOwnedParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "2020_eriecountyownedparcels.geojson"
+    },
+    {
+      "title": "Monroe County NY Tax Parcels 2018",
+      "url": "https://services3.arcgis.com/Ue34o2qxc9h430hV/arcgis/rest/services/Parcels_features/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "monroe_county_ny_tax_parcels_2018.geojson"
+    },
+    {
+      "title": "All CDNAs_FY23",
+      "url": "https://services5.arcgis.com/DLFSRk9amMA1nsmw/arcgis/rest/services/All_CDNAs_FY23/FeatureServer",
+      "features": 39,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "all_cdnas_fy23.geojson"
+    },
+    {
+      "title": "Monroe County NY Vacant Parcels 2018",
+      "url": "https://services3.arcgis.com/Ue34o2qxc9h430hV/arcgis/rest/services/Monroe_County_NY_Vacant_Parcels_2018/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "monroe_county_ny_vacant_parcels_2018.geojson"
+    },
+    {
+      "title": "Parcels_2022_OwnerType_2_view",
+      "url": "https://services6.arcgis.com/YMCiEBhA0TNgGZ2c/arcgis/rest/services/Parcels_2022_OwnerType_2_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_2022_ownertype_2_view.geojson"
+    },
+    {
+      "title": "MNmapPluto",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/MNmapPluto/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "mnmappluto.geojson"
+    },
+    {
+      "title": "Schenectady County New York Parcels Final21",
+      "url": "https://services3.arcgis.com/DvTqoyLKkslnGFR5/arcgis/rest/services/Final21/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "schenectady_county_new_york_parcels_final21.geojson"
+    },
+    {
+      "title": "2020_ErieCountyParcels_500ftBuffer",
+      "url": "https://services1.arcgis.com/CgOSc11uky3egK6O/arcgis/rest/services/2020_ErieCountyParcels_500ftBuffer/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2020_eriecountyparcels_500ftbuffer.geojson"
+    },
+    {
+      "title": "Parcel_Properties_2025",
+      "url": "https://services3.arcgis.com/PvkAiSMFS7cpxnJP/arcgis/rest/services/Parcel_Properties_2025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_properties_2025.geojson"
+    },
+    {
+      "title": "FY22_CDNAs_Updated_112421",
+      "url": "https://services5.arcgis.com/DLFSRk9amMA1nsmw/arcgis/rest/services/FY22_CDNAs_Updated_112421/FeatureServer",
+      "features": 35,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fy22_cdnas_updated_112421.geojson"
+    },
+    {
+      "title": "Eden Tax Parcels 8_29_2022",
+      "url": "https://services7.arcgis.com/U2TkFBorkxYjHHc9/arcgis/rest/services/Eden_Tax_Parcels_8_29_2022/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "eden_tax_parcels_8_29_2022.geojson"
+    },
+    {
+      "title": "CANOPY_Data_Parks, Natural, Dev, ROW, Other land",
+      "url": "https://services3.arcgis.com/xJHn8F2NTtwCMFtX/arcgis/rest/services/CANOPY_OTHERLAND/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "canopy_data_parks__natural__dev__row__other_land.geojson"
+    },
+    {
+      "title": "NYS Tax Parcels Public",
+      "url": "https://services6.arcgis.com/EbVsqZ18sv1kVJ3k/arcgis/rest/services/NYS_Tax_Parcels_Public/FeatureServer",
+      "features": 36,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nys_tax_parcels_public.geojson"
+    },
+    {
+      "title": "CommercialRevitalizationGrants_FY26",
+      "url": "https://services5.arcgis.com/DLFSRk9amMA1nsmw/arcgis/rest/services/CommercialRevitalizationGrants_FY26/FeatureServer",
+      "features": 62,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "commercialrevitalizationgrants_fy26.geojson"
+    },
+    {
+      "title": "Commercial_Revitalization_Grants_FY25",
+      "url": "https://services5.arcgis.com/DLFSRk9amMA1nsmw/arcgis/rest/services/Commercial_Revitalization_Grants_FY25/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "commercial_revitalization_grants_fy25.geojson"
+    },
+    {
+      "title": "AllCDNAsFY26",
+      "url": "https://services5.arcgis.com/DLFSRk9amMA1nsmw/arcgis/rest/services/AllCDNAsFY26/FeatureServer",
+      "features": 58,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "allcdnasfy26.geojson"
+    }
+  ]
+}

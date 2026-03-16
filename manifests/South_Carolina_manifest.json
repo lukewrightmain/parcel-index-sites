@@ -1,0 +1,171 @@
+{
+  "state": "South Carolina",
+  "sources_attempted": 21,
+  "sources_successful": 18,
+  "total_features": 1419,
+  "pulled_at": "2026-03-16T01:38:22.696098",
+  "datasets": [
+    {
+      "title": "Horry County SC Parcels",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/HorryCountySCParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "horry_county_sc_parcels.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "SCDNR Public Lands Viewer",
+      "url": "https://services.arcgis.com/acgZYxoN5Oj8pDLa/arcgis/rest/services/DEV_-_SCDNR_Public_Lands_Viewer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "scdnr_public_lands_viewer.geojson"
+    },
+    {
+      "title": "City of Sumter Base Data",
+      "url": "https://gis.sumter-sc.com/server/rest/services/BaseMaps/Sumter_City_County/MapServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "city_of_sumter_base_data.geojson"
+    },
+    {
+      "title": "Lucas Parcel 2",
+      "url": "https://services1.arcgis.com/G0z1RCvykC1mcsVI/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lucas_parcel_2.geojson"
+    },
+    {
+      "title": "Hardeeville Parcels",
+      "url": "https://services.arcgis.com/ue9rwulIoeLEI9bj/arcgis/rest/services/Hardeeville_Parcels_070224/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hardeeville_parcels.geojson"
+    },
+    {
+      "title": "Greene County TN -  Tax Map Parcels",
+      "url": "https://services8.arcgis.com/vvyxpgJWEnRl6LgB/arcgis/rest/services/Greeneville_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "greene_county_tn_-__tax_map_parcels.geojson"
+    },
+    {
+      "title": "105248_DNRWaterfowl_Grant_Wetland_Scrape_Data",
+      "url": "https://services2.arcgis.com/YqPSsZvq2dd1wPP5/arcgis/rest/services/105248_NACWA_Grant_Wetland_Scrape_Data/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "105248_dnrwaterfowl_grant_wetland_scrape_data.geojson"
+    },
+    {
+      "title": "CKLOP Schedule A AppID_0000",
+      "url": "https://services3.arcgis.com/RQBDTPtsbT0jebs7/arcgis/rest/services/CKLOP_Schedule_A_AGOL/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cklop_schedule_a_appid_0000.geojson"
+    },
+    {
+      "title": "Neighborhood Initiative Program Property Data",
+      "url": "https://services.arcgis.com/4B9WU9185SohZnyi/arcgis/rest/services/NIP_Property_Data/FeatureServer",
+      "features": 98,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "neighborhood_initiative_program_property_data.geojson"
+    },
+    {
+      "title": "Hardeeville Parcels_070124",
+      "url": "https://services.arcgis.com/ue9rwulIoeLEI9bj/arcgis/rest/services/Hardeeville_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hardeeville_parcels_070124.geojson"
+    },
+    {
+      "title": "Parcels_W_owner",
+      "url": "https://services1.arcgis.com/5Gtv38l8677OspKm/arcgis/rest/services/Parcels_W_owner/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_w_owner.geojson"
+    },
+    {
+      "title": "CONWAY_RECREATION_DATA",
+      "url": "https://services.arcgis.com/hnx6Tshv9A7VucmF/arcgis/rest/services/CONWAY_RECREATION_DATA/FeatureServer",
+      "features": 11,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "conway_recreation_data.geojson"
+    },
+    {
+      "title": "Interactive Town of Sullivan_s Island Historical Resources Map_WFL1",
+      "url": "https://services3.arcgis.com/xKvDQ9PmaqgzOpn2/arcgis/rest/services/Interactive_Town_of_Sullivan_s_Island_Historical_Resources_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "interactive_town_of_sullivan_s_island_historical_resources_m.geojson"
+    },
+    {
+      "title": "USC System Parcels",
+      "url": "https://services1.arcgis.com/pRKvFlmLlelBHFfD/arcgis/rest/services/USC_System_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usc_system_parcels.geojson"
+    },
+    {
+      "title": "County_Owned Property_Scott1b_Bulloch County Story Map_WFL1",
+      "url": "https://services6.arcgis.com/LWQjwJ7OA9KVqj5e/arcgis/rest/services/County_Owned_Property_Scott1b_Bulloch_County_Story_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_owned_property_scott1b_bulloch_county_story_map_wfl1.geojson"
+    },
+    {
+      "title": "Branchville",
+      "url": "https://services1.arcgis.com/45BBL0CBuLJvmjvS/arcgis/rest/services/Branchville/FeatureServer",
+      "features": 3,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "branchville.geojson"
+    },
+    {
+      "title": "Other Protected Lands",
+      "url": "https://services3.arcgis.com/kdBUV7ozB9Xo7h9c/arcgis/rest/services/CPAD_and_CCED/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "other_protected_lands.geojson"
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "timestamp": "2026-03-16T01:45:23.448728",
+  "total_attempted": 7259,
+  "total_successful": 5936,
+  "total_features": 500116,
+  "states": {
+    "Alabama": {
+      "sources": 178,
+      "success": 166,
+      "features": 13613,
+      "archive": "alabama_parcels.tar.gz",
+      "size_mb": 201.76
+    },
+    "Alaska": {
+      "sources": 72,
+      "success": 50,
+      "features": 3990,
+      "archive": "alaska_parcels.tar.gz",
+      "size_mb": 64.38
+    },
+    "Arizona": {
+      "sources": 120,
+      "success": 108,
+      "features": 9625,
+      "archive": "arizona_parcels.tar.gz",
+      "size_mb": 10.64
+    },
+    "Arkansas": {
+      "sources": 131,
+      "success": 105,
+      "features": 8243,
+      "archive": "arkansas_parcels.tar.gz",
+      "size_mb": 27.69
+    },
+    "California": {
+      "sources": 167,
+      "success": 152,
+      "features": 12875,
+      "archive": "california_parcels.tar.gz",
+      "size_mb": 36.39
+    },
+    "Colorado": {
+      "sources": 464,
+      "success": 376,
+      "features": 30450,
+      "archive": "colorado_parcels.tar.gz",
+      "size_mb": 120.42
+    },
+    "Connecticut": {
+      "sources": 262,
+      "success": 78,
+      "features": 6999,
+      "archive": "connecticut_parcels.tar.gz",
+      "size_mb": 17.43
+    },
+    "Delaware": {
+      "sources": 129,
+      "success": 111,
+      "features": 8696,
+      "archive": "delaware_parcels.tar.gz",
+      "size_mb": 33.27
+    },
+    "District of Columbia": {
+      "sources": 60,
+      "success": 17,
+      "features": 1700,
+      "archive": "district_of_columbia_parcels.tar.gz",
+      "size_mb": 1.1
+    },
+    "Florida": {
+      "sources": 153,
+      "success": 128,
+      "features": 9769,
+      "archive": "florida_parcels.tar.gz",
+      "size_mb": 21.51
+    },
+    "Georgia": {
+      "sources": 98,
+      "success": 85,
+      "features": 7430,
+      "archive": "georgia_parcels.tar.gz",
+      "size_mb": 5.35
+    },
+    "Hawaii": {
+      "sources": 109,
+      "success": 85,
+      "features": 5862,
+      "archive": "hawaii_parcels.tar.gz",
+      "size_mb": 9.29
+    },
+    "Idaho": {
+      "sources": 94,
+      "success": 83,
+      "features": 6606,
+      "archive": "idaho_parcels.tar.gz",
+      "size_mb": 4.58
+    },
+    "Illinois": {
+      "sources": 115,
+      "success": 98,
+      "features": 8533,
+      "archive": "illinois_parcels.tar.gz",
+      "size_mb": 8.84
+    },
+    "Indiana": {
+      "sources": 1139,
+      "success": 940,
+      "features": 78139,
+      "archive": "indiana_parcels.tar.gz",
+      "size_mb": 233.08
+    },
+    "Iowa": {
+      "sources": 51,
+      "success": 43,
+      "features": 3854,
+      "archive": "iowa_parcels.tar.gz",
+      "size_mb": 6.97
+    },
+    "Kansas": {
+      "sources": 28,
+      "success": 20,
+      "features": 1810,
+      "archive": "kansas_parcels.tar.gz",
+      "size_mb": 1.92
+    },
+    "Kentucky": {
+      "sources": 102,
+      "success": 100,
+      "features": 9901,
+      "archive": "kentucky_parcels.tar.gz",
+      "size_mb": 21.15
+    },
+    "Louisiana": {
+      "sources": 128,
+      "success": 111,
+      "features": 9543,
+      "archive": "louisiana_parcels.tar.gz",
+      "size_mb": 12.62
+    },
+    "Maine": {
+      "sources": 44,
+      "success": 39,
+      "features": 3622,
+      "archive": "maine_parcels.tar.gz",
+      "size_mb": 9.69
+    },
+    "Maryland": {
+      "sources": 174,
+      "success": 88,
+      "features": 7627,
+      "archive": "maryland_parcels.tar.gz",
+      "size_mb": 7.06
+    },
+    "Massachusetts": {
+      "sources": 138,
+      "success": 129,
+      "features": 11544,
+      "archive": "massachusetts_parcels.tar.gz",
+      "size_mb": 20.59
+    },
+    "Michigan": {
+      "sources": 111,
+      "success": 83,
+      "features": 7013,
+      "archive": "michigan_parcels.tar.gz",
+      "size_mb": 35.45
+    },
+    "Minnesota": {
+      "sources": 40,
+      "success": 29,
+      "features": 2359,
+      "archive": "minnesota_parcels.tar.gz",
+      "size_mb": 7.55
+    },
+    "Mississippi": {
+      "sources": 24,
+      "success": 24,
+      "features": 1989,
+      "archive": "mississippi_parcels.tar.gz",
+      "size_mb": 2.87
+    },
+    "Missouri": {
+      "sources": 49,
+      "success": 38,
+      "features": 2969,
+      "archive": "missouri_parcels.tar.gz",
+      "size_mb": 7.06
+    },
+    "Montana": {
+      "sources": 88,
+      "success": 83,
+      "features": 6392,
+      "archive": "montana_parcels.tar.gz",
+      "size_mb": 12.04
+    },
+    "Nebraska": {
+      "sources": 44,
+      "success": 37,
+      "features": 3441,
+      "archive": "nebraska_parcels.tar.gz",
+      "size_mb": 3.69
+    },
+    "Nevada": {
+      "sources": 19,
+      "success": 17,
+      "features": 853,
+      "archive": "nevada_parcels.tar.gz",
+      "size_mb": 0.39
+    },
+    "New Hampshire": {
+      "sources": 25,
+      "success": 21,
+      "features": 1958,
+      "archive": "new_hampshire_parcels.tar.gz",
+      "size_mb": 1.2
+    },
+    "New Jersey": {
+      "sources": 79,
+      "success": 65,
+      "features": 4960,
+      "archive": "new_jersey_parcels.tar.gz",
+      "size_mb": 39.62
+    },
+    "New Mexico": {
+      "sources": 36,
+      "success": 35,
+      "features": 2786,
+      "archive": "new_mexico_parcels.tar.gz",
+      "size_mb": 4.69
+    },
+    "New York": {
+      "sources": 54,
+      "success": 46,
+      "features": 3685,
+      "archive": "new_york_parcels.tar.gz",
+      "size_mb": 9.77
+    },
+    "North Carolina": {
+      "sources": 87,
+      "success": 46,
+      "features": 4249,
+      "archive": "north_carolina_parcels.tar.gz",
+      "size_mb": 3.73
+    },
+    "North Dakota": {
+      "sources": 13,
+      "success": 11,
+      "features": 1024,
+      "archive": "north_dakota_parcels.tar.gz",
+      "size_mb": 0.24
+    },
+    "Ohio": {
+      "sources": 87,
+      "success": 69,
+      "features": 6483,
+      "archive": "ohio_parcels.tar.gz",
+      "size_mb": 5.24
+    },
+    "Oklahoma": {
+      "sources": 15,
+      "success": 14,
+      "features": 1165,
+      "archive": "oklahoma_parcels.tar.gz",
+      "size_mb": 0.24
+    },
+    "Oregon": {
+      "sources": 192,
+      "success": 181,
+      "features": 16023,
+      "archive": "oregon_parcels.tar.gz",
+      "size_mb": 59.7
+    },
+    "Pennsylvania": {
+      "sources": 267,
+      "success": 195,
+      "features": 17679,
+      "archive": "pennsylvania_parcels.tar.gz",
+      "size_mb": 25.12
+    },
+    "Rhode Island": {
+      "sources": 32,
+      "success": 22,
+      "features": 1989,
+      "archive": "rhode_island_parcels.tar.gz",
+      "size_mb": 5.63
+    },
+    "South Carolina": {
+      "sources": 21,
+      "success": 18,
+      "features": 1419,
+      "archive": "south_carolina_parcels.tar.gz",
+      "size_mb": 0.56
+    },
+    "South Dakota": {
+      "sources": 17,
+      "success": 10,
+      "features": 621,
+      "archive": "south_dakota_parcels.tar.gz",
+      "size_mb": 0.31
+    },
+    "Tennessee": {
+      "sources": 32,
+      "success": 31,
+      "features": 2609,
+      "archive": "tennessee_parcels.tar.gz",
+      "size_mb": 5.84
+    },
+    "Texas": {
+      "sources": 29,
+      "success": 29,
+      "features": 2647,
+      "archive": "texas_parcels.tar.gz",
+      "size_mb": 2.24
+    },
+    "Unknown": {
+      "sources": 1511,
+      "success": 1346,
+      "features": 113767,
+      "archive": "unknown_parcels.tar.gz",
+      "size_mb": 317.7
+    },
+    "Utah": {
+      "sources": 109,
+      "success": 105,
+      "features": 10202,
+      "archive": "utah_parcels.tar.gz",
+      "size_mb": 6.72
+    },
+    "Vermont": {
+      "sources": 57,
+      "success": 52,
+      "features": 3321,
+      "archive": "vermont_parcels.tar.gz",
+      "size_mb": 2.08
+    },
+    "Virginia": {
+      "sources": 68,
+      "success": 56,
+      "features": 4233,
+      "archive": "virginia_parcels.tar.gz",
+      "size_mb": 14.61
+    },
+    "Washington": {
+      "sources": 87,
+      "success": 69,
+      "features": 5896,
+      "archive": "washington_parcels.tar.gz",
+      "size_mb": 6.78
+    },
+    "West Virginia": {
+      "sources": 13,
+      "success": 13,
+      "features": 1178,
+      "archive": "west_virginia_parcels.tar.gz",
+      "size_mb": 0.24
+    },
+    "Wisconsin": {
+      "sources": 64,
+      "success": 49,
+      "features": 4401,
+      "archive": "wisconsin_parcels.tar.gz",
+      "size_mb": 2.95
+    },
+    "Wyoming": {
+      "sources": 33,
+      "success": 30,
+      "features": 2374,
+      "archive": "wyoming_parcels.tar.gz",
+      "size_mb": 6.8
+    }
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "state": "Arkansas",
+  "sources_attempted": 131,
+  "sources_successful": 105,
+  "total_features": 8243,
+  "pulled_at": "2026-03-16T01:17:14.192026",
+  "datasets": [
+    {
+      "title": "2022 Tax Rate Areas in San Bernardino County",
+      "url": "https://services.arcgis.com/aA3snZwJfFkVyDuP/arcgis/rest/services/Tax_Rate_Areas_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2022_tax_rate_areas_in_san_bernardino_county.geojson"
+    },
+    {
+      "title": "Z Accessory Dwelling Unit Exclusion - View Layer",
+      "url": "https://services1.arcgis.com/P5Mv5GY5S66M8Z1Q/arcgis/rest/services/Z_Accessory_Dwelling_Unit_Exclusion/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "z_accessory_dwelling_unit_exclusion_-_view_layer.geojson"
+    },
+    {
+      "title": "BLM CO PLSS Intersected Survey Grid",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Colorado_PLSS_Intersected___Survey_Grid/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_plss_intersected_survey_grid.geojson"
+    },
+    {
+      "title": "BLM CO PLSS Points Corners",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Colorado_PLSS_Points___Corners/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_plss_points_corners.geojson"
+    },
+    {
+      "title": "USA Flood Hazard Areas",
+      "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Flood_Hazard_Reduced_Set_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "usa_flood_hazard_areas.geojson"
+    },
+    {
+      "title": "Parcel Data Arkansas",
+      "url": "https://gis.arkansas.gov/arcgis/rest/services/FEATURESERVICES/Planning_Cadastre/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_data_arkansas.geojson"
+    },
+    {
+      "title": "Washington Parcels",
+      "url": "https://services9.arcgis.com/QRmTMEqtRjkZ85qX/arcgis/rest/services/Washington_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washington_parcels.geojson"
+    },
+    {
+      "title": "CodeArea",
+      "url": "https://services3.arcgis.com/tNPgIZWOB0Efvm0g/arcgis/rest/services/CodeArea/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "codearea.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES PULASKI COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_PULASKI_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bam_properties_pulaski_county.geojson"
+    },
+    {
+      "title": "Johnston County NC Parcels 2023",
+      "url": "https://services.arcgis.com/rD2ylXRs80UroD90/arcgis/rest/services/Johnston_County_NC_Parcels_2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "johnston_county_nc_parcels_2023.geojson"
+    },
+    {
+      "title": "Sensitive Coastal Ecosystem Area2",
+      "url": "https://services6.arcgis.com/Y6jyX1765vdZuyQH/arcgis/rest/services/Sensitive_Coastal_Ecosystem_Area2/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sensitive_coastal_ecosystem_area2.geojson"
+    },
+    {
+      "title": "PreservationArea",
+      "url": "https://services6.arcgis.com/Y6jyX1765vdZuyQH/arcgis/rest/services/PreservationArea/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "preservationarea.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES BAXTER COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_BAXTER_COUNTY/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_baxter_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES IZARD COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_IZARD_COUNTY/FeatureServer",
+      "features": 69,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_izard_county.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES SHARP COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_SHARP_COUNTY/FeatureServer",
+      "features": 12,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_sharp_county.geojson"
+    },
+    {
+      "title": "BLM CA Public Land Survey System CadNSDI",
+      "url": "https://gis.blm.gov/caarcgis/rest/services/lands/BLM_CA_CADNSDI/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_ca_public_land_survey_system_cadnsdi.geojson"
+    },
+    {
+      "title": "BLM CO FM Lease Sale Q4 2025",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_FM_Lease_Sale_Q4_2025/FeatureServer",
+      "features": 61,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_fm_lease_sale_q4_2025.geojson"
+    },
+    {
+      "title": "BLM Colorado WEG v Haaland Supplemental Analysis EA Parcels",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_WEG_v_Haaland_Supplemental_Analysis_EA_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_colorado_weg_v_haaland_supplemental_analysis_ea_parcels.geojson"
+    },
+    {
+      "title": "BLM CO Oil and Gas Lease Sale Q3 2025",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_Oil_and_Gas_Lease_Sale_Q3_2025/FeatureServer",
+      "features": 61,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_oil_and_gas_lease_sale_q3_2025.geojson"
+    },
+    {
+      "title": "BLM WY Public Land Survey System Township",
+      "url": "https://gis.blm.gov/wyarcgis/rest/services/Cadastral/BLM_WY_Public_Land_Survey_System_Township/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_wy_public_land_survey_system_township.geojson"
+    },
+    {
+      "title": "Parcel_layers_ArcGISonline_LUZO",
+      "url": "https://services.arcgis.com/KkJhFbLnXVqahKz2/arcgis/rest/services/Parcel_layers_ArcGISonline_LUZO/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_layers_arcgisonline_luzo.geojson"
+    },
+    {
+      "title": "BLM OR Cadastral PLSS Second Division Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Cadastral_PLSS_Second_Division_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_cadastral_plss_second_division_polygon_hub.geojson"
+    },
+    {
+      "title": "BLM CO PLSS Township",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Colorado_PLSS_Township/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_plss_township.geojson"
+    },
+    {
+      "title": "GLCWRA_study_areas_pro_WFL",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/GLCWRA_study_areas_pro_WFL/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "glcwra_study_areas_pro_wfl.geojson"
+    },
+    {
+      "title": "BLM CO Q2 2026 Oil and Gas Lease Sale",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_Q2_2026_Oil_and_Gas_Lease_Sale/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_co_q2_2026_oil_and_gas_lease_sale.geojson"
+    },
+    {
+      "title": "BLM OR Cadastral PLSS Intersected Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Cadastral_PLSS_Intersected_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_cadastral_plss_intersected_polygon_hub.geojson"
+    },
+    {
+      "title": "Critical_Areas",
+      "url": "https://services7.arcgis.com/5d703jjhemO6FlIW/arcgis/rest/services/Critical_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "critical_areas.geojson"
+    },
+    {
+      "title": "Parcels for King County with Address, Property and Ownership Information",
+      "url": "https://services.arcgis.com/Ej0PsM5Aw677QF1W/arcgis/rest/services/PARCEL_ADDRESS_PUB_AREA_3069/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_for_king_county_with_address__property_and_ownership.geojson"
+    },
+    {
+      "title": "BLM OR Cadastral PLSS First Division Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Cadastral_PLSS_First_Division_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_cadastral_plss_first_division_polygon_hub.geojson"
+    },
+    {
+      "title": "BLM CO PLSS Second  Division Aliquot",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Colorado_PLSS_Second__Division___Aliquot/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_plss_second__division_aliquot.geojson"
+    },
+    {
+      "title": "Protected_areas_southern_CA",
+      "url": "https://services1.arcgis.com/SIYkiqjmENweC50g/arcgis/rest/services/Protected_areas_southern_CA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_areas_southern_ca.geojson"
+    },
+    {
+      "title": "BC_Parcels2020",
+      "url": "https://services1.arcgis.com/GkTTq9BaSPUnctWP/arcgis/rest/services/BC_Parcels2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bc_parcels2020.geojson"
+    },
+    {
+      "title": "BLM ID Surface Management Agency",
+      "url": "https://gis.blm.gov/idarcgis/rest/services/realty/BLM_ID_Surface_Management_Agency/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_id_surface_management_agency.geojson"
+    },
+    {
+      "title": "Mukilteo_Area_Parcel_Boundaries",
+      "url": "https://services2.arcgis.com/csauTsCJzwR6Erxa/arcgis/rest/services/Mukilteo_Area_Parcel_Boundaries/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mukilteo_area_parcel_boundaries.geojson"
+    },
+    {
+      "title": "Assessor Parcels (clipped to Arlington)",
+      "url": "https://services3.arcgis.com/nPsPH23NWoWmXQgb/arcgis/rest/services/Assessor_Parcels_AGO/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "assessor_parcels__clipped_to_arlington_.geojson"
+    },
+    {
+      "title": "BLM WY Public Land Survey System Second Division",
+      "url": "https://gis.blm.gov/wyarcgis/rest/services/Cadastral/BLM_WY_Public_Land_Survey_System_Second_Division/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_wy_public_land_survey_system_second_division.geojson"
+    },
+    {
+      "title": "BLM OR Cadastral PLSS Township Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Cadastral_PLSS_Township_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_cadastral_plss_township_polygon_hub.geojson"
+    },
+    {
+      "title": "FLU2013_view",
+      "url": "https://services2.arcgis.com/duYcbdxVVOdnGdbq/arcgis/rest/services/Future_Land_Use_1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "flu2013_view.geojson"
+    },
+    {
+      "title": "98CW0173 Augmentation Plan Land Area",
+      "url": "https://services1.arcgis.com/38PTfoP8IjlBsxZN/arcgis/rest/services/98CW0173_Augmentation_Plan_Land_Area/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "98cw0173_augmentation_plan_land_area.geojson"
+    },
+    {
+      "title": "BLM CO PLSS Special Survey",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Colorado_PLSS_Special_Survey/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_plss_special_survey.geojson"
+    },
+    {
+      "title": "BLM NM Lands Surface Management Agency",
+      "url": "https://gis.blm.gov/nmarcgis/rest/services/Lands/BLM_NM_Lands_Surface_Management_Agency/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nm_lands_surface_management_agency.geojson"
+    },
+    {
+      "title": "BLM NM Lands Mineral Estate",
+      "url": "https://gis.blm.gov/nmarcgis/rest/services/Lands/BLM_NM_Lands_Mineral_Estate/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nm_lands_mineral_estate.geojson"
+    },
+    {
+      "title": "Pheasant_Hunt_Areas",
+      "url": "https://services6.arcgis.com/cWzdqIyxbijuhPLw/arcgis/rest/services/Pheasant_Hunt_Areas/FeatureServer",
+      "features": 15,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pheasant_hunt_areas.geojson"
+    },
+    {
+      "title": "BLM NV PLSS CADNSDI Version 2 Township Polygon",
+      "url": "https://gis.blm.gov/nvarcgis/rest/services/BLM_Nevada_Public_Land_Survey_System/PLSS_Township_Range/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nv_plss_cadnsdi_version_2_township_polygon.geojson"
+    },
+    {
+      "title": "Parcels_Washington_County",
+      "url": "https://services1.arcgis.com/G4bYaaas92zuKaUR/arcgis/rest/services/Parcels_Washington_County/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_washington_county.geojson"
+    },
+    {
+      "title": "BLM OR Land Tenure Zones Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Land_Tenure_Zones_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_or_land_tenure_zones_polygon_hub.geojson"
+    },
+    {
+      "title": "Subdivisions_WashingtonCounty",
+      "url": "https://services1.arcgis.com/G4bYaaas92zuKaUR/arcgis/rest/services/Subdivisions_WashingtonCounty/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivisions_washingtoncounty.geojson"
+    },
+    {
+      "title": "Benton_County_Parcels_(Auto-Update)",
+      "url": "https://services3.arcgis.com/Saiq4fph9UFbozPk/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "benton_county_parcels__auto-update_.geojson"
+    },
+    {
+      "title": "Sherwood Land Use Plan",
+      "url": "https://services9.arcgis.com/TYC03dQ8ZCOCi5CP/arcgis/rest/services/Land_Use_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sherwood_land_use_plan.geojson"
+    },
+    {
+      "title": "BLM OR Cadastral PLSS Special Survey Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Cadastral_PLSS_Special_Survey_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_cadastral_plss_special_survey_polygon_hub.geojson"
+    },
+    {
+      "title": "Pipeline_Data_Center_Areas",
+      "url": "https://services1.arcgis.com/MxjRokvPm7bjslyR/arcgis/rest/services/Pipeline_Data_Center_Areas/FeatureServer",
+      "features": 87,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pipeline_data_center_areas.geojson"
+    },
+    {
+      "title": "BLM OR Acquisitions and Disposals Poly Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Acquisitions_and_Disposals_Poly_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_or_acquisitions_and_disposals_poly_hub.geojson"
+    },
+    {
+      "title": "BLM OR Cadastral Meandered Water Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Cadastral_Meandered_Water_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_cadastral_meandered_water_polygon_hub.geojson"
+    },
+    {
+      "title": "BLM OR Cadastral PLSS Metadata Glance Polygon Hub",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Cadastral_PLSS_Metadata_Glance_Polygon_Hub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_or_cadastral_plss_metadata_glance_polygon_hub.geojson"
+    },
+    {
+      "title": "Washington County Subdivisions",
+      "url": "https://services1.arcgis.com/G4bYaaas92zuKaUR/arcgis/rest/services/Washington_County_Subdivisions/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washington_county_subdivisions.geojson"
+    },
+    {
+      "title": "Siloam Springs Parcels",
+      "url": "https://services.arcgis.com/t6fsA0jUdL7JkKG2/arcgis/rest/services/Siloam_Springs_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "siloam_springs_parcels.geojson"
+    },
+    {
+      "title": "BLM Idaho SW Montana Greater SageGrouse FINAL EIS Sagebrush Focal Areas 2015ROD Poly",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Idaho_SW_Montana_Greater_SageGrouse_FINAL_EIS_Sagebrush_Focal_Areas_2015ROD_Poly/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_idaho_sw_montana_greater_sagegrouse_final_eis_sagebrush_.geojson"
+    },
+    {
+      "title": "Belgrade_Planning_Area_Zoning_2_19_25",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Belgrade_Planning_Area_Zoning_2_19_25/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "belgrade_planning_area_zoning_2_19_25.geojson"
+    },
+    {
+      "title": "LORTON_STUDY_AREAS",
+      "url": "https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/LORTON_STUDY_AREAS/FeatureServer",
+      "features": 8,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lorton_study_areas.geojson"
+    },
+    {
+      "title": "WC_Parcels_Feb2024",
+      "url": "https://services6.arcgis.com/fS1JyZNCyGtHwhoY/arcgis/rest/services/WC_Parcels_Feb2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wc_parcels_feb2024.geojson"
+    },
+    {
+      "title": "General Reference_UA Parcels_2025",
+      "url": "https://services6.arcgis.com/NscFgFhf5MwmFH31/arcgis/rest/services/Parcel_UARK_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "general_reference_ua_parcels_2025.geojson"
+    },
+    {
+      "title": "FmHA of Arkansas",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/fmha_of_arkansas_0724_shp2/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fmha_of_arkansas.geojson"
+    },
+    {
+      "title": "BLM CO Oil Gas Lease Sale 2013 2022",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_Oil_Gas_Lease_Sale_2013_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_oil_gas_lease_sale_2013_2022.geojson"
+    },
+    {
+      "title": "MAV State Managed Lands (WMAs)",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/MAV_state_managed_lands_2021/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mav_state_managed_lands__wmas_.geojson"
+    },
+    {
+      "title": "BLM CO Deferred Removed Closed Sale Parcels",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_Deferred_Removed_Closed_Sale_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_co_deferred_removed_closed_sale_parcels.geojson"
+    },
+    {
+      "title": "BLM CO Q1 2026 Deferred Oil and Gas Lease Sale Parcels",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_Oil_Gas_Lease_Sale_Q1_2026_Deferred/FeatureServer",
+      "features": 15,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_co_q1_2026_deferred_oil_and_gas_lease_sale_parcels.geojson"
+    },
+    {
+      "title": "HL_0122_GML_Area_REv_DW_SS",
+      "url": "https://services.arcgis.com/NuWFvHYDMVmmxMeM/arcgis/rest/services/HL_0122_GML_Area_REv_DW_SS/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hl_0122_gml_area_rev_dw_ss.geojson"
+    },
+    {
+      "title": "Belgrade_Planning_Area_Zoning_4_9_25",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Belgrade_Planning_Area_Zoning_4_9_25/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "belgrade_planning_area_zoning_4_9_25.geojson"
+    },
+    {
+      "title": "Agricultural_Enterprise_Areas",
+      "url": "https://services6.arcgis.com/Tu5JcmtrRRLVaRlf/arcgis/rest/services/Agricultural_Enterprise_Areas/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "agricultural_enterprise_areas.geojson"
+    },
+    {
+      "title": "BLM NV PLSS CADNSDI Version 2 Meandered Water Polygon",
+      "url": "https://gis.blm.gov/nvarcgis/rest/services/BLM_Nevada_Public_Land_Survey_System/PLSS_Meandered_Water/FeatureServer",
+      "features": 63,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nv_plss_cadnsdi_version_2_meandered_water_polygon.geojson"
+    },
+    {
+      "title": "MSU Parcels in OBC_WFL1",
+      "url": "https://services9.arcgis.com/QHXEWAb0pE2rvfbb/arcgis/rest/services/MSU_Parcels_in_OBC_WFL1/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "msu_parcels_in_obc_wfl1.geojson"
+    },
+    {
+      "title": "New_England_Cottontail_Focus_Areas",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/New_England_Cottontail_Focus_Areas/FeatureServer",
+      "features": 49,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "new_england_cottontail_focus_areas.geojson"
+    },
+    {
+      "title": "BLM CO Oil and Gas Lease Sale Q3 (September) 2026",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_CO_Oil_Gas_Lease_Sale_Q3_2026/FeatureServer",
+      "features": 31,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_co_oil_and_gas_lease_sale_q3__september__2026.geojson"
+    },
+    {
+      "title": "Berks_County_Parcels_Study_Area",
+      "url": "https://services3.arcgis.com/g6eV2CrSSwCZj8Mc/arcgis/rest/services/Berks_County_Parcels_Study_Area/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "berks_county_parcels_study_area.geojson"
+    },
+    {
+      "title": "WT_CAFO_SIMPLE_AR_SV_20211104",
+      "url": "https://services3.arcgis.com/C5aIa0c3gUMji8fg/arcgis/rest/services/WT_CAFO_SIMPLE_AR_SV_20211104/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wt_cafo_simple_ar_sv_20211104.geojson"
+    },
+    {
+      "title": "CT_NEC_Focus_Areas_2020_MTBI",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/CT_NEC_Focus_Areas_2020_MTBI/FeatureServer",
+      "features": 12,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ct_nec_focus_areas_2020_mtbi.geojson"
+    },
+    {
+      "title": "Siloam Springs Existing LU",
+      "url": "https://services.arcgis.com/t6fsA0jUdL7JkKG2/arcgis/rest/services/Siloam_Springs_Existing_LU/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "siloam_springs_existing_lu.geojson"
+    },
+    {
+      "title": "CityLimits_202508",
+      "url": "https://services1.arcgis.com/wyoDVuo3QgawYe6R/arcgis/rest/services/CityLimits_202508/FeatureServer",
+      "features": 29,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "citylimits_202508.geojson"
+    },
+    {
+      "title": "Jonesboro_ Arkansas_ lvl 3_4 Sex Offender Residential Restrictions_WFL1",
+      "url": "https://services6.arcgis.com/FrMXGnrs7J0gRe2w/arcgis/rest/services/Jonesboro__Arkansas__lvl_3_4_Sex_Offender_Residential_Restrictions_WFL1/FeatureServer",
+      "features": 9,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "jonesboro__arkansas__lvl_3_4_sex_offender_residential_restri.geojson"
+    },
+    {
+      "title": "Parcels_DARB_Area",
+      "url": "https://services9.arcgis.com/eNX73FDxjlKFtCtH/arcgis/rest/services/Parcels_DARB_Area/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_darb_area.geojson"
+    },
+    {
+      "title": "Path_Intersecting_Parcels",
+      "url": "https://services.arcgis.com/PwY9ZuZRDiI5nXUB/arcgis/rest/services/Path_Intersecting_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "path_intersecting_parcels.geojson"
+    },
+    {
+      "title": "Potential_Developable_Areas",
+      "url": "https://services1.arcgis.com/qTQ6qYkHpxlu0G82/arcgis/rest/services/Potential_Developable_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "potential_developable_areas.geojson"
+    },
+    {
+      "title": "CityLimits_2",
+      "url": "https://services1.arcgis.com/wyoDVuo3QgawYe6R/arcgis/rest/services/CityLimits_2/FeatureServer",
+      "features": 23,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "citylimits_2.geojson"
+    },
+    {
+      "title": "Development_Process_Areas",
+      "url": "https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Development_Process_Areas/FeatureServer",
+      "features": 57,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "development_process_areas.geojson"
+    },
+    {
+      "title": "Planning Area Parcels",
+      "url": "https://services6.arcgis.com/6TZ2wV0tqNiq5bdQ/arcgis/rest/services/Planning_Area_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "planning_area_parcels.geojson"
+    },
+    {
+      "title": "Kauai Bus Maintenance Facility Improvements for Electric Buses",
+      "url": "https://services.arcgis.com/HQ0xoN0EzDPBOEci/arcgis/rest/services/Kauai_Bus_Maintenance_Facility_Improvements_for_Electric_Buses/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "kauai_bus_maintenance_facility_improvements_for_electric_bus.geojson"
+    },
+    {
+      "title": "Parks",
+      "url": "https://services6.arcgis.com/6TZ2wV0tqNiq5bdQ/arcgis/rest/services/Parks/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parks.geojson"
+    },
+    {
+      "title": "BLM NV PLSS CADNSDI Version 2 Conflicted Areas Polygon",
+      "url": "https://gis.blm.gov/nvarcgis/rest/services/BLM_Nevada_Public_Land_Survey_System/PLSS_Conflicted_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nv_plss_cadnsdi_version_2_conflicted_areas_polygon.geojson"
+    },
+    {
+      "title": "Outer Continental Shelf Lands Act",
+      "url": "https://coast.noaa.gov/arcgis/rest/services/Hosted/OuterContinentalShelfLandsAct/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "outer_continental_shelf_lands_act.geojson"
+    },
+    {
+      "title": "BLM NV PLSS CADNSDI Version 2 Metadata Glance Polygon",
+      "url": "https://gis.blm.gov/nvarcgis/rest/services/BLM_Nevada_Public_Land_Survey_System/PLSS_Metadata_Glance/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nv_plss_cadnsdi_version_2_metadata_glance_polygon.geojson"
+    },
+    {
+      "title": "WorkingElectionAnnex_GO",
+      "url": "https://services1.arcgis.com/G4bYaaas92zuKaUR/arcgis/rest/services/WorkingElectionAnnex_GO/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "workingelectionannex_go.geojson"
+    },
+    {
+      "title": "LowerArkansasFloodIrrigatedParcels",
+      "url": "https://services3.arcgis.com/kfmqp6kwSeDnDKNY/arcgis/rest/services/LowerArkansasFloodIrrigatedParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lowerarkansasfloodirrigatedparcels.geojson"
+    },
+    {
+      "title": "PrivateWW_Areas_Merge",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/PrivateWW_Areas_Merge/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "privateww_areas_merge.geojson"
+    },
+    {
+      "title": "BLM NV PLSS CADNSDI Version 2 Special Survey Polygon",
+      "url": "https://gis.blm.gov/nvarcgis/rest/services/BLM_Nevada_Public_Land_Survey_System/PLSS_Special_Survey/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nv_plss_cadnsdi_version_2_special_survey_polygon.geojson"
+    },
+    {
+      "title": "pfi_wfl_vgis_15_plss_twnshp_area_17",
+      "url": "https://services9.arcgis.com/3rXH4sezkkx7AsUX/arcgis/rest/services/pfi_wfl_vgis_15_plss_twnshp_area_17/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pfi_wfl_vgis_15_plss_twnshp_area_17.geojson"
+    },
+    {
+      "title": "Municipal Zoning Parcels",
+      "url": "https://services6.arcgis.com/6TZ2wV0tqNiq5bdQ/arcgis/rest/services/Municipal_Zoning_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipal_zoning_parcels.geojson"
+    },
+    {
+      "title": "HamdenParcels_ArcGISUrban",
+      "url": "https://services4.arcgis.com/aiT2wj8AeYYCcl8F/arcgis/rest/services/HamdenParcels_ArcGISUrban/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "hamdenparcels_arcgisurban.geojson"
+    },
+    {
+      "title": "pfi_wfl_vgis_15_plss_twnshp_area_19",
+      "url": "https://services9.arcgis.com/3rXH4sezkkx7AsUX/arcgis/rest/services/pfi_wfl_vgis_15_plss_twnshp_area_19/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pfi_wfl_vgis_15_plss_twnshp_area_19.geojson"
+    },
+    {
+      "title": "BLM NV PLSS CADNSDI Version 2 First Division Polygon",
+      "url": "https://gis.blm.gov/nvarcgis/rest/services/BLM_Nevada_Public_Land_Survey_System/PLSS_First_Division_Section/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_nv_plss_cadnsdi_version_2_first_division_polygon.geojson"
+    },
+    {
+      "title": "protected_areas_2015",
+      "url": "https://services7.arcgis.com/yiuFazTjHE8F5gzQ/arcgis/rest/services/protected_areas_2015/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_areas_2015.geojson"
+    },
+    {
+      "title": "Parcels to Impervious_Surface_AR",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Parcels_to_Impervious_Surface_AR/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_to_impervious_surface_ar.geojson"
+    },
+    {
+      "title": "Plat_Service_Areas",
+      "url": "https://services1.arcgis.com/x4h61KaW16vFs7PM/arcgis/rest/services/Plat_Service_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plat_service_areas.geojson"
+    },
+    {
+      "title": "ITOSS Parcels to Incorporated Areas",
+      "url": "https://services1.arcgis.com/mLNdQKiKsj5Z5YMN/arcgis/rest/services/Summarize_Parcel_ITOSS_join_Parcel_ITOSS_join_within_Incorporated_Areas_of_Indiana_Current/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "itoss_parcels_to_incorporated_areas.geojson"
+    },
+    {
+      "title": "Impervious_Surface_ARS",
+      "url": "https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/Impervious_Surface_ARS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "impervious_surface_ars.geojson"
+    },
+    {
+      "title": "Assessed Value Per Acre V2_WFL1",
+      "url": "https://services.arcgis.com/jybuAt4W2nM6OoyQ/arcgis/rest/services/Assessed_Value_Per_Acre_V2_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "assessed_value_per_acre_v2_wfl1.geojson"
+    }
+  ]
+}

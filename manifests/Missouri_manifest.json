@@ -1,0 +1,351 @@
+{
+  "state": "Missouri",
+  "sources_attempted": 49,
+  "sources_successful": 38,
+  "total_features": 2969,
+  "pulled_at": "2026-03-16T01:32:07.882356",
+  "datasets": [
+    {
+      "title": "Parcels",
+      "url": "https://maps.stlouisco.com/hosting/rest/services/Maps/AGS_Parcels/MapServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "TC_Mobilehome_Parks",
+      "url": "https://services3.arcgis.com/afQpMaliVrwHS7Ud/arcgis/rest/services/TC_Mobilehome_Parks/FeatureServer",
+      "features": 33,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tc_mobilehome_parks.geojson"
+    },
+    {
+      "title": "Lots And Dimensions",
+      "url": "https://services3.arcgis.com/4LOAHoFXfea6Y3Et/arcgis/rest/services/LotsAndDimensRepub/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lots_and_dimensions.geojson"
+    },
+    {
+      "title": "Parcels (General Use- AGOL)",
+      "url": "https://services.arcgis.com/sbDzK061dd6DNPHv/arcgis/rest/services/COI_Parcels_2_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels__general_use-_agol_.geojson"
+    },
+    {
+      "title": "Flagged Parcels",
+      "url": "https://services.arcgis.com/AZVIEb4WFZST2UYx/arcgis/rest/services/Flagged_Parcels/FeatureServer",
+      "features": 50,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "flagged_parcels.geojson"
+    },
+    {
+      "title": "MCAD Tax Parcel View",
+      "url": "https://services1.arcgis.com/PRoAPGnMSUqvTrzq/arcgis/rest/services/Tax_Parcel_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mcad_tax_parcel_view.geojson"
+    },
+    {
+      "title": "MCAD Tax Parcel per Class",
+      "url": "https://services1.arcgis.com/PRoAPGnMSUqvTrzq/arcgis/rest/services/TaxParcelperClass/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mcad_tax_parcel_per_class.geojson"
+    },
+    {
+      "title": "OLD MCAD Tax Parcel",
+      "url": "https://services1.arcgis.com/PRoAPGnMSUqvTrzq/arcgis/rest/services/TaxParcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "old_mcad_tax_parcel.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services2.arcgis.com/nOGTdfb4kF4dZljH/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Zoning And Districts",
+      "url": "https://services7.arcgis.com/FoNeaE7T0zfL3Ub1/arcgis/rest/services/Zoning_And_Districts/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_and_districts.geojson"
+    },
+    {
+      "title": "Platte_City_MO_Property_view",
+      "url": "https://services2.arcgis.com/ji2hJlB9RmHn0um4/arcgis/rest/services/Platte_City_MO_Property_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "platte_city_mo_property_view.geojson"
+    },
+    {
+      "title": "Zoning _ Jurisdictions Update Prototype v3_WFL1",
+      "url": "https://services2.arcgis.com/w657bnjzrjguNyOy/arcgis/rest/services/Zoning___Jurisdictions_Update_Prototype_v3_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning___jurisdictions_update_prototype_v3_wfl1.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/AZVIEb4WFZST2UYx/arcgis/rest/services/Parcels2019/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "CVRPC_MontpelierGrowthArea_Expanded",
+      "url": "https://services8.arcgis.com/YKIZLV97YLZN6bol/arcgis/rest/services/CVRPC_MontpelierGrowthArea_Expanded/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cvrpc_montpeliergrowtharea_expanded.geojson"
+    },
+    {
+      "title": "GraterFarm",
+      "url": "https://services1.arcgis.com/kOChldNuKsox8qZD/arcgis/rest/services/GraterFarm/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "graterfarm.geojson"
+    },
+    {
+      "title": "Newton Parcels",
+      "url": "https://services3.arcgis.com/g6eV2CrSSwCZj8Mc/arcgis/rest/services/Newton_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "newton_parcels.geojson"
+    },
+    {
+      "title": "LandUse2010_Monona",
+      "url": "https://services3.arcgis.com/Vo7Ou0VLS8DJGJTA/arcgis/rest/services/LandUse2010_Monona/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "landuse2010_monona.geojson"
+    },
+    {
+      "title": "Missouri City Parcel",
+      "url": "https://services2.arcgis.com/6vRbgYSxztFGZwla/arcgis/rest/services/Missouri_City_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "missouri_city_parcel.geojson"
+    },
+    {
+      "title": "MorrisvilleZoning",
+      "url": "https://services.arcgis.com/ud8kSLNkfBb9WX8U/arcgis/rest/services/MorrisvilleZoning/FeatureServer",
+      "features": 33,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "morrisvillezoning.geojson"
+    },
+    {
+      "title": "CVRPC_MontpelierGrowthArea_Expanded",
+      "url": "https://services6.arcgis.com/ALaxfASMULIJ1PP6/arcgis/rest/services/CVRPC_MontpelierGrowthArea_Expanded/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cvrpc_montpeliergrowtharea_expanded.geojson"
+    },
+    {
+      "title": "Land Trust  Holdings",
+      "url": "https://services.arcgis.com/sbDzK061dd6DNPHv/arcgis/rest/services/Land_Trust_of_Jackson_County_Missouri_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "land_trust__holdings.geojson"
+    },
+    {
+      "title": "Arnold_MO_Parcels",
+      "url": "https://services1.arcgis.com/zu6xfLmDAkwJGZJy/arcgis/rest/services/Arnold_MO_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "arnold_mo_parcels.geojson"
+    },
+    {
+      "title": "Newton Parcels v1",
+      "url": "https://services3.arcgis.com/g6eV2CrSSwCZj8Mc/arcgis/rest/services/Newton_Parcels_v1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "newton_parcels_v1.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services7.arcgis.com/nqa85ZDSsMNrKusD/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Parcels Zoned for Public Activity (PA) ",
+      "url": "https://services3.arcgis.com/G53ZHa9kCVZAtZYR/arcgis/rest/services/Public_Activity_PA_Parcels/FeatureServer",
+      "features": 29,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_zoned_for_public_activity__pa__.geojson"
+    },
+    {
+      "title": "Vacant Land",
+      "url": "https://services3.arcgis.com/6kmcRUkHohgDzKog/arcgis/rest/services/Vacant_Land/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_land.geojson"
+    },
+    {
+      "title": "Buffalo County Parcels 2019",
+      "url": "https://services6.arcgis.com/15GJI8WbC3n3DIUU/arcgis/rest/services/Buffalo_County_Parcels_2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "buffalo_county_parcels_2019.geojson"
+    },
+    {
+      "title": "City_Owned_Parcels",
+      "url": "https://services.arcgis.com/sbDzK061dd6DNPHv/arcgis/rest/services/City_Owned_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "city_owned_parcels.geojson"
+    },
+    {
+      "title": "Hughes County Parcels 2023",
+      "url": "https://services6.arcgis.com/15GJI8WbC3n3DIUU/arcgis/rest/services/Hughes_County_Parcels_2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hughes_county_parcels_2023.geojson"
+    },
+    {
+      "title": "MyGov_TaxParcel",
+      "url": "https://services9.arcgis.com/hCj9MZObuBvNCBGv/arcgis/rest/services/MyGov_TaxParcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mygov_taxparcel.geojson"
+    },
+    {
+      "title": "Stanley County Parcels 2023",
+      "url": "https://services6.arcgis.com/15GJI8WbC3n3DIUU/arcgis/rest/services/Stanley_County_Parcels_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "stanley_county_parcels_2023.geojson"
+    },
+    {
+      "title": "TaxParcel_Wards_2025",
+      "url": "https://services9.arcgis.com/hCj9MZObuBvNCBGv/arcgis/rest/services/TaxParcel_Wards_2025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "taxparcel_wards_2025.geojson"
+    },
+    {
+      "title": "County owned parcels (09_06_21)",
+      "url": "https://services1.arcgis.com/YuFpgTDhSxjvnQtm/arcgis/rest/services/County owned parcels (09_06_21)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_owned_parcels__09_06_21_.geojson"
+    },
+    {
+      "title": "Lyman County Parcels",
+      "url": "https://services6.arcgis.com/15GJI8WbC3n3DIUU/arcgis/rest/services/Lyman_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lyman_county_parcels.geojson"
+    },
+    {
+      "title": "Parcels_2026_CivicPlus view",
+      "url": "https://services6.arcgis.com/7gxz3Zak0GbF4GNd/arcgis/rest/services/Parcels_2026_CivicPlus_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_2026_civicplus_view.geojson"
+    },
+    {
+      "title": "School Mills_WFL1",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/School_Mills_WFL1/FeatureServer",
+      "features": 56,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "school_mills_wfl1.geojson"
+    },
+    {
+      "title": "MGIA Monthly Collections by County PRD View",
+      "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/MLIA_Monthly_Collections_by_County_View/FeatureServer",
+      "features": 56,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mgia_monthly_collections_by_county_prd_view.geojson"
+    },
+    {
+      "title": "State_Owned_Parcels",
+      "url": "https://services.arcgis.com/sbDzK061dd6DNPHv/arcgis/rest/services/State_Owned_Parcels/FeatureServer",
+      "features": 8,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "state_owned_parcels.geojson"
+    }
+  ]
+}

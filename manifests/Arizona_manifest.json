@@ -1,0 +1,981 @@
+{
+  "state": "Arizona",
+  "sources_attempted": 120,
+  "sources_successful": 108,
+  "total_features": 9625,
+  "pulled_at": "2026-03-16T01:16:40.107319",
+  "datasets": [
+    {
+      "title": "Parcel (Cochise County - Tax Information)",
+      "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_TaxInfo/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel__cochise_county_-_tax_information_.geojson"
+    },
+    {
+      "title": "GuestHouses",
+      "url": "https://services1.arcgis.com/ZrefO5k0ipEAOFhn/arcgis/rest/services/GuestHouses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "guesthouses.geojson"
+    },
+    {
+      "title": "VatereLots",
+      "url": "https://services1.arcgis.com/ZrefO5k0ipEAOFhn/arcgis/rest/services/VatereLots/FeatureServer",
+      "features": 38,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "vaterelots.geojson"
+    },
+    {
+      "title": "Parcels Tile",
+      "url": "https://services1.arcgis.com/ZrefO5k0ipEAOFhn/arcgis/rest/services/Parcels_Tile/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_tile.geojson"
+    },
+    {
+      "title": "Parcels_View",
+      "url": "https://services1.arcgis.com/PEZ16KoOWXoETFQ5/arcgis/rest/services/Parcels_View3/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES APACHE COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_APACHE_COUNTY_AZ/FeatureServer",
+      "features": 8,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_apache_county.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services8.arcgis.com/KyZIQDOsXnGaTxj2/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "BAM PROPERTIES NAVAJO COUNTY",
+      "url": "https://services7.arcgis.com/f4diowh62ikfhgaw/arcgis/rest/services/BAM_PROPERTIES_NAVAJO_COUNTY_AZ/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bam_properties_navajo_county.geojson"
+    },
+    {
+      "title": "Lien and Delinquent Parcels",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/ParcelLienDelinquent/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lien_and_delinquent_parcels.geojson"
+    },
+    {
+      "title": "R03_SurfaceOwnership",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R03_SurfaceOwnership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r03_surfaceownership.geojson"
+    },
+    {
+      "title": "Parcel (Cochise County - Non Tax)",
+      "url": "https://services6.arcgis.com/Yxem0VOcqSy8T6TE/arcgis/rest/services/Cad_Parcel_Geometry/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel__cochise_county_-_non_tax_.geojson"
+    },
+    {
+      "title": "Property - Structures - Static - Point - Building Type Points (R9)",
+      "url": "https://services.arcgis.com/XG15cJAlne2vxtgt/arcgis/rest/services/Property_Structures_Static_Points_Building_Type_R9/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "property_-_structures_-_static_-_point_-_building_type_point.geojson"
+    },
+    {
+      "title": "BLM AZ Public Land Survey System CadNSDI",
+      "url": "https://gis.blm.gov/azarcgis/rest/services/cadastral/BLM_AZ_PLSS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_az_public_land_survey_system_cadnsdi.geojson"
+    },
+    {
+      "title": "Townships",
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/Townships/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "townships.geojson"
+    },
+    {
+      "title": "Cadastral Grid",
+      "url": "https://services.arcgis.com/C34zQ7veRS0V1t04/arcgis/rest/services/Cadastral_Grid/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cadastral_grid.geojson"
+    },
+    {
+      "title": "The City of Gallup - Zoning",
+      "url": "https://services7.arcgis.com/hdYa3Y1uJyFc7VUo/arcgis/rest/services/The_City_of_Gallup_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "the_city_of_gallup_-_zoning.geojson"
+    },
+    {
+      "title": "BLM AZ Grazing Allotments and Pastures",
+      "url": "https://gis.blm.gov/azarcgis/rest/services/range/BLM_AZ_GRA/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_az_grazing_allotments_and_pastures.geojson"
+    },
+    {
+      "title": "Addresses (Open Data)",
+      "url": "https://services.arcgis.com/lQySeXwbBg53XWDi/arcgis/rest/services/Addresses_(Open_Data)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "addresses__open_data_.geojson"
+    },
+    {
+      "title": "2020 Maricopa County Manufactured Housing Parcels_WFL1",
+      "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/2020_Maricopa_County_Manufactured_Housing_Parcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "2020_maricopa_county_manufactured_housing_parcels_wfl1.geojson"
+    },
+    {
+      "title": "Arizona Land Grant Selections_WFL1",
+      "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/Arizona_Land_Grant_Selections_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "arizona_land_grant_selections_wfl1.geojson"
+    },
+    {
+      "title": "Existing Land Use for Maricopa and Pinal Counties, Arizona, 2022",
+      "url": "https://services1.arcgis.com/MdyCMZnX1raZ7TS3/arcgis/rest/services/EXLU_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "existing_land_use_for_maricopa_and_pinal_counties__arizona__.geojson"
+    },
+    {
+      "title": "BLM Natl Public Lands Access Data Poly",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Natl_PLAD_Poly/FeatureServer",
+      "features": 85,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_natl_public_lands_access_data_poly.geojson"
+    },
+    {
+      "title": "R03_SpecialInterestManagementArea",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R03_SpecialInterestManagementArea/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r03_specialinterestmanagementarea.geojson"
+    },
+    {
+      "title": "NM_AZ_surfmanage",
+      "url": "https://services7.arcgis.com/MREhpbvzcutXWTaa/arcgis/rest/services/NM_AZ_surfmanage/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nm_az_surfmanage.geojson"
+    },
+    {
+      "title": "NHD_Major_Rivers_and_Creeks",
+      "url": "https://services.arcgis.com/aa38u6OgfNoCkTJ6/arcgis/rest/services/NHD_Major_Rivers_and_Creeks/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nhd_major_rivers_and_creeks.geojson"
+    },
+    {
+      "title": "BLM Natl Land and Water Conservation Fund LWCF Polygons",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_Natl_Land_and_Water_Conservation_Fund_LWCF_Polygons/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_natl_land_and_water_conservation_fund_lwcf_polygons.geojson"
+    },
+    {
+      "title": "R03_Wilderness",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R03_WildernessStatus/FeatureServer",
+      "features": 61,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r03_wilderness.geojson"
+    },
+    {
+      "title": "Residential zoning",
+      "url": "https://services6.arcgis.com/clPWQMwZfdWn4MQZ/arcgis/rest/services/Residential_zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "residential_zoning.geojson"
+    },
+    {
+      "title": "Parcels in Yavapai County",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/arcgis/rest/services/Parcels_in_Yavapai_County/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_in_yavapai_county.geojson"
+    },
+    {
+      "title": "County City Addresses",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/arcgis/rest/services/County_City_Addresses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_city_addresses.geojson"
+    },
+    {
+      "title": "Arizona State Trust Surface Parcels",
+      "url": "https://server.azgeo.az.gov/arcgis/rest/services/azland/State_Trust_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "arizona_state_trust_surface_parcels.geojson"
+    },
+    {
+      "title": "Arizona State Trust Rights of Way",
+      "url": "https://server.azgeo.az.gov/arcgis/rest/services/azland/Rights_of_Way/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "arizona_state_trust_rights_of_way.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2021)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/Parcels_-_Maricopa_County_Arizona_(2021)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2021_.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2016)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2016/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2016_.geojson"
+    },
+    {
+      "title": "The_City_of_Gallup_Political_Districts",
+      "url": "https://services7.arcgis.com/hdYa3Y1uJyFc7VUo/arcgis/rest/services/The_City_of_Gallup_Political_Districts/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "the_city_of_gallup_political_districts.geojson"
+    },
+    {
+      "title": "Zoning - Yavapai County",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/ArcGIS/rest/services/CountyZoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning_-_yavapai_county.geojson"
+    },
+    {
+      "title": "Wet Dry all years parcels_WFL1",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Wet_Dry_all_years_parcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "wet_dry_all_years_parcels_wfl1.geojson"
+    },
+    {
+      "title": "R03_RightOfWay",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R03_RightOfWay/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r03_rightofway.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "R03_SurfaceRight",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R03_SurfaceRight/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r03_surfaceright.geojson"
+    },
+    {
+      "title": "R03_SubSurfaceRight",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R03_SubSurfaceRight/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r03_subsurfaceright.geojson"
+    },
+    {
+      "title": "Eloy Parcels (Robson Ranch)",
+      "url": "https://services1.arcgis.com/ySviQvEr4wv1b4QW/arcgis/rest/services/Eloy_Parcels_(Robson_Ranch)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "eloy_parcels__robson_ranch_.geojson"
+    },
+    {
+      "title": "R03_OtherNationalDesignatedArea",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R03_OtherNationalDesignatedArea/FeatureServer",
+      "features": 9,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "r03_othernationaldesignatedarea.geojson"
+    },
+    {
+      "title": "Fire Departments (Taxable and Incorporated)",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/ArcGIS/rest/services/Districts/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fire_departments__taxable_and_incorporated_.geojson"
+    },
+    {
+      "title": "Parcels View",
+      "url": "https://services8.arcgis.com/KyZIQDOsXnGaTxj2/arcgis/rest/services/Parcels_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_view.geojson"
+    },
+    {
+      "title": "Parcels Within Affected FIRM Panels",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/Parcels_Within_Affected_FIRM_Panels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_within_affected_firm_panels.geojson"
+    },
+    {
+      "title": "Guadalupe Zoning",
+      "url": "https://services1.arcgis.com/MdyCMZnX1raZ7TS3/arcgis/rest/services/Guadalupe_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "guadalupe_zoning.geojson"
+    },
+    {
+      "title": "Yavapai County Parcels 2025 Clipped to Riparian",
+      "url": "https://services5.arcgis.com/7RcOJzAvxPT2lnNk/arcgis/rest/services/Yavapai_County_Parcels_2025_Clipped_to_Riparian/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "yavapai_county_parcels_2025_clipped_to_riparian.geojson"
+    },
+    {
+      "title": "FGP_MajorRoads",
+      "url": "https://services3.arcgis.com/46wD0ZNLGkFjYDrl/arcgis/rest/services/FGP_MajorRoads/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fgp_majorroads.geojson"
+    },
+    {
+      "title": "Parcel Data",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/Parcel_Data_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_data.geojson"
+    },
+    {
+      "title": "Arizona State Trust Mineral Parcels",
+      "url": "https://server.azgeo.az.gov/arcgis/rest/services/azland/Mineral_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "arizona_state_trust_mineral_parcels.geojson"
+    },
+    {
+      "title": "Arizona State Trust Oil and Gas Parcels ",
+      "url": "https://server.azgeo.az.gov/arcgis/rest/services/azland/Oil_and_Gas_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "arizona_state_trust_oil_and_gas_parcels_.geojson"
+    },
+    {
+      "title": "Apache County Parcels",
+      "url": "https://services8.arcgis.com/KyZIQDOsXnGaTxj2/arcgis/rest/services/Apache_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "apache_county_parcels.geojson"
+    },
+    {
+      "title": "land_parcels_updated_07_9_2020",
+      "url": "https://services1.arcgis.com/lDFzr3JyGEn5Eymu/arcgis/rest/services/land_parcels_updated_07_9_2020/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "land_parcels_updated_07_9_2020.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2018)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2018/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2018_.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services.arcgis.com/cghC2lEIpJ2TRrs5/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "AZ Select Cities and Zoning Self Storage_WFL1",
+      "url": "https://services2.arcgis.com/82iS1Pc7dgs3LFZv/arcgis/rest/services/AZ_Select_Cities_and_Zoning_Self_Storage_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "az_select_cities_and_zoning_self_storage_wfl1.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2017)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2017/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2017_.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2005)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2005/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_-_maricopa_county__arizona__2005_.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2006)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2006/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2006_.geojson"
+    },
+    {
+      "title": "Wickenburg",
+      "url": "https://services1.arcgis.com/MdyCMZnX1raZ7TS3/arcgis/rest/services/Wickenburg/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "wickenburg.geojson"
+    },
+    {
+      "title": "PublicLandOwnership",
+      "url": "https://services1.arcgis.com/UpxtrwRYNaXVpkGe/arcgis/rest/services/PublicLandOwnership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "publiclandownership.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2019)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2019_.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2020)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2020/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2020_.geojson"
+    },
+    {
+      "title": "Council Request_ Town_owned_ Maricopa_owned_ and School District_owned Parcels_WFL1",
+      "url": "https://services1.arcgis.com/JLuzSHjNrLL4Okwb/arcgis/rest/services/Council_Request__Town_owned__Maricopa_owned__and_School_District_owned_Parcels_WFL1/FeatureServer",
+      "features": 10,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "council_request__town_owned__maricopa_owned__and_school_dist.geojson"
+    },
+    {
+      "title": "ChurchOwned_Unincorporated",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/ChurchOwned_Unincorporated/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "churchowned_unincorporated.geojson"
+    },
+    {
+      "title": "ChurchOwned",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/ChurchOwned/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "churchowned.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2010)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2010/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2010_.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2007)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2007/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2007_.geojson"
+    },
+    {
+      "title": "CF_Area_2023_asldgeom",
+      "url": "https://services3.arcgis.com/Y4YeIv0GAyScbV5B/arcgis/rest/services/CF_Area_2023_asldgeom/FeatureServer",
+      "features": 86,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cf_area_2023_asldgeom.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2014)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2014/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2014_.geojson"
+    },
+    {
+      "title": "Comprehensive Urban Infrastructure Tolleson Arizona",
+      "url": "https://services7.arcgis.com/Q5ACvUgn3GTccF5u/arcgis/rest/services/AITest/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "comprehensive_urban_infrastructure_tolleson_arizona.geojson"
+    },
+    {
+      "title": "StateTrustParcels",
+      "url": "https://services1.arcgis.com/UpxtrwRYNaXVpkGe/arcgis/rest/services/StateTrustParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "statetrustparcels.geojson"
+    },
+    {
+      "title": "Lease 05_1115",
+      "url": "https://services1.arcgis.com/UpxtrwRYNaXVpkGe/arcgis/rest/services/Lease_05_1115/FeatureServer",
+      "features": 25,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lease_05_1115.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2012)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2012/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2012_.geojson"
+    },
+    {
+      "title": "Gilbert Arizona Town-owned Land by Vacancy Feature Layer",
+      "url": "https://services1.arcgis.com/JLuzSHjNrLL4Okwb/arcgis/rest/services/Town_Owned_Land_by_Vacancy_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "gilbert_arizona_town-owned_land_by_vacancy_feature_layer.geojson"
+    },
+    {
+      "title": "Arizona_State_Parks_Parcel_Legal_Descriptions",
+      "url": "https://services2.arcgis.com/gdcQ6sUWKP8qwBmV/arcgis/rest/services/Arizona_State_Parks_Parcel_Legal_Descriptions/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "arizona_state_parks_parcel_legal_descriptions.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2008)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/Parcels_Maricopa_County_2008/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2008_.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2009)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2009/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2009_.geojson"
+    },
+    {
+      "title": "Residential Parcels In Floodways w Improvement Values GT 10K and FCV LT 420K",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/Residential_Parcels_In_Floodways_w_Improvement_Values_GT_10K_and_FCV_LT_420K/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "residential_parcels_in_floodways_w_improvement_values_gt_10k.geojson"
+    },
+    {
+      "title": "LWCF_Project_Boundaries_AZ",
+      "url": "https://services2.arcgis.com/gdcQ6sUWKP8qwBmV/arcgis/rest/services/LWCF_Project_Boundaries_AZ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "lwcf_project_boundaries_az.geojson"
+    },
+    {
+      "title": "LGR Private Land Parcels",
+      "url": "https://services1.arcgis.com/lDFzr3JyGEn5Eymu/arcgis/rest/services/LGR_Private_Land_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lgr_private_land_parcels.geojson"
+    },
+    {
+      "title": "updated_private_lands_04212020",
+      "url": "https://services1.arcgis.com/lDFzr3JyGEn5Eymu/arcgis/rest/services/updated_private_lands_04212020/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "updated_private_lands_04212020.geojson"
+    },
+    {
+      "title": "Parcels TGI",
+      "url": "https://services.arcgis.com/cghC2lEIpJ2TRrs5/arcgis/rest/services/ParcelsTGI/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_tgi.geojson"
+    },
+    {
+      "title": "LGR_Land_Ownership",
+      "url": "https://services1.arcgis.com/lDFzr3JyGEn5Eymu/arcgis/rest/services/LGR_Land_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lgr_land_ownership.geojson"
+    },
+    {
+      "title": "Auction Land_WFL1",
+      "url": "https://services1.arcgis.com/UpxtrwRYNaXVpkGe/arcgis/rest/services/Auction_Land_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "auction_land_wfl1.geojson"
+    },
+    {
+      "title": "Tucson Single Family Home Characteristics",
+      "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/Tucson_Single_Family_Home_Characteristics/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tucson_single_family_home_characteristics.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2013)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/Parcels_MaricopaCounty_2013/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2013_.geojson"
+    },
+    {
+      "title": "Addresses",
+      "url": "https://gis.tempe.gov/arcgis/rest/services/Open_Data/Addresses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "addresses.geojson"
+    },
+    {
+      "title": "Historical Parcels 2021 to 2025",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/arcgis/rest/services/Historical_Parcels_2021_to_2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "historical_parcels_2021_to_2025.geojson"
+    },
+    {
+      "title": "ProtectedAreas_PAD_US",
+      "url": "https://services7.arcgis.com/iEkS6Qv6dYmOkqot/arcgis/rest/services/ProtectedAreas_PAD_US/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protectedareas_pad_us.geojson"
+    },
+    {
+      "title": "pinal_county_arizona_tax_parcels",
+      "url": "https://services8.arcgis.com/bspqcASG7WIqqFvk/arcgis/rest/services/pinal_county_arizona_tax_parcels/FeatureServer",
+      "features": 10,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pinal_county_arizona_tax_parcels.geojson"
+    },
+    {
+      "title": "GeronimoRanch_Parcels",
+      "url": "https://services1.arcgis.com/ynfSwD4FCM8EgtT5/arcgis/rest/services/GeronimoRanch_Parcels/FeatureServer",
+      "features": 69,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "geronimoranch_parcels.geojson"
+    },
+    {
+      "title": "Modern Streetcar Development Opportunity Parcels",
+      "url": "https://services3.arcgis.com/9coHY2fvuFjG9HQX/arcgis/rest/services/CM_STREETCAR_DEVOPP_PAR_AGOVW/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "modern_streetcar_development_opportunity_parcels.geojson"
+    },
+    {
+      "title": "Parcels  that are within  Special Flood Hazard Areas",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/Parcels__that_are_within__Special_Flood_Hazard_Areas/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels__that_are_within__special_flood_hazard_areas.geojson"
+    },
+    {
+      "title": "Pima_Parcels",
+      "url": "https://services5.arcgis.com/p3Z85Cb2A5nbzNLk/arcgis/rest/services/Pima_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pima_parcels.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2015)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2015/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2015_.geojson"
+    },
+    {
+      "title": "ALWT_ConservationEasements_Dissolve",
+      "url": "https://services.arcgis.com/0oJ4dmPrVzF2g9ay/arcgis/rest/services/ALWT_ConservationEasements_Dissolve/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alwt_conservationeasements_dissolve.geojson"
+    },
+    {
+      "title": "Surface_Parcels",
+      "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/Surface_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "surface_parcels.geojson"
+    },
+    {
+      "title": "Mineral_Parcels",
+      "url": "https://services1.arcgis.com/Ezk9fcjSUkeadg6u/arcgis/rest/services/Mineral_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "mineral_parcels.geojson"
+    },
+    {
+      "title": "Page_Parcels_FutureLandUse",
+      "url": "https://services3.arcgis.com/jlVr3cAu49DkX9ri/arcgis/rest/services/Page_Parcels_FutureLandUse/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "page_parcels_futurelanduse.geojson"
+    },
+    {
+      "title": "WUI Values for STL",
+      "url": "https://services1.arcgis.com/UpxtrwRYNaXVpkGe/arcgis/rest/services/WUI_Values_for_STL/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "wui_values_for_stl.geojson"
+    },
+    {
+      "title": "Tax Area Codes",
+      "url": "https://services1.arcgis.com/BajuNXbtZNiBKFkx/arcgis/rest/services/Tax_Area_Codes/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tax_area_codes.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2004)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_maricnty_2004/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2004_.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2022) ",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/parcels_mari_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2022__.geojson"
+    },
+    {
+      "title": "GRCA_boundary",
+      "url": "https://services8.arcgis.com/0hWPc3EicpGJmbpg/arcgis/rest/services/GRCA_boundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "grca_boundary.geojson"
+    },
+    {
+      "title": "Parcels - Maricopa County, Arizona (2011)",
+      "url": "https://services3.arcgis.com/0OPQIK59PJJqLK0A/arcgis/rest/services/Parcels_Maricopa_County_2011/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_-_maricopa_county__arizona__2011_.geojson"
+    },
+    {
+      "title": "coconino_county_arizona_parcels",
+      "url": "https://services6.arcgis.com/2yF1BNcZtu43QAOt/arcgis/rest/services/coconino_county_arizona_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "coconino_county_arizona_parcels.geojson"
+    }
+  ]
+}

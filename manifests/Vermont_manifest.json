@@ -1,0 +1,477 @@
+{
+  "state": "Vermont",
+  "sources_attempted": 57,
+  "sources_successful": 52,
+  "total_features": 3321,
+  "pulled_at": "2026-03-16T01:44:30.327030",
+  "datasets": [
+    {
+      "title": "FS_VCGI_VTPARCELS_WM_NOCACHE_v2",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/FS_VCGI_VTPARCELS_WM_NOCACHE_v2/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fs_vcgi_vtparcels_wm_nocache_v2.geojson"
+    },
+    {
+      "title": "VT Data - Locations of Surveys Accessible via Vermont Land Survey Library",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/FS_VCGI_Land_Survey_Library_reviewed_v2_1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_locations_of_surveys_accessible_via_vermont_land_s.geojson"
+    },
+    {
+      "title": "VT Data - Statewide Standardized Parcel Data - parcel polygons",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/FS_VCGI_OPENDATA_Cadastral_VTPARCELS_poly_standardized_parcels_SP_v1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_statewide_standardized_parcel_data_-_parcel_polygo.geojson"
+    },
+    {
+      "title": "VT Data - 2021 LandScan Nightime Population Estimates ",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/FS_VCGI_LandScanVT_2021_WM/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_2021_landscan_nightime_population_estimates_.geojson"
+    },
+    {
+      "title": "Montgomery County Reference Data",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/f813ba776ea9403fad360f04705815a6/rest/services/facilities/Montgomery_County_Reference_Data/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "montgomery_county_reference_data.geojson"
+    },
+    {
+      "title": "VT Data - Vermont Lotting Plans Towns Table",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/Vermont_Lotting_Plans_Towns_Table/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "vt_data_-_vermont_lotting_plans_towns_table.geojson"
+    },
+    {
+      "title": "VT Data - Statewide Standardized Parcel Data - inactive parcel polygons",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/FS_VCGI_OPENDATA_Cadastral_VTPARCELS_poly_standardized_inactive_SP_v1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_statewide_standardized_parcel_data_-_inactive_parc.geojson"
+    },
+    {
+      "title": "VT Data - Statewide Standardized Parcel Data - Data Status polygons",
+      "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/FS_VCGI_OPENDATA_Cadastral_VTPARCELS_poly_DataStatus_SP_v1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_statewide_standardized_parcel_data_-_data_status_p.geojson"
+    },
+    {
+      "title": "VT_Data_-_Zoning_20160912,_Andover",
+      "url": "https://services5.arcgis.com/tbnCzQ0iyXeEj5i5/arcgis/rest/services/VTZONING_Andover_20160912_poly_zones/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_zoning_20160912__andover.geojson"
+    },
+    {
+      "title": "VT Parcel",
+      "url": "https://services.arcgis.com/XG15cJAlne2vxtgt/arcgis/rest/services/VT_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_parcel.geojson"
+    },
+    {
+      "title": "VA Building and Parcels",
+      "url": "https://arcgis-central.gis.vt.edu/arcgis/rest/services/facilities/VABuildingandParcel/FeatureServer",
+      "features": 69,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "va_building_and_parcels.geojson"
+    },
+    {
+      "title": "VT Data - Dover Zoning - Transfer of Development Rights Overlay District",
+      "url": "https://services2.arcgis.com/3xVssd0FD416APnB/arcgis/rest/services/VTZONING_Dover_20130305_poly_ODIST_TDR/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_dover_zoning_-_transfer_of_development_rights_over.geojson"
+    },
+    {
+      "title": "Montpelier Parcels",
+      "url": "https://services8.arcgis.com/YKIZLV97YLZN6bol/arcgis/rest/services/Montpelier_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "montpelier_parcels.geojson"
+    },
+    {
+      "title": "VT Data - Dover Zoning - Sensitive Wildlife Resource Overlay District",
+      "url": "https://services2.arcgis.com/3xVssd0FD416APnB/arcgis/rest/services/VTZONING_Dover_20130305_poly_ODIST_Wildlife/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_dover_zoning_-_sensitive_wildlife_resource_overlay.geojson"
+    },
+    {
+      "title": "Calais_2019ParcelsOnly",
+      "url": "https://services2.arcgis.com/934qKLCgD0ZN6Uo0/arcgis/rest/services/Calais_2019ParcelsOnly/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "calais_2019parcelsonly.geojson"
+    },
+    {
+      "title": "Conserved Land Inventory",
+      "url": "https://services5.arcgis.com/Uzks6LSde6r23wwG/arcgis/rest/services/Conserved_Land_Inventory_Public_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "conserved_land_inventory.geojson"
+    },
+    {
+      "title": "VT Data - Rockingham Zoning",
+      "url": "https://services2.arcgis.com/3xVssd0FD416APnB/arcgis/rest/services/VTZONING_Rockingham_20131203_poly_zones/FeatureServer",
+      "features": 36,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_rockingham_zoning.geojson"
+    },
+    {
+      "title": "State_Regulated_Resources",
+      "url": "https://services.arcgis.com/qZPG0tasU6QIqzTG/arcgis/rest/services/State_Regulated_Resources/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_regulated_resources.geojson"
+    },
+    {
+      "title": "HuntingtonParcels2011",
+      "url": "https://services1.arcgis.com/jIQJu4VdaCSXCq81/arcgis/rest/services/HuntingtonParcels2011/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "huntingtonparcels2011.geojson"
+    },
+    {
+      "title": "ParcelGrid",
+      "url": "https://services7.arcgis.com/CIdxNzJmLZGoegAM/arcgis/rest/services/ParcelGrid/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelgrid.geojson"
+    },
+    {
+      "title": "Salisbury_webmap",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/Salisbury_webmap/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "salisbury_webmap.geojson"
+    },
+    {
+      "title": "VermontTwp",
+      "url": "https://services.arcgis.com/HRPe58bUyBqyyiCt/arcgis/rest/services/VermontTwp/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vermonttwp.geojson"
+    },
+    {
+      "title": "Proposed_District_V2_1",
+      "url": "https://services8.arcgis.com/YKIZLV97YLZN6bol/arcgis/rest/services/Proposed_District_V2_1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "proposed_district_v2_1.geojson"
+    },
+    {
+      "title": "MARC Future Land Use PRE-APPLICATION DRAFT.",
+      "url": "https://services5.arcgis.com/tbnCzQ0iyXeEj5i5/arcgis/rest/services/MARC_FLU_05232025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "marc_future_land_use_pre-application_draft_.geojson"
+    },
+    {
+      "title": "Vermont Parcel Mapping Year 3 - Town Survey_fieldworker",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/survey123_4d41593b462f44cb8ff5008f46b8052c_fieldworker/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vermont_parcel_mapping_year_3_-_town_survey_fieldworker.geojson"
+    },
+    {
+      "title": "Vermont Parcel Mapping - Town Survey_fieldworker",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/survey123_df407ae29e594b6a83c1802ad53876f9_fieldworker/FeatureServer",
+      "features": 31,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vermont_parcel_mapping_-_town_survey_fieldworker.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/z8Nbx7hh0fUU8eDy/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Study Site",
+      "url": "https://services2.arcgis.com/Cgn6q9YGe3Zwzgkn/arcgis/rest/services/Study_Site/FeatureServer",
+      "features": 6,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "study_site.geojson"
+    },
+    {
+      "title": "Velomont Conservation Parcels",
+      "url": "https://services7.arcgis.com/Tnov4kXcO2klXM4Y/arcgis/rest/services/ParcelData_VelomontExtent/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "velomont_conservation_parcels.geojson"
+    },
+    {
+      "title": "Parcel Boundaries Cavendish",
+      "url": "https://services5.arcgis.com/6sWQfiaPUsjQq06M/arcgis/rest/services/Parcel_Boundaries_Cavendish/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_boundaries_cavendish.geojson"
+    },
+    {
+      "title": "Montpelier Parcels",
+      "url": "https://services6.arcgis.com/ALaxfASMULIJ1PP6/arcgis/rest/services/Montpelier Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "montpelier_parcels.geojson"
+    },
+    {
+      "title": "Town of Arlington Zoning Nonconformance Web Map_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Town_of_Arlington_Zoning_Nonconformance_Web_Map_WFL1/FeatureServer",
+      "features": 11,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "town_of_arlington_zoning_nonconformance_web_map_wfl1.geojson"
+    },
+    {
+      "title": "Jericho Conservation Prioritization_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Jericho_Conservation_Prioritization_WFL1/FeatureServer",
+      "features": 10,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "jericho_conservation_prioritization_wfl1.geojson"
+    },
+    {
+      "title": "Rutland Town Parcels with Stormwater Ordinance Zones",
+      "url": "https://services5.arcgis.com/6sWQfiaPUsjQq06M/arcgis/rest/services/Rutland_Town_Parcels_with_Stormwater_Ordinance_Zones/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rutland_town_parcels_with_stormwater_ordinance_zones.geojson"
+    },
+    {
+      "title": "Forestland Prioritization_ 2024_ Missisquoi and South Lake Focus Areas_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Forestland_Prioritization__2024__Missisquoi_and_South_Lake_Focus_Areas_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "forestland_prioritization__2024__missisquoi_and_south_lake_f.geojson"
+    },
+    {
+      "title": "VT Data - Wardsboro Zoning",
+      "url": "https://services2.arcgis.com/3xVssd0FD416APnB/arcgis/rest/services/VTZONING_Wardsboro_poly_zones/FeatureServer",
+      "features": 13,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vt_data_-_wardsboro_zoning.geojson"
+    },
+    {
+      "title": "VDHPParcels",
+      "url": "https://services5.arcgis.com/6sWQfiaPUsjQq06M/arcgis/rest/services/VDHPParcels/FeatureServer",
+      "features": 16,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vdhpparcels.geojson"
+    },
+    {
+      "title": "HighgateParcels2024",
+      "url": "https://services7.arcgis.com/CIdxNzJmLZGoegAM/arcgis/rest/services/HighgateParcels2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "highgateparcels2024.geojson"
+    },
+    {
+      "title": "FEMC_Grant_Black_Ash_Planning_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/FEMC_Grant_Black_Ash_Planning_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "femc_grant_black_ash_planning_wfl1.geojson"
+    },
+    {
+      "title": "Protected Fishing Access IntroGIS smaglio2_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Protected_Fishing_Access_IntroGIS_smaglio2_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "protected_fishing_access_introgis_smaglio2_wfl1.geojson"
+    },
+    {
+      "title": "SCparcels",
+      "url": "https://services5.arcgis.com/cQbNgHdqsfNPEhrT/arcgis/rest/services/SCparcels/FeatureServer",
+      "features": 6,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "scparcels.geojson"
+    },
+    {
+      "title": "NewParcel",
+      "url": "https://services3.arcgis.com/qDu2EiOa5WeBhk3C/arcgis/rest/services/NewParcel/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "newparcel.geojson"
+    },
+    {
+      "title": "NewParcels",
+      "url": "https://services5.arcgis.com/Uzks6LSde6r23wwG/arcgis/rest/services/NewParcels/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "newparcels.geojson"
+    },
+    {
+      "title": "LPond",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/LPond/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lpond.geojson"
+    },
+    {
+      "title": "Webmap",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Webmap/FeatureServer",
+      "features": 7,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "webmap.geojson"
+    },
+    {
+      "title": "Moretown Landfill Parcel from ANR Parcel Layer",
+      "url": "https://services5.arcgis.com/6sWQfiaPUsjQq06M/arcgis/rest/services/Parcel_from_ANR_Parcel_Layer/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "moretown_landfill_parcel_from_anr_parcel_layer.geojson"
+    },
+    {
+      "title": "PAD_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/PAD_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pad_wfl1.geojson"
+    },
+    {
+      "title": "Macdonough Drive State Land_WFL1",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/Macdonough_Drive_State_Land_WFL1/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "macdonough_drive_state_land_wfl1.geojson"
+    },
+    {
+      "title": "LPond_25k",
+      "url": "https://services1.arcgis.com/YiULsZbgRKmBtdZN/arcgis/rest/services/LPond_25k/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lpond_25k.geojson"
+    },
+    {
+      "title": "MountHolly_ResidentialParcels",
+      "url": "https://services8.arcgis.com/YKIZLV97YLZN6bol/arcgis/rest/services/MountHolly_ResidentialParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mountholly_residentialparcels.geojson"
+    },
+    {
+      "title": "Parcels_PermitsToBeAcquired",
+      "url": "https://services5.arcgis.com/6sWQfiaPUsjQq06M/arcgis/rest/services/Parcels_PermitsToBeAcquired/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_permitstobeacquired.geojson"
+    },
+    {
+      "title": "Vermont Swamp Lots Public View",
+      "url": "https://services5.arcgis.com/Uzks6LSde6r23wwG/arcgis/rest/services/Vermont_Swamp_Lots_Public_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vermont_swamp_lots_public_view.geojson"
+    }
+  ]
+}

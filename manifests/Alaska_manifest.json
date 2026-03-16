@@ -1,0 +1,459 @@
+{
+  "state": "Alaska",
+  "sources_attempted": 72,
+  "sources_successful": 50,
+  "total_features": 3990,
+  "pulled_at": "2026-03-16T01:15:58.871381",
+  "datasets": [
+    {
+      "title": "AK Communities",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/AK_Communities_with_Protection_Responsibility_(view)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ak_communities.geojson"
+    },
+    {
+      "title": "Alaskan Native Villages",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Alaskan_Native_Villages__DOI___EPA_2023_/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alaskan_native_villages.geojson"
+    },
+    {
+      "title": "Alaskan Tribal Areas (DOI & EPA 2021)",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/BND___Alaska_Native_Villages/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alaskan_tribal_areas__doi___epa_2021_.geojson"
+    },
+    {
+      "title": "Alaskan Native Allotments",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Alaskan_Native_Allotments__DOI___EPA_2023_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alaskan_native_allotments.geojson"
+    },
+    {
+      "title": "BLM AK PLSS (with links)",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/Layers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_ak_plss__with_links_.geojson"
+    },
+    {
+      "title": "AK Interagency Coordination Center Dashboard Data",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/AICC_Dashboard_Data/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ak_interagency_coordination_center_dashboard_data.geojson"
+    },
+    {
+      "title": "Map_Indexes_for_R7_NWRs",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/Map_Indexes_for_R7_NWRs/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "map_indexes_for_r7_nwrs.geojson"
+    },
+    {
+      "title": "Alaska Statewide Parcels",
+      "url": "https://services1.arcgis.com/7HDiw78fcUiM2BWn/arcgis/rest/services/AK_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alaska_statewide_parcels.geojson"
+    },
+    {
+      "title": "Nome Parcel Labels",
+      "url": "https://services9.arcgis.com/Oi9vFzXc8ZcONgM6/arcgis/rest/services/NOME_Parcel_Labels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nome_parcel_labels.geojson"
+    },
+    {
+      "title": "Alaska Native Allotments (DOI & EPA 2021)",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/BND___Alaska_Native_Allotments/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alaska_native_allotments__doi___epa_2021_.geojson"
+    },
+    {
+      "title": "Parcels Joined with Taxroll",
+      "url": "https://services9.arcgis.com/Oi9vFzXc8ZcONgM6/arcgis/rest/services/Parcel_Taxroll_Joined/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_joined_with_taxroll.geojson"
+    },
+    {
+      "title": "AK Wildland Fire Jurisdictions",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/AK_Wildland_Fire_Jurisdictions/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ak_wildland_fire_jurisdictions.geojson"
+    },
+    {
+      "title": "FWS_R7_Realty_NWR_Land_Status_feature_layer",
+      "url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/FWS_R7_Realty_NWR_Land_Status_feature_layer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fws_r7_realty_nwr_land_status_feature_layer.geojson"
+    },
+    {
+      "title": "BLM Alaska Public Land Survey System (PLSS) Cadastral National Spatial Data Infrastructure (CadNSDI)",
+      "url": "https://gis.blm.gov/akarcgis/rest/services/PLSS/BLM_AK_PLSS_CadNSDI/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "blm_alaska_public_land_survey_system__plss__cadastral_nation.geojson"
+    },
+    {
+      "title": "Off-Reservation Trust Lands (USCB & EPA 2021)",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/BND___American_Indian_Off_Reservation_Trust_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "off-reservation_trust_lands__uscb___epa_2021_.geojson"
+    },
+    {
+      "title": "BLM AK Land Withdrawals",
+      "url": "https://gis.blm.gov/akarcgis/rest/services/Land_Status/BLM_AK_Land_Status_Withdrawals/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_ak_land_withdrawals.geojson"
+    },
+    {
+      "title": "Parcels Joined with Taxroll Symbolized by Exempt",
+      "url": "https://services9.arcgis.com/Oi9vFzXc8ZcONgM6/arcgis/rest/services/Parcels_Joined_with_Taxroll_Symbolized_by_Exempt/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_joined_with_taxroll_symbolized_by_exempt.geojson"
+    },
+    {
+      "title": "Land Permit Or Lease",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/LandActivity_LandPermitOrLease/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_permit_or_lease.geojson"
+    },
+    {
+      "title": "BLM AK Conveyed Lands",
+      "url": "https://gis.blm.gov/akarcgis/rest/services/Land_Status/BLM_AK_Land_Status_Conveyed_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "blm_ak_conveyed_lands.geojson"
+    },
+    {
+      "title": "Easement",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/LandActivity_Easement/FeatureServer",
+      "features": 58,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "easement.geojson"
+    },
+    {
+      "title": "American Indian, Alaska Native, and Native Hawaiian Areas",
+      "url": "https://services2.arcgis.com/FiaPA4ga0iQKduv3/arcgis/rest/services/AIANNHA_v1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "american_indian__alaska_native__and_native_hawaiian_areas.geojson"
+    },
+    {
+      "title": "Alaska Native Trust and Allotment Lands",
+      "url": "https://services1.arcgis.com/HVreyEzQWRewq33m/arcgis/rest/services/Alaska_Native_Trust_and_Allotment_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "alaska_native_trust_and_allotment_lands.geojson"
+    },
+    {
+      "title": "Off-reservation Trust Land",
+      "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/Off_Reservation_Trust_Land_2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "off-reservation_trust_land.geojson"
+    },
+    {
+      "title": "Potential Hazardous Sites",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/LandActivity_PotentialHazardousSites/FeatureServer",
+      "features": 89,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "potential_hazardous_sites.geojson"
+    },
+    {
+      "title": "AK Wildland Fire Protection Agencies",
+      "url": "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/AK_WildlandFire_Protection_Responsibility/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ak_wildland_fire_protection_agencies.geojson"
+    },
+    {
+      "title": "UA Parcels_20251008",
+      "url": "https://services.arcgis.com/2j08Y1PuezhQEfCz/arcgis/rest/services/University_of_Alaska_Investment_and_Educational_Properties_All_Regions/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "ua_parcels_20251008.geojson"
+    },
+    {
+      "title": "Other State Acquired",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Ownership_OtherStateAcquired/FeatureServer",
+      "features": 94,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "other_state_acquired.geojson"
+    },
+    {
+      "title": "Juneau Parcel Viewer",
+      "url": "https://services.arcgis.com/kpMKjjLr8H1rZ4XO/arcgis/rest/services/Juneau_Parcel_Viewer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "juneau_parcel_viewer.geojson"
+    },
+    {
+      "title": "SEAK_Ownership",
+      "url": "https://services3.arcgis.com/2AgVRa1AWGZCAw1j/arcgis/rest/services/SEAK_Ownership/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "seak_ownership.geojson"
+    },
+    {
+      "title": "SurfaceMgtAgy_BLM",
+      "url": "https://services5.arcgis.com/rqsYvPKZmvSrSWbw/arcgis/rest/services/SurfaceMgtAgy_BLM/FeatureServer",
+      "features": 28,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "surfacemgtagy_blm.geojson"
+    },
+    {
+      "title": "AKR_NPS Park Boundaries_LYR",
+      "url": "https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/AKR_NPS_Boundaries_Dissolve_LYR/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "akr_nps_park_boundaries_lyr.geojson"
+    },
+    {
+      "title": "CVRF Region",
+      "url": "https://services8.arcgis.com/HXv92wfqHcYIh2KB/arcgis/rest/services/CVRF_Region/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cvrf_region.geojson"
+    },
+    {
+      "title": "Subdivision_AOI",
+      "url": "https://services.arcgis.com/YTojcvpJ9GpgYxjF/arcgis/rest/services/Subdivision_AOI/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subdivision_aoi.geojson"
+    },
+    {
+      "title": "Cadastral OOK Public",
+      "url": "https://services8.arcgis.com/HXv92wfqHcYIh2KB/arcgis/rest/services/Cadastral_OOK_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cadastral_ook_public.geojson"
+    },
+    {
+      "title": "Cadastral VAK Public",
+      "url": "https://services8.arcgis.com/HXv92wfqHcYIh2KB/arcgis/rest/services/Cadastral_VAK_Public/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "cadastral_vak_public.geojson"
+    },
+    {
+      "title": "Wickenburg County Parcels",
+      "url": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/Wickenburg_County_Parcels/FeatureServer",
+      "features": 36,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wickenburg_county_parcels.geojson"
+    },
+    {
+      "title": "CRBAP_Units_ArcGIS_Online",
+      "url": "https://services1.arcgis.com/7HDiw78fcUiM2BWn/arcgis/rest/services/CRBAP_Units_ArcGIS_Online/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "crbap_units_arcgis_online.geojson"
+    },
+    {
+      "title": "TargetOrgeon_AKN",
+      "url": "https://services1.arcgis.com/T1XS85Rf93qeUx9G/arcgis/rest/services/TargetOrgeon_AKN/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "targetorgeon_akn.geojson"
+    },
+    {
+      "title": "North_Woods_parcels_AKF",
+      "url": "https://services5.arcgis.com/ilvOamkQCWQM5KB8/arcgis/rest/services/North_Woods_parcels_AKF/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "north_woods_parcels_akf.geojson"
+    },
+    {
+      "title": "Agreement Settlement and Reconveyance",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Ownership_AgreementSettlementReconveyance/FeatureServer",
+      "features": 11,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "agreement_settlement_and_reconveyance.geojson"
+    },
+    {
+      "title": "Scenic Integrity Objectives - R10 ChugachNF (Sync Enabled)",
+      "url": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/Chugach_National_Forest_Scenic_Integrity_Objectives/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "scenic_integrity_objectives_-_r10_chugachnf__sync_enabled_.geojson"
+    },
+    {
+      "title": "Trespass",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/LandActivity_Trespass/FeatureServer",
+      "features": 91,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "trespass.geojson"
+    },
+    {
+      "title": "State Interest Native Allotment",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Ownership_NativeAllotment/FeatureServer",
+      "features": 27,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_interest_native_allotment.geojson"
+    },
+    {
+      "title": "Subsurface Water Right",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Water_SubsurfaceWaterRight/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "subsurface_water_right.geojson"
+    },
+    {
+      "title": "State Selected Land",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Ownership_StateSelectedLand/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_selected_land.geojson"
+    },
+    {
+      "title": "Federal Action",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Ownership_FederalAction/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "federal_action.geojson"
+    },
+    {
+      "title": "State Survey Boundary",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Survey_StateSurveysMonuments/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_survey_boundary.geojson"
+    },
+    {
+      "title": "Management Agreement",
+      "url": "https://arcgis.dnr.alaska.gov/arcgis/rest/services/OpenData/Ownership_ManagementAgreement/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "management_agreement.geojson"
+    },
+    {
+      "title": "National Wildlife Refuge Boundary",
+      "url": "https://services7.arcgis.com/cm0SaLTiMKD4Qj4p/arcgis/rest/services/National_Wildlife_Refuge_Boundary/FeatureServer",
+      "features": 15,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "national_wildlife_refuge_boundary.geojson"
+    },
+    {
+      "title": "Bureau of Land Management Boundaries Alaska",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Bureau_of_Land_Management_Boundaries_Alaska/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bureau_of_land_management_boundaries_alaska.geojson"
+    }
+  ]
+}

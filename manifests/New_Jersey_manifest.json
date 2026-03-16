@@ -1,0 +1,594 @@
+{
+  "state": "New Jersey",
+  "sources_attempted": 79,
+  "sources_successful": 65,
+  "total_features": 4960,
+  "pulled_at": "2026-03-16T01:33:44.960157",
+  "datasets": [
+    {
+      "title": "Vernal Pools and Vernal Habitats (Landscape Project v3.4)",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Landscape_Project_Vernal_Pools/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vernal_pools_and_vernal_habitats__landscape_project_v3_4_.geojson"
+    },
+    {
+      "title": "Skylands Habitat (Landscape Project v3.4)",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Landscape_Project_Species_Based_Habitat_Skylands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "skylands_habitat__landscape_project_v3_4_.geojson"
+    },
+    {
+      "title": "Stream Habitat (Landscape Project v3.4)",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Stream_Habitat_Landscape_v3_4/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "stream_habitat__landscape_project_v3_4_.geojson"
+    },
+    {
+      "title": "Pinelands Habitat (Landscape Project v3.4)",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Landscape_Project_Species_Based_Habitat_Pinelands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pinelands_habitat__landscape_project_v3_4_.geojson"
+    },
+    {
+      "title": "Critical Environmental and Historic Sites of the NJ State Plan",
+      "url": "https://services3.arcgis.com/iy3mGBSHxkFa1uPL/arcgis/rest/services/Critical_Environmental_and_Historic_Sites_of_the_NJ_State_Plan/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "critical_environmental_and_historic_sites_of_the_nj_state_pl.geojson"
+    },
+    {
+      "title": "Pinelands Area",
+      "url": "https://services1.arcgis.com/nCm6SZaiGMuGX35l/arcgis/rest/services/Pinelands_Area/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pinelands_area.geojson"
+    },
+    {
+      "title": "Pinelands Wetlands 300 foot Buffer",
+      "url": "https://services1.arcgis.com/nCm6SZaiGMuGX35l/arcgis/rest/services/Pinelands_Wetlands_Buffers_300_feet/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pinelands_wetlands_300_foot_buffer.geojson"
+    },
+    {
+      "title": "Pinelands_Parcels",
+      "url": "https://services1.arcgis.com/nCm6SZaiGMuGX35l/arcgis/rest/services/Pinelands_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pinelands_parcels.geojson"
+    },
+    {
+      "title": "Preserved Farmland of New Jersey ",
+      "url": "https://services.arcgis.com/gzSkSfQGxyX6dicF/arcgis/rest/services/NJFPP_Preserved_Farms/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "preserved_farmland_of_new_jersey_.geojson"
+    },
+    {
+      "title": "Core Boundaries of the NJ State Development and Redevelopment Plan New Jersey",
+      "url": "https://services3.arcgis.com/iy3mGBSHxkFa1uPL/arcgis/rest/services/Core_Boundaries_of_the_NJ_State_Development_and_Redevelopment_Plan_New_Jersey/FeatureServer",
+      "features": 23,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "core_boundaries_of_the_nj_state_development_and_redevelopmen.geojson"
+    },
+    {
+      "title": "Highlands Redevelopment Areas",
+      "url": "https://services6.arcgis.com/ZrVlS0wslq8Nvq5I/arcgis/rest/services/HL_Redevelopment_Areas/FeatureServer",
+      "features": 13,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "highlands_redevelopment_areas.geojson"
+    },
+    {
+      "title": "Pinelands National Reserve",
+      "url": "https://services1.arcgis.com/nCm6SZaiGMuGX35l/arcgis/rest/services/Pinelands_National_Reserve/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pinelands_national_reserve.geojson"
+    },
+    {
+      "title": "Hunterdon County Parcels",
+      "url": "https://services.arcgis.com/7lArfgDCUxJzYemD/arcgis/rest/services/Hunterdon_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "hunterdon_county_parcels.geojson"
+    },
+    {
+      "title": "Pinelands Wetlands",
+      "url": "https://services1.arcgis.com/nCm6SZaiGMuGX35l/arcgis/rest/services/Pinelands_Wetlands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "pinelands_wetlands.geojson"
+    },
+    {
+      "title": "Trenton Tax Blocks",
+      "url": "https://services.arcgis.com/4Ko8f1mCWFLyY4NV/arcgis/rest/services/Trenton_Tax_Blocks/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "trenton_tax_blocks.geojson"
+    },
+    {
+      "title": "Monroe Parcels Clipped",
+      "url": "https://services6.arcgis.com/u1cLUtFdrWfOeWwq/arcgis/rest/services/Monroe_Parcels_Clipped/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "monroe_parcels_clipped.geojson"
+    },
+    {
+      "title": "Essex County Parcels",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/Essex_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "essex_county_parcels.geojson"
+    },
+    {
+      "title": "Pinelands Management Areas",
+      "url": "https://services1.arcgis.com/nCm6SZaiGMuGX35l/arcgis/rest/services/Pinelands_ManagementAreas/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "pinelands_management_areas.geojson"
+    },
+    {
+      "title": "Address Points for NJ, Hosted, 3424",
+      "url": "https://services2.arcgis.com/XVOqAjTOJ5P6ngMu/arcgis/rest/services/AddressPoints/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "address_points_for_nj__hosted__3424.geojson"
+    },
+    {
+      "title": "Hackensack_Parcels",
+      "url": "https://services3.arcgis.com/McAPgbI5Yb2zkB0X/arcgis/rest/services/Hackensack_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hackensack_parcels.geojson"
+    },
+    {
+      "title": "Parcel_2022",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/Parcel_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcel_2022.geojson"
+    },
+    {
+      "title": "UnionCountyParcels",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/UnionCountyParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "unioncountyparcels.geojson"
+    },
+    {
+      "title": "County PIG Target Farms",
+      "url": "https://services.arcgis.com/gzSkSfQGxyX6dicF/arcgis/rest/services/County_PIG_Target_Farms/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_pig_target_farms.geojson"
+    },
+    {
+      "title": "Municipal Boundaries",
+      "url": "https://services1.arcgis.com/PsDtSYIjNsyfjwcX/arcgis/rest/services/Municipal_Boundaries/FeatureServer",
+      "features": 53,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "municipal_boundaries.geojson"
+    },
+    {
+      "title": "Municipal PIG Target Farms",
+      "url": "https://services.arcgis.com/gzSkSfQGxyX6dicF/arcgis/rest/services/Municipal_PIG_Target_Farms/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipal_pig_target_farms.geojson"
+    },
+    {
+      "title": "Land Capacity Analysis for P.L. 2024, c.2",
+      "url": "https://services.arcgis.com/Aur8tCo478N3VovT/arcgis/rest/services/Vacant_Land_Output/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "land_capacity_analysis_for_p_l__2024__c_2.geojson"
+    },
+    {
+      "title": "DenvilleTaxParcels",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/DenvilleTaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "denvilletaxparcels.geojson"
+    },
+    {
+      "title": "Park Parcels_MCPS",
+      "url": "https://services1.arcgis.com/PsDtSYIjNsyfjwcX/arcgis/rest/services/Park_Parcels_MCPS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "park_parcels_mcps.geojson"
+    },
+    {
+      "title": "Cape May County Parcels",
+      "url": "https://services8.arcgis.com/CBiB2HwHGXUi8D4Y/arcgis/rest/services/Cape_May_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cape_may_county_parcels.geojson"
+    },
+    {
+      "title": "NJ_Parcel_Boundaries_Simplified",
+      "url": "https://services8.arcgis.com/gaqmegz7qPj113v0/arcgis/rest/services/NJ_Parcel_Boundaries_Simplified/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nj_parcel_boundaries_simplified.geojson"
+    },
+    {
+      "title": "Sussex County Open Space",
+      "url": "https://services.arcgis.com/opPd2BqYeMe7vELn/arcgis/rest/services/OpenSpace/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sussex_county_open_space.geojson"
+    },
+    {
+      "title": "Municipal Zoning",
+      "url": "https://services.arcgis.com/Aur8tCo478N3VovT/arcgis/rest/services/Municipal_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipal_zoning.geojson"
+    },
+    {
+      "title": "Clark Township Zoning",
+      "url": "https://services7.arcgis.com/HVAUPEhgOEfMS4MH/arcgis/rest/services/Clark_Township_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "clark_township_zoning.geojson"
+    },
+    {
+      "title": "Atlantic County Parcels 2022",
+      "url": "https://services1.arcgis.com/z18KTAVDZDXq9ZmQ/arcgis/rest/services/Atlantic_County_Parcels_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "atlantic_county_parcels_2022.geojson"
+    },
+    {
+      "title": "NJ UEZ Parcels (Phase 1: select to add to UEZ)",
+      "url": "https://services.arcgis.com/Aur8tCo478N3VovT/arcgis/rest/services/UEZ_parcels_Phase1_add_to_UEZ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nj_uez_parcels__phase_1__select_to_add_to_uez_.geojson"
+    },
+    {
+      "title": "Paterson_City",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/Paterson_City/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "paterson_city.geojson"
+    },
+    {
+      "title": "NJ Sport and Exposition Authority Owned Land",
+      "url": "https://services3.arcgis.com/iy3mGBSHxkFa1uPL/arcgis/rest/services/NJ_Sport_and_Exposition_Authority_Owned_Land/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nj_sport_and_exposition_authority_owned_land.geojson"
+    },
+    {
+      "title": "County Boundaries of NJ, Hosted, 3424",
+      "url": "https://services2.arcgis.com/XVOqAjTOJ5P6ngMu/arcgis/rest/services/NJ_Counties_3424/FeatureServer",
+      "features": 21,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_boundaries_of_nj__hosted__3424.geojson"
+    },
+    {
+      "title": "Rock Ridge Current Parcels",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/Rock_Ridge_Current_Parcels/FeatureServer",
+      "features": 3,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rock_ridge_current_parcels.geojson"
+    },
+    {
+      "title": "Mosquito Unit Districts",
+      "url": "https://services1.arcgis.com/z18KTAVDZDXq9ZmQ/arcgis/rest/services/Mosquito_Unit_Districts/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mosquito_unit_districts.geojson"
+    },
+    {
+      "title": "SP_Parcels_shapefile",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/SP_Parcels_shapefile/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "sp_parcels_shapefile.geojson"
+    },
+    {
+      "title": "Somerset County Zoning",
+      "url": "https://services2.arcgis.com/2g2XvfUywwLJoF2c/arcgis/rest/services/Somerset_County_Zoning/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "somerset_county_zoning.geojson"
+    },
+    {
+      "title": "Rutgers Parcel/MOD-IV Composite of New Jersey (2023) 20260302 ",
+      "url": "https://services1.arcgis.com/ze0XBzU1FXj94DJq/arcgis/rest/services/RU_Cnty_PM4_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "rutgers_parcel_mod-iv_composite_of_new_jersey__2023__2026030.geojson"
+    },
+    {
+      "title": "NJ UEZ Parcels With Select Property Classes",
+      "url": "https://services.arcgis.com/Aur8tCo478N3VovT/arcgis/rest/services/UEZ_parcels_selected_PClasses/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nj_uez_parcels_with_select_property_classes.geojson"
+    },
+    {
+      "title": "Cedar_Parcels",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/Cedar_Parcels/FeatureServer",
+      "features": 36,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cedar_parcels.geojson"
+    },
+    {
+      "title": "Landscape Regions (Landscape Project v3.4)",
+      "url": "https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/arcgis/rest/services/Landscape_Regions/FeatureServer",
+      "features": 6,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "landscape_regions__landscape_project_v3_4_.geojson"
+    },
+    {
+      "title": "Egg Harbor Twp Tax Features",
+      "url": "https://services7.arcgis.com/ItUoEIWvqsXZpKZ1/arcgis/rest/services/Egg_Harbor_Twp_Tax_Features/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "egg_harbor_twp_tax_features.geojson"
+    },
+    {
+      "title": "ArrowheadLakeParcels",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/ArrowheadLakeParcels/FeatureServer",
+      "features": 11,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "arrowheadlakeparcels.geojson"
+    },
+    {
+      "title": "IndianLakeParcels",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/IndianLakeParcels/FeatureServer",
+      "features": 19,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "indianlakeparcels.geojson"
+    },
+    {
+      "title": "EstlingParcels",
+      "url": "https://services1.arcgis.com/oOUgp466Coyjcu6V/arcgis/rest/services/EstlingParcels/FeatureServer",
+      "features": 2,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "estlingparcels.geojson"
+    },
+    {
+      "title": "Warren County 2012 parcels with MODIV data",
+      "url": "https://services3.arcgis.com/4mb1fO9eRe47EZZx/arcgis/rest/services/Warren_County_2012_parcels_with_MODIV_data/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "warren_county_2012_parcels_with_modiv_data.geojson"
+    },
+    {
+      "title": "Atlantic County Blocks 2022",
+      "url": "https://services1.arcgis.com/z18KTAVDZDXq9ZmQ/arcgis/rest/services/Atlantic_County_Blocks_2022/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "atlantic_county_blocks_2022.geojson"
+    },
+    {
+      "title": "Galloway_Parcels",
+      "url": "https://services9.arcgis.com/zpdLCwfy1TkkzJqP/arcgis/rest/services/Galloway_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "galloway_parcels.geojson"
+    },
+    {
+      "title": "NJ Public Airport Parcels",
+      "url": "https://services.arcgis.com/gzSkSfQGxyX6dicF/arcgis/rest/services/NJ_Public_Airport_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nj_public_airport_parcels.geojson"
+    },
+    {
+      "title": "Camden_City_Vacant_Parcels",
+      "url": "https://services9.arcgis.com/Nzt3APH7h0GUTCYF/arcgis/rest/services/Camden_City_Vacant_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "camden_city_vacant_parcels.geojson"
+    },
+    {
+      "title": "NJ UEZ Parcels (Phase 2: select to remove from UEZ)",
+      "url": "https://services.arcgis.com/Aur8tCo478N3VovT/arcgis/rest/services/UEZ_parcels_Phase2_subtract_from_UEZ/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "nj_uez_parcels__phase_2__select_to_remove_from_uez_.geojson"
+    },
+    {
+      "title": "parcelfullmerge",
+      "url": "https://services.arcgis.com/HggmsDF7UJsNN1FK/arcgis/rest/services/parcelfullmerge/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelfullmerge.geojson"
+    },
+    {
+      "title": "AtlanticCityTaxExemptParcels_WFL1",
+      "url": "https://services1.arcgis.com/z18KTAVDZDXq9ZmQ/arcgis/rest/services/AtlanticCityTaxExemptParcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "atlanticcitytaxexemptparcels_wfl1.geojson"
+    },
+    {
+      "title": "Gloucester County Parcels",
+      "url": "https://services8.arcgis.com/CBiB2HwHGXUi8D4Y/arcgis/rest/services/Gloucester_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gloucester_county_parcels.geojson"
+    },
+    {
+      "title": "County_Boundaries_of_NJ_3424_gdb",
+      "url": "https://services1.arcgis.com/q8sarOko6mCDwiGm/arcgis/rest/services/County_Boundaries_of_NJ_3424_gdb/FeatureServer",
+      "features": 21,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_boundaries_of_nj_3424_gdb.geojson"
+    },
+    {
+      "title": "County Boundaries of NJ, Hosted, 3857",
+      "url": "https://services2.arcgis.com/XVOqAjTOJ5P6ngMu/arcgis/rest/services/NJ_Counties_3857/FeatureServer",
+      "features": 21,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_boundaries_of_nj__hosted__3857.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services7.arcgis.com/PBMbQ6ABBlmzWijk/arcgis/rest/services/SJGParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Municipal_Boundary",
+      "url": "https://services.arcgis.com/mmindpmdbSZXPVNc/arcgis/rest/services/Municipal_Boundary/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "municipal_boundary.geojson"
+    },
+    {
+      "title": "NJCounties3857_njhmfa",
+      "url": "https://services9.arcgis.com/uIEsY8uQe6wZw7ZQ/arcgis/rest/services/NJCounties3857_njhmfa/FeatureServer",
+      "features": 21,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "njcounties3857_njhmfa.geojson"
+    },
+    {
+      "title": "Warren Parcels 2022 (PUBLIC)",
+      "url": "https://services3.arcgis.com/4mb1fO9eRe47EZZx/arcgis/rest/services/Warren_Parcels_2022_(PUBLIC)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "warren_parcels_2022__public_.geojson"
+    }
+  ]
+}

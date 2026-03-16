@@ -1,0 +1,126 @@
+{
+  "state": "West Virginia",
+  "sources_attempted": 13,
+  "sources_successful": 13,
+  "total_features": 1178,
+  "pulled_at": "2026-03-16T01:45:01.496658",
+  "datasets": [
+    {
+      "title": "Morgantown, WV Zoning Layer",
+      "url": "https://services7.arcgis.com/lE5mQkgxehcTjzKf/arcgis/rest/services/Morgantown_Official_Symbolized_Zoning_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "morgantown__wv_zoning_layer.geojson"
+    },
+    {
+      "title": "Marion_AGOL",
+      "url": "https://services.arcgis.com/7Bol45RWY5rZDiqN/arcgis/rest/services/Marion_AGOL/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "marion_agol.geojson"
+    },
+    {
+      "title": "SalesTax_Ranson_WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_Ranson_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_ranson_webmap_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax2_BrucetonMills",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax2_BrucetonMills/FeatureServer",
+      "features": 81,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax2_brucetonmills.geojson"
+    },
+    {
+      "title": "SalesTax_WestUnion_WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_WestUnion_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_westunion_webmap_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax_WebMap_Kingwood_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_WebMap_Kingwood_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_webmap_kingwood_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax_WebMap_Follansbee_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_WebMap_Follansbee_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_webmap_follansbee_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax_Anmoore_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_Anmoore_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_anmoore_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax_Harrisville_WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_Harrisville_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "salestax_harrisville_webmap_wfl1.geojson"
+    },
+    {
+      "title": "NewCumberland WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/NewCumberland_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "newcumberland_webmap_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax_SoChas_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_SoChas_WFL1/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_sochas_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax_Pennsboro_WebMap_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_Pennsboro_WebMap_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_pennsboro_webmap_wfl1.geojson"
+    },
+    {
+      "title": "SalesTax_BrucetonMills_WFL1",
+      "url": "https://services5.arcgis.com/9xAoCS1av5nYn2hG/arcgis/rest/services/SalesTax_BrucetonMills_WFL1/FeatureServer",
+      "features": 81,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "salestax_brucetonmills_wfl1.geojson"
+    }
+  ]
+}

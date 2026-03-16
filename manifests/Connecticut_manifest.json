@@ -1,0 +1,711 @@
+{
+  "state": "Connecticut",
+  "sources_attempted": 262,
+  "sources_successful": 78,
+  "total_features": 6999,
+  "pulled_at": "2026-03-16T01:20:26.095850",
+  "datasets": [
+    {
+      "title": "Connecticut CAMA and Parcel Layer",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/Connecticut_CAMA_and_Parcel_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "connecticut_cama_and_parcel_layer.geojson"
+    },
+    {
+      "title": "Connecticut State Parcel Layer 2023",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/Connecticut_State_Parcel_Layer_2023/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "connecticut_state_parcel_layer_2023.geojson"
+    },
+    {
+      "title": "DEEP Trails Set",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/DEEP_Trails_Set/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "deep_trails_set.geojson"
+    },
+    {
+      "title": "CLCT Basemap",
+      "url": "https://services3.arcgis.com/LnKEo878IxrAmP5F/arcgis/rest/services/CLCT_Basemap/FeatureServer",
+      "features": 4,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "clct_basemap.geojson"
+    },
+    {
+      "title": "DEEP Property Access Locations",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/DEEP_Property_Access_Locations/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "deep_property_access_locations.geojson"
+    },
+    {
+      "title": "1997 Municipal and Private Open Space",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/1997_Municipal_and_Private_Open_Space/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "1997_municipal_and_private_open_space.geojson"
+    },
+    {
+      "title": "Connecticut Parcels 2009",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Connecticut_Parcels_for_Protected_Open_Space_Mapping/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "connecticut_parcels_2009.geojson"
+    },
+    {
+      "title": "BristolCT_Parcels",
+      "url": "https://services9.arcgis.com/f8F9O65naztzIPSI/arcgis/rest/services/BristolCT_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "bristolct_parcels.geojson"
+    },
+    {
+      "title": "Tidal Wetlands 1970s",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Tidal_Wetlands_1970s/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "tidal_wetlands_1970s.geojson"
+    },
+    {
+      "title": "2011 Protected Open Space Mapping Set",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/2011_Protected_Open_Space_Mapping/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2011_protected_open_space_mapping_set.geojson"
+    },
+    {
+      "title": "Web Parcel Layer",
+      "url": "https://services6.arcgis.com/c8bwOPjaFB6olbad/arcgis/rest/services/Web_Parcel_Layer/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "web_parcel_layer.geojson"
+    },
+    {
+      "title": "Assessor_BaseMap",
+      "url": "https://services2.arcgis.com/HfsHDBmkGwb1UtID/arcgis/rest/services/Assessor_BaseMap/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "assessor_basemap.geojson"
+    },
+    {
+      "title": "DEEP Property",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Connecticut_DEEP_Property/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "deep_property.geojson"
+    },
+    {
+      "title": "CTX - Real Estate (Fee, Temporary and Permanent Easements and Parcels) (20200622)",
+      "url": "https://services5.arcgis.com/1Q69X8bhNiDzwAVJ/arcgis/rest/services/CoastalTexas_RealEstate_Authoritative/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ctx_-_real_estate__fee__temporary_and_permanent_easements_an.geojson"
+    },
+    {
+      "title": "Parcel View 2023",
+      "url": "https://services6.arcgis.com/c8bwOPjaFB6olbad/arcgis/rest/services/Parcel_View_2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_view_2023.geojson"
+    },
+    {
+      "title": "CT Flood Hazard Map",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/CT_Flood_Hazard_Map/FeatureServer",
+      "features": 29,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ct_flood_hazard_map.geojson"
+    },
+    {
+      "title": "WebParcelViewer2023",
+      "url": "https://services6.arcgis.com/c8bwOPjaFB6olbad/arcgis/rest/services/WebParcelViewer2023/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "webparcelviewer2023.geojson"
+    },
+    {
+      "title": "Billings_Parcels_Analysis",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Billings_Parcels_Analysis/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "billings_parcels_analysis.geojson"
+    },
+    {
+      "title": "Belgrade_ETJ_FLUM_091024",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Belgrade_ETJ_FLUM_091024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "belgrade_etj_flum_091024.geojson"
+    },
+    {
+      "title": "ColumbiaFalls_Parcels_Analysis",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/ColumbiaFalls_Parcels_Analysis/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "columbiafalls_parcels_analysis.geojson"
+    },
+    {
+      "title": "Farmland Preservation 2025 (DoAG)",
+      "url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Farmland_Preservation_DoAG_2025/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "farmland_preservation_2025__doag_.geojson"
+    },
+    {
+      "title": "COB_ETJ_FLUM___Adopted7_15_24_Rev9_10_24_",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/COB_ETJ_FLUM___Adopted7_15_24_Rev9_10_24_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "cob_etj_flum___adopted7_15_24_rev9_10_24_.geojson"
+    },
+    {
+      "title": "CTPARCEL_NORTHHAVEN",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/CTPARCEL_NORTHHAVEN/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ctparcel_northhaven.geojson"
+    },
+    {
+      "title": "Connecticut CAMA and Parcel Layer 2024",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/Connecticut_CAMA_and_Parcel_Layer_2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "connecticut_cama_and_parcel_layer_2024.geojson"
+    },
+    {
+      "title": "CTPARCEL_WESTHAVEN",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/CTPARCEL_WESTHAVEN/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ctparcel_westhaven.geojson"
+    },
+    {
+      "title": "Winchester Parcels",
+      "url": "https://services6.arcgis.com/r0j3BuRWqJKnHmNV/arcgis/rest/services/Winchester_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "winchester_parcels.geojson"
+    },
+    {
+      "title": "CTPARCEL_EASTHAVEN",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/CTPARCEL_EASTHAVEN/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ctparcel_easthaven.geojson"
+    },
+    {
+      "title": "CTPARCEL_NEWHAVEN",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/CTPARCEL_NEWHAVEN/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ctparcel_newhaven.geojson"
+    },
+    {
+      "title": "CTPARCEL_HAMDEN",
+      "url": "https://services1.arcgis.com/9lDFdeC4JIBgML6L/arcgis/rest/services/CTPARCEL_HAMDEN/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ctparcel_hamden.geojson"
+    },
+    {
+      "title": "Bozeman_Parcels_Analysis",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Bozeman_Parcels_Analysis/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "bozeman_parcels_analysis.geojson"
+    },
+    {
+      "title": "Litchfield Hills Greenprint Service Area Protected Lands (Depricated)",
+      "url": "https://services.arcgis.com/0ahKkMERRbqrhR00/arcgis/rest/services/Litchfield_Hills_Greenprint_Service_Area_Protected_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "litchfield_hills_greenprint_service_area_protected_lands__de.geojson"
+    },
+    {
+      "title": "Kalispell_parcels_analysis",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Kalispell_parcels_analysis/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "kalispell_parcels_analysis.geojson"
+    },
+    {
+      "title": "Avon_school_parcels",
+      "url": "https://services3.arcgis.com/ZvcJEU5PM6qt0B8f/arcgis/rest/services/Avon_school_parcels/FeatureServer",
+      "features": 5,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "avon_school_parcels.geojson"
+    },
+    {
+      "title": "Housing Infill Potential Score Catagorized",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Helena_parcels_analysis_dev_score/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "housing_infill_potential_score_catagorized.geojson"
+    },
+    {
+      "title": "CT Parcels 2024 10ac only",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/CT_Parcels_2024_10ac_only/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ct_parcels_2024_10ac_only.geojson"
+    },
+    {
+      "title": "Westmoreland_VGIN_Parcels_CT",
+      "url": "https://services1.arcgis.com/QHK2l9cSYhemgg5s/arcgis/rest/services/Westmoreland_VGIN_Parcels_CT/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "westmoreland_vgin_parcels_ct.geojson"
+    },
+    {
+      "title": "Parcels_with_PA490",
+      "url": "https://services2.arcgis.com/LD8LGc05Tkd3FQoz/arcgis/rest/services/Parcels_with_PA490/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcels_with_pa490.geojson"
+    },
+    {
+      "title": "Missoula_parcels_EP",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Missoula_parcels_EP/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "missoula_parcels_ep.geojson"
+    },
+    {
+      "title": "Tolland",
+      "url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Tolland/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "tolland.geojson"
+    },
+    {
+      "title": "Parcels in Downtown Hartford",
+      "url": "https://services.arcgis.com/2ycVue24EK6qzjat/arcgis/rest/services/Downtown_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_in_downtown_hartford.geojson"
+    },
+    {
+      "title": "Bozeman_Parcels",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/Bozeman_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "bozeman_parcels.geojson"
+    },
+    {
+      "title": "GF_parcels_1",
+      "url": "https://services9.arcgis.com/APaURdy0qM8mwYJw/arcgis/rest/services/GF_parcels_1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gf_parcels_1.geojson"
+    },
+    {
+      "title": "Northwest Connecticut Permanently Protected Lands",
+      "url": "https://services.arcgis.com/0ahKkMERRbqrhR00/arcgis/rest/services/GP_Protected_Private_HVAONLY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "northwest_connecticut_permanently_protected_lands.geojson"
+    },
+    {
+      "title": "Verified OS Parcels",
+      "url": "https://services6.arcgis.com/c8bwOPjaFB6olbad/arcgis/rest/services/Verified_OS_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "verified_os_parcels.geojson"
+    },
+    {
+      "title": "Parcels_Redding",
+      "url": "https://services1.arcgis.com/pRmsJj3aQNwstCiO/arcgis/rest/services/Parcels_Redding/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_redding.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services6.arcgis.com/LDyICFHkbJw1xv8M/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Connecticut_Parcels - copy",
+      "url": "https://services.arcgis.com/aMv9lrl6jFsuGNu8/arcgis/rest/services/Connecticut_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "connecticut_parcels_-_copy.geojson"
+    },
+    {
+      "title": "County Boundaries (line)",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/countyboundaries_line/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_boundaries__line_.geojson"
+    },
+    {
+      "title": "FEMA Flood Zone_ Buildings and Parcels_WFL1",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/FEMA_Flood_Zone__Buildings_and_Parcels_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "fema_flood_zone__buildings_and_parcels_wfl1.geojson"
+    },
+    {
+      "title": "CT_State_Parcels",
+      "url": "https://services3.arcgis.com/hqWhiN8cCZCbYVsf/arcgis/rest/services/CT_State_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ct_state_parcels.geojson"
+    },
+    {
+      "title": "State Boundaries for NJ, PA, DE, and MD (line)",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/stateboundaries_line/FeatureServer",
+      "features": 15,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_boundaries_for_nj__pa__de__and_md__line_.geojson"
+    },
+    {
+      "title": "Parcels 22 Limited Info",
+      "url": "https://services6.arcgis.com/c8bwOPjaFB6olbad/arcgis/rest/services/Parcels_22_land_only_minInfo/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_22_limited_info.geojson"
+    },
+    {
+      "title": "CT_Parcels",
+      "url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/CT_Parcels/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "ct_parcels.geojson"
+    },
+    {
+      "title": "MPO_Prequalified",
+      "url": "https://services6.arcgis.com/krSNOBBGf8rF7cNp/arcgis/rest/services/MPO_Prequalified/FeatureServer",
+      "features": 2,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mpo_prequalified.geojson"
+    },
+    {
+      "title": "Parcels to Verify as Open Space",
+      "url": "https://services6.arcgis.com/c8bwOPjaFB6olbad/arcgis/rest/services/Parcels_22_OS_join/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_to_verify_as_open_space.geojson"
+    },
+    {
+      "title": "Marlborough",
+      "url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Marlborough/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "marlborough.geojson"
+    },
+    {
+      "title": "Winchester Parcels public view",
+      "url": "https://services6.arcgis.com/r0j3BuRWqJKnHmNV/arcgis/rest/services/Winchester_Parcels_public_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "winchester_parcels_public_view.geojson"
+    },
+    {
+      "title": "County Boundaries (polygon)",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/countyboundaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "county_boundaries__polygon_.geojson"
+    },
+    {
+      "title": "Windsor Locks",
+      "url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Windsor_Locks/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "windsor_locks.geojson"
+    },
+    {
+      "title": "GrotonParcelsAndAddressPoints",
+      "url": "https://services3.arcgis.com/5eUtyAeI50fTMNL4/arcgis/rest/services/GrotonParcelsAndAddressPoints/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "grotonparcelsandaddresspoints.geojson"
+    },
+    {
+      "title": "FloodZoneParcels_ByDistrict_May2022",
+      "url": "https://services7.arcgis.com/cszgVAzZgLvRmS7T/arcgis/rest/services/FloodZoneParcels_ByDistrict_May2022/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "floodzoneparcels_bydistrict_may2022.geojson"
+    },
+    {
+      "title": "Woodbridge _Original Score_",
+      "url": "https://services3.arcgis.com/PBFCA5ZWvTkx82e2/arcgis/rest/services/Woodbridge__Original_Score_/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "woodbridge__original_score_.geojson"
+    },
+    {
+      "title": "FirstLight_Parcels",
+      "url": "https://services.arcgis.com/0ahKkMERRbqrhR00/arcgis/rest/services/FirstLight_Parcels/FeatureServer",
+      "features": 9,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "firstlight_parcels.geojson"
+    },
+    {
+      "title": "CT_Parcels_Within_Quarter_Mile_ (COPY)of_Rivers",
+      "url": "https://services2.arcgis.com/U5tWTrXFmsfQBUM4/arcgis/rest/services/CT_Parcels_Within_Quarter_Mile_ (COPY)of_Rivers/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ct_parcels_within_quarter_mile___copy_of_rivers.geojson"
+    },
+    {
+      "title": "CT_Parcels_2024_vt_labels",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/CT_Parcels_2024_vt_labels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ct_parcels_2024_vt_labels.geojson"
+    },
+    {
+      "title": "Parcel CAMA Joined View Layer 2023",
+      "url": "https://services6.arcgis.com/c8bwOPjaFB6olbad/arcgis/rest/services/Join_Features_to_WebParcelViewer2023_view/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcel_cama_joined_view_layer_2023.geojson"
+    },
+    {
+      "title": "CT_Parcels_2024",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/CT_Parcels_2024/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ct_parcels_2024.geojson"
+    },
+    {
+      "title": "Madison_Parcel Lines",
+      "url": "https://services3.arcgis.com/mdlmNRZkxePmTjqC/arcgis/rest/services/Madison_Parcel_Lines/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "madison_parcel_lines.geojson"
+    },
+    {
+      "title": "Eversource_RIO_property",
+      "url": "https://services.arcgis.com/0ahKkMERRbqrhR00/arcgis/rest/services/Eversource_RIO_property/FeatureServer",
+      "features": 27,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "eversource_rio_property.geojson"
+    },
+    {
+      "title": "DSSadds",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/DSSadds/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "dssadds.geojson"
+    },
+    {
+      "title": "Quinnipiac University Parcels",
+      "url": "https://services7.arcgis.com/5UWZI2tAQt1CsRiC/arcgis/rest/services/Quinnipiac_University_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "quinnipiac_university_parcels.geojson"
+    },
+    {
+      "title": "CT_Parcels_Within_Quarter_Mile_(COPY)of_Tributaries",
+      "url": "https://services2.arcgis.com/U5tWTrXFmsfQBUM4/arcgis/rest/services/CT_Parcels_Within_Quarter_Mile_(COPY)of_Tributaries/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ct_parcels_within_quarter_mile__copy_of_tributaries.geojson"
+    },
+    {
+      "title": "CT_Parcels_2024_fc",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/CT_Parcels_2024_fc/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ct_parcels_2024_fc.geojson"
+    },
+    {
+      "title": "State Boundaries for NJ, PA, DE, and MD",
+      "url": "https://arcgis.dvrpc.org/portal/rest/services/boundaries/stateboundaries/FeatureServer",
+      "features": 7,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_boundaries_for_nj__pa__de__and_md.geojson"
+    },
+    {
+      "title": "Housatonic River Adjacent Parcels",
+      "url": "https://services.arcgis.com/0ahKkMERRbqrhR00/arcgis/rest/services/HousatonicRiverAdjParcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "housatonic_river_adjacent_parcels.geojson"
+    },
+    {
+      "title": "2024 Parcels for Forestry Intake Survey 123",
+      "url": "https://services3.arcgis.com/3FL1kr7L4LvwA2Kb/arcgis/rest/services/2024_Parcels_for_Forestry_Intake_Survey_123/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "2024_parcels_for_forestry_intake_survey_123.geojson"
+    },
+    {
+      "title": "CT_5_10",
+      "url": "https://services.arcgis.com/aMv9lrl6jFsuGNu8/arcgis/rest/services/CT_5_10/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ct_5_10.geojson"
+    },
+    {
+      "title": "CT_10",
+      "url": "https://services.arcgis.com/aMv9lrl6jFsuGNu8/arcgis/rest/services/CT_10/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ct_10.geojson"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "state": "South Dakota",
+  "sources_attempted": 17,
+  "sources_successful": 10,
+  "total_features": 621,
+  "pulled_at": "2026-03-16T01:38:25.828186",
+  "datasets": [
+    {
+      "title": "Windcavehalfmilebuffer",
+      "url": "https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/Windcavehalfmilebuffer/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "windcavehalfmilebuffer.geojson"
+    },
+    {
+      "title": "BarCrossParcels",
+      "url": "https://services2.arcgis.com/1sM9tpOC8N7GGkbw/arcgis/rest/services/BarCrossParcels/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "barcrossparcels.geojson"
+    },
+    {
+      "title": "Zoning_Dissolve_20191015",
+      "url": "https://services8.arcgis.com/yYNRibtGzPR9oviv/arcgis/rest/services/Zoning_Dissolve_20191015/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_dissolve_20191015.geojson"
+    },
+    {
+      "title": "190797.05 - Sunburst Parcels",
+      "url": "https://services2.arcgis.com/wPANluuHr3B1qhK5/arcgis/rest/services/Sunburst_190797_05_Parcels/FeatureServer",
+      "features": 16,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "190797_05_-_sunburst_parcels.geojson"
+    },
+    {
+      "title": "Lower Brule Parcels",
+      "url": "https://services3.arcgis.com/vssqvYEEteaRZxxE/arcgis/rest/services/Lower_Brule_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lower_brule_parcels.geojson"
+    },
+    {
+      "title": "Parcel C Apartments",
+      "url": "https://services.arcgis.com/YpECgwASS4iMvgsA/arcgis/rest/services/Parcel_C_Apartments/FeatureServer",
+      "features": 3,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_c_apartments.geojson"
+    },
+    {
+      "title": "Parcels with Property Taxes",
+      "url": "https://services.arcgis.com/YpECgwASS4iMvgsA/arcgis/rest/services/Parcels_with_Property_Taxes/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_with_property_taxes.geojson"
+    },
+    {
+      "title": "PenningtonParcels",
+      "url": "https://services1.arcgis.com/AhXvNWFdL7hH4TjJ/arcgis/rest/services/PenningtonParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "penningtonparcels.geojson"
+    },
+    {
+      "title": "190797.06 - Wild Wood Parcels",
+      "url": "https://services2.arcgis.com/wPANluuHr3B1qhK5/arcgis/rest/services/Wild_Wood_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "190797_06_-_wild_wood_parcels.geojson"
+    },
+    {
+      "title": "RCPC Open Data: Parcels",
+      "url": "https://gis.rcgov.org/server/rest/services/OpenData/TaxParcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "rcpc_open_data__parcels.geojson"
+    }
+  ]
+}

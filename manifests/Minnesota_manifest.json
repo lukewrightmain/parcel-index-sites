@@ -1,0 +1,270 @@
+{
+  "state": "Minnesota",
+  "sources_attempted": 40,
+  "sources_successful": 29,
+  "total_features": 2359,
+  "pulled_at": "2026-03-16T01:31:33.388228",
+  "datasets": [
+    {
+      "title": "Hwy 252 Potential Property Impacts AC2 View Layer",
+      "url": "https://services.arcgis.com/qWbGMYB49y8mLbRt/arcgis/rest/services/Hwy_252_Potential_Property_Impacts_AC2_View_Layer/FeatureServer",
+      "features": 92,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hwy_252_potential_property_impacts_ac2_view_layer.geojson"
+    },
+    {
+      "title": "MnDOT EV Site Parcels View",
+      "url": "https://services.arcgis.com/qWbGMYB49y8mLbRt/arcgis/rest/services/MnDOT_EV_Site_Parcels_Viewer/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mndot_ev_site_parcels_view.geojson"
+    },
+    {
+      "title": "State Funded Conservation Easements (RIM Reserve)",
+      "url": "https://enterprise.gisdata.mn.gov/aghost/rest/services/us_mn_state_bwsr/bdry_bwsr_rim_cons_easements/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "state_funded_conservation_easements__rim_reserve_.geojson"
+    },
+    {
+      "title": "Hwy 252 Potential Property Impacts AC3 View Layer",
+      "url": "https://services.arcgis.com/qWbGMYB49y8mLbRt/arcgis/rest/services/Hwy_252_Potential_Property_Impacts_View_Layer/FeatureServer",
+      "features": 74,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hwy_252_potential_property_impacts_ac3_view_layer.geojson"
+    },
+    {
+      "title": "Hwy 252 Potential Property Impacts AC1 View Layer",
+      "url": "https://services.arcgis.com/qWbGMYB49y8mLbRt/arcgis/rest/services/Hwy_252_Potential_Property_Impacts_AC1_View_Layer/FeatureServer",
+      "features": 70,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hwy_252_potential_property_impacts_ac1_view_layer.geojson"
+    },
+    {
+      "title": "Final Complete Shoreview Rezoning Map_WFL1",
+      "url": "https://services7.arcgis.com/oUlPzYVuBgISJqkB/arcgis/rest/services/Final_Complete_Shoreview_Rezoning_Map_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "final_complete_shoreview_rezoning_map_wfl1.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Planning Orono MN View",
+      "url": "https://services3.arcgis.com/2KtA8TSAnYHDTXOF/arcgis/rest/services/Planning__Orono_MN_View/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "planning_orono_mn_view.geojson"
+    },
+    {
+      "title": "Parcel_Points",
+      "url": "https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Parcel_Points/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcel_points.geojson"
+    },
+    {
+      "title": "PubliclyOwnedProperties",
+      "url": "https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/PubliclyOwnedProperties/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "publiclyownedproperties.geojson"
+    },
+    {
+      "title": "TaxParcel",
+      "url": "https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/TaxParcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "taxparcel.geojson"
+    },
+    {
+      "title": "Hwy 252 Potential Property Impacts AC4 View Layer ",
+      "url": "https://services.arcgis.com/qWbGMYB49y8mLbRt/arcgis/rest/services/Hwy_252_Potential_Property_Impacts_View_Layer_/FeatureServer",
+      "features": 65,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hwy_252_potential_property_impacts_ac4_view_layer_.geojson"
+    },
+    {
+      "title": "Publicly Owned Parcels - State of Minnesota",
+      "url": "https://services1.arcgis.com/9meaaHE3uiba0zr8/arcgis/rest/services/PubliclyOwnedParcels_StateofMN/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "publicly_owned_parcels_-_state_of_minnesota.geojson"
+    },
+    {
+      "title": "Parcel Mapping",
+      "url": "https://services.arcgis.com/qWbGMYB49y8mLbRt/arcgis/rest/services/Parcel_Mapping/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcel_mapping.geojson"
+    },
+    {
+      "title": "Hwy 252 Potential Property Impacts AC5 View Layer ",
+      "url": "https://services.arcgis.com/qWbGMYB49y8mLbRt/arcgis/rest/services/Hwy_252_Potential_Property_Impacts_AC5_View_Layer_/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "hwy_252_potential_property_impacts_ac5_view_layer_.geojson"
+    },
+    {
+      "title": "FINAL Shoreview Rezoning Map_WFL1",
+      "url": "https://services7.arcgis.com/oUlPzYVuBgISJqkB/arcgis/rest/services/FINAL_Shoreview_Rezoning_Map_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "final_shoreview_rezoning_map_wfl1.geojson"
+    },
+    {
+      "title": "Final Parcel",
+      "url": "https://services3.arcgis.com/ucZrfBbFZZHIzPBO/arcgis/rest/services/Final_Parcel/FeatureServer",
+      "features": 1,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "final_parcel.geojson"
+    },
+    {
+      "title": "County Owned Parcels",
+      "url": "https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/County_Owned_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "county_owned_parcels.geojson"
+    },
+    {
+      "title": "Victoria Land Use",
+      "url": "https://gis.co.carver.mn.us/arcgis_ca/rest/services/Victoria/Victoria_Planning_LandUse/FeatureServer",
+      "features": 48,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "victoria_land_use.geojson"
+    },
+    {
+      "title": "MnDNR Owned Parcels",
+      "url": "https://services7.arcgis.com/oUlPzYVuBgISJqkB/arcgis/rest/services/MnDNR_Owned_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mndnr_owned_parcels.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/lQjrBHFnTgKBR9zX/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "Olmsted County Parcels",
+      "url": "https://gweb01.co.olmsted.mn.us/arcgis/rest/services/AGOL_Open_Data/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "olmsted_county_parcels.geojson"
+    },
+    {
+      "title": "Economic Development Parcels",
+      "url": "https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Economic_Development_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "economic_development_parcels.geojson"
+    },
+    {
+      "title": "KoochichingCountyParcelDataPublish",
+      "url": "https://services3.arcgis.com/8mdusDCY0WncdJVw/arcgis/rest/services/KoochichingCountyParcelDataPublish/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "koochichingcountyparceldatapublish.geojson"
+    },
+    {
+      "title": "Government-Owned Lands, Derived from Opt-In Open Data Counties, Minnesota",
+      "url": "https://enterprise.gisdata.mn.gov/aghost/rest/services/us_mn_state_mngeo/plan_gov_own_open/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "government-owned_lands__derived_from_opt-in_open_data_counti.geojson"
+    },
+    {
+      "title": "Management Units - LRS",
+      "url": "https://utility.arcgis.com/usrsvcs/servers/12f8211fb507452198d4debb4da39dfc/rest/services/Hosted/Management_Units_LRS/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "management_units_-_lrs.geojson"
+    },
+    {
+      "title": "Parcels, Compiled from Opt-In Open Data Counties, Minnesota",
+      "url": "https://enterprise.gisdata.mn.gov/aghost/rest/services/us_mn_state_mngeo/plan_parcels_open/FeatureServer",
+      "features": 87,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels__compiled_from_opt-in_open_data_counties__minnesota.geojson"
+    },
+    {
+      "title": "P&Z Permit Review Map",
+      "url": "https://gis.co.sherburne.mn.us/arcgis5/rest/services/PZPermits/PZ_Permit_Review/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "p_z_permit_review_map.geojson"
+    },
+    {
+      "title": "Zone Districts",
+      "url": "https://services.arcgis.com/L3KwVADPEG6iD24f/arcgis/rest/services/Zone_Districts/FeatureServer",
+      "features": 20,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zone_districts.geojson"
+    }
+  ]
+}

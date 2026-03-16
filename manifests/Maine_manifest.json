@@ -1,0 +1,360 @@
+{
+  "state": "Maine",
+  "sources_attempted": 44,
+  "sources_successful": 39,
+  "total_features": 3622,
+  "pulled_at": "2026-03-16T01:28:53.644239",
+  "datasets": [
+    {
+      "title": "GIS_TaxParcel_MECK",
+      "url": "https://services.arcgis.com/O8ZpeBC0xLM5nL34/arcgis/rest/services/GIS_TaxParcel_MECK/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "gis_taxparcel_meck.geojson"
+    },
+    {
+      "title": "Wildlife Management Areas",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/MaineDIFW_WildlifeManagementAreas/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wildlife_management_areas.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "GIS_TaxParcel_MECKCOR",
+      "url": "https://services.arcgis.com/O8ZpeBC0xLM5nL34/arcgis/rest/services/MeckParcels_TammyTest20221101/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "gis_taxparcel_meckcor.geojson"
+    },
+    {
+      "title": "Conserved Lands",
+      "url": "https://services9.arcgis.com/6rdFM2yuFcLY3Shu/arcgis/rest/services/Conserved_Lands/FeatureServer",
+      "features": 35,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "conserved_lands.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - Bureau of Parks and Lands Interests",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_BPL_Interests/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_bureau_of_parks_and_lands_interests.geojson"
+    },
+    {
+      "title": "TaxMapIndex",
+      "url": "https://services1.arcgis.com/4nU7cbKqLfftauX2/arcgis/rest/services/TaxMapIndex/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "taxmapindex.geojson"
+    },
+    {
+      "title": "20200817_HD_Merge_Project",
+      "url": "https://services8.arcgis.com/LDmC4ZVHdfKcEzxl/arcgis/rest/services/20200817_HD_Merge_Project/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "20200817_hd_merge_project.geojson"
+    },
+    {
+      "title": "Parcels 2019",
+      "url": "https://services1.arcgis.com/4nU7cbKqLfftauX2/arcgis/rest/services/Parcels___2019/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_2019.geojson"
+    },
+    {
+      "title": "CaribouParcelMap2020April",
+      "url": "https://services6.arcgis.com/wckDyiH5YChe9aCy/arcgis/rest/services/CaribouParcelMap2020April/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "caribouparcelmap2020april.geojson"
+    },
+    {
+      "title": "srwd_merged_parcels",
+      "url": "https://services7.arcgis.com/VaVhoNbDVY43GLHs/arcgis/rest/services/srwd_merged_parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "srwd_merged_parcels.geojson"
+    },
+    {
+      "title": "Zoning",
+      "url": "https://services2.arcgis.com/WhX8lGSdDIPBmcvx/arcgis/rest/services/Zoning/FeatureServer",
+      "features": 3,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "zoning.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_All/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands.geojson"
+    },
+    {
+      "title": "Chebeague Marine Resources and Activities_WFL1",
+      "url": "https://services5.arcgis.com/pZNmFJfS0I9uWm1w/arcgis/rest/services/Chebeague_Marine_Resources_and_Activities_WFL1/FeatureServer",
+      "features": 1,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "chebeague_marine_resources_and_activities_wfl1.geojson"
+    },
+    {
+      "title": "Parcels_2017_Public",
+      "url": "https://services1.arcgis.com/4nU7cbKqLfftauX2/arcgis/rest/services/Parcels_2017_Public/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_2017_public.geojson"
+    },
+    {
+      "title": "Parcels with Assessing (Public)",
+      "url": "https://services1.arcgis.com/4nU7cbKqLfftauX2/arcgis/rest/services/ParcelsWithAssessing_Public/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcels_with_assessing__public_.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - Land for Maine's Future Funded Projects",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_LMF_Funded_Projects/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_land_for_maine_s_future_funded_proje.geojson"
+    },
+    {
+      "title": "GrayTaxParcels2022_Public",
+      "url": "https://services9.arcgis.com/6rdFM2yuFcLY3Shu/arcgis/rest/services/GrayTaxParcels2022_Public/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "graytaxparcels2022_public.geojson"
+    },
+    {
+      "title": "Washington Tax Parcels",
+      "url": "https://services8.arcgis.com/EvllkkFm8v8CygAm/arcgis/rest/services/Washington_Tax_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "washington_tax_parcels.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - Federal Lands",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_Editing_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_federal_lands.geojson"
+    },
+    {
+      "title": "Maine_Parcels_Merged",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Parcels_Merged/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_parcels_merged.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - Municipal",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_Municipal/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_municipal.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - State Other Lands",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_Editing_State_Other_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_state_other_lands.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - Private Conserved Lands",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_Private_Conserved_Lands/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_private_conserved_lands.geojson"
+    },
+    {
+      "title": "Assessment Parcels",
+      "url": "https://gis.countyofmerced.com/server/rest/services/Assessment_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "assessment_parcels.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - All Inland Fisheries and Wildlife Interests",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_IFW_Interests/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_all_inland_fisheries_and_wildlife_in.geojson"
+    },
+    {
+      "title": "FY23M177_Medway_gdb",
+      "url": "https://services7.arcgis.com/9CWCTZSK1qk6qor4/arcgis/rest/services/FY23M177_Medway_gdb/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fy23m177_medway_gdb.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - State Fee Lands",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_Fee/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_state_fee_lands.geojson"
+    },
+    {
+      "title": "FY23M177_Medway",
+      "url": "https://services7.arcgis.com/9CWCTZSK1qk6qor4/arcgis/rest/services/FY23M177_Medway/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "fy23m177_medway.geojson"
+    },
+    {
+      "title": "Parcels_2015",
+      "url": "https://services8.arcgis.com/x2uvdMYUAtxdkEd7/arcgis/rest/services/Parcels_2015/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_2015.geojson"
+    },
+    {
+      "title": "Parcels_Mead_NE",
+      "url": "https://services6.arcgis.com/gyy0H6zBnh9CbWoj/arcgis/rest/services/Parcels_Mead_NE/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_mead_ne.geojson"
+    },
+    {
+      "title": "Parcels_Public_2018",
+      "url": "https://services1.arcgis.com/4nU7cbKqLfftauX2/arcgis/rest/services/Parcels_2018_Public/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "parcels_public_2018.geojson"
+    },
+    {
+      "title": "WVU_Clery_Merged_FY23",
+      "url": "https://services9.arcgis.com/oBiZycLxRnTJhJER/arcgis/rest/services/WVU_Clery_Merged_FY23/FeatureServer",
+      "features": 83,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "wvu_clery_merged_fy23.geojson"
+    },
+    {
+      "title": "Maine Conserved Lands - State Easements",
+      "url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Maine_Conserved_Lands_State_Easements/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "maine_conserved_lands_-_state_easements.geojson"
+    },
+    {
+      "title": "LandUse v1_WFL1",
+      "url": "https://services.arcgis.com/vQ8kO5zdqETeirEL/arcgis/rest/services/LandUse_v1_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "landuse_v1_wfl1.geojson"
+    },
+    {
+      "title": "AllParcels_OwnerTypes_Metacomet",
+      "url": "https://services7.arcgis.com/nYjAANwm3YtNiTFR/arcgis/rest/services/AllParcels_OwnerTypes_Metacomet/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "allparcels_ownertypes_metacomet.geojson"
+    },
+    {
+      "title": "Parcels with Labels",
+      "url": "https://services1.arcgis.com/Hi6kEmQzn9cl2oYk/arcgis/rest/services/Parcels_with_Labels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels_with_labels.geojson"
+    },
+    {
+      "title": "Website_Parcel_Measures",
+      "url": "https://services1.arcgis.com/B4MnusZHL3vmqU3t/arcgis/rest/services/Website_Parcel_Measures/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "website_parcel_measures.geojson"
+    },
+    {
+      "title": "PADUS_TN_Riverline",
+      "url": "https://services.arcgis.com/UnTXoPXBYERF0OH6/arcgis/rest/services/PADUS_TN_Riverline/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "padus_tn_riverline.geojson"
+    }
+  ]
+}

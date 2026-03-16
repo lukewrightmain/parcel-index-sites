@@ -1,0 +1,189 @@
+{
+  "state": "Kansas",
+  "sources_attempted": 28,
+  "sources_successful": 20,
+  "total_features": 1810,
+  "pulled_at": "2026-03-16T01:27:27.689554",
+  "datasets": [
+    {
+      "title": "PLSS Section Township Range",
+      "url": "https://services1.arcgis.com/q2CglofYX6ACNEeu/arcgis/rest/services/Kansas_PLSS_View/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "plss_section_township_range.geojson"
+    },
+    {
+      "title": "PermitStatus2024-2025",
+      "url": "https://services3.arcgis.com/PRyeAMTgQS8gkd0F/arcgis/rest/services/PermitStatus2024view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "permitstatus2024-2025.geojson"
+    },
+    {
+      "title": "Permit_Status_2024",
+      "url": "https://services3.arcgis.com/PRyeAMTgQS8gkd0F/arcgis/rest/services/Permit_Status_2024/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "permit_status_2024.geojson"
+    },
+    {
+      "title": "OttawaKSCadastral",
+      "url": "https://services5.arcgis.com/dqsuVCxPy9LTxdOJ/arcgis/rest/services/OttawaKSCadastral/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "ottawakscadastral.geojson"
+    },
+    {
+      "title": "Land Use 2025",
+      "url": "https://services.arcgis.com/8O9UlSTnqjKptoda/arcgis/rest/services/Land_Use_2025/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "land_use_2025.geojson"
+    },
+    {
+      "title": "Kansas City Kansas Parcel",
+      "url": "https://services7.arcgis.com/OtMzzMoPwrfw4SoK/arcgis/rest/services/Kansas_City_Kansas_Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "kansas_city_kansas_parcel.geojson"
+    },
+    {
+      "title": "MO_KANSAS CITY",
+      "url": "https://services7.arcgis.com/OtMzzMoPwrfw4SoK/arcgis/rest/services/MO_KANSAS_CITY/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "mo_kansas_city.geojson"
+    },
+    {
+      "title": "SU_Parcels",
+      "url": "https://services6.arcgis.com/1T9VnnU2vFIMRmpS/arcgis/rest/services/SU_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "su_parcels.geojson"
+    },
+    {
+      "title": "Parcel",
+      "url": "https://services.arcgis.com/8O9UlSTnqjKptoda/arcgis/rest/services/Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcel.geojson"
+    },
+    {
+      "title": "ORKA_TopFive",
+      "url": "https://services1.arcgis.com/q2CglofYX6ACNEeu/arcgis/rest/services/ORKA_TopFive/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "orka_topfive.geojson"
+    },
+    {
+      "title": "Groundwork NRG Comprehensive Map_WFL1",
+      "url": "https://services5.arcgis.com/UajyYtygA0IdScKP/arcgis/rest/services/Groundwork_NRG_Comprehensive_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "groundwork_nrg_comprehensive_map_wfl1.geojson"
+    },
+    {
+      "title": "NM_Parcels",
+      "url": "https://services3.arcgis.com/6xqgnnfHDAKxg22k/arcgis/rest/services/NM_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "nm_parcels.geojson"
+    },
+    {
+      "title": "Zoning Parcels",
+      "url": "https://services7.arcgis.com/QfD34vvHtHcH5kGh/arcgis/rest/services/Zoning_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "zoning_parcels.geojson"
+    },
+    {
+      "title": "lots",
+      "url": "https://services5.arcgis.com/dyHW1hcbq5PZqr6w/arcgis/rest/services/lots/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "lots.geojson"
+    },
+    {
+      "title": "ORKA_TopFive_Lyr",
+      "url": "https://services1.arcgis.com/q2CglofYX6ACNEeu/arcgis/rest/services/ORKA_TopFive_Lyr/FeatureServer",
+      "features": 5,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "orka_topfive_lyr.geojson"
+    },
+    {
+      "title": "SHARE_SewardCountyHS_Parcels",
+      "url": "https://services1.arcgis.com/iggbmku3CtqV02ii/arcgis/rest/services/SHARE_SewardCountyHS_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "share_sewardcountyhs_parcels.geojson"
+    },
+    {
+      "title": "Lyon County Parcels",
+      "url": "https://services8.arcgis.com/dw5aksXsLRAhbdxH/arcgis/rest/services/Lyon_County_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "lyon_county_parcels.geojson"
+    },
+    {
+      "title": "Vacant_Public_Parcels_Jan2026",
+      "url": "https://services.arcgis.com/4o5uMWTHuOhUVJPd/arcgis/rest/services/Vacant_Public_Parcels_Jan2026/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "vacant_public_parcels_jan2026.geojson"
+    },
+    {
+      "title": "ORKA_Status_20180201",
+      "url": "https://services1.arcgis.com/q2CglofYX6ACNEeu/arcgis/rest/services/ORKA_Status_20180201/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "orka_status_20180201.geojson"
+    },
+    {
+      "title": "Vacant Parcels",
+      "url": "https://services5.arcgis.com/Ox3HYmIeiVBmWWrQ/arcgis/rest/services/Vacant_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "vacant_parcels.geojson"
+    }
+  ]
+}

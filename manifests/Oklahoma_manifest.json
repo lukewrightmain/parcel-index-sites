@@ -1,0 +1,135 @@
+{
+  "state": "Oklahoma",
+  "sources_attempted": 15,
+  "sources_successful": 14,
+  "total_features": 1165,
+  "pulled_at": "2026-03-16T01:35:33.192395",
+  "datasets": [
+    {
+      "title": "Tax Parcels Public",
+      "url": "https://services8.arcgis.com/euhkr1dAJeQBIjV0/arcgis/rest/services/TaxParcelsPublics_view/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "tax_parcels_public.geojson"
+    },
+    {
+      "title": "Surplus_Property_Public_Current",
+      "url": "https://services6.arcgis.com/RBtoEUQ2lmN0K3GY/arcgis/rest/services/Surplus_Property_Public_Current/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "surplus_property_public_current.geojson"
+    },
+    {
+      "title": "University Of Oklahoma Property",
+      "url": "https://services.arcgis.com/rt1leD4Hj3sLGHNL/arcgis/rest/services/University_Of_Oklahoma_Property/FeatureServer",
+      "features": 22,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "university_of_oklahoma_property.geojson"
+    },
+    {
+      "title": "Surplus_Property_Public",
+      "url": "https://services6.arcgis.com/RBtoEUQ2lmN0K3GY/arcgis/rest/services/Surplus_Property_Public/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "surplus_property_public.geojson"
+    },
+    {
+      "title": "ParcelBoundary_RiverParksAuth",
+      "url": "https://services3.arcgis.com/yrIZ0Nv0mSGTWJsH/arcgis/rest/services/ParcelBoundary_RiverParksAuth/FeatureServer",
+      "features": 15,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": true,
+      "file": "parcelboundary_riverparksauth.geojson"
+    },
+    {
+      "title": "Parcel",
+      "url": "https://services7.arcgis.com/2uPhy8KfHlaAyk3B/arcgis/rest/services/Parcel/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "parcel.geojson"
+    },
+    {
+      "title": "Parcels",
+      "url": "https://services1.arcgis.com/VJvqwZ3JnU52C9ua/arcgis/rest/services/Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcels.geojson"
+    },
+    {
+      "title": "EnerGov",
+      "url": "https://services5.arcgis.com/qgZd4KwlPiONUbpc/arcgis/rest/services/EnerGov/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "energov.geojson"
+    },
+    {
+      "title": "ParcelsWashington(OK)",
+      "url": "https://services7.arcgis.com/rxjYSJmWllCcGWDd/arcgis/rest/services/ParcelsWashington(OK)/FeatureServer",
+      "features": 100,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelswashington_ok_.geojson"
+    },
+    {
+      "title": "ParcelsCreek(OK)",
+      "url": "https://services7.arcgis.com/rxjYSJmWllCcGWDd/arcgis/rest/services/ParcelsCreek(OK)/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "parcelscreek_ok_.geojson"
+    },
+    {
+      "title": "Public Land Survey System Data (Public)",
+      "url": "https://services2.arcgis.com/0NjdXxmJp53hZWPd/arcgis/rest/services/Public_Land_Survey_System_Data_(Public)/FeatureServer",
+      "features": 28,
+      "has_owner": true,
+      "has_address": false,
+      "has_acreage": false,
+      "file": "public_land_survey_system_data__public_.geojson"
+    },
+    {
+      "title": "OKC Owned Parcels",
+      "url": "https://services5.arcgis.com/2mOVdIcRtNH2JsSF/arcgis/rest/services/OKC_Owned_Parcels/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "okc_owned_parcels.geojson"
+    },
+    {
+      "title": "OCRRA Lands",
+      "url": "https://services5.arcgis.com/2mOVdIcRtNH2JsSF/arcgis/rest/services/OCRRA_Lands_Map_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": true,
+      "file": "ocrra_lands.geojson"
+    },
+    {
+      "title": "Lost Lakes Land Sale_WFL1",
+      "url": "https://services5.arcgis.com/2mOVdIcRtNH2JsSF/arcgis/rest/services/Lost_Lakes_Land_Sale_WFL1/FeatureServer",
+      "features": 100,
+      "has_owner": false,
+      "has_address": true,
+      "has_acreage": false,
+      "file": "lost_lakes_land_sale_wfl1.geojson"
+    }
+  ]
+}
